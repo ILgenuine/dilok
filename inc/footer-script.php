@@ -15,7 +15,7 @@
           $('#sidebar').addClass('active');
           $('body').addClass('push');
           $('nav').addClass('push-nav');
-          // fade in the overlay
+          $('footer').addClass('push-nav');
           $('.overlay').fadeIn();
           $('.collapse.in').toggleClass('in');
           $('a[aria-expanded=true]').attr('aria-expanded', 'false');
@@ -46,6 +46,7 @@
           $('#nav-sidebar').addClass('active');
           $('body').addClass('push-right');
           $('nav').addClass('push-nav-right');
+          $('footer').addClass('push-nav-right');
           // fade in the overlay
           $('.overlay').fadeIn();
           $('.collapse.in').toggleClass('in');
@@ -85,8 +86,10 @@
         $('#sidebar').removeClass('active');
         $('body').removeClass('push');
         $('nav').removeClass('push-nav');
+        $('footer').removeClass('push-nav');
         $('body').removeClass('push-right');
         $('nav').removeClass('push-nav-right');
+        $('footer').removeClass('push-nav-right');
         // fade out the overlay
         $('.overlay').fadeOut();
       });
@@ -330,7 +333,12 @@
         $('.header-slide').owlCarousel({
             loop:true,
             items:1,
+            dot:true,
+            autoplay:true,
         });
+
+        $('.header-slide').find('.owl-dots').removeClass('disabled');
+
 
         $('.loading').addClass('opa0');
 
