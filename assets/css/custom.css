@@ -206,11 +206,26 @@ $Structure
   }
 
   .latest-product-pic{
+    opacity:1;
+    transition:all 0.5s;
     position:absolute;
     top:50%;
     left:50%;
     transform: translate(-50%, -50%);
   }
+
+  .second-latest-product{
+    opacity:0;
+  }
+
+  .latest-product-frame:hover .latest-product-pic{
+    opacity:0;
+  }
+
+  .latest-product-frame:hover .second-latest-product{
+    opacity:1;
+  }
+
 
 
   /* heart checkbox */
@@ -350,14 +365,14 @@ $Structure
     cursor: pointer;
   }
 
-  .latest-product-btn .add-to-cart{
+  .add-to-cart{
     background-color: white;
     border:2px solid black;
     border-radius: 0px;
     color:black;
   }
 
-  .latest-product-btn .fast-buy{
+  .fast-buy{
     background-color: black;
     outline:2px solid white;
     border:2px solid black;
@@ -1241,6 +1256,22 @@ $Index
     height:70vh;
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    position:relative;
+  }
+
+  .header-slide .item .header-row{
+    position:absolute;
+    top:30%;
+    left:5%;
+  }
+
+  .header-slide .item .header-row h1{
+    font-size: 7vh;
+    font-family:kanitlight!important;
+  }
+
+  .header-slide .item .header-row h5{
+    font-family:kanitlight!important;
   }
 
   .slide-brand{
@@ -1249,11 +1280,20 @@ $Index
     width:400px !important;
   }
 
+  .header-slide-btn{
+    width:15%;
+  }
+
+  .header-row hr{
+    border-bottom: 1px solid black;
+    width:50%;
+    margin-bottom: 30px;
+    float:left;
+  }
+
 /*------------------------------------*
 $END Index
 *------------------------------------*/
-
-
 
 
 

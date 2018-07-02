@@ -30,24 +30,99 @@
 
                 <div class="header-slide owl-carousel owl-theme">
                   <div class="item" style="background-image: url(assets/images/index/slide/bg.png);">
-                    <div class="row">
+                    <div class="row header-row">
                       <div class="col-12">
-                        <span>Best of MEN's SNEAKERS</span><br>
-                        <span>ลดราคารองเท้า 50 - 70% ไม่ว่าจะเป็นรองเท้าผ้าใบ รองเท้าเดือนทาง รองเท้าวิ่ง</span>
+                        <h1>Best of MEN's SNEAKERS</h1>
+                        <h5>ลดราคารองเท้า 50 - 70% ไม่ว่าจะเป็นรองเท้าผ้าใบ รองเท้าเดือนทาง รองเท้าวิ่ง</h5>
                       </div>
                       <div class="col-12">
-
+                        <hr></hr>
+                        <div class="header-slide-btn">
+                          <button type="button" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2">
+                              <span>รายละเอียด</span>
+                              <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
+                            </label>
+                          </button>
+                        </div>
                       </div>
                     </div>
                   </div>
                   <div class="item" style="background-image: url(assets/images/index/slide/bg.png);">
-                    <h4>2</h4>
+                    <div class="row header-row">
+                      <div class="col-12">
+                        <h1>Best of MEN's SNEAKERS</h1>
+                        <h5>ลดราคารองเท้า 50 - 70% ไม่ว่าจะเป็นรองเท้าผ้าใบ รองเท้าเดือนทาง รองเท้าวิ่ง</h5>
+                      </div>
+                      <div class="col-12">
+                        <hr></hr>
+                        <div class="header-slide-btn">
+                          <button type="button" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2">
+                              <span>รายละเอียด</span>
+                              <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
+                            </label>
+                          </button>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                   <div class="item" style="background-image: url(assets/images/index/slide/bg.png);">
-                    <h4>3</h4>
+                    <div class="row header-row">
+                      <div class="col-12">
+                        <h1>Best of MEN's SNEAKERS</h1>
+                        <h5>ลดราคารองเท้า 50 - 70% ไม่ว่าจะเป็นรองเท้าผ้าใบ รองเท้าเดือนทาง รองเท้าวิ่ง</h5>
+                      </div>
+                      <div class="col-12">
+                        <hr></hr>
+                        <div class="header-slide-btn">
+                          <button type="button" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2">
+                              <span>รายละเอียด</span>
+                              <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
+                            </label>
+                          </button>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                   <div class="item" style="background-image: url(assets/images/index/slide/bg.png);">
-                    <h4>4</h4>
+                    <div class="row header-row">
+                      <div class="col-12">
+                        <h1>Best of MEN's SNEAKERS</h1>
+                        <h5>ลดราคารองเท้า 50 - 70% ไม่ว่าจะเป็นรองเท้าผ้าใบ รองเท้าเดือนทาง รองเท้าวิ่ง</h5>
+                      </div>
+                      <div class="col-12">
+                        <hr></hr>
+                        <div class="header-slide-btn">
+                          <button type="button" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2">
+                              <span>รายละเอียด</span>
+                              <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
+                            </label>
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item" style="background-image: url(assets/images/index/slide/bg.png);">
+                    <div class="row header-row">
+                      <div class="col-12">
+                        <h1>Best of MEN's SNEAKERS</h1>
+                        <h5>ลดราคารองเท้า 50 - 70% ไม่ว่าจะเป็นรองเท้าผ้าใบ รองเท้าเดือนทาง รองเท้าวิ่ง</h5>
+                      </div>
+                      <div class="col-12">
+                        <hr></hr>
+                        <div class="header-slide-btn">
+                          <button type="button" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2">
+                              <span>รายละเอียด</span>
+                              <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
+                            </label>
+                          </button>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
 
