@@ -16,6 +16,7 @@
           $('body').addClass('push');
           $('nav').addClass('push-nav');
           $('footer').addClass('push-nav');
+          $('.custom-container').addClass('push-nav');
           $('.overlay').fadeIn();
           $('.collapse.in').toggleClass('in');
           $('a[aria-expanded=true]').attr('aria-expanded', 'false');
@@ -47,31 +48,27 @@
           $('body').addClass('push-right');
           $('nav').addClass('push-nav-right');
           $('footer').addClass('push-nav-right');
+          $('.custom-container').addClass('push-nav-right');
           // fade in the overlay
           $('.overlay').fadeIn();
           $('.collapse.in').toggleClass('in');
           $('a[aria-expanded=true]').attr('aria-expanded', 'false');
-
-          $('.cart-product-name').each( function (){
-            var name = this;
-            var text = $(name).text();
-            text = text.trim();
-            if(text.length > 25){
-              text = text.substr(0,25) + '....';
-            }
-            $(this).closest('div.cart-product-name').find('span').text(text);
-          });
-
-          $('.cart-product-size').each( function (){
-            var name = this;
-            var text = $(name).text();
-            text = text.trim();
-            if(text.length > 20){
-              text = text.substr(0,20) + '....';
-            }
-            $(this).closest('div.cart-product-size').find('span').text(text);
-          });
       });
+
+
+      $('.filter-sidebar-btn').on('click', function () {
+          // open sidebar
+          $('#filter-sidebar').addClass('active');
+          // $('body').addClass('push-filter-right');
+          // $('nav').addClass('push-filter-nav-right');
+          // $('footer').addClass('push-filter-nav-right');
+          // $('.custom-container').addClass('push-filter-nav-right');
+          $('.overlay').fadeIn();
+          $('.collapse.in').toggleClass('in');
+          $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+      });
+
+
 
       $('.close-sidebar').on('click', function () {
         document.getElementById("mobile-sidebar").style.opacity = "0";
@@ -83,13 +80,20 @@
       $('.overlay , .language-picker').on('click', function () {
         // hide the sidebar
         $('#nav-sidebar').removeClass('active');
+        $('#filter-sidebar').removeClass('active');
         $('#sidebar').removeClass('active');
         $('body').removeClass('push');
         $('nav').removeClass('push-nav');
         $('footer').removeClass('push-nav');
+        $('.custom-container').removeClass('push-nav');
         $('body').removeClass('push-right');
         $('nav').removeClass('push-nav-right');
         $('footer').removeClass('push-nav-right');
+        $('.custom-container').removeClass('push-nav-right');
+        $('body').removeClass('push-filter-right');
+        $('nav').removeClass('push-filter-nav-right');
+        $('footer').removeClass('push-filter-nav-right');
+        $('.custom-container').removeClass('push-filter-nav-right');
         // fade out the overlay
         $('.overlay').fadeOut();
       });

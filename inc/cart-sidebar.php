@@ -232,7 +232,7 @@
     </div>
     <!-- END Sidebar Header -->
     <div class='sidebar-bottom'>
-      <div class="row pt-4 px-5">
+      <div class="row pt-4 px-5 mx-0">
         <div class="col-12 text-center">
             <div class="subtotal">
               <span class="pull-left">Subtotal:</span><span class="pull-right"> THB</span><span class="pull-right">952</span>
