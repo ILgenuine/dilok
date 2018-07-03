@@ -419,8 +419,6 @@ $END Structure
 *------------------------------------*/
 
 
-
-
 /*------------------------------------*
 $Navbar
 *------------------------------------*/
@@ -1217,6 +1215,54 @@ input[type=number]::-webkit-outer-spin-button {
 $End Sidebar
 *------------------------------------*/
 
+
+/*------------------------------------*
+$Filter
+*------------------------------------*/
+
+#filter-sidebar {
+    background: black;
+    color: black;
+    transition: all 0.3s;
+    min-width: 30vw;
+    max-width: 30vw;
+    min-height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* top layer */
+    z-index: 9999;
+    margin-left: -30vw;
+    -moz-box-shadow:     inset -3px 11px 25px #0c0c0c2e
+    -webkit-box-shadow:  inset -3px 11px 25px #0c0c0c2e
+    box-shadow:          inset -3px 11px 25px #0c0c0c2e
+}
+
+#filter-sidebar.active {
+    margin-left: 0vw;
+}
+
+#filter-sidebar .sidebar-head {
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.push-filter-right{
+  margin-right: 30vw;
+}
+
+.push-filter-nav-right{
+  margin-right: -30vw;
+}
+
+/*------------------------------------*
+$End filter
+*------------------------------------*/
+
+
+
+
+
 /*------------------------------------*
 $Footer
 *------------------------------------*/
@@ -1251,12 +1297,19 @@ $Index
     height:70vh;
   }
 
-
   .header-slide .item{
     height:70vh;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
     position:relative;
+    overflow:hidden;
+  }
+
+  .header-slide .item .slide-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width:auto;
+    height:100%;
   }
 
   .header-slide .item .header-row{
@@ -1289,6 +1342,42 @@ $Index
     width:50%;
     margin-bottom: 30px;
     float:left;
+  }
+
+  .product-series-frame{
+    position:relative;
+    overflow:hidden;
+    width:100%;
+  }
+
+  .product-series-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+  .product-series-col .header-row h1{
+    font-size: 7vh;
+    font-family: kanitlight!important;
+  }
+
+  .product-series-col .header-row h5{
+    font-family: kanitlight!important;
+  }
+
+  .slide-brand-img{
+    position:relative;
+    overflow:hidden;
+    width:100%;
+  }
+
+  .slide-brand-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
   }
 
 /*------------------------------------*
@@ -1870,6 +1959,50 @@ $END Index
   $End Footer
   *------------------------------------*/
 
+
+  /*------------------------------------*
+  $INDEX
+  *------------------------------------*/
+
+  .header-slide{
+    height:45vh;
+  }
+
+  .header-slide .item{
+    height:45vh;
+    position:relative;
+    overflow:hidden;
+  }
+
+  .header-slide-btn {
+    width: 20%;
+  }
+
+  .header-slide .item .slide-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width:auto;
+    height:100%;
+  }
+
+  .header-slide .item .header-row h1 {
+      font-size: 3vh;
+  }
+
+  .product-series-col .header-row h1 {
+    font-size: 2.5vh;
+  }
+
+  .product-series-col .header-slide-btn {
+    width: 45%;
+  }
+
+  /*------------------------------------*
+  $END INDEX
+  *------------------------------------*/
+
 }
 
 
@@ -1963,6 +2096,45 @@ $END Index
   }
 
 
+  /*------------------------------------*
+  $INDEX
+  *------------------------------------*/
+
+  .header-slide{
+    height:60vh;
+  }
+
+  .header-slide .item{
+    height:60vh;
+    position:relative;
+    overflow:hidden;
+  }
+
+  .header-slide .item .slide-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width:auto;
+    height:100%;
+  }
+
+  .header-slide .item .header-row h1 {
+      font-size: 5vh;
+  }
+
+  .product-series-col .header-row h1 {
+    font-size: 5vh;
+  }
+
+
+
+  /*------------------------------------*
+  $END INDEX
+  *------------------------------------*/
+
+
+
 }
 
 
@@ -1973,7 +2145,7 @@ $END Index
   }
 
   /*------------------------------------*
-  $Sidebar
+  $Sidebar 768
   *------------------------------------*/
 
   #sidebar {
@@ -2054,11 +2226,11 @@ $END Index
   }
 
   /*------------------------------------*
-  $End Sidebar
+  $End Sidebar 768
   *------------------------------------*/
 
   /*------------------------------------*
-  $Footer
+  $Footer 768
   *------------------------------------*/
 
   .footer {
@@ -2070,7 +2242,84 @@ $END Index
   }
 
   /*------------------------------------*
-  $End Footer
+  $End Footer 768
+  *------------------------------------*/
+
+
+  /*------------------------------------*
+  $INDEX 768
+  *------------------------------------*/
+
+  .header-slide{
+    height:60vh;
+  }
+
+  .header-slide .item{
+    height:60vh;
+    position:relative;
+    overflow:hidden;
+  }
+
+  .header-slide .item .slide-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width:auto;
+    height:100%;
+  }
+
+  .header-slide .item .header-row h1 {
+      font-size: 4vh;
+  }
+
+  /*------------------------------------*
+  $END INDEX 768
+  *------------------------------------*/
+
+
+
+  /*------------------------------------*
+  $Filter
+  *------------------------------------*/
+
+  #filter-sidebar {
+      background: black;
+      color: black;
+      transition: all 0.3s;
+      min-width: 50vw;
+      max-width: 50vw;
+      min-height: 100vh;
+      position: fixed;
+      top: 0;
+      left: 0;
+      /* top layer */
+      z-index: 9999;
+      margin-left: -50vw;
+      -moz-box-shadow:     inset -3px 11px 25px #0c0c0c2e
+      -webkit-box-shadow:  inset -3px 11px 25px #0c0c0c2e
+      box-shadow:          inset -3px 11px 25px #0c0c0c2e
+  }
+
+  #filter-sidebar.active {
+      margin-left: 0vw;
+  }
+
+  #filter-sidebar .sidebar-head {
+      height: 100vh;
+      overflow-y: auto;
+  }
+
+  .push-filter-right{
+    margin-right: 50vw;
+  }
+
+  .push-filter-nav-right{
+    margin-right: -50vw;
+  }
+
+  /*------------------------------------*
+  $End filter
   *------------------------------------*/
 
 
@@ -2078,8 +2327,28 @@ $END Index
 
 @media (max-width: 414px){
 
+
   /*------------------------------------*
-  $Sidebar
+  $Index 414
+  *------------------------------------*/
+  .slide-img{
+    display:none !important;
+  }
+
+  .header-slide-btn {
+    width: 40%;
+  }
+
+  .product-series-col .header-row h1 {
+    font-size: 4vh;
+  }
+
+  /*------------------------------------*
+  $END Index 414
+  *------------------------------------*/
+
+  /*------------------------------------*
+  $Sidebar 414
   *------------------------------------*/
 
   #sidebar{
@@ -2212,38 +2481,80 @@ $END Index
   }
 
   /*------------------------------------*
-  $End Sidebar
+  $End Sidebar 414
   *------------------------------------*/
-
-
 
 
   /*------------------------------------*
-  $Structure
+  $Structure 414
   *------------------------------------*/
 
     .latest-prev{
-      left:-10%;
+      left:-8%;
       font-size: 10px !important;
     }
 
     .latest-prev:active{
-      left:-10%;
+      left:-8%;
       font-size: 10px !important;
     }
 
     .latest-next{
-      right:-10%;
+      right:-8%;
       font-size: 10px !important;
     }
 
     .latest-next:active{
-      right:-10%;
+      right:-8%;
       font-size: 10px !important;
     }
 
   /*------------------------------------*
-  $End Structure
+  $End Structure 414
+  *------------------------------------*/
+
+
+  /*------------------------------------*
+  $Filter 414
+  *------------------------------------*/
+
+  #filter-sidebar {
+      background: black;
+      color: black;
+      transition: all 0.3s;
+      min-width: 80vw;
+      max-width: 80vw;
+      min-height: 100vh;
+      position: fixed;
+      top: 0;
+      left: 0;
+      /* top layer */
+      z-index: 9999;
+      margin-left: -80vw;
+      -moz-box-shadow:     inset -3px 11px 25px #0c0c0c2e
+      -webkit-box-shadow:  inset -3px 11px 25px #0c0c0c2e
+      box-shadow:          inset -3px 11px 25px #0c0c0c2e
+  }
+
+  #filter-sidebar.active {
+      margin-left: 0vw;
+  }
+
+  #filter-sidebar .sidebar-head {
+      height: 100vh;
+      overflow-y: auto;
+  }
+
+  .push-filter-right{
+    margin-right: 80vw;
+  }
+
+  .push-filter-nav-right{
+    margin-right: -80vw;
+  }
+
+  /*------------------------------------*
+  $End filter 414
   *------------------------------------*/
 
 
@@ -2258,7 +2569,7 @@ $END Index
 
 
   /*------------------------------------*
-  $Sidebar
+  $Sidebar 320
   *------------------------------------*/
 
   #sidebar .sidebar-head {
@@ -2316,7 +2627,21 @@ $END Index
 
 
   /*------------------------------------*
-  $End Sidebar
+  $End Sidebar 320
+  *------------------------------------*/
+
+
+  /*------------------------------------*
+  $Index 320
+  *------------------------------------*/
+
+  .header-slide-btn {
+    width: 50%;
+  }
+
+
+  /*------------------------------------*
+  $END Index 320
   *------------------------------------*/
 
 

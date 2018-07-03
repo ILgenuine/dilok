@@ -11,7 +11,7 @@
                 <span class="red tooltips d-xl-none d-block"><i class="fas fa-question-circle"></i><span class="tooltiptext"> สินค้าที่ร่วมรายการ</span></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="second-latest-product" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
                 </div>
                 <div class="card-body p-0">
                   <div class="row px-0 mx-0">
@@ -67,7 +67,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -125,7 +125,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -185,7 +185,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -245,7 +245,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -306,7 +306,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -363,7 +363,7 @@
                 <span class="red tooltips d-xl-none d-block"><i class="fas fa-question-circle"></i><span class="tooltiptext"> สินค้าที่ร่วมรายการ</span></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
                 <div class="card-body p-0">
                   <div class="row px-0 mx-0">
@@ -419,7 +419,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -477,7 +477,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -537,7 +537,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -597,7 +597,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -658,7 +658,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -715,7 +715,7 @@
                 <span class="red tooltips d-xl-none d-block"><i class="fas fa-question-circle"></i><span class="tooltiptext"> สินค้าที่ร่วมรายการ</span></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
                 <div class="card-body p-0">
                   <div class="row px-0 mx-0">
@@ -771,7 +771,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -829,7 +829,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -889,7 +889,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -949,7 +949,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
@@ -1010,7 +1010,7 @@
               <span><br></span>
                 <div class="latest-product-frame">
                   <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
-                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                  <a href="productdetails.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                 </div>
               <div class="card-body p-0">
                 <div class="row px-0 mx-0">
