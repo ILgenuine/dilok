@@ -2295,10 +2295,10 @@ $END Index
     height:60vh;
   }
 
-  .header-slide .item{
-    height:60vh;
-    position:relative;
-    overflow:hidden;
+  .header-slide .item {
+    height: 55vh;
+    position: relative;
+    overflow: hidden;
   }
 
   .header-slide .item .slide-img{

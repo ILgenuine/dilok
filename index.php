@@ -26,7 +26,7 @@
         <div class="container-fluid custom-container">
 
 
-          <section class="slide-section mt-2 mb-lg-5 mb-md-5 mb-2">
+          <section class="slide-section mt-2 mb-lg-5 mb-md-5 mb-4">
 
                 <div class="header-slide owl-carousel owl-theme">
                   <div class="item">
@@ -113,11 +113,11 @@
 
           </section>
 
-          <section class="latest-product mb-lg-5 mb-md-5 mb-2">
+          <section class="latest-product mb-lg-5 mb-md-5 mb-4">
             <?php include_once('inc/latest-product.php'); ?>
           </section>
 
-          <section class="product-series mb-lg-5 mb-md-5 mb-2">
+          <section class="product-series mb-lg-5 mb-md-5 mb-4">
             <div class="row">
                 <div class="col-xl-6 col-lg-8 col-md-6 col-12 product-series-col">
                     <div class="product-series-frame">
@@ -144,7 +144,7 @@
             </div>
           </section>
 
-          <section class="brand-hightlight mb-lg-5 mb-md-5 mb-2">
+          <section class="brand-hightlight mb-lg-5 mb-md-5 mb-4">
             <div class="row mx-0 mb-3">
               <div class="col-12 px-lg-3 pl-0 pr-0 mb-md-3">
                 <h3 class="mb-1 mt-2 pull-left">BRAND HIGHLIGHT</h3>
@@ -180,7 +180,7 @@
             </div>
           </section>
 
-          <section class="upcoming-launches mb-lg-5 mb-md-5 mb-2">
+          <section class="upcoming-launches mb-lg-5 mb-md-5 mb-4">
             <div class="row mx-0">
               <div class="col-12 px-lg-3 px-0 mb-md-3">
                 <h3 class="mb-1 pull-left">UPCOMING LAUNCES</h3>
@@ -293,7 +293,7 @@
             </div>
           </section>
 
-          <section class="blog-launches mb-lg-5 mb-md-5 mb-2">
+          <section class="blog-launches mb-lg-5 mb-md-5 mb-4">
             <div class="row mx-0">
               <div class="col-12 px-lg-3 px-0 mb-md-3">
                 <h3 class="mb-1 mt-2 pull-left">BLOG</h3>
@@ -392,9 +392,11 @@ $('.brand-slide').owlCarousel({
     responsive : {
         0 : {
           items : 1,
+          dot:false,
         },
         414 : {
           items : 1,
+          dot:false,
         },
         768 : {
           items : 3,
@@ -412,7 +414,14 @@ $('.brand-slide').owlCarousel({
 });
 $('.brand-slide').find('.owl-nav').removeClass('disabled');
 $('.brand-slide').find('.owl-next').removeClass('disabled');
-$('.brand-slide').find('.owl-dots').removeClass('disabled');
+
+if(window.matchMedia("(max-width: 414px)").matches){
+}
+else{
+  $('.brand-slide').find('.owl-dots').removeClass('disabled');
+
+}
+
 $('.brand-slide').find('.owl-next').addClass('latest-next arrow-fadein');
 $('.brand-slide').find('.owl-next').append("<i class='fas fa-angle-right fa-5x'></i>");
 $('.brand-slide').find('.owl-prev').removeClass('disabled');

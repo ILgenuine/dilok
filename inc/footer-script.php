@@ -320,9 +320,11 @@
             responsive : {
                 0 : {
                   items : 1,
+                  dot:false,
                 },
                 414 : {
                   items : 1,
+                  dot:false,
                 },
                 768 : {
                   items : 2,
@@ -341,7 +343,13 @@
         });
         $('.latest-slide').find('.owl-nav').removeClass('disabled');
         $('.latest-slide').find('.owl-next').removeClass('disabled');
-        $('.latest-slide').find('.owl-dots').removeClass('disabled');
+
+        if(window.matchMedia("(max-width: 414px)").matches){
+        }
+        else{
+          $('.latest-slide').find('.owl-dots').removeClass('disabled');
+        }
+
         $('.latest-slide').find('.owl-next').addClass('latest-next arrow-fadein');
         $('.latest-slide').find('.owl-next').append("<i class='fas fa-angle-right fa-5x'></i>");
         $('.latest-slide').find('.owl-prev').removeClass('disabled');
