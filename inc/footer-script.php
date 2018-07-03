@@ -4,6 +4,8 @@
     <script type="text/javascript" src="node_modules/popper.js/dist/umd/popper.min.js"></script>
     <script type="text/javascript" src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="assets/vendor/owlcarousel/js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.rawgit.com/jackmoore/zoom/master/jquery.zoom.min.js"></script>
 
     <script type="text/javascript">
 
@@ -330,14 +332,14 @@
         });
 
 
-        $('.header-slide').owlCarousel({
-            loop:true,
-            items:1,
-            dot:true,
-            autoplay:true,
-        });
+        // $('.header-slide').owlCarousel({
+        //     loop:true,
+        //     items:1,
+        //     dot:true,
+        //     autoplay:true,
+        // });
 
-        $('.header-slide').find('.owl-dots').removeClass('disabled');
+        // $('.header-slide').find('.owl-dots').removeClass('disabled');
 
 
         $('.loading').addClass('opa0');

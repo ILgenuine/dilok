@@ -20,6 +20,7 @@
     <link rel="stylesheet" type="text/css" href="node_modules/fontawesome5/css/all.css">
 
 
+
     <!-- CUSTOM CSS -->
     <link rel="stylesheet" type="text/css" href="assets/css/custom.css">
     <link rel="stylesheet" type="text/css" href="assets/css/gia.css">
@@ -31,3 +32,6 @@
     <!-- CUSTOM CSS -->
     <link rel="stylesheet" type="text/css" href="assets/vendor/owlcarousel/css/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="assets/vendor/owlcarousel/css/owl.theme.default.min.css">
+    <!-- zoom- -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.0/aos.css">
+   
