@@ -1344,6 +1344,42 @@ $Index
     float:left;
   }
 
+  .product-series-frame{
+    position:relative;
+    overflow:hidden;
+    width:100%;
+  }
+
+  .product-series-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+  .product-series-col .header-row h1{
+    font-size: 7vh;
+    font-family: kanitlight!important;
+  }
+
+  .product-series-col .header-row h5{
+    font-family: kanitlight!important;
+  }
+
+  .slide-brand-img{
+    position:relative;
+    overflow:hidden;
+    width:100%;
+  }
+
+  .slide-brand-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+
 /*------------------------------------*
 $END Index
 *------------------------------------*/
@@ -1938,6 +1974,10 @@ $END Index
     overflow:hidden;
   }
 
+  .header-slide-btn {
+    width: 20%;
+  }
+
   .header-slide .item .slide-img{
     position:absolute;
     top:50%;
@@ -1949,6 +1989,14 @@ $END Index
 
   .header-slide .item .header-row h1 {
       font-size: 3vh;
+  }
+
+  .product-series-col .header-row h1 {
+    font-size: 2.5vh;
+  }
+
+  .product-series-col .header-slide-btn {
+    width: 45%;
   }
 
   /*------------------------------------*
@@ -2048,8 +2096,6 @@ $END Index
   }
 
 
-
-
   /*------------------------------------*
   $INDEX
   *------------------------------------*/
@@ -2076,6 +2122,12 @@ $END Index
   .header-slide .item .header-row h1 {
       font-size: 5vh;
   }
+
+  .product-series-col .header-row h1 {
+    font-size: 5vh;
+  }
+
+
 
   /*------------------------------------*
   $END INDEX
@@ -2275,8 +2327,28 @@ $END Index
 
 @media (max-width: 414px){
 
+
   /*------------------------------------*
-  $Sidebar
+  $Index 414
+  *------------------------------------*/
+  .slide-img{
+    display:none !important;
+  }
+
+  .header-slide-btn {
+    width: 40%;
+  }
+
+  .product-series-col .header-row h1 {
+    font-size: 4vh;
+  }
+
+  /*------------------------------------*
+  $END Index 414
+  *------------------------------------*/
+
+  /*------------------------------------*
+  $Sidebar 414
   *------------------------------------*/
 
   #sidebar{
@@ -2409,12 +2481,12 @@ $END Index
   }
 
   /*------------------------------------*
-  $End Sidebar
+  $End Sidebar 414
   *------------------------------------*/
 
 
   /*------------------------------------*
-  $Structure
+  $Structure 414
   *------------------------------------*/
 
     .latest-prev{
@@ -2497,7 +2569,7 @@ $END Index
 
 
   /*------------------------------------*
-  $Sidebar
+  $Sidebar 320
   *------------------------------------*/
 
   #sidebar .sidebar-head {
@@ -2555,7 +2627,21 @@ $END Index
 
 
   /*------------------------------------*
-  $End Sidebar
+  $End Sidebar 320
+  *------------------------------------*/
+
+
+  /*------------------------------------*
+  $Index 320
+  *------------------------------------*/
+
+  .header-slide-btn {
+    width: 50%;
+  }
+
+
+  /*------------------------------------*
+  $END Index 320
   *------------------------------------*/
 
 
