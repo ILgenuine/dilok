@@ -1380,6 +1380,43 @@ $Index
     transform: translate(-50%, -50%);
   }
 
+  .launches-index-frame{
+    height:300px !important;
+  }
+
+  .upcoming-launches .latest-product-btn button {
+    height: 40px !important;
+  }
+
+  .blog-launches .latest-product-btn button {
+    height: 40px !important;
+  }
+
+
+  .res-414-up{
+    display:block;
+  }
+
+  .res-414-down{
+    display:none;
+  }
+
+  .blog-img-frame{
+    position:relative;
+    overflow:hidden;
+    width:100%;
+  }
+
+  .blog-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .blog-excerpt{
+    overflow: hidden;
+  }
 /*------------------------------------*
 $END Index
 *------------------------------------*/
@@ -1999,6 +2036,10 @@ $END Index
     width: 45%;
   }
 
+  .launches-index-frame{
+    height:195px !important;
+  }
+
   /*------------------------------------*
   $END INDEX
   *------------------------------------*/
@@ -2273,6 +2314,10 @@ $END Index
       font-size: 4vh;
   }
 
+  .launches-index-frame{
+    height:350px !important;
+  }
+
   /*------------------------------------*
   $END INDEX 768
   *------------------------------------*/
@@ -2341,6 +2386,26 @@ $END Index
 
   .product-series-col .header-row h1 {
     font-size: 4vh;
+  }
+
+  .launches-index-frame{
+    height:230px !important;
+  }
+
+  .upcoming-launches  h3{
+    font-size: 25px;
+  }
+
+  .latest-product  h3{
+    font-size: 25px;
+  }
+
+  .blog-launches  h3{
+    font-size: 25px;
+  }
+
+  .brand-hightlight  h3{
+    font-size: 25px;
   }
 
   /*------------------------------------*
@@ -2563,6 +2628,32 @@ $END Index
 
 @media (max-width: 375px){
 
+  /*------------------------------------*
+  $INDEX 375
+  *------------------------------------*/
+
+  .res-414-up{
+    display:none;
+  }
+
+  .res-414-down{
+    display:block;
+    text-align: right;
+    text-decoration: underline;
+  }
+
+  .launches-index-frame {
+    height: 205px !important;
+  }
+
+  .blog-launches h3 {
+    font-size: 30px;
+  }
+
+  /*------------------------------------*
+  $End INDEX 375
+  *------------------------------------*/
+
 }
 
 @media (max-width: 320px){
@@ -2639,6 +2730,9 @@ $END Index
     width: 50%;
   }
 
+  .launches-index-frame {
+    height: 205px !important;
+  }
 
   /*------------------------------------*
   $END Index 320
