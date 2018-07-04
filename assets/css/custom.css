@@ -1344,6 +1344,79 @@ $Index
     float:left;
   }
 
+  .product-series-frame{
+    position:relative;
+    overflow:hidden;
+    width:100%;
+  }
+
+  .product-series-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+  .product-series-col .header-row h1{
+    font-size: 7vh;
+    font-family: kanitlight!important;
+  }
+
+  .product-series-col .header-row h5{
+    font-family: kanitlight!important;
+  }
+
+  .slide-brand-img{
+    position:relative;
+    overflow:hidden;
+    width:100%;
+  }
+
+  .slide-brand-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .launches-index-frame{
+    height:300px !important;
+  }
+
+  .upcoming-launches .latest-product-btn button {
+    height: 40px !important;
+  }
+
+  .blog-launches .latest-product-btn button {
+    height: 40px !important;
+  }
+
+
+  .res-414-up{
+    display:block;
+  }
+
+  .res-414-down{
+    display:none;
+  }
+
+  .blog-img-frame{
+    position:relative;
+    overflow:hidden;
+    width:100%;
+  }
+
+  .blog-img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .blog-excerpt{
+    overflow: hidden;
+  }
 /*------------------------------------*
 $END Index
 *------------------------------------*/
@@ -1938,6 +2011,10 @@ $END Index
     overflow:hidden;
   }
 
+  .header-slide-btn {
+    width: 20%;
+  }
+
   .header-slide .item .slide-img{
     position:absolute;
     top:50%;
@@ -1949,6 +2026,18 @@ $END Index
 
   .header-slide .item .header-row h1 {
       font-size: 3vh;
+  }
+
+  .product-series-col .header-row h1 {
+    font-size: 2.5vh;
+  }
+
+  .product-series-col .header-slide-btn {
+    width: 45%;
+  }
+
+  .launches-index-frame{
+    height:195px !important;
   }
 
   /*------------------------------------*
@@ -2048,8 +2137,6 @@ $END Index
   }
 
 
-
-
   /*------------------------------------*
   $INDEX
   *------------------------------------*/
@@ -2076,6 +2163,12 @@ $END Index
   .header-slide .item .header-row h1 {
       font-size: 5vh;
   }
+
+  .product-series-col .header-row h1 {
+    font-size: 5vh;
+  }
+
+
 
   /*------------------------------------*
   $END INDEX
@@ -2202,10 +2295,10 @@ $END Index
     height:60vh;
   }
 
-  .header-slide .item{
-    height:60vh;
-    position:relative;
-    overflow:hidden;
+  .header-slide .item {
+    height: 55vh;
+    position: relative;
+    overflow: hidden;
   }
 
   .header-slide .item .slide-img{
@@ -2219,6 +2312,10 @@ $END Index
 
   .header-slide .item .header-row h1 {
       font-size: 4vh;
+  }
+
+  .launches-index-frame{
+    height:350px !important;
   }
 
   /*------------------------------------*
@@ -2275,8 +2372,48 @@ $END Index
 
 @media (max-width: 414px){
 
+
   /*------------------------------------*
-  $Sidebar
+  $Index 414
+  *------------------------------------*/
+  .slide-img{
+    display:none !important;
+  }
+
+  .header-slide-btn {
+    width: 40%;
+  }
+
+  .product-series-col .header-row h1 {
+    font-size: 4vh;
+  }
+
+  .launches-index-frame{
+    height:230px !important;
+  }
+
+  .upcoming-launches  h3{
+    font-size: 25px;
+  }
+
+  .latest-product  h3{
+    font-size: 25px;
+  }
+
+  .blog-launches  h3{
+    font-size: 25px;
+  }
+
+  .brand-hightlight  h3{
+    font-size: 25px;
+  }
+
+  /*------------------------------------*
+  $END Index 414
+  *------------------------------------*/
+
+  /*------------------------------------*
+  $Sidebar 414
   *------------------------------------*/
 
   #sidebar{
@@ -2409,12 +2546,12 @@ $END Index
   }
 
   /*------------------------------------*
-  $End Sidebar
+  $End Sidebar 414
   *------------------------------------*/
 
 
   /*------------------------------------*
-  $Structure
+  $Structure 414
   *------------------------------------*/
 
     .latest-prev{
@@ -2491,13 +2628,39 @@ $END Index
 
 @media (max-width: 375px){
 
+  /*------------------------------------*
+  $INDEX 375
+  *------------------------------------*/
+
+  .res-414-up{
+    display:none;
+  }
+
+  .res-414-down{
+    display:block;
+    text-align: right;
+    text-decoration: underline;
+  }
+
+  .launches-index-frame {
+    height: 205px !important;
+  }
+
+  .blog-launches h3 {
+    font-size: 30px;
+  }
+
+  /*------------------------------------*
+  $End INDEX 375
+  *------------------------------------*/
+
 }
 
 @media (max-width: 320px){
 
 
   /*------------------------------------*
-  $Sidebar
+  $Sidebar 320
   *------------------------------------*/
 
   #sidebar .sidebar-head {
@@ -2555,7 +2718,24 @@ $END Index
 
 
   /*------------------------------------*
-  $End Sidebar
+  $End Sidebar 320
+  *------------------------------------*/
+
+
+  /*------------------------------------*
+  $Index 320
+  *------------------------------------*/
+
+  .header-slide-btn {
+    width: 50%;
+  }
+
+  .launches-index-frame {
+    height: 205px !important;
+  }
+
+  /*------------------------------------*
+  $END Index 320
   *------------------------------------*/
 
 

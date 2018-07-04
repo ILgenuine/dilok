@@ -1,7 +1,32 @@
 a:hover {
-    color: #fff;
-    text-decoration: underline;
+    color: #000;
+    text-decoration: none;
+
 }
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+/*-------------------------
+---------launches----------
+---------------------------*/
+
+
+
+/*------------zoom---------------*/
+.zoom {
+display:inline-block;
+position: relative;
+}
+.zoom img {
+display: block;
+}
+.zoom img::selection { 
+    background-color: transparent; 
+}
+/*-----------zoom-------------------*/
+
 
 .card_new {
     position: relative;
@@ -18,8 +43,12 @@ a:hover {
     margin-right: -16px;
 }
 .launches-img-top {
+   position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
     width: 100%;
-    border-top-left-radius: 0px;
+    height: auto;
     
 }
 
@@ -40,19 +69,16 @@ a:hover {
     background-color: #000000;
     transition: 1s;
 }
-.btn-2 {
-    color: #fff;
-    background-color: #000000;
-    border-color: #000;
-    border-radius: 0px;
-}
+
 
 
 .btn-1 {
-    color: #000;
-    background-color: #ffffff;
-    border-color: #000000;
+    background-color: white;
+    outline: 2px solid white;
+    border: 2px solid black;
+    outline-offset: -3px;
     border-radius: 0px;
+    color: black;
 }
 
 .launches_btn-primary {
@@ -78,22 +104,69 @@ a:hover {
         border-right: 1px solid;
 }
 
+.add-to-cart{
+    background-color: white;
+    border:2px solid black;
+    border-radius: 0px;
+    color:black;
+  }
+
+.fast-buy{
+    background-color: black;
+    outline:2px solid white;
+    border:2px solid black;
+    outline-offset:-3px;
+    border-radius: 0px;
+    color:white;
+  }
+
+.launches-fix-frame{
+    height: 240px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+.font_14{
+    font-size: 14px;
+}
+.line-h-20{
+    line-height: 20px;
+}
+
+
+
+/*-------------------------
+---------launches end-------
+---------------------------*/
+
 
 @media (max-width: 1366px){
     .lau_pad_10{
         padding: 0px 0px 0px 10px;
     }
+    .launches_font_32 {
+    text-align: center;
+    font-size: 14px;
+}
 
 }
 
 @media (max-width: 1024px){
-   .launches_font_32 {
-    text-align: left;
-    font-size: 14px;
-    }
+  
     .lau_pad_10{
         padding: 0px 0px 0px 10px;
     }
+    .launches_font_32 {
+    text-align: center;
+    font-size: 14px;
+}
+.launches-fix-frame {
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
 }
 
 @media (max-width: 768px){
@@ -104,15 +177,57 @@ a:hover {
         text-align: center;
         font-size: 14px;
     }
+    .launches-fix-frame {
+    height: 380px;
+    position: relative;
+    overflow: hidden;
+    width: 650px;
+    }
+    .launches-img{
+         width: 650px;
+    }
+
+
 
 }
 
 @media (max-width: 414px){
+
+    .launches_font_32 {
+    text-align: left;
+    font-size: 14px;
+}
+ .launches-img{
+         width: 100%;
+    }
+    .launches-fix-frame {
+    height: auto;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+
     
 }
 @media (max-width: 375px){
 
+    .launches_font_32 {
+    text-align: left;
+    font-size: 14px;
+}
+.launches-img-top {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: auto;
+    height: 100%;
+}
+
+
 }
 
 @media (max-width: 320px){
+
 }
