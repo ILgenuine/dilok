@@ -7,7 +7,7 @@
   </head>
 
   <body>
-	<!-- START NAVBAR -->
+  	<!-- START NAVBAR -->
     <?php include_once('inc/navbar.php'); ?>
     <!-- END NAVBAR -->
 

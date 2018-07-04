@@ -1,0 +1,1332 @@
+
+
+body{
+  font-family: 'kanitregular';
+}
+
+/*-------------------------------------
+------------- REGIST -----------------
+---------------------------------------*/
+.regist-font1{
+    font-family: 'kanitlight';
+    font-size: 40px;
+    color:black;
+    font-weight: bolder;
+}
+.regist-font2{
+    font-family: 'kanitlight';
+    font-size: 20px;
+    color:black;
+    font-weight: bolder;
+}
+.regist-font3{
+    font-family: 'kanitlight';
+    font-size: 14px;
+    color:black;
+}
+.regist-font4{
+    font-family: 'kanitlight';
+    font-size: 14px;
+    color:black;
+    font-weight: bold;
+}
+.regist-font5{
+    font-family: 'kanitlight';
+    font-size: 14px;
+    color:black;
+    font-weight: bold;
+}
+.regist-font5:hover{
+    font-family: 'kanitlight';
+    font-size: 14px;
+    color:#999;
+    font-weight: bold;
+}
+.regist-font6{
+    font-family: 'kanitlight';
+    font-size: 12px;
+    color:#a3a3a3;
+}
+.regist-font7{
+    font-family: 'kanitlight';
+    font-size: 14px;
+    color:black;
+}
+.regist-b-r{
+    border-right: 1px solid #c3c2c2;
+}
+.square-size{
+    font-size: 5px;
+}
+.regist-btn{
+    background-color: black;
+    font-size: 16px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 0px;
+    width: 300px;
+    height: 45px;
+}
+.regist-btn:hover{
+    background-color: white;
+    font-size: 16px;
+    font-weight: bolder;
+    color: black;
+    border-radius: 0px;
+    border: 2px solid black;
+    width: 300px;
+    height: 45px;
+    transition: all 0.5s;
+}
+.regist-m-t{
+    margin-top: 90px;
+}
+.regist-m-t2{
+    margin-top: 37px;
+}
+.regist-m-t3{
+    margin-top: 52px;
+}
+.regist-m-t4{
+    margin-top: 50px;
+}
+.regist-m-t5{
+    margin-top: 50px;
+}
+.regist-m-t6{
+    margin-top: 18px;
+}
+.regist-p-l{
+    padding-left: 25px;
+}
+.regist-m-l{
+    margin-left: 65px;
+}
+.regist-m-l2{
+    margin-left: 35px;
+}
+.regist-m-r{
+    margin-right: 25px;
+}
+.regist-form{
+    width: 100%;
+    height: 45px;
+    font-size: 15px;
+    border: 1px solid #d2d2d2;
+    padding-left: 10px;
+}
+.check {
+    display: block;
+    position: relative;
+}
+/* Hide the browser's default checkbox */
+.check input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+/* Create a custom checkbox */
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    background-color:#fff;
+    margin-top: 7px;
+    border:  1px solid #d2d2d2;
+}
+/* When the checkbox is checked, add a blue background */
+.check input:checked ~ .checkmark {
+    background-color: #fff;
+    border: 1px solid #d2d2d2;
+}
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+/* Show the checkmark when checked */
+.check input:checked ~ .checkmark:after {
+    display: block;
+}
+/* Style the checkmark/indicator */
+.check .checkmark:after {
+    left: 5px;
+    top: 0px;
+    width: 8px;
+    height: 15px;
+    border: solid black;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+#my-account{
+    display: none;
+}
+/*-------------------------------------
+-------------END REGIST -----------------
+---------------------------------------*/
+
+/*-------------------------------------
+------------- FORGOT -----------------
+---------------------------------------*/
+.forgot-font1{
+    font-family: 'kanitlight';
+    font-size: 40px;
+    color:black;
+    font-weight: bolder;
+}
+.forgot-font2{
+    font-family: 'kanitlight';
+    font-size: 14px;
+    color:black;
+    font-weight: bold;
+}
+.forgot-font3{
+    font-family: 'kanitlight';
+    font-size: 14px;
+    color:#fa3c34;
+}
+.forgot-font4{
+    font-family: 'kanitlight';
+    font-size: 12px;
+    color:#fa3c34;
+}
+.forgot-form{
+    width: 450px;
+    height: 45px;
+    font-size: 15px;
+    border: 1px solid #d2d2d2;
+    padding-left: 10px;
+}
+.forgot-m-l{
+    margin-left: 330px;
+}
+.forgot-m-l2{
+    margin-left:270px;
+}
+.forgot-m-t{
+    margin-top: 50px;
+}
+.forgot-m-t2{
+    margin-top: 40px;
+}
+.forgot-btn{
+    background-color: black;
+    font-size: 16px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 0px;
+    width: 300px;
+    height: 45px;
+}
+.forgot-btn:hover{
+    background-color: white;
+    font-size: 16px;
+    font-weight: bolder;
+    color: black;
+    border-radius: 0px;
+    border: 2px solid black;
+    width: 300px;
+    height: 45px;
+    transition: all 0.5s;
+}
+/*-------------------------------------
+------------- END FORGOT -----------------
+---------------------------------------*/
+
+/*-------------------------------------
+------------- FILLTER -----------------
+---------------------------------------*/
+.fillter-font1{
+    font-size: 40px;
+}
+.fillter-font2{
+    font-size: 15px;
+}
+.fillter-font3{
+    font-size: 14px;
+    font-family: 'kanitlight';
+}
+.fillter-font-step{
+    font-size: 14px;
+    font-family: 'kanitlight';
+    color: black;
+}
+.box{
+    padding: 10px;
+    background: #fff;
+}
+.filter {
+    padding: 20px;
+    background: #fff;
+}
+.animated.fadeIn{
+    animation-duration: 2s;
+}
+.c-fill{
+    height:240px;
+    border: none;
+}
+.text-a{
+    color: #333;
+}
+.text-a:hover{
+    color: #999;
+    text-decoration: none;
+    transition: all 0.5s;
+}
+.filter-scroll{
+    overflow: auto;
+    width:100%;
+    height: 135px;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+    background: #fff;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #d2d2d2;
+}
+.btn-hide{
+    background-color: #fff;
+    font-family: 'kanitlight';
+    border: 1px solid black;
+}
+.btn-hide:hover{
+    background-color:black;
+    font-family: 'kanitlight';
+    border: 1px solid black;
+    color:white;
+    transition:  all 0.5s;
+}
+.btn-column{
+    background-color: #fff;
+    font-size: 20px;
+    width: 30px;
+    padding: 5px;
+}
+.btn-column:hover{
+    background-color: #fff;
+    font-size: 20px;
+    color: #999;
+    transition: all 0.5s;
+}
+.btn-row{
+    background-color: #fff;
+    font-size: 18px;
+    width: 30px;
+    padding: 5px;
+}
+.btn-row:hover{
+    background-color: #fff;
+    font-size: 18px;
+    color: #999;
+    transition: all 0.5s;
+}
+.fillter-m-b{
+    margin-bottom: 30px;
+}
+.fillter-bg{
+    width: 100%;
+    background-color:#fff;
+}
+.fillter-select{
+  background-color: #E5E7E9;
+  padding: 5px;
+  width: 100px;
+}
+.fillter-m{
+    margin: 0px;
+}
+/*-------------------------------------
+------------- END FILLTER ---------------
+---------------------------------------*/
+
+/*-------------------------------------
+------------- PAYMENT -----------------
+---------------------------------------*/
+.pay-font1{
+    font-size: 20px;
+    font-family: 'kanitlight';
+}
+.pay-font2{
+    font-size: 14px;
+    font-family: 'kanitlight';
+}
+.pay-font3{
+    font-size: 15px;
+    margin-top: 7px;
+}
+.pay-font4{
+    font-size: 20px;
+}
+.pay-font5{
+    font-size: 15px;
+    color:#5DADE2;
+    font-family: 'kanitlight';
+}
+.pay-font6{
+    font-size: 14px;
+    font-family: 'kanitlight';
+}
+.pay-font7{
+    font-size: 18px;
+    font-family: 'kanitlight';
+}
+.pay-font8{
+    font-size: 14px;
+    font-family: 'kanitmedium';
+}
+.pay-font9{
+    font-size: 14px;
+    font-family: 'kanitlight';
+    color: #999;
+}
+.pay-font10{
+    font-size: 16px;
+    font-family: 'kanitlight';
+}
+.pay-font11{
+    font-size: 16px;
+    color: #E74C3C;
+    font-family: 'kanitlight';
+}
+.txt-right{
+   text-align: right;
+}
+.pay-select{
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+/* Hide the browser's default radio button */
+.pay-select  input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+/* Create a custom radio button */
+.checkmark2 {
+    position: absolute;
+    top: 7px;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    background-color: #fff;
+    border-radius: 100%;
+    border: 1px solid #e3e3e3;
+}
+/* When the radio button is checked, add a blue background */
+.pay-select  input:checked ~ .checkmark2 {
+    background-color: #2196F3;
+    border: none;
+}
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark2:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+/* Show the indicator (dot/circle) when checked */
+.pay-select  input:checked ~ .checkmark2:after {
+    display: block;
+}
+/* Style the indicator (dot/circle) */
+.pay-select .checkmark2:after {
+    left: 7px;
+    top: 4px;
+    width: 6px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.pay-m-l{
+  margin-left: 30px;
+}
+.pay-m-l2{
+    margin-left: 203px;
+}
+.pay-m-l3{
+    margin-left: 177px;
+}
+.pay-m-l4{
+    margin-left: 182px;
+}
+.pay-m-l5{
+    margin-left: 158px;
+}
+.pay-size{
+    width: 40px;
+    height: 25px;
+    margin-top: -7px;
+    margin-left: 10px;
+}
+.pay-size2{
+    width: 40px;
+    height: 25px;
+    margin-top: -7px;
+    border: 1px solid #e3e3e3;
+    margin-left: 10px;
+}
+.pay-size3{
+    width: 40px;
+    height: 28px;
+    margin-top: -7px;
+    margin-left: 5px;
+}
+.pay-size4{
+    width: 100%;
+    height: 120px;
+    border: 1px solid #888;
+}
+.pay-form{
+    border: 1px solid #e3e3e3;
+    width: 100%;
+    height:40px;
+    border-radius: 5px;
+}
+.pay-b-n{
+    border-radius: 0px;
+}
+.bg-gray{
+    background-color:#F2F3F4;
+}
+.pay-m-t{
+    margin-top: 30px;
+}
+.pay-padding{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.pay-m-r-l2{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+/*-------------------------------------
+------------ END PAYMENT --------------
+---------------------------------------*/
+
+/*-------------------------------------
+------------ CART --------------
+---------------------------------------*/
+.cart-font1{
+    font-size: 12px;
+    color: #A6ACAF;
+    font-family: 'kanitlight';
+}
+.cart-font2{
+    font-size: 25px;
+}
+.cart-font3{
+    font-size: 20px;
+}
+.cart-font4{
+    font-size: 15px;
+    color: black;
+}
+.cart-font4:hover{
+    font-size: 15px;
+    color: #999;
+}
+.cart-form{
+    width: 100%;
+    height:40px;
+    border: 1px solid black;
+    padding-left: 10px;
+}
+.cart-size{
+    width: 100%;
+    height: 130px;
+    border: 1px solid #888;
+}
+.sale-percent{
+    width: 70px !important;
+}
+.cart-bg{
+    background-color: #f4f5f6;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.cart-selected {
+    border: 1px solid #333;
+    border-radius: 0px;
+    background: #fff url(../../assets/images/logo/down.png) no-repeat right 15px center;
+    background-size: 20px;
+    -webkit-appearance: none!important;
+    padding: 5px 15px!important;
+    width: 70px;
+}
+.cart-m-l{
+  margin-left: 30px;
+}
+.cart-m-l2{
+  margin-left: -200px;
+}
+.cart-m-l5{
+  margin-left: 0px;
+}
+/*-------------------------------------
+------------ END CART --------------
+---------------------------------------*/
+
+/*-------------------------------------
+-------------- WISHLIST --------------
+---------------------------------------*/
+.wish-font1{
+    font-size: 25px;
+}
+.wish-font2{
+    font-weight: bolder;
+}
+.wish-d-n3{
+  display: none;
+}
+.wish-m{
+  margin: 0px;
+}
+/*-------------------------------------
+------------ END WISHLIST --------------
+---------------------------------------*/
+
+
+@media(max-width: 1366px){
+  /*-------------------------------------
+  ------------ REGIST 1366 ---------------
+  ---------------------------------------*/
+  .regist-p-l{
+      padding-left: 20px;
+  }
+  .regist-m-l{
+      margin-left:60px;
+  }
+  /*-------------------------------------
+  ----------- END REGIST 1366 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ FILLTER 1366 --------------
+  ---------------------------------------*/
+  .fillter-btn-width{
+      width: 100% !important;
+      max-width:unset !important;
+      flex: unset;
+  }
+  .fillter-m{
+      margin: 5px;
+  }
+  /*-------------------------------------
+  ---------- END FILLTER 1366 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ---------- PAY 1366 ------------
+  ---------------------------------------*/
+  .pay-size4{
+      width: 100%;
+      height:95px;
+      border: 1px solid #888;
+  }
+  .pay-m-t{
+    margin-top: 0px;
+  }
+  .pay-m-l2{
+      margin-left: 80px;
+  }
+  .pay-m-l3{
+      margin-left: 56px;
+  }
+  .pay-m-l4{
+      margin-left: 60px;
+  }
+  .pay-m-l5{
+      margin-left: 45px;
+  }
+  .pay-m-l-r{
+      padding-left:10px;
+      padding-right:10px;
+  }
+  /*-------------------------------------
+  ---------- END PAY 1366 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  -------------- CART 1366 ---------------
+  ---------------------------------------*/
+  .cart-p-l{
+    padding-left: 20px;
+  }
+  .cart-m-l2{
+    margin-left: -50px;
+  }
+  /*-------------------------------------
+  ----------- END CART 1366 -------------
+  ---------------------------------------*/
+
+
+  /*-------------------------------------
+  -------------- WISH 1366 ---------------
+  ---------------------------------------*/
+  .wish-d{
+    display: none;
+  }
+  .wish-d2{
+    display: none;
+  }
+  .wish-d3{
+    display: block;
+  }
+  .wish-m{
+    margin: 5px;
+  }
+  /*-------------------------------------
+  ----------- END WISH 1366 -------------
+  ---------------------------------------*/
+}
+
+@media(max-width: 1024px){
+  /*-------------------------------------
+  ------------ REGIST 1024 --------------
+  ---------------------------------------*/
+  .regist-m-t3{
+      margin-top:20px;
+  }
+  .regist-m-l{
+      margin-left:280px;
+  }
+  .regist-m-t4{
+      margin-top: 50px;
+  }
+  .regist-m-r{
+      margin-right:0px;
+  }
+  .regist-p-l{
+      padding-left:0px;
+  }
+  /*------------------------------------
+  ----------- END REGIST 1024 ----------
+  --------------------------------------*/
+
+
+  /*-------------------------------------
+  ------------ FORGOT 1024 --------------
+  ---------------------------------------*/
+    .forgot-m-l{
+        margin-left: 240px;
+  }
+  /*-------------------------------------
+  ---------- END FORGOT 1024 ------------
+  ---------------------------------------*/
+
+
+  /*-------------------------------------
+  ---------- FILLTER 1024 ------------
+  ---------------------------------------*/
+  .fillter-logo{
+     text-align: center;
+  }
+  /*-------------------------------------
+  ---------- END FILLTER 1024 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  --------------- PAY 1024 --------------
+  ---------------------------------------*/
+  .txt-right{
+    text-align: left;
+  }
+  .pay-m-l-r{
+    padding-left:17px;
+    padding-right:17px;
+  }
+  .pay-m-l2{
+      margin-left: 715px;
+  }
+  .pay-m-l3{
+      margin-left: 690px;
+  }
+  .pay-m-l4{
+      margin-left: 695px;
+  }
+  .pay-m-l5{
+      margin-left: 680px;
+  }
+  .pay-size4{
+      width: 100%;
+      height:auto;
+      border: 1px solid #888;
+  }
+  .pay-m-t{
+    margin-top: 3em;
+  }
+  .pay-m-t2{
+    margin-top: 2em;
+  }
+  /*-------------------------------------
+  ------------- END PAY 1024 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  -------------- CART 1024 ---------------
+  ---------------------------------------*/
+  .cart-p-l{
+    padding-left: 20px;
+  }
+  .cart-m-l2{
+    margin-left: -130px;
+  }
+  /*-------------------------------------
+  ------------ END CART 1024 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  -------------- WISH 1024 ---------------
+  ---------------------------------------*/
+  .wish-d{
+    display: block;
+  }
+  .wish-d2{
+    display: block;
+  }
+  .wish-d3{
+    display: none;
+  }
+  .wish-m{
+    margin: 5px;
+  }
+  /*-------------------------------------
+  ----------- END WISH 1024 -------------
+  ---------------------------------------*/
+}
+
+@media(max-width: 768px){
+  /*-----------------------------------
+  ------------- REGIST 768 -------------
+  -------------------------------------*/
+    .regist-m-t{
+        margin-top: 38px;
+    }
+    .regist-m-t3{
+        margin-top: 20px;
+    }
+    .regist-p-l{
+        padding-left: 0px;
+    }
+    .regist-b-r{
+        border-right: none;
+    }
+    .regist-m-l{
+        margin-left: 42em;
+    }
+    .regist-m-t4{
+        margin-top: 40px;
+    }
+    .regist-m-r{
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+  /*-----------------------------------
+  ----------- END REGIST 768 ------------
+  -------------------------------------*/
+
+  /*-------------------------------------
+  ------------ FORGOT 768 --------------
+  ---------------------------------------*/
+  .forgot-m-l{
+        margin-left: 120px;
+  }
+  /*-------------------------------------
+  ---------- END FORGOT 768 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ FILLTER 768 --------------
+  ---------------------------------------*/
+  .fillter-d-n1{
+    display: none;
+  }
+  .fillter-d-n3{
+    display: none;
+  }
+  .box{
+      padding: 20px;
+      background: #fff;
+  }
+  .btn-fillter{
+      background-color: #fff;
+      font-family: 'kanitlight';
+      border: 1px solid black;
+      width: 100%;
+  }
+  .btn-fillter:hover{
+      background-color:black;
+      font-family: 'kanitlight';
+      border: 1px solid black;
+      color:white;
+      transition:  all 0.5s;
+  }
+  .fillter-m-tt{
+    margin-top: 20px;
+    margin-left: 5px;
+  }
+  /*-------------------------------------
+  ------------END FILLTER 768 --------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  --------------- PAY 768 --------------
+  ---------------------------------------*/
+  .pay-m-l-r{
+    padding-left:17px;
+    padding-right:17px;
+  }
+  .pay-m-l2{
+      margin-left: 486px;
+  }
+  .pay-m-l3{
+      margin-left: 462px;
+  }
+  .pay-m-l4{
+      margin-left: 467px;
+  }
+  .pay-m-l5{
+      margin-left: 440px;
+  }
+  .pay-size4{
+      width: 100%;
+      height:auto;
+      border: 1px solid #888;
+  }
+  .pay-m-t{
+    margin-top: 3em;
+  }
+  .pay-m-t2{
+    margin-top: 1em;
+  }
+  /*-------------------------------------
+  ------------- END PAY 768 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  -------------- CART 768 ---------------
+  ---------------------------------------*/
+  .cart-m-l3{
+    margin-left: 30px;
+  }
+  .cart-m-l2{
+    margin-left: -10px;
+  }
+  /*-------------------------------------
+  ----------- END CART 768 -------------
+  ---------------------------------------*/
+}
+
+@media(max-width: 414px){
+  /*-----------------------------------
+  ------------- REGIST 414 -------------
+  -------------------------------------*/
+    .regist-font1{
+        font-family: 'kanitlight';
+        font-size: 33px;
+        color:black;
+        font-weight: bolder;
+    }
+    .regist-p-l{
+      padding-left: 0px;
+    }
+    .regist-m-t3{
+        margin-top: 20px;
+    }
+    .forgot-m-l2{
+        margin-left:200px;
+    }
+    .regist-btn{
+        background-color: black;
+        font-size: 16px;
+        font-weight: bolder;
+        color: white;
+        border-radius: 0px;
+        width: 100%;
+        height: 45px;
+    }
+    .regist-btn:hover{
+        background-color: white;
+        font-size: 16px;
+        font-weight: bolder;
+        color: black;
+        border-radius: 0px;
+        border: 2px solid black;
+        width:100%;
+        height: 45px;
+        transition: all 0.5s;
+    }
+    .regist-form{
+        width:100%;
+        height: 45px;
+        font-size: 15px;
+        border: 1px solid #d2d2d2;
+        padding-left: 10px;
+    }
+    .regist-m-l{
+        margin-left: 200px;
+    }
+    .regist-m-t4{
+        margin-top: 40px;
+    }
+    .regist-m-r{
+      margin-right: 0px;
+      margin-left: 0px;
+    }
+  /*-----------------------------------
+  ---------- END REGIST 414 -----------
+  -------------------------------------*/
+
+  /*-------------------------------------
+  ------------ FORGOT 414 --------------
+  ---------------------------------------*/
+    .forgot-font1{
+        font-family: 'kanitlight';
+        font-size: 30px;
+        color:black;
+        font-weight: bolder;
+    }
+    .forgot-m-l{
+        margin-left: 0px;
+    }
+    .forgot-form{
+        width: 100%;
+        height: 45px;
+        font-size: 15px;
+        border: 1px solid #d2d2d2;
+        padding-left: 10px;
+    }
+    .forgot-btn{
+        background-color: black;
+        font-size: 16px;
+        font-weight: bolder;
+        color: white;
+        border-radius: 0px;
+        width: 100%;
+        height: 45px;
+    }
+    .forgot-btn:hover{
+        background-color: white;
+        font-size: 16px;
+        font-weight: bolder;
+        color: black;
+        border-radius: 0px;
+        border: 2px solid black;
+        width: 100%;
+        height: 45px;
+        transition: all 0.5s;
+    }
+  /*-------------------------------------
+  ---------- END FORGOT 414 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ FILLTER 414 --------------
+  ---------------------------------------*/
+  .fillter-d-n1{
+    display: none;
+  }
+  .fillter-d-n3{
+    display: none;
+  }
+  .fillter-d-n2{
+    display: none;
+  }
+  .box{
+      padding: 30px;
+      background: #fff;
+  }
+  .fillter-r-l{
+    padding-left:20px;
+    padding-right:20px;
+  }
+  .fillter-m-t2{
+    margin-top: 30px;
+  }
+  .fillter-m-tt{
+    margin-top: 20px;
+    margin-left: 5px;
+  }
+  /*-------------------------------------
+  ------------END FILLTER 414 --------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  --------------- PAY 414 --------------
+  ---------------------------------------*/
+  .pay-m-l2{
+      margin-left: 165px;
+  }
+  .pay-m-l3{
+      margin-left: 142px;
+  }
+  .pay-m-l4{
+      margin-left: 147px;
+  }
+  .pay-m-l5{
+      margin-left: 120px;
+  }
+  .pay-size4{
+      width: 100%;
+      height:auto;
+      border: 1px solid #888;
+  }
+  .pay-size{
+      width: 40px;
+      height: 25px;
+      margin-top: -7px;
+      margin-left: 0px;
+  }
+  .pay-size2{
+      width: 40px;
+      height: 25px;
+      margin-top: -7px;
+      border: 1px solid #e3e3e3;
+      margin-left: 0px;
+  }
+  .pay-m-t{
+    margin-top: 2em;
+  }
+  .pay-m-t2{
+    margin-top: 1em;
+  }
+  .pay-m-l7{
+    margin-left:120px;
+  }
+  .pay-font8{
+      font-size: 14px;
+      font-family: 'kanitmedium';
+      text-align: center;
+  }
+  .pay-font9{
+      font-size: 14px;
+      font-family: 'kanitlight';
+      color: #999;
+      text-align: center;
+  }
+  /*-------------------------------------
+  ------------- END PAY 414 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  -------------- CART 414 ---------------
+  ---------------------------------------*/
+  .cart-m-l5{
+      margin-left: 160px;
+  }
+  .cart-size{
+      width: 100%;
+      height: 230px;
+      border: 1px solid #888;
+  }
+  .cart-p-l{
+      padding-left: 0px;
+  }
+  .cart-m-t2{
+      margin-top: 20px;
+  }
+  .cart-m-t3{
+      margin-top: 20px;
+  }
+  .cart-m-l2{
+      margin-left: 0px;
+  }
+  /*-------------------------------------
+  ----------- END CART 414 -------------
+  --------------------------------------*/
+
+  /*-------------------------------------
+  ----------- WISHLIST 414 -------------
+  --------------------------------------*/
+  .latest-product-price{
+    text-align: right !important;
+  }
+  .wish-d2{
+    display: none;
+  }
+  .wish-p-l{
+    padding-left: 10px;
+  }
+  .wish-p-r{
+    padding-right: 20px;
+  }
+  /*-------------------------------------
+  ----------- END WISHLIST 414 ----------
+  --------------------------------------*/
+
+}
+
+@media(max-width: 375px){
+  /*-----------------------------------
+  ------------- REGIST 375 -------------
+  -------------------------------------*/
+    .forgot-m-l2{
+        margin-left:160px;
+    }
+    .regist-m-l{
+        margin-left: 160px;
+    }
+  /*-----------------------------------
+  ---------- END REGIST 375 -----------
+  -------------------------------------*/
+
+  /*-------------------------------------
+  ------------ FORGOT 375  --------------
+  ---------------------------------------*/
+    .forgot-font1{
+        font-family: 'kanitlight';
+        font-size: 30px;
+        color:black;
+        font-weight: bolder;
+    }
+    .forgot-m-l{
+        margin-left: 0px;
+    }
+  /*-------------------------------------
+  ---------- END FORGOT 375 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  --------------- PAY 375 --------------
+  ---------------------------------------*/
+  .pay-m-l2{
+      margin-left: 132px;
+  }
+  .pay-m-l3{
+      margin-left: 107px;
+  }
+  .pay-m-l4{
+      margin-left: 113px;
+  }
+  .pay-m-l5{
+      margin-left: 90px;
+  }
+  /*-------------------------------------
+  ------------ END PAY 375 --------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ FILLTER 375 --------------
+  ---------------------------------------*/
+  .fillter-m-t2{
+    margin-top: 30px;
+  }
+  .add-to-cart{
+    font-size: 15px;
+  }
+  .fast-buy{
+    font-size: 15px;
+  }
+  /*-------------------------------------
+  ------------END FILLTER 375 --------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  -------------- CART 375 ----------------
+  ---------------------------------------*/
+  .cart-m-l3{
+      margin-left: 23px;
+  }
+  .cart-m-l4{
+      margin-left: 25px;
+  }
+  .cart-m-l5{
+      margin-left: 140px;
+  }
+  /*-------------------------------------
+  ------------ END CART 375 --------------
+  ---------------------------------------*/
+}
+
+@media(max-width: 320px){
+  /*-------------------------------------
+  ------------ REGIST 320  --------------
+  ---------------------------------------*/
+  .regist-m-l{
+        margin-left:105px;
+  }
+  /*-------------------------------------
+  ---------- END REGIST 320  -------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ FORGOT 320  --------------
+  ---------------------------------------*/
+    .forgot-m-l2{
+        margin-left:105px;
+    }
+  /*-------------------------------------
+  ---------- END FORGOT 320 ------------
+  ---------------------------------------*/
+
+
+  /*-------------------------------------
+  --------------- PAY 320 --------------
+  ---------------------------------------*/
+  .pay-m-l2{
+      margin-left: 82px;
+  }
+  .pay-m-l3{
+      margin-left: 59px;
+  }
+  .pay-m-l4{
+      margin-left: 63px;
+  }
+  .pay-m-l5{
+      margin-left: 40px;
+  }
+  .pay-size{
+      width: 35px;
+      height: 22px;
+      margin-top: -7px;
+      margin-left: 0px;
+  }
+  .pay-size2{
+      width: 35px;
+      height: 22px;
+      margin-top: -7px;
+      border: 1px solid #e3e3e3;
+      margin-left: 0px;
+  }
+  /*-------------------------------------
+  ------------ END PAY 320 --------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ CART 320 --------------
+  ---------------------------------------*/
+  .cart-m-l{
+      margin-left: 10px;
+  }
+  .cart-m-l5{
+      margin-left: 117px;
+  }
+  /*-------------------------------------
+  ------------ END CART 320 --------------
+  ---------------------------------------*/
+
+}
