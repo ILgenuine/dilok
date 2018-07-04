@@ -24,6 +24,7 @@
     <!-- CUSTOM CSS -->
     <link rel="stylesheet" type="text/css" href="assets/css/custom.css">
     <link rel="stylesheet" type="text/css" href="assets/css/gia.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/park.css">
 
     <!-- GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Kanit:200,300,500,700" rel="stylesheet">

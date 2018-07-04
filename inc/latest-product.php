@@ -1,9 +1,11 @@
-<div class="row px-lg-5 px-md-5 px-1">
+<div class="row mx-0 px-lg-0 px-md-5 px-1">
     <div class="col-12">
-        <h3 class="mb-5">LATEST PRODUCT</h3>
+        <h3 class="mb-2">LATEST PRODUCT</h3>
 
         <div class="latest-slide owl-carousel owl-theme">
 
+
+          <!-- บังคับ first child มัclass first    last child มี class last  -->
 
           <div class="item first">
             <div class="card p-3">
@@ -999,9 +1001,6 @@
               </div>
             </div>
           </div>
-
-
-
 
 
           <div class="item last">

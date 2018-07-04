@@ -1,6 +1,9 @@
+<?php include_once('help-center.php'); ?>
+
+
 <footer class="footer">
   <div class="container-fluid">
-      <div class="row py-lg-5 pt-md-5 pt-3 pb-2">
+      <div class="row pt-lg-5 pt-md-5 pt-3 pb-2">
 
 
         <div class="col-xl-3 col-lg-3 col-md-12 col-12 d-lg-block d-none">
@@ -52,7 +55,7 @@
              <div class="col-12 mb-1 footer-submenu"><a href="#" class="white">Out Story</a></div>
              <div class="col-12 footer-submenu"><a href="#" class="white">Brach</a></div>
 
-             <div class="col-12 pr-lg-5 px-md-0 mt-md-4 mb-xl-4 mb-lg-3 mb-md-2">HELPFUL</div>
+             <div class="col-12 pr-lg-5 px-md-0 mt-md-4 mb-xl-4 mb-lg-3 mb-md-2"><a href="#" class="white" data-toggle="modal" data-target="#helpful">HELPFUL</a></div>
              <div class="col-12 mb-1 footer-submenu"><a href="#" class="white">Term of use</a></div>
              <div class="col-12 mb-1 footer-submenu"><a href="#" class="white">Policy</a></div>
           </div>
@@ -83,3 +86,8 @@
       </div>
   </div>
 </footer>
+
+
+
+
+
