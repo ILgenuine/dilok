@@ -251,6 +251,11 @@ body{
     font-size: 14px;
     font-family: 'kanitlight';
 }
+.fillter-font4{
+    font-size: 14px;
+    font-family: 'kanitlight';
+    color: black !important;
+}
 .fillter-font-step{
     font-size: 14px;
     font-family: 'kanitlight';
@@ -294,7 +299,7 @@ body{
 }
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: #d2d2d2;
+    background: #797D7F;
 }
 .btn-hide{
     background-color: #fff;
@@ -339,13 +344,20 @@ body{
     width: 100%;
     background-color:#fff;
 }
+.fillter-bg2{
+    width: 100%;
+    background-color:black;
+}
 .fillter-select{
-  background-color: #E5E7E9;
-  padding: 5px;
-  width: 100px;
+    background-color: #E5E7E9;
+    padding: 5px;
+    width: 100px;
 }
 .fillter-m{
     margin: 0px;
+}
+.fillter-hr{
+    border: 0.5px solid white;
 }
 /*-------------------------------------
 ------------- END FILLTER ---------------
@@ -673,10 +685,13 @@ body{
   -------------- CART 1366 ---------------
   ---------------------------------------*/
   .cart-p-l{
-    padding-left: 20px;
+      padding-left: 20px;
   }
   .cart-m-l2{
-    margin-left: -50px;
+      margin-left: -50px;
+  }
+  .wish-m-ll{
+      margin-left: 50px;
   }
   /*-------------------------------------
   ----------- END CART 1366 -------------
@@ -687,16 +702,19 @@ body{
   -------------- WISH 1366 ---------------
   ---------------------------------------*/
   .wish-d{
-    display: none;
+      display: none;
   }
   .wish-d2{
-    display: none;
+      display: none;
   }
   .wish-d3{
-    display: block;
+      display: block;
   }
   .wish-m{
-    margin: 5px;
+      margin: 5px;
+  }
+  .wish-m-ll{
+      margin-left: 102px;
   }
   /*-------------------------------------
   ----------- END WISH 1366 -------------
@@ -802,16 +820,16 @@ body{
   -------------- WISH 1024 ---------------
   ---------------------------------------*/
   .wish-d{
-    display: block;
+      display: block;
   }
   .wish-d2{
-    display: block;
+      display: block;
   }
   .wish-d3{
-    display: none;
+      display: none;
   }
   .wish-m{
-    margin: 5px;
+      margin: 5px;
   }
   /*-------------------------------------
   ----------- END WISH 1024 -------------

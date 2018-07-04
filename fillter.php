@@ -14,6 +14,7 @@
       <!-- CART SIDEBAR -->
       <?php include_once('inc/cart-sidebar.php'); ?>
       <?php include_once('inc/nav-sidebar.php'); ?>
+      <?php include_once('inc/filter-sidebar.php'); ?>
       <!-- END CART SIDEBAR -->
 
       <div class="row mt-5">
@@ -21,7 +22,9 @@
               <button onclick="myFunction()" class="btn btn-hide" id="demo">hide filter</button>
           </div>
           <div class="col-md-4 col-6 d-md-block d-lg-none d-xl-none fillter-r-l">
-              <button  class="btn btn-fillter">filter</button>
+            <button class="btn btn-fillter filter-sidebar-btn pull-right" type="button">
+                <span class="black"> filter </span>
+            </button>
           </div>
           <div class="col-xl-6 col-12 col-lg-5 col-md-12 order-2 fillter-m-tt order-lg-1 order-md-3">
             <ol class="breadcrumb pull-left mb-0 pb-0 pt-2" style="top:0;">
@@ -52,7 +55,7 @@
       <div class="row">
         <div class="col-xl-2 col-lg-3 fillter-d-n3" id="myDIV">
           <section class="filter">
-            <div class="form-group">
+             <div class="form-group">
                   <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample60" aria-expanded="false" aria-controls="collapseExample">
                       <span class="fillter-font2 pull-left">SELECTED</span>
                       <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
@@ -288,7 +291,7 @@
                               </div>
                           </div>
                       </div>
-                      <hr>
+                    <hr>
                </div>
           </section>
           <div class="filtered-item filtered-item3 col-xl-10 col-lg-9 col-md-12 fadeIn animated">
@@ -979,9 +982,16 @@
                         </div>
                       </li>
                 </ul>
+                <div class="container">
+                      <ul class="pagination justify-content-center">
+                        <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">1</a></li>
+                        <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">2</a></li>
+                        <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">3</a></li>
+                        <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">4</a></li>
+                      </ul>
+                </div>
             </section>
           </div>
-
         </div>
     </div>
     <!-- START FOOTER -->

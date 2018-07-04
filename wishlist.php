@@ -27,14 +27,12 @@
                 <div class="col-xl-4 col-6 col-lg-4 col-md-4 wish-p-l">
                     <div class="wish-font1">WISHLIST <i class="far fa-heart wish-font2"></i></div>
                 </div>
-                <div class="col-xl-7 col-6 col-lg-6 col-md-6 text-right mt-2 wish-p-r">
+                <div class="col-xl-7 col-6 col-lg-6 col-md-6 text-right mt-2 wish-p-r wish-m-ll">
                     <div class="fillter-font3">1-20 of 80 items</div>
                 </div>
-                <div class="col-xl-1 col-lg-2 col-md-2 col-12 px-0 text-center text-md-right text-lg-right wish-d2 fillter-m-t2">
-                   <div class="fillter-m">
-                       <button onclick="myFunction2()" class="btn btn-column"><i class="fas fa-columns"></i></button>
-                       <button onclick="myFunction3()" class="btn btn-row"><i class="fas fa-align-justify"></i></button>
-                   </div>
+                <div class="col-xl-1 col-lg-2 col-md-2 col-12 text-center text-md-right text-lg-right wish-d2">
+                    <button onclick="myFunction2()" class="btn btn-column"><i class="fas fa-columns"></i></button>
+                    <button onclick="myFunction3()" class="btn btn-row"><i class="fas fa-align-justify"></i></button>
                 </div>
             </div>
 
