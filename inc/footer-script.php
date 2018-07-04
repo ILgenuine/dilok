@@ -608,5 +608,6 @@
         if($(this).hasClass("liked")) {
             $(this).addClass('liked-shaked');
         }
+
     });
     </script>
