@@ -31,35 +31,36 @@
               <p>END storse simply dummy text of the printing and typesetting industry. Lorem </p>  
             </div>
             <div class="col-lg-6 mb-4">
-              <div class="Add_Branch-card">
-                <div class="Add_Branch-fix-frame mt-4">
-                  <img src='https://s3-ap-southeast-1.amazonaws.com/wpimage.shopspotapp.com/wp-content/uploads/2016/07/15072043/re_IMG_9319.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>  
+              <div class="add_Branch-card">
+                <div class="add_Branch-fix-frame mt-4">
+                  <a href="#"><img src='https://s3-ap-southeast-1.amazonaws.com/wpimage.shopspotapp.com/wp-content/uploads/2016/07/15072043/re_IMG_9319.jpg' class="add_Branch-img-top" /></a>  
                 </div>
                 <div class="text-center mt-3">
-                  <h5>NEWCASTLE</h5>
+                  <h3>NEWCASTLE</h3>
                 </div>
                 <div class="text-center mt-3">
-                  <button type="button" class="btn Add_Branch-btn-secondary">STORE INFORMATION</button>
+                  <button type="button" class="btn add_Branch-btn-secondary">STORE INFORMATION</button>
                 </div>
               </div>
             </div>
 
             <div class="col-lg-6 mb-4">
-              <div class="Add_Branch-card">
-                <div class="Add_Branch-fix-frame mt-4">
-                  <img src='https://igx.4sqi.net/img/general/600x600/1358283489_xWtuKk38sApf4ArGF5DS6cfNXKFnP58_i5pv8j25QQM.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>  
+              <div class="add_Branch-card">
+                <div class="add_Branch-fix-frame mt-4">
+                  <a href="#"><img src='https://s3-ap-southeast-1.amazonaws.com/wpimage.shopspotapp.com/wp-content/uploads/2016/07/15072043/re_IMG_9319.jpg' class="add_Branch-img-top" /></a>  
                 </div>
                 <div class="text-center mt-3">
-                  <h5>GLASGOW</h5>
+                  <h3>GLASGOW</h3>
                 </div>
                 <div class="text-center mt-3">
-                  <button type="button" class="btn Add_Branch-btn-secondary">STORE INFORMATION</button>
-                </div>  
+                  <button type="button" class="btn add_Branch-btn-secondary">STORE INFORMATION</button>
+                </div>
               </div>
             </div>
           </div>
         </div>
 
+          
 
 
 
