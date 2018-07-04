@@ -610,8 +610,8 @@ body{
 .wish-font2{
     font-weight: bolder;
 }
-.wish-d-n3{
-  display: none;
+.wish-d3{
+  display:none;
 }
 .wish-m{
   margin: 0px;
@@ -830,6 +830,9 @@ body{
   }
   .wish-m{
       margin: 5px;
+  }
+  .wish-m-ll{
+      margin-left: 0px;
   }
   /*-------------------------------------
   ----------- END WISH 1024 -------------
@@ -1191,6 +1194,9 @@ body{
   }
   .wish-p-r{
     padding-right: 20px;
+  }
+  .wish-m-ll{
+      margin-left: 0px;
   }
   /*-------------------------------------
   ----------- END WISHLIST 414 ----------
