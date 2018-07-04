@@ -145,10 +145,7 @@
     transition: 0.5s;
 }
 .help-chat-online {
-	font-size: 1px;
-    position: absolute;
-    top: 18px;
-    left: 145px;
+    font-size: 13px;
 }
 .help-filecontainer {
     overflow: hidden;
@@ -200,14 +197,19 @@
 --------------------------------*/
 
 
+/*-----------------------------
+--------- BLANK ---------------
+-------------------------------*/
+.blank-fontsize {
+	font-size: 16px;
+}
+
+
+/*-----------------------------
+--------- END BLANK -----------
+-------------------------------*/
 
 @media (max-width: 1366px){
-	.help-chat-online {
-	    font-size: 1px;
-	    position: absolute;
-	    top: 18px;
-	    left: 125px;
-	}
 
 }
 
@@ -216,12 +218,7 @@
 	    max-width: 90%!important;
 	    margin: 1.75rem auto!important;
 	}
-	.help-chat-online {
-	    font-size: 1px;
-	    position: absolute;
-	    top: 16px;
-	    left: 115px;
-	}
+
 }
 
 @media (max-width: 768px){
@@ -232,12 +229,7 @@
 	    max-width: 100%!important;
 	    margin: 5px 5px!important;
 	}
-	.help-chat-online {
-	    font-size: 1px;
-	    position: absolute;
-	    top: 17px;
-	    left: 80px;
-	}
+
 /*---------------------------
 ----- END ACCOUN 768 --------
 -----------------------------*/
@@ -251,12 +243,7 @@
 	    max-width: 100%!important;
 	    margin: 5px 5px 0px 5px!important;
 	}
-	.help-chat-online {
-	    font-size: 1px;
-	    position: absolute;
-	    top: 17px;
-	    left: 125px;
-	}
+
 	.help-modal-body {
 	    overflow-y: scroll;
 	    height: 600px;
@@ -298,12 +285,7 @@
 	    padding-bottom: 0px;
 	    margin: 20px 20px;
 	}
-	.help-chat-online {
-	    font-size: 1px;
-	    position: absolute;
-	    top: 17px;
-	    left: 105px;
-	}
+
 }
 
 @media (max-width: 320px){
@@ -325,10 +307,5 @@
 	    padding-bottom: 0px;
 	    margin: 20px 5px;
 	}
-	.help-chat-online {
-	    font-size: 1px;
-	    position: absolute;
-	    top: 17px;
-	    left: 80px;
-	}
+
 }
