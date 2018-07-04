@@ -201,24 +201,114 @@
 --------- BLANK ---------------
 -------------------------------*/
 .blank-fontsize {
-	font-size: 16px;
+	font-size: 15px;
+	color: #5d5d5d;
 }
-
+.blank-decoration {
+	border-bottom: 1px solid #ccc;
+}
 
 /*-----------------------------
 --------- END BLANK -----------
 -------------------------------*/
+
+/*------------------------------
+-------- SUB BRANCH ------------
+--------------------------------*/
+.sub-branch-fix-img {
+	position: relative;
+	overflow: hidden;
+	height: 540px;
+}
+.sub-branch-font-store {
+	font-size: 18px;
+    margin-bottom: 10px;
+}
+.sub-branch-font-address {
+	font-size: 14px;
+    color: #444;
+}
+.sub-branch-store {
+    margin-bottom: 35px;
+}
+.sub-branch-table {
+	width: 250px;
+    font-size: 14px;
+    color: #444;
+}
+.sub-branch-pb-30px {
+	padding-bottom: 30px;
+}
+.sub-img-auto {
+	position: absolute;
+    width: 100%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% ,-50%);
+    height: auto;
+}
+.sub-img-short {
+	position: relative;
+    overflow: hidden;
+    height: 550px;
+}
+.sub-img-long {
+	position: relative;
+    overflow: hidden;
+    height: 850px;
+}
+.sub-img-head-footer {
+	position: relative;
+    overflow: hidden;
+    height: 540px;
+}
+/*------------------------------
+------- END SUB BRANCH ---------
+--------------------------------*/
 
 @media (max-width: 1366px){
 
 }
 
 @media (max-width: 1024px){
+/*-----------------------------
+---------- ACCOUNT 1024 -------
+-------------------------------*/
 	.account-modal-dialog {
 	    max-width: 90%!important;
 	    margin: 1.75rem auto!important;
 	}
+/*-----------------------------
+-------- END ACCOUNT 1024 -----
+-------------------------------*/
 
+
+/*------------------------------
+-------- SUB BRANCH 1024--------
+--------------------------------*/
+	.sub-branch-fix-img {
+	    position: relative;
+	    overflow: hidden;
+	    height: 445px;
+	}
+	.sub-img-head-footer {
+	    position: relative;
+	    overflow: hidden;
+	    height: 455px;
+	}
+	.sub-img-short {
+	    position: relative;
+	    overflow: hidden;
+	    height: 455px;
+	}
+	.sub-img-long {
+	    position: relative;
+	    overflow: hidden;
+	    height: 705px;
+	}
+/*------------------------------
+----- END SUB BRANCH 1024 -------
+--------------------------------*/
 }
 
 @media (max-width: 768px){
@@ -233,6 +323,39 @@
 /*---------------------------
 ----- END ACCOUN 768 --------
 -----------------------------*/
+
+/*------------------------------
+-------- SUB BRANCH 768 --------
+--------------------------------*/
+	.sub-map-responsive {
+		height: 400px!important;
+	}
+	.sub-branch-fix-img {
+	    position: relative;
+	    overflow: hidden;
+	    height: 335px;
+	}
+	.sub-branch-pb-30px {
+	    padding-bottom: 10px;
+	}
+	.sub-img-head-footer {
+	    position: relative;
+	    overflow: hidden;
+	    height: 340px;
+	}
+	.sub-img-short {
+	    position: relative;
+	    overflow: hidden;
+	    height: 345px;
+	}
+	.sub-img-long {
+	    position: relative;
+	    overflow: hidden;
+	    height: 510px;
+	}
+/*------------------------------
+----- END SUB BRANCH 768 -------
+--------------------------------*/
 }
 
 @media (max-width: 414px){
@@ -264,9 +387,45 @@
 	}
 /*---------------------------
 ----- END ACCOUN 414 --------
------------------------------*/   
+-----------------------------*/
+
+/*------------------------------
+--------- SUB BRANCH 414 -------
+--------------------------------*/
+	.sub-branch-fix-img {
+	    position: relative;
+	    overflow: hidden;
+	    height: 190px;
+	}
+	.sub-map-responsive {
+	    height: 396px!important;
+	    padding: 0px 5px;
+	}
+	.sub-img-head-footer {
+	    position: relative;
+	    overflow: hidden;
+	    height: 190px;
+	}
+	.sub-img-short {
+	    position: relative;
+	    overflow: hidden;
+	    height: 390px;
+	}
+	.sub-img-long {
+	    position: relative;
+	    overflow: hidden;
+	    height: 605px;
+	}
+/*------------------------------
+----- END SUB BRANCH 414 -------
+--------------------------------*/
+
+
 }
 @media (max-width: 375px){
+/*---------------------------
+------- ACCOUNT 375 --------
+-----------------------------*/
 	.account-modal-dialog {
 	    max-width: 100%!important;
 	    margin: 5px 5px 0px 5px!important;
@@ -285,6 +444,36 @@
 	    padding-bottom: 0px;
 	    margin: 20px 20px;
 	}
+/*---------------------------
+----- END ACCOUN 375 --------
+-----------------------------*/
+
+/*------------------------------
+--------- SUB BRANCH 375 -------
+--------------------------------*/
+	.sub-branch-fix-img {
+	    position: relative;
+	    overflow: hidden;
+	    height: 170px;
+	}
+	.sub-img-head-footer {
+	    position: relative;
+	    overflow: hidden;
+	    height: 170px;
+	}
+	.sub-img-short {
+	    position: relative;
+	    overflow: hidden;
+	    height: 335px;
+	}
+	.sub-img-long {
+	    position: relative;
+	    overflow: hidden;
+	    height: 530px;
+	}
+/*------------------------------
+----- END SUB BRANCH 375 -------
+--------------------------------*/
 
 }
 
@@ -308,4 +497,39 @@
 	    margin: 20px 5px;
 	}
 
+/*------------------------------
+--------- SUB BRANCH 320 -------
+--------------------------------*/
+	.sub-branch-fix-img {
+	    position: relative;
+	    overflow: hidden;
+	    height: 145px;
+	}
+	.sub-map-responsive {
+	    height: 340px!important;
+	    padding: 0px 5px;
+	}
+	.sub-img-head-footer {
+	    position: relative;
+	    overflow: hidden;
+	    height: 140px;
+	}
+	.sub-img-short {
+	    position: relative;
+	    overflow: hidden;
+	    height: 295px;
+	}
+	.sub-img-short {
+	    position: relative;
+	    overflow: hidden;
+	    height: 295px;
+	}
+	.sub-img-long {
+	    position: relative;
+	    overflow: hidden;
+	    height: 450px;
+	}
+/*------------------------------
+----- END SUB BRANCH 320 -------
+--------------------------------*/
 }
