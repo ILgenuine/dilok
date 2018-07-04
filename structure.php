@@ -19,6 +19,7 @@
         <!-- CART SIDEBAR -->
         <?php include_once('inc/cart-sidebar.php'); ?>
         <?php include_once('inc/nav-sidebar.php'); ?>
+        <?php include_once('inc/filter-sidebar.php'); ?>
         <!-- END CART SIDEBAR -->
 
 
@@ -29,6 +30,11 @@
           <section class="structure py-5">
 
             <?php include_once('inc/latest-product.php'); ?>
+
+
+            <button class="btn btn-secondary cart-btn filter-sidebar-btn pull-right" type="button">
+                <span class="black"> filter </span>
+            </button>
 
 
           </section>
