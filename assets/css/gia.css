@@ -41,7 +41,6 @@ cursor: zoom-in;
     background-clip: border-box;
     border: 0px solid rgba(0,0,0,.125);
     border-radius: 0.25rem;
-    margin-right: -16px;
 }
 .launches-img-top {
    position:absolute;
@@ -153,13 +152,13 @@ cursor: zoom-in;
 /*-------------------------
 ---------Add_Branch-------
 ---------------------------*/
-.Add_Branch-btn-secondary {
+.add_Branch-btn-secondary {
     color: #020202;
-    background-color: #6c757d33;
+    background-color: #6c757d12;
     border-radius: 0px;
-    padding: 5px 50px 5px 50px;
+    padding: 15px 51px 15px 50px;
 }
-.Add_Branch-card{
+.add_Branch-card{
     position: relative;
     display: -ms-flexbox;
     display: flex;
@@ -172,11 +171,20 @@ cursor: zoom-in;
     border: 0px solid rgba(0,0,0,.125);
     border-radius: 0.25rem;
 }
-.Add_Branch-fix-frame{
-    height: 240px;
+.add_Branch-fix-frame{
+    height: 350px;
     position: relative;
     overflow: hidden;
     width: 100%;
+}
+.add_Branch-img-top {
+   position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: auto;
+    
 }
 
 
@@ -184,8 +192,90 @@ cursor: zoom-in;
 ---------Add_Branch end------
 ---------------------------*/
 
+/*-------------------------
+---------Add_our_story------
+---------------------------*/
+.add_our_story-fix-frame{
+    height: 350px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+.add_our_story-img-top {
+   position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: auto;
+    
+}
+.add_our_story-fix-frame-boy {
+    height: 640px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+.add_our_story-img-top-boy {
+   position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: auto;
+    
+}
+.add_our_story-padding{
+    padding: 15px 100px 0px 100px;
+}
+
+.add_our_story-padtext{
+    padding-bottom: 210px;
+    padding-top: 210px;
+}
+.add_our_story-line{
+    line-height: 3px;
+}
+
+
+/*-------------------------
+---------Add_our_story end-----
+---------------------------*/
+
+/*-----------------------------
+----------launches_detail------
+-------------------------------*/
+.launches_detail-color-font{
+    color: #ff2f2f;
+}
+.launches_detail-text{
+    font-size: 30px;
+}
+.launches_detail-color-icon{
+    color: #00000030;
+}
+.launches_detail-hr{
+    border-width: 2px;
+    background-color: black;
+}
+.launches_detail-lineheight{
+    line-height: 20px;
+}
+.launches_detail-bg{
+    padding: 30px 50px 30px 50px;
+    background-color: #d0d0d04a;
+}
+/*-----------------------------
+----------launches_detail end---
+-------------------------------*/
+
 
 @media (max-width: 1366px){
+
+ /*-------------------------
+---------launches -------
+---------------------------*/   
     .lau_pad_10{
         padding: 0px 0px 0px 10px;
     }
@@ -194,9 +284,17 @@ cursor: zoom-in;
     font-size: 14px;
 }
 
+/*-------------------------
+---------launches end-------
+---------------------------*/
+
 }
 
 @media (max-width: 1024px){
+
+/*-------------------------
+---------launches -------
+---------------------------*/    
   
     .lau_pad_10{
         padding: 0px 0px 0px 10px;
@@ -211,26 +309,47 @@ cursor: zoom-in;
     overflow: hidden;
     width: 100%;
 }
+/*-------------------------
+---------launches end-------
+---------------------------*/
 
 }
 
 @media (max-width: 768px){
-    .card_new {
-        margin-right: 0px;
-    }
+
+/*-------------------------
+---------launches -------
+---------------------------*/
+
     .launches_font_32 {
         text-align: center;
         font-size: 14px;
     }
+  
+  .launches-img {
+    width: 660px;
+}
     .launches-fix-frame {
-    height: 380px;
+    height: auto;
     position: relative;
     overflow: hidden;
-    width: 650px;
-    }
-    .launches-img{
-         width: 650px;
-    }
+    width: 100%;
+}
+/*-------------------------
+---------launches end-------
+---------------------------*/
+
+ /*-------------------------
+---------Add_our_story------
+---------------------------*/
+.add_our_story-padtext {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+/*----------------------------
+---------Add_our_story end-----
+-----------------------------*/
+
 
 
 
@@ -238,6 +357,9 @@ cursor: zoom-in;
 
 @media (max-width: 414px){
 
+/*-------------------------
+---------launches-------
+---------------------------*/
     .launches_font_32 {
     text-align: left;
     font-size: 14px;
@@ -252,10 +374,44 @@ cursor: zoom-in;
     width: 100%;
 }
 
+/*-------------------------
+---------launches end-------
+---------------------------*/
+
+
+/*--------------------------
+--------add_branch----------
+---------------------------*/
+.add_Branch-fix-frame {
+    height: 270px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+/*--------------------------
+--------add_branch end------
+---------------------------*/
+
+/*---------------------------
+--------add_our story--------
+----------------------------*/
+.add_our_story-padding {
+    padding: 0px;
+}
+/*---------------------------
+--------add_our story end-----
+----------------------------*/
+
+
+
 
     
 }
 @media (max-width: 375px){
+
+/*-------------------------
+---------launches-----------
+---------------------------*/
 
     .launches_font_32 {
     text-align: left;
@@ -270,9 +426,41 @@ cursor: zoom-in;
     height: 100%;
 }
 
+/*-------------------------
+---------launches end-----------
+---------------------------*/
+
+
+/*--------------------------
+--------add_branch----------
+---------------------------*/
+.add_Branch-fix-frame {
+    height: 240px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+/*--------------------------
+--------add_branch end----------
+---------------------------*/
+
 
 }
 
 @media (max-width: 320px){
+
+/*--------------------------
+--------add_branch----------
+---------------------------*/    
+    .add_Branch-fix-frame {
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+/*--------------------------
+--------add_branch end-------
+---------------------------*/
 
 }
