@@ -93,6 +93,7 @@
                     <img class="slide-img" src='assets/images/index/slide/bg.png'>
                     <div class="row header-row">
                       <div class="col-12">
+                        
                         <h1>Best of MEN's SNEAKERS</h1>
                         <h5>ลดราคารองเท้า 50 - 70% ไม่ว่าจะเป็นรองเท้าผ้าใบ รองเท้าเดือนทาง รองเท้าวิ่ง</h5>
                       </div>

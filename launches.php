@@ -60,7 +60,7 @@
 				  		<div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-4 col-md-4  launches_border text-md-center">
-									<p class="launches_font_30">กุมภาพันธ์</p>
+									<p class="launches_font_3">กุมภาพันธ์</p>
 									<p class="launches_font_31">7</p>
 									<p class="launches_font_32">2561</p>
 				      			</div>
@@ -90,7 +90,7 @@
 					 	<div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-									<p class="launches_font_30">มีนาคม</p>
+									<p class="launches_font_3">มีนาคม</p>
 									<p class="launches_font_31">28</p>
 									<p class="launches_font_32">2561</p>
 				      			</div>
@@ -120,7 +120,7 @@
 					  <div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-									<p class="launches_font_30">มกราคม</p>
+									<p class="launches_font_3">มกราคม</p>
 									<p class="launches_font_31">31</p>
 									<p class="launches_font_32">2561</p>
 				      			</div>
@@ -150,7 +150,7 @@
 					  <div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-									<p class="launches_font_30">มกราคม</p>
+									<p class="launches_font_3">มกราคม</p>
 									<p class="launches_font_31">31</p>
 									<p class="launches_font_32">2561</p>
 				      			</div>
@@ -180,7 +180,7 @@
 					  <div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-									<p class="launches_font_30">มกราคม</p>
+									<p class="launches_font_3">มกราคม</p>
 									<p class="launches_font_31">31</p>
 									<p class="launches_font_32">2561</p>
 				      			</div>
@@ -210,12 +210,15 @@
 					  <div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-									<p class="launches_font_30">มกราคม</p>
+									<p class="launches_font_3">มกราคม</p>
 									<p class="launches_font_31">31</p>
 									<p class="launches_font_32">2561</p>
 				      			</div>
 				     			<div class="col-9 col-lg-8 col-md-8 lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
+				     				<div>
+				     					<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
+				     				</div>
+				     				
 				     				<p  class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
