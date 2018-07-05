@@ -28,10 +28,10 @@
 
 <!-- ------card----- -->
 
-        <div class="container">
-		    <div class="row mt-5"> 
+         <div class="container-fluid custom-container">
+		    <div class="row mt-3"> 
 	    		<div class="col-lg-6 col-md-6 col-12 text-lg-left text-md-left text-center">
-	    	         <p>LAUNCHES</p>
+	    	         <p style="padding-top: 14px;">LAUNCHES</p>
 	            </div>
 	            <div class="col-lg-6 col-md-6 col-12 text-lg-right text-md-right text-center">
 	            	<button type="button" class="btn fast-buy p-2">
@@ -48,9 +48,9 @@
 		    </div>
 	    </div>
 
-	    <div class="container mt-5">
+	    <div class="container-fluid custom-container mt-2">
 	    	<div class="row">
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 	    					<span class='zoom' id='zoom1'>
@@ -71,7 +71,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>Book now</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -80,7 +80,7 @@
 				  		</div>
 					</div>
 	    		</div>
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					 		<span class='zoom' id='zoom2'>
@@ -101,7 +101,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>Book now</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -110,7 +110,7 @@
 				  		</div>
 					</div>
 	    		</div>	
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom3'>
@@ -131,7 +131,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>Book now</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -140,7 +140,7 @@
 				  		</div>
 					</div>
 	    		</div>
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12 mt-lg-4">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom4'>
@@ -161,7 +161,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>Book now</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -170,7 +170,7 @@
 				  		</div>
 					</div>
 	    		</div>		  
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12 mt-lg-4">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom5'>
@@ -191,7 +191,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>Book now</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -200,7 +200,7 @@
 				  		</div>
 					</div>
 	    		</div>		  
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12 mt-lg-4">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom6'>
@@ -224,7 +224,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>Book nowี</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -233,12 +233,6 @@
 				  		</div>
 					</div>
 	    		</div>
-	    		<!-- <div class="col-lg-4">
-	    			<span class='zoom' id='zoom1'>
-						<img src='http://www.babywallpaper.us/user-content/uploads/wall/o/55/170720136.jpg' width='500' height='400' alt='Baby Wallper'/>
-					</span>		  		
-	    		</div> -->
-	    		    		
 	    	</div>
 	    </div>
 
@@ -248,9 +242,9 @@
 
 <!--------เลขหน้า --------->
 
-		<div class="container mt-5">                  
+		<div class="container-fluid custom-container mt-5">                  
           <ul class="pagination justify-content-center">
-            <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">1</a></li>
+            <li class="page-item pr-1"><a class="news_page-link active" href="javascript:void(0);">1</a></li>
             <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">2</a></li>
             <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">3</a></li>
             <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">4</a></li>        
