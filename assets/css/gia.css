@@ -21,6 +21,7 @@ position: relative;
 }
 .zoom img {
 display: block;
+cursor: zoom-in;
 }
 .zoom img::selection { 
     background-color: transparent; 

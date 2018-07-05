@@ -60,10 +60,10 @@
                   <div class="collapse show" id="collapseExample111">
                       <div class="mt-2">
                           <span class="fillter-select fillter-font3">
-                            <i class="fas fa-times pr-2"></i>Male
+                            <a href="#" class="fas fa-times pr-2"></a>Male
                           </span>
                           <span class="ml-2 fillter-select fillter-font3">
-                            <i class="fas fa-times pr-2"></i>Adidas
+                            <a href="#" class="fas fa-times pr-2"></a>Adidas
                           </span>
                       </div>
                   </div>
