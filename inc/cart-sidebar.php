@@ -8,7 +8,7 @@
 <nav id="sidebar">
     <!-- Sidebar Header -->
     <div class="sidebar-head">
-      <div class="row h-100">
+      <div class="row h-100 mx-0">
         <div class="col-12 px-0">
           <div class="row p-2">
 
