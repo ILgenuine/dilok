@@ -100,7 +100,7 @@ body{
     padding-left: 25px;
 }
 .regist-m-l{
-    margin-left: 65px;
+    margin-left: 60px;
 }
 .regist-m-l2{
     margin-left: 35px;
@@ -507,7 +507,7 @@ body{
 }
 .pay-size4{
     width: 100%;
-    height: 120px;
+    height: 110px;
     border: 1px solid #888;
 }
 .pay-form{
@@ -655,7 +655,7 @@ body{
   ---------------------------------------*/
   .pay-size4{
       width: 100%;
-      height:95px;
+      height:90px;
       border: 1px solid #888;
   }
   .pay-m-t{
@@ -729,7 +729,7 @@ body{
       margin-top:20px;
   }
   .regist-m-l{
-      margin-left:280px;
+      margin-left:275px;
   }
   .regist-m-t4{
       margin-top: 50px;
@@ -754,7 +754,7 @@ body{
   /*-------------------------------------
   ---------- END FORGOT 1024 ------------
   ---------------------------------------*/
-  
+
 
   /*-------------------------------------
   --------------- PAY 1024 --------------
@@ -846,7 +846,7 @@ body{
         border-right: none;
     }
     .regist-m-l{
-        margin-left: 42em;
+        margin-left: 41em;
     }
     .regist-m-t4{
         margin-top: 40px;
@@ -999,7 +999,7 @@ body{
         padding-left: 10px;
     }
     .regist-m-l{
-        margin-left: 200px;
+        margin-left: 190px;
     }
     .regist-m-t4{
         margin-top: 40px;
@@ -1202,7 +1202,7 @@ body{
         margin-left:160px;
     }
     .regist-m-l{
-        margin-left: 160px;
+        margin-left: 150px;
     }
   /*-----------------------------------
   ---------- END REGIST 375 -----------
@@ -1281,7 +1281,7 @@ body{
   ------------ REGIST 320  --------------
   ---------------------------------------*/
   .regist-m-l{
-        margin-left:105px;
+        margin-left:100px;
   }
   /*-------------------------------------
   ---------- END REGIST 320  -------------

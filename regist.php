@@ -53,7 +53,7 @@
                         <div class="col-xl-6 regist-m-t4">
                             <label class="regist-font4 d-flex">
                                 First Name
-                                <span class="forgot-font3">*</span>
+                                <span class="forgot-font3 ml-1">*</span>
                             </label>
                             <div class="text-center">
                                 <input type="text" name="" value="" class="regist-form" placeholder="First Name">
@@ -62,7 +62,7 @@
                         <div class="col-xl-6 regist-m-t3">
                             <label class="regist-font4 d-flex">
                                 Email Address
-                                <span class="forgot-font3">*</span>
+                                <span class="forgot-font3 ml-1">*</span>
                                 <span class="forgot-font4 regist-m-l">*Required fields</span>
                             </label>
                             <div class="text-center">
@@ -73,7 +73,7 @@
                     <form class="form-group">
                           <label class="regist-font4 d-flex">
                              Email
-                             <span class="forgot-font3">*</span>
+                             <span class="forgot-font3 ml-1">*</span>
                           </label>
                           <div class="text-center">
                              <input type="text" name="" value="" class="regist-form" placeholder="Email">
@@ -93,8 +93,8 @@
                     <form class="form-group">
                         <label class="regist-font4 d-flex">
                             Create password
-                            <span class="forgot-font3">*</span>
-                            <span class="regist-font6">(Minimum 6 charactors)</span>
+                            <span class="forgot-font3 ml-1">*</span>
+                            <span class="regist-font6 ml-2">(Minimum 6 charactors)</span>
                         </label>
                         <div class="text-center">
                             <input type="password" name="" value="" class="regist-form" placeholder="Create password">
@@ -103,7 +103,7 @@
                     <form class="form-group">
                         <label class="regist-font4 d-flex">
                             Confirm Password
-                            <span class="forgot-font3">*</span>
+                            <span class="forgot-font3 ml-1">*</span>
                         </label>
                         <div class="text-center">
                             <input type="password" name="" value="" class="regist-form" placeholder="Confirm Password">
@@ -129,7 +129,7 @@
                      <form class="form-group regist-m-t4">
                           <label class="regist-font4 d-flex">
                               Email
-                              <span class="forgot-font3">*</span>
+                              <span class="forgot-font3 ml-1">*</span>
                           </label>
                           <div class="text-center">
                               <input type="text" name="" value="" class="regist-form" placeholder="Email">
@@ -138,7 +138,7 @@
                      <form class="form-group regist-m-t6">
                           <label class="regist-font4 d-flex">
                               Password
-                              <span class="forgot-font3">*</span>
+                              <span class="forgot-font3 ml-1">*</span>
                           </label>
                           <div class="text-center">
                               <input type="password" name="" value="" class="regist-form" placeholder="Password">

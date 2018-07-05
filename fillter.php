@@ -35,9 +35,6 @@
               <li class="breadcrumb-item active" aria-current="page">
                   <span class="fillter-font-step">Adidas</span>
               </li>
-              <li class="breadcrumb-item active" aria-current="page">
-                  <span class="fillter-font-step">Men running</span>
-              </li>
             </ol>
           </div>
           <div class="col-xl-3 col-6 col-lg-3 col-md-6 text-center text-lg-right text-md-right mt-2 order-1 order-lg-2 order-md-1">
