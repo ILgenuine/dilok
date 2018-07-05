@@ -56,11 +56,11 @@
         <div class="col-xl-2 col-lg-3 fillter-d-n3" id="myDIV">
           <section class="filter">
              <div class="form-group">
-                  <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample60" aria-expanded="false" aria-controls="collapseExample">
+                  <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample111" aria-expanded="false" aria-controls="collapseExample">
                       <span class="fillter-font2 pull-left">SELECTED</span>
                       <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
                   </button>
-                  <div class="collapse show" id="collapseExample60">
+                  <div class="collapse show" id="collapseExample111">
                       <div class="mt-2">
                           <span class="fillter-select fillter-font3">
                             <a href="#" class="fas fa-times pr-2"></a>Male
@@ -73,11 +73,11 @@
               </div>
               <hr>
               <div class="form-group">
-                    <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample55" aria-expanded="false" aria-controls="collapseExample">
+                    <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample222" aria-expanded="false" aria-controls="collapseExample">
                         <span class="fillter-font2 pull-left">GENDER</span>
                         <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
                     </button>
-                    <div class="collapse show" id="collapseExample55">
+                    <div class="collapse show" id="collapseExample222">
                         <div class="filter-scroll">
                             <label class="check">
                                 <div class="regist-m-l2 pt-1 fillter-font3">Male</div>
@@ -104,11 +104,11 @@
                 </div>
                 <hr>
                 <div class="form-group">
-                      <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample56" aria-expanded="false" aria-controls="collapseExample">
+                      <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample333" aria-expanded="false" aria-controls="collapseExample">
                           <span class="fillter-font2 pull-left">BRAND</span>
                           <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
                       </button>
-                      <div class="collapse show" id="collapseExample56">
+                      <div class="collapse show" id="collapseExample333">
                           <div class="filter-scroll">
                               <label class="check">
                                   <div class="regist-m-l2 pt-1 fillter-font3">Adidas</div>
@@ -183,11 +183,11 @@
                   </div>
                 <hr>
                 <div class="form-group">
-                      <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample57" aria-expanded="false" aria-controls="collapseExample">
+                      <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample444" aria-expanded="false" aria-controls="collapseExample">
                           <span class="fillter-font2 pull-left">CLOTHING SIZE</span>
                           <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
                       </button>
-                      <div class="collapse show" id="collapseExample57">
+                      <div class="collapse show" id="collapseExample444">
                           <div class="filter-scroll">
                               <label class="check">
                                   <div class="regist-m-l2 pt-1 fillter-font3">One Size</div>
@@ -220,11 +220,11 @@
                   </div>
                   <hr>
                   <div class="form-group">
-                        <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample58" aria-expanded="false" aria-controls="collapseExample">
+                        <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample555" aria-expanded="false" aria-controls="collapseExample">
                             <span class="fillter-font2 pull-left">FOOTWEAR SIZE</span>
                             <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
                         </button>
-                        <div class="collapse show" id="collapseExample58">
+                        <div class="collapse show" id="collapseExample555">
                             <div class="filter-scroll">
                                 <label class="check">
                                     <div class="regist-m-l2 pt-1 fillter-font3">UK 3</div>
@@ -257,11 +257,11 @@
                     </div>
                     <hr>
                     <div class="form-group">
-                          <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample59" aria-expanded="false" aria-controls="collapseExample">
+                          <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample666" aria-expanded="false" aria-controls="collapseExample">
                               <span class="fillter-font2 pull-left">COLOR</span>
                               <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
                           </button>
-                          <div class="collapse show" id="collapseExample59">
+                          <div class="collapse show" id="collapseExample666">
                               <div class="filter-scroll">
                                   <label class="check">
                                       <div class="regist-m-l2 pt-1 fillter-font3">Black</div>
@@ -307,7 +307,7 @@
                               </div>
                               <div class="card-body p-0">
                                 <div class="row px-0 mx-0">
-                                    <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                    <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                         <div class="product-title">
                                           <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                         </div>
@@ -315,14 +315,7 @@
                                           <span>Men running</span>
                                         </div>
                                     </div>
-                                    <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                      <button class="navbar-toggler hamburger py-2" type="button">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                          <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                        </svg>
-                                      </button>
-                                    </div>
-                                    <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                    <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                       <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                     </div>
                                     <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
@@ -364,7 +357,7 @@
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
-                                <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                 <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes<span>
                                       </div>
@@ -372,14 +365,7 @@
                                         <span>Men running</span>
                                       </div>
                                   </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0  fillter-logo">
-                                    <button class="navbar-toggler hamburger py-2" type="button">
-                                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                        <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                      </svg>
-                                    </button>
-                                  </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0  fillter-logo">
+                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                     <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                   </div>
                                   <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -421,7 +407,7 @@
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
-                                <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                 <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes<span>
                                       </div>
@@ -429,14 +415,7 @@
                                         <span>Men running</span>
                                       </div>
                                   </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                    <button class="navbar-toggler hamburger py-2" type="button">
-                                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                        <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                      </svg>
-                                    </button>
-                                  </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                     <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                   </div>
                                   <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -478,7 +457,7 @@
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
-                                <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                 <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes<span>
                                       </div>
@@ -486,14 +465,7 @@
                                         <span>Men running</span>
                                       </div>
                                   </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                    <button class="navbar-toggler hamburger py-2" type="button">
-                                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                        <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                      </svg>
-                                    </button>
-                                  </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                     <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                   </div>
                                   <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -535,7 +507,7 @@
                             </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
-                                  <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                  <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                       </div>
@@ -543,14 +515,7 @@
                                         <span>Men running</span>
                                       </div>
                                   </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                    <button class="navbar-toggler hamburger py-2" type="button">
-                                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                        <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                      </svg>
-                                    </button>
-                                  </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                     <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                   </div>
                                   <div class="col-xl-4 col-md-3 col-lg-3 col-3 px-xl-2 px-0 mb-2">
@@ -592,7 +557,7 @@
                             </div>
                           <div class="card-body p-0">
                             <div class="row px-0 mx-0">
-                              <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                               <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                     <div class="product-title">
                                       <span>Pureboost DPR Shoes<span>
                                     </div>
@@ -600,14 +565,7 @@
                                       <span>Men running</span>
                                     </div>
                                 </div>
-                                <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                  <button class="navbar-toggler hamburger py-2" type="button">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                      <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                    </svg>
-                                  </button>
-                                </div>
-                                <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                   <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                 </div>
                                 <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -649,7 +607,7 @@
                             </div>
                           <div class="card-body p-0">
                             <div class="row px-0 mx-0">
-                                <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                     <div class="product-title">
                                       <span>Pureboost DPR Shoes<span>
                                     </div>
@@ -657,14 +615,7 @@
                                       <span>Men running</span>
                                     </div>
                                 </div>
-                                <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                  <button class="navbar-toggler hamburger py-2" type="button">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                      <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                    </svg>
-                                  </button>
-                                </div>
-                                <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                   <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                 </div>
                                 <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -706,7 +657,7 @@
                             </div>
                           <div class="card-body p-0">
                             <div class="row px-0 mx-0">
-                              <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                               <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                     <div class="product-title">
                                       <span>Pureboost DPR Shoes<span>
                                     </div>
@@ -714,14 +665,7 @@
                                       <span>Men running</span>
                                     </div>
                                 </div>
-                                <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                  <button class="navbar-toggler hamburger py-2" type="button">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                      <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                    </svg>
-                                  </button>
-                                </div>
-                                <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                   <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                 </div>
                                 <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -763,7 +707,7 @@
                               </div>
                               <div class="card-body p-0">
                                 <div class="row px-0 mx-0">
-                                    <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                    <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                         <div class="product-title">
                                           <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                         </div>
@@ -771,14 +715,7 @@
                                           <span>Men running</span>
                                         </div>
                                     </div>
-                                    <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                      <button class="navbar-toggler hamburger py-2" type="button">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                          <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                        </svg>
-                                      </button>
-                                    </div>
-                                    <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                    <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                       <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                     </div>
                                     <div class="col-xl-4 col-md-3 col-md-3 col-3 px-xl-2 px-0 mb-2">
@@ -820,7 +757,7 @@
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
-                                <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                 <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes<span>
                                       </div>
@@ -828,14 +765,7 @@
                                         <span>Men running</span>
                                       </div>
                                   </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 col-md-6mb-2 px-0 fillter-logo">
-                                    <button class="navbar-toggler hamburger py-2" type="button">
-                                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                        <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                      </svg>
-                                    </button>
-                                  </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                     <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                   </div>
                                   <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -877,7 +807,7 @@
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
-                                  <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                  <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes<span>
                                       </div>
@@ -885,14 +815,7 @@
                                         <span>Men running</span>
                                       </div>
                                   </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                    <button class="navbar-toggler hamburger py-2" type="button">
-                                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                        <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                      </svg>
-                                    </button>
-                                  </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                     <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                   </div>
                                   <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -934,7 +857,7 @@
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
-                                <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                 <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes<span>
                                       </div>
@@ -942,14 +865,7 @@
                                         <span>Men running</span>
                                       </div>
                                   </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                    <button class="navbar-toggler hamburger py-2" type="button">
-                                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                        <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                      </svg>
-                                    </button>
-                                  </div>
-                                  <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                     <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                   </div>
                                   <div class="col-xl-4 px-xl-2 px-0 mb-2">
