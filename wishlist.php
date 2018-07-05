@@ -51,7 +51,7 @@
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
-                                          <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                          <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                               <div class="product-title">
                                                 <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                               </div>
@@ -59,14 +59,7 @@
                                                 <span>Men running</span>
                                               </div>
                                           </div>
-                                          <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                              <button class="navbar-toggler hamburger py-2" type="button">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                                  <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                                </svg>
-                                              </button>
-                                          </div>
-                                          <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                          <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                               <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                           </div>
                                           <div class="col-xl-4 col-md-4 col-4 col-lg-4 px-xl-2 px-0 mb-2 filtered-item3">
@@ -108,7 +101,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                        <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -116,14 +109,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0  fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0  fillter-logo">
+                                        <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
                                         <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -165,7 +151,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                        <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -173,14 +159,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
                                         <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -222,7 +201,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                        <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -230,14 +209,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
                                         <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -279,7 +251,7 @@
                                   </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                        <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                        <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                             </div>
@@ -287,14 +259,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                         </div>
                                         <div class="col-xl-4 col-md-3 col-lg-4 col-4 px-xl-2 px-0 mb-2">
@@ -336,7 +301,7 @@
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
-                                    <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                      <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                           <div class="product-title">
                                             <span>Pureboost DPR Shoes<span>
                                           </div>
@@ -344,14 +309,7 @@
                                             <span>Men running</span>
                                           </div>
                                       </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                        <button class="navbar-toggler hamburger py-2" type="button">
-                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                            <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                          </svg>
-                                        </button>
-                                      </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                      <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                         <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                       </div>
                                       <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -393,7 +351,7 @@
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                      <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                           <div class="product-title">
                                             <span>Pureboost DPR Shoes<span>
                                           </div>
@@ -401,14 +359,7 @@
                                             <span>Men running</span>
                                           </div>
                                       </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                        <button class="navbar-toggler hamburger py-2" type="button">
-                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                            <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                          </svg>
-                                        </button>
-                                      </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                      <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                         <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                       </div>
                                       <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -450,7 +401,7 @@
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
-                                    <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                     <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                           <div class="product-title">
                                             <span>Pureboost DPR Shoes<span>
                                           </div>
@@ -458,14 +409,7 @@
                                             <span>Men running</span>
                                           </div>
                                       </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                        <button class="navbar-toggler hamburger py-2" type="button">
-                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                            <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                          </svg>
-                                        </button>
-                                      </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                      <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                         <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                       </div>
                                       <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -507,7 +451,7 @@
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
-                                          <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                          <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                               <div class="product-title">
                                                 <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                               </div>
@@ -515,14 +459,7 @@
                                                 <span>Men running</span>
                                               </div>
                                           </div>
-                                          <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                            <button class="navbar-toggler hamburger py-2" type="button">
-                                              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                                <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                              </svg>
-                                            </button>
-                                          </div>
-                                          <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                          <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                             <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                           </div>
                                           <div class="col-xl-4 col-md-3 col-lg-4 col-4 px-xl-2 px-0 mb-2">
@@ -564,7 +501,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                       <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -572,14 +509,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 col-md-6mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
                                         <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -621,7 +551,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                        <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                        <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -629,14 +559,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
                                         <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -678,7 +601,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                       <div class="col-xl-8 col-md-9 col-9 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -686,14 +609,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 col-md-3 col-3 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
                                         <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -740,12 +656,13 @@
 
 
 
-      <!-- SHOW 1366 -->
+           <!-- SHOW 1366 -->
+
             <div class="row wish-d3">
-                <div class="filtered-item  col-xl-12 col-lg-12 col-md-12 fadeIn animated">
+                <div class="filtered-item col-xl-12 fadeIn animated">
                   <section class="grid-item box">
                       <ul class="row list-unstyled">
-                          <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                          <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                               <div class="item">
                                 <div class="card p-3 wish-m">
                                     <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
@@ -755,7 +672,7 @@
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
-                                          <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                          <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                               <div class="product-title">
                                                 <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                               </div>
@@ -763,25 +680,18 @@
                                                 <span>Men running</span>
                                               </div>
                                           </div>
-                                          <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                              <button class="navbar-toggler hamburger py-2" type="button">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                                  <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                                </svg>
-                                              </button>
-                                          </div>
-                                          <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                          <div class="col-xl-4 mb-2 px-0 text-right">
                                               <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                           </div>
-                                          <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
+                                          <div class="col-xl-4 px-xl-2 px-0 mb-2 filtered-item3">
                                               <div class="sale-percent">
                                                 <span>ลด 50%</span>
                                               </div>
                                           </div>
-                                          <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
+                                          <div class="col-xl-8 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                               <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                           </div>
-                                          <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                          <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                               <button type="button" class="btn add-to-cart p-2">
                                                 <label class="mb-0 d-flex px-2">
                                                     <span>เพิ่มใส่ตะกร้า</span>
@@ -789,7 +699,7 @@
                                                 </label>
                                               </button>
                                           </div>
-                                          <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                          <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                               <button type="button" class="btn fast-buy p-2">
                                                 <label class="mb-0 d-flex px-2">
                                                     <span>ซื้อทันที</span>
@@ -802,7 +712,7 @@
                                 </div>
                               </div>
                           </li>
-                          <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                          <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                               <div class="item">
                                 <div class="card p-3 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
@@ -812,7 +722,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                      <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -820,25 +730,18 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0  fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0  fillter-logo">
+                                        <div class="col-xl-4 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
-                                        <div class="col-xl-4 px-xl-2 px-0 mb-2">
+                                        <div class="col-xl-4 px-0 mb-2">
                                           <div class="sale-percent">
                                             <span></span>
                                           </div>
                                         </div>
-                                        <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2 latest-product-price">
+                                        <div class="col-xl-8 px-xl-2 px-0 mb-2 latest-product-price">
                                           <span class="normal">1,850</span><span class="currency">THB</span>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn add-to-cart p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>เพิ่มใส่ตะกร้า</span>
@@ -846,7 +749,7 @@
                                             </label>
                                           </button>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn fast-buy p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>ซื้อทันที</span>
@@ -859,7 +762,7 @@
                                 </div>
                               </div>
                           </li>
-                          <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                          <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                               <div class="item">
                                 <div class="card p-3 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
@@ -869,7 +772,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                      <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -877,14 +780,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
                                         <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -892,10 +788,10 @@
                                             <span></span>
                                           </div>
                                         </div>
-                                        <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2 latest-product-price">
+                                        <div class="col-xl-8 px-xl-2 px-0 mb-2 latest-product-price">
                                           <span class="normal">1,850</span><span class="currency">THB</span>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn add-to-cart p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>เพิ่มใส่ตะกร้า</span>
@@ -903,7 +799,7 @@
                                             </label>
                                           </button>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn fast-buy p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>ซื้อทันที</span>
@@ -916,7 +812,7 @@
                                 </div>
                               </div>
                           </li>
-                          <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                          <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                               <div class="item">
                                 <div class="card p-3 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
@@ -926,7 +822,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                      <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -934,14 +830,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
                                         <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -949,10 +838,10 @@
                                             <span></span>
                                           </div>
                                         </div>
-                                        <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2 latest-product-price">
+                                        <div class="col-xl-8 px-xl-2 px-0 mb-2 latest-product-price">
                                           <span class="normal">1,850</span><span class="currency">THB</span>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn add-to-cart p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>เพิ่มใส่ตะกร้า</span>
@@ -960,7 +849,7 @@
                                             </label>
                                           </button>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn fast-buy p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>ซื้อทันที</span>
@@ -973,7 +862,7 @@
                                 </div>
                               </div>
                           </li>
-                          <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                          <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                             <div class="item first">
                               <div class="card p-3 wish-m">
                                   <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
@@ -983,7 +872,7 @@
                                   </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                        <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                        <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                             </div>
@@ -991,25 +880,18 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                         </div>
-                                        <div class="col-xl-4 col-md-3 col-lg-3 col-3 px-xl-2 px-0 mb-2">
+                                        <div class="col-xl-4 px-xl-2 px-0 mb-2">
                                           <div class="sale-percent">
                                             <span>ลด 50%</span>
                                           </div>
                                         </div>
-                                        <div class="col-xl-8 col-md-9 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price">
+                                        <div class="col-xl-8 px-xl-2 px-0 mb-2 latest-product-price">
                                           <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn add-to-cart p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>เพิ่มใส่ตะกร้า</span>
@@ -1017,7 +899,7 @@
                                             </label>
                                           </button>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn fast-buy p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>ซื้อทันที</span>
@@ -1030,7 +912,7 @@
                               </div>
                             </div>
                           </li>
-                          <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                          <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                             <div class="item">
                               <div class="card p-3 wish-m">
                                 <!-- แทนสินค้าร่วมรายการ -->
@@ -1040,7 +922,7 @@
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
-                                    <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                    <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                           <div class="product-title">
                                             <span>Pureboost DPR Shoes<span>
                                           </div>
@@ -1048,14 +930,7 @@
                                             <span>Men running</span>
                                           </div>
                                       </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                        <button class="navbar-toggler hamburger py-2" type="button">
-                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                            <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                          </svg>
-                                        </button>
-                                      </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                      <div class="col-xl-4 mb-2 px-0 text-right">
                                         <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                       </div>
                                       <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -1063,10 +938,10 @@
                                           <span></span>
                                         </div>
                                       </div>
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2 latest-product-price">
+                                      <div class="col-xl-8 px-xl-2 px-0 mb-2 latest-product-price">
                                         <span class="normal">1,850</span><span class="currency">THB</span>
                                       </div>
-                                      <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                      <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                         <button type="button" class="btn add-to-cart p-2">
                                           <label class="mb-0 d-flex px-2">
                                             <span>เพิ่มใส่ตะกร้า</span>
@@ -1074,7 +949,7 @@
                                           </label>
                                         </button>
                                       </div>
-                                      <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                      <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                         <button type="button" class="btn fast-buy p-2">
                                           <label class="mb-0 d-flex px-2">
                                             <span>ซื้อทันที</span>
@@ -1087,7 +962,7 @@
                               </div>
                             </div>
                         </li>
-                        <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                        <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                             <div class="item">
                               <div class="card p-3 wish-m">
                                 <!-- แทนสินค้าร่วมรายการ -->
@@ -1097,7 +972,7 @@
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                      <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                           <div class="product-title">
                                             <span>Pureboost DPR Shoes<span>
                                           </div>
@@ -1105,14 +980,7 @@
                                             <span>Men running</span>
                                           </div>
                                       </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                        <button class="navbar-toggler hamburger py-2" type="button">
-                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                            <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                          </svg>
-                                        </button>
-                                      </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                      <div class="col-xl-4 mb-2 px-0 text-right">
                                         <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                       </div>
                                       <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -1120,10 +988,10 @@
                                           <span></span>
                                         </div>
                                       </div>
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2 latest-product-price">
+                                      <div class="col-xl-8 px-xl-2 px-0 mb-2 latest-product-price">
                                         <span class="normal">1,850</span><span class="currency">THB</span>
                                       </div>
-                                      <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                      <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                         <button type="button" class="btn add-to-cart p-2">
                                           <label class="mb-0 d-flex px-2">
                                             <span>เพิ่มใส่ตะกร้า</span>
@@ -1131,7 +999,7 @@
                                           </label>
                                         </button>
                                       </div>
-                                      <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                      <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                         <button type="button" class="btn fast-buy p-2">
                                           <label class="mb-0 d-flex px-2">
                                             <span>ซื้อทันที</span>
@@ -1144,7 +1012,7 @@
                               </div>
                             </div>
                         </li>
-                        <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                        <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                             <div class="item">
                               <div class="card p-3 wish-m">
                                 <!-- แทนสินค้าร่วมรายการ -->
@@ -1154,7 +1022,7 @@
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
-                                    <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                    <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                           <div class="product-title">
                                             <span>Pureboost DPR Shoes<span>
                                           </div>
@@ -1162,14 +1030,7 @@
                                             <span>Men running</span>
                                           </div>
                                       </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                        <button class="navbar-toggler hamburger py-2" type="button">
-                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                            <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                          </svg>
-                                        </button>
-                                      </div>
-                                      <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                      <div class="col-xl-4 mb-2 px-0 text-right">
                                         <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                       </div>
                                       <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -1177,10 +1038,10 @@
                                           <span></span>
                                         </div>
                                       </div>
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2 latest-product-price">
+                                      <div class="col-xl-8 px-xl-2 px-0 mb-2 latest-product-price">
                                         <span class="normal">1,850</span><span class="currency">THB</span>
                                       </div>
-                                      <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                      <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                         <button type="button" class="btn add-to-cart p-2">
                                           <label class="mb-0 d-flex px-2">
                                             <span>เพิ่มใส่ตะกร้า</span>
@@ -1188,7 +1049,7 @@
                                           </label>
                                         </button>
                                       </div>
-                                      <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                      <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                         <button type="button" class="btn fast-buy p-2">
                                           <label class="mb-0 d-flex px-2">
                                             <span>ซื้อทันที</span>
@@ -1201,7 +1062,7 @@
                               </div>
                             </div>
                           </li>
-                          <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                          <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                               <div class="item first">
                                 <div class="card p-3 wish-m">
                                     <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
@@ -1211,7 +1072,7 @@
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
-                                          <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                          <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                               <div class="product-title">
                                                 <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                               </div>
@@ -1219,25 +1080,18 @@
                                                 <span>Men running</span>
                                               </div>
                                           </div>
-                                          <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                            <button class="navbar-toggler hamburger py-2" type="button">
-                                              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                                <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                              </svg>
-                                            </button>
-                                          </div>
-                                          <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                          <div class="col-xl-4 mb-2 px-0 text-right">
                                             <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                           </div>
-                                          <div class="col-xl-4 col-md-3 col-md-3 col-3 px-xl-2 px-0 mb-2">
+                                          <div class="col-xl-4 px-xl-2 px-0 mb-2">
                                             <div class="sale-percent">
                                               <span>ลด 50%</span>
                                             </div>
                                           </div>
-                                          <div class="col-xl-8 col-md-9 col-md-9 col-9 px-xl-2 px-0 mb-2 latest-product-price">
+                                          <div class="col-xl-8 px-xl-2 px-0 mb-2 latest-product-price">
                                             <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                           </div>
-                                          <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                          <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                             <button type="button" class="btn add-to-cart p-2">
                                               <label class="mb-0 d-flex px-2">
                                                 <span>เพิ่มใส่ตะกร้า</span>
@@ -1245,7 +1099,7 @@
                                               </label>
                                             </button>
                                           </div>
-                                          <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                          <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                             <button type="button" class="btn fast-buy p-2">
                                               <label class="mb-0 d-flex px-2">
                                                 <span>ซื้อทันที</span>
@@ -1258,7 +1112,7 @@
                                 </div>
                               </div>
                           </li>
-                          <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                          <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                               <div class="item">
                                 <div class="card p-3 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
@@ -1268,7 +1122,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                      <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -1276,14 +1130,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 col-md-6mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
                                         <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -1291,10 +1138,10 @@
                                             <span></span>
                                           </div>
                                         </div>
-                                        <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2 latest-product-price">
+                                        <div class="col-xl-8 px-xl-2 px-0 mb-2 latest-product-price">
                                           <span class="normal">1,850</span><span class="currency">THB</span>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn add-to-cart p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>เพิ่มใส่ตะกร้า</span>
@@ -1302,7 +1149,7 @@
                                             </label>
                                           </button>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn fast-buy p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>ซื้อทันที</span>
@@ -1315,7 +1162,7 @@
                                 </div>
                               </div>
                           </li>
-                          <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                          <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                               <div class="item">
                                 <div class="card p-3 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
@@ -1325,7 +1172,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                        <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                        <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -1333,14 +1180,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
                                         <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -1348,10 +1188,10 @@
                                             <span></span>
                                           </div>
                                         </div>
-                                        <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2 latest-product-price">
+                                        <div class="col-xl-8 px-xl-2 px-0 mb-2 latest-product-price">
                                           <span class="normal">1,850</span><span class="currency">THB</span>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn add-to-cart p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>เพิ่มใส่ตะกร้า</span>
@@ -1359,7 +1199,7 @@
                                             </label>
                                           </button>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn fast-buy p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>ซื้อทันที</span>
@@ -1372,7 +1212,7 @@
                                 </div>
                               </div>
                           </li>
-                          <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                          <li class="col-xl-3 fadeIn animated filtered-item2 fillter-m-b">
                               <div class="item">
                                 <div class="card p-3 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
@@ -1382,7 +1222,7 @@
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
-                                      <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2">
+                                      <div class="col-xl-8 px-xl-2 px-0 mb-2">
                                             <div class="product-title">
                                               <span>Pureboost DPR Shoes<span>
                                             </div>
@@ -1390,14 +1230,7 @@
                                               <span>Men running</span>
                                             </div>
                                         </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
-                                          <button class="navbar-toggler hamburger py-2" type="button">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
-                                              <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
-                                            </svg>
-                                          </button>
-                                        </div>
-                                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 mb-2 px-0 fillter-logo">
+                                        <div class="col-xl-4 mb-2 px-0 text-right">
                                           <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                         </div>
                                         <div class="col-xl-4 px-xl-2 px-0 mb-2">
@@ -1405,10 +1238,10 @@
                                             <span></span>
                                           </div>
                                         </div>
-                                        <div class="col-xl-8 col-lg-12 px-xl-2 px-0 mb-2 latest-product-price">
+                                        <div class="col-xl- px-xl-2 px-0 mb-2 latest-product-price">
                                           <span class="normal">1,850</span><span class="currency">THB</span>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn add-to-cart p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>เพิ่มใส่ตะกร้า</span>
@@ -1416,7 +1249,7 @@
                                             </label>
                                           </button>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                        <div class="col-xl-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                           <button type="button" class="btn fast-buy p-2">
                                             <label class="mb-0 d-flex px-2">
                                               <span>ซื้อทันที</span>
@@ -1441,6 +1274,8 @@
                   </section>
                 </div>
             </div>
+
+            <!-- END SHOW 1366 -->
 
 
 
