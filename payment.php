@@ -155,7 +155,9 @@
                       </div>
                       <div class="row pt-3 pay-padding">
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
-                            <img src="/dilok/assets/images/productfill/1.png" class="pay-size4">
+                              <div class="overlay-img2">
+                                <img class="image-full" src="/dilok/assets/images/productfill/1.png">
+                              </div>
                           </div>
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
                             <div class="pay-font8 pay-m-t2">Pureboost DPR Shoes</div>
@@ -167,7 +169,9 @@
                       </div>
                       <div class="row pt-3 pay-padding">
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
-                            <img src="/dilok/assets/images/productfill/1.png" class="pay-size4">
+                              <div class="overlay-img2">
+                                <img class="image-full" src="/dilok/assets/images/productfill/1.png">
+                              </div>
                           </div>
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
                             <div class="pay-font8 pay-m-t2">Pureboost DPR Shoes</div>
@@ -189,7 +193,7 @@
                           </div>
                       </div>
                       <div class="row mt-3 bg-gray py-3 pay-m-r-l2">
-                          <div class="col-xl-6 col-lg-6  col-md-6 col-6 pay-m-l-r">
+                          <div class="col-xl-6 col-lg-6  col-md-6 col-6 pay-m-l-r pt-1">
                               <div class="pay-font10">Total</div>
                           </div>
                           <div class="col-xl-6 col-lg-6  col-md-6 col-6 pay-m-l-r text-right">
@@ -215,14 +219,12 @@
                       <a href="#">
                           <div class="promotion-button">
                              <span class="pull-left">นโยบายการคือสินค้า</span>
-                             <span class="fa fa-plus pull-right"></span>
                           </div>
                       </a>
                     <hr class="mt-0">
                       <a href="#">
                           <div class="promotion-button">
                              <span class="pull-left">ช่องทางการชำระสินค้า</span>
-                             <span class="fa fa-plus pull-right"></span>
                           </div>
                       </a>
                     <hr class="mt-0">

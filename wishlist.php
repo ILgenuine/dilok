@@ -14,6 +14,8 @@
 
 
     <!-- START CONTENT -->
+    <div class="wishlist-screen">
+    <div class="wishlist-screen2"></div>
       <div class="wrapper">
         <!-- CART SIDEBAR -->
         <?php include_once('inc/cart-sidebar.php'); ?>
@@ -31,8 +33,8 @@
                     <div class="fillter-font3">1-20 of 80 items</div>
                 </div>
                 <div class="col-xl-1 col-lg-2 col-md-2 col-12 text-center text-md-right text-lg-right wish-d2">
-                    <button onclick="myFunction2()" class="btn btn-column"><i class="fas fa-columns"></i></button>
-                    <button onclick="myFunction3()" class="btn btn-row"><i class="fas fa-align-justify"></i></button>
+                    <button onclick="myFunction2()" class="btn btn-column2"><i class="fas fa-columns"></i></button>
+                    <button onclick="myFunction3()" class="btn btn-row2"><i class="fas fa-align-justify"></i></button>
                 </div>
             </div>
 
@@ -47,7 +49,7 @@
                                     <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                                     <span class="red tooltips d-xl-none d-block"><i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                                        <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
@@ -1284,7 +1286,7 @@
         <!-- END SITE CONTENT -->
       </div>
     <!-- END CONTENT -->
-
+</div>
 
 
 
