@@ -8,13 +8,14 @@
   <?php include_once('inc/navbar.php'); ?>
   <!-- END NAVBAR -->
 </head>
+<!-- CART SIDEBAR -->
+<?php include_once('inc/cart-sidebar.php'); ?>
+<?php include_once('inc/nav-sidebar.php'); ?>
+<!-- END CART SIDEBAR -->
+
   <body>
     <div class="wrapper">
     <div class="container-fluid custom-container fadeIn animated">
-        <!-- CART SIDEBAR -->
-        <?php include_once('inc/cart-sidebar.php'); ?>
-        <?php include_once('inc/nav-sidebar.php'); ?>
-        <!-- END CART SIDEBAR -->
         <div class="row">
           <div class="col-xl-6 mt-5">
             <div class="card pay-b-n p-3">
