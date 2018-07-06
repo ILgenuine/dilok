@@ -55,18 +55,20 @@
     font-size: 5px;
 }
 .regist-btn{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
     background-color: black;
-    font-size: 16px;
-    font-weight: bolder;
     color: white;
     border-radius: 0px;
     width: 300px;
     height: 45px;
 }
 .regist-btn:hover{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
     background-color: white;
-    font-size: 16px;
-    font-weight: bolder;
     color: black;
     border-radius: 0px;
     border: 2px solid black;
@@ -214,18 +216,20 @@
     margin-top: 40px;
 }
 .forgot-btn{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
     background-color: black;
-    font-size: 16px;
-    font-weight: bolder;
     color: white;
     border-radius: 0px;
     width: 300px;
     height: 45px;
 }
 .forgot-btn:hover{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
     background-color: white;
-    font-size: 16px;
-    font-weight: bolder;
     color: black;
     border-radius: 0px;
     border: 2px solid black;
@@ -630,9 +634,6 @@
   color:#666 !important;
   height:20px !important;
   transition: all 0.4s !important;
-}
-button{
-  text-transform: uppercase !important;
 }
 /*-------------------------------------
 ------------ END CART --------------
