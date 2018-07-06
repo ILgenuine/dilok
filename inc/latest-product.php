@@ -48,7 +48,7 @@
                       <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                         <button type="button" class="btn add-to-cart p-2">
                           <label class="mb-0 d-flex px-2">
-                            <span>เพิ่มใส่ตะกร้า</span>
+                            <span>add cart</span>
                             <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                           </label>
                         </button>
@@ -56,7 +56,7 @@
                       <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                         <button type="button" class="btn fast-buy p-2">
                           <label class="mb-0 d-flex px-2">
-                            <span>ซื้อทันที</span>
+                            <span>Buy Now</span>
                             <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                           </label>
                         </button>
@@ -106,7 +106,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -114,7 +114,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -166,7 +166,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -174,7 +174,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -228,7 +228,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -236,7 +236,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -290,7 +290,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -298,7 +298,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -353,7 +353,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -361,7 +361,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -412,7 +412,7 @@
                       <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                         <button type="button" class="btn add-to-cart p-2">
                           <label class="mb-0 d-flex px-2">
-                            <span>เพิ่มใส่ตะกร้า</span>
+                            <span>add cart</span>
                             <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                           </label>
                         </button>
@@ -420,7 +420,7 @@
                       <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                         <button type="button" class="btn fast-buy p-2">
                           <label class="mb-0 d-flex px-2">
-                            <span>ซื้อทันที</span>
+                            <span>Buy Now</span>
                             <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                           </label>
                         </button>
@@ -470,7 +470,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -478,7 +478,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -530,7 +530,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -538,7 +538,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -592,7 +592,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -600,7 +600,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -654,7 +654,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -662,7 +662,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -717,7 +717,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -725,7 +725,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -776,7 +776,7 @@
                       <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                         <button type="button" class="btn add-to-cart p-2">
                           <label class="mb-0 d-flex px-2">
-                            <span>เพิ่มใส่ตะกร้า</span>
+                            <span>add cart</span>
                             <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                           </label>
                         </button>
@@ -784,7 +784,7 @@
                       <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                         <button type="button" class="btn fast-buy p-2">
                           <label class="mb-0 d-flex px-2">
-                            <span>ซื้อทันที</span>
+                            <span>Buy Now</span>
                             <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                           </label>
                         </button>
@@ -834,7 +834,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -842,7 +842,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -894,7 +894,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -902,7 +902,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -956,7 +956,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -964,7 +964,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -1018,7 +1018,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -1026,7 +1026,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -1078,7 +1078,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 latest-product-btn">
                       <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>เพิ่มใส่ตะกร้า</span>
+                          <span>add cart</span>
                           <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
@@ -1086,7 +1086,7 @@
                     <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 latest-product-btn">
                       <button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                          <span>ซื้อทันที</span>
+                          <span>Buy Now</span>
                           <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                         </label>
                       </button>
