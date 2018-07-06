@@ -101,9 +101,7 @@
                             <img class="product-ipad-img" src="assets/images/product/1/2.jpg">
                           </div>
                         </div>
-                        <div class="item-video">
-                          <a class="owl-video" href="https://www.youtube.com/watch?v=JhDIILjlhBQ"></a>
-                        </div>
+                        <div class="item-video"><a class="owl-video" href="https://www.youtube.com/watch?v=JhDIILjlhBQ"></a></div>
                         <div class="item">
                           <div class="product-ipad-frame" data-toggle="modal" data-target="#full-screen-product-1">
                             <img class="product-ipad-img" src="assets/images/product/1/3.jpg">
