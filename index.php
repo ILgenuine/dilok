@@ -39,8 +39,8 @@
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-                          <a type="button" class="btn fast-buy p-2 w-100">
-                            <label class="mb-0 d-flex px-2 white">
+                          <a href="#" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
                               <span>รายละเอียด</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
@@ -59,8 +59,8 @@
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-                          <a type="button" class="btn fast-buy p-2 w-100">
-                            <label class="mb-0 d-flex px-2 white">
+                          <a href="#" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
                               <span>รายละเอียด</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
@@ -79,8 +79,8 @@
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-                          <a type="button" class="btn fast-buy p-2 w-100">
-                            <label class="mb-0 d-flex px-2 white">
+                          <a href="#" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
                               <span>รายละเอียด</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
@@ -100,8 +100,8 @@
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-                          <a type="button" class="btn fast-buy p-2 w-100">
-                            <label class="mb-0 d-flex px-2 white">
+                          <a href="#" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
                               <span>รายละเอียด</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
@@ -131,10 +131,10 @@
                       <h1>The Top Series</h1>
                       <h5>ค้นพบรองเท้าสไตล์ที่เหมาะกับคุณ</h5>
                       <hr></hr>
-                      <div class="header-slide-btn">
-                        <a type="button" class="btn fast-buy p-2 w-100">
+                      <div class="header-slide-btn" style="width: 20%;">
+                        <a href="#" class="btn fast-buy p-2 w-100">
                           <label class="mb-0 d-flex px-2 white">
-                            <span>เพิ่มเติม</span>
+                            <span>adjunct</span>
                             <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                           </label>
                         </a>
@@ -215,7 +215,7 @@
     				      			<div class="col-lg-12 text-right px-0">
     									<button type="button" class="btn fast-buy p-2">
                               				<label class="mb-0 d-flex px-2">
-                                				<span>จองทันที</span>
+                                				<span>Buy Now</span>
                                 					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                               					</label>
                             			</button>
@@ -245,7 +245,7 @@
     				      			<div class="col-lg-12 text-right px-0">
     									<button type="button" class="btn fast-buy p-2">
                               				<label class="mb-0 d-flex px-2">
-                                				<span>จองทันที</span>
+                                				<span>Buy Now</span>
                                 					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                               					</label>
                             			</button>
@@ -275,7 +275,7 @@
                         <div class="col-lg-12 text-right px-0">
                       <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex px-2">
-                                        <span>จองทันที</span>
+                                        <span>Buy Now</span>
                                           <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                                         </label>
                                   </button>
@@ -287,7 +287,7 @@
 
               <div class="col-12 res-414-down">
                 <a href="launches.php">
-                  <label>ดูทั้งหมด <span> > </span></label>
+                  <label>view all <span> > </span></label>
                 </a>
               </div>
 
@@ -301,7 +301,7 @@
                 <div class="latest-product-btn pull-right mb-2">
                     <button type="button" class="btn add-to-cart p-2 res-414-up">
                       <label class="mb-0 d-flex px-2">
-                        <span>ดูทั้งหมด</span>
+                        <span>view all</span>
                         <i class="fas fa-plus ml-auto pl-3 pt-1" aria-hidden="true"></i>
                       </label>
                     </button>
@@ -343,7 +343,7 @@
 
               <div class="col-12 res-414-down">
                 <a href="blog.php">
-                  <label>ดูทั้งหมด <span> > </span></label>
+                  <label>view all <span> > </span></label>
                 </a>
               </div>
 

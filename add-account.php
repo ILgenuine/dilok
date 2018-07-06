@@ -78,9 +78,10 @@
               </div>
             </div>
 
-            <div class="col-12">
+            <div class="col-lg-4 col-md-6 col-12 mt-md-4 mt-3 mx-auto">
               <div class="text-center">
-                <button type="button" class="btn account-btn" data-toggle="modal" data-target="#add_new_address">ADD NEW ADDRESS</button>
+                <button type="button" class="btn account-btn-save-ad w-100" data-toggle="modal" data-target="#add_new_address">ADD NEW ADDRESS</button>
+                <!-- <button type="button" class="btn account-btn" data-toggle="modal" data-target="#add_new_address">ADD NEW ADDRESS</button> -->
               </div>
             </div>
           </div>
@@ -204,7 +205,12 @@
                       </div>
                       <div class="col-md-6">
                           <label for="text"><span>Date of birth</span></label>
-                          <input type="date" class="form-control" placeholder="dd/mm/yyyy">                      
+                          <div class="input-group date" data-provide="datepicker">
+                              <input type="text" id="datepicker" class="form-control" placeholder="dd/mm/yyyy">
+                              <div class="input-group-addon">
+                                  <span class="glyphicon glyphicon-th"></span>
+                              </div>
+                          </div>  
                       </div>
                     </div>
 
@@ -253,7 +259,12 @@
       </div>
     <!-- END CONTENT -->
 
+    <script>
+        $( function() {
+          $( "#datepicker" ).datepicker();
+        } );
 
+    </script>
 
 
 
@@ -265,10 +276,7 @@
 
     <!-- START FOOTER SCRIPT -->
     <?php include_once('inc/footer-script.php'); ?>
-    <!-- END FOOOTER SCRIPT -->
-      <script>
-        $(document).off('.datepicker.data-api');
-      </script>
+    <!-- END FOOOTER SCRIPT --> 
 
   </body>
 </html>

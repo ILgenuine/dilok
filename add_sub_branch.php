@@ -26,12 +26,12 @@
           <div class="row my-lg-5 mt-md-3 my-2">
             <div class="col-12 mt-md-4 mt-3">
               <div class="sub-branch-fix-img">
-                <img src="assets/images/newcastle-hero_1.jpg" class="w-100 sub-img-auto">
+                <img src="assets/images/branch/1.jpg" class="w-100 sub-img-auto">
               </div>
             </div>
             <div class="col-lg-6 col-12 mt-md-4 mt-3">
               <div class="text-center sub-branch-pb-30px">
-                <h2>END. Newcastle</h2>
+                <h2>DILOK. MBK</h2>
               </div>
 
               <div class="text-center sub-branch-pb-30px">
@@ -41,15 +41,18 @@
                   </div>
                 </div>
 
+
+
                 <div class="sub-branch-font-address">
-                  <p class="mb-0">END. Newcastle</p>
-                  <p class="mb-0">133 - 137 Grainger Street,</p>
-                  <p class="mb-0">Newcastle Upon Tyne,</p>
-                  <p class="mb-0">NE1 5AE</p>
+                  <p class="mb-0">DILOK. MBK</p>
+                  <p class="mb-0">MBK Center 444,</p>
+                  <p class="mb-0">Phayathai Road,</p>
+                  <p class="mb-0">Wangmai,Pathumwan,</p>
+                  <p class="mb-0">Bangkok, 10330</p>
                 </div>
                 <div class="sub-branch-font-address mt-md-3 mt-2">
-                  <p class="mb-0">T: 0191 2618922</p>
-                  <a href="#" class="sub-branch-font-address">info@endclothing.com</a>
+                  <p class="mb-0">T: +66 89-123-4567</p>
+                  <a href="#" class="sub-branch-font-address">admin@dilok.com</a>
                 </div>
               </div>
 
@@ -105,20 +108,20 @@
           <div class="row mb-lg-5 mt-md-3 mb-2">
             <div class="col-12 px-2">
               <div class="my-2 sub-img-head-footer">
-                <img src="assets/images/branch/1.jpg" class="w-100 sub-img-auto">
+                <img src="assets/images/branch/head.jpg" class="sub-img-auto">
               </div>
             </div>
             <div class="col-md-6 px-2">
-              <div class="my-2 sub-img-short"><img src="assets/images/branch/2.jpg" class="w-100 sub-img-auto"></div>
-              <div class="my-2 sub-img-long"><img src="assets/images/branch/3.jpg" class="w-100 sub-img-auto"></div>  
+              <div class="my-2 sub-img-short"><img src="assets/images/branch/2.jpg" class="sub-img-auto"></div>
+              <div class="my-2 sub-img-long"><img src="assets/images/branch/3.jpg" class="sub-img-auto"></div>  
             </div>
             <div class="col-md-6 px-2">
-              <div class="my-2 sub-img-long"><img src="assets/images/branch/5.jpg" class="w-100 sub-img-auto"></div>
-              <div class="my-2 sub-img-short"><img src="assets/images/branch/6.jpg" class="w-100 sub-img-auto"></div>              
+              <div class="my-2 sub-img-long"><img src="assets/images/branch/5.jpg" class="sub-img-auto"></div>
+              <div class="my-2 sub-img-short"><img src="assets/images/branch/6.jpg" class="sub-img-auto"></div>              
             </div>
             <div class="col-12 px-2">
               <div class="my-2 sub-img-head-footer">
-                <img src="assets/images/branch/4.jpg" class="w-100 sub-img-auto">
+                <img src="assets/images/branch/4.jpg" class="sub-img-auto">
               </div>
             </div>
           </div>

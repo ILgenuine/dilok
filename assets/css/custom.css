@@ -106,9 +106,16 @@ $Structure
   a:hover{
     text-decoration: none;
   }
-
+  .nav-link {
+    letter-spacing: 1.2px;
+  }
+  .nav-link:hover{
+    color: #a9a7a7;
+    transition: all 0.3s;
+  }
   body{
-    font-family: 'kanitregular';
+    font-family: 'Kanit', sans-serif;
+    font-weight: 400;
     transition: all 0.3s;
     height:100%;
     overflow-x:hidden;
@@ -373,6 +380,7 @@ $Structure
   }
 
   .fast-buy{
+    cursor: pointer;
     background-color: black;
     outline:2px solid white;
     border:2px solid black;
@@ -1269,7 +1277,7 @@ $Footer
 
   .footer{
     background-color: black;
-    height:500px;
+    height: 440px;
   }
 
 
@@ -1280,6 +1288,7 @@ $Footer
 
   .footer-submenu{
     text-indent: 15px;
+    font-weight: 300;
   }
 
 
@@ -1334,7 +1343,7 @@ $Index
   }
 
   .header-slide-btn{
-    width:15%;
+    width: 15%;
   }
 
   .header-row hr{

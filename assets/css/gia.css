@@ -1,6 +1,6 @@
-a:hover {
+/*a:hover {
     color: #000;
-    text-decoration: none;
+    text-decoration: none;*/
 
 }
 a {
@@ -101,7 +101,7 @@ cursor: zoom-in;
   
 }
 .launches_font_30{
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16px;
     position: relative;
     overflow: hidden;

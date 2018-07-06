@@ -14,7 +14,8 @@
 <!-- END CART SIDEBAR -->
   <body>
     <div class="wrapper">
-    <div class="container pb-5 fadeIn animated">
+   
+       <div class="container pb-5 fadeIn animated">
         <div class="col-12 text-center mt-5">
             <div class="forgot-font1">FORGOT YOUR PASSWORD?</div>
         </div>
