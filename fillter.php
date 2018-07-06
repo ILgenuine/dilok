@@ -35,9 +35,6 @@
               <li class="breadcrumb-item active" aria-current="page">
                   <span class="fillter-font-step">Adidas</span>
               </li>
-              <li class="breadcrumb-item active" aria-current="page">
-                  <span class="fillter-font-step">Men running</span>
-              </li>
             </ol>
           </div>
           <div class="col-xl-3 col-6 col-lg-3 col-md-6 text-center text-lg-right text-md-right mt-2 order-1 order-lg-2 order-md-1">
@@ -55,24 +52,41 @@
       <div class="row">
         <div class="col-xl-2 col-lg-3 fillter-d-n3" id="myDIV">
           <section class="filter">
-             <div class="form-group">
+             <form class="form-group">
                   <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample111" aria-expanded="false" aria-controls="collapseExample">
                       <span class="fillter-font2 pull-left">SELECTED</span>
                       <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
                   </button>
                   <div class="collapse show" id="collapseExample111">
                       <div class="mt-2">
-                          <span class="fillter-select fillter-font3">
-                            <a href="#" class="fas fa-times pr-2"></a>Male
-                          </span>
-                          <span class="ml-2 fillter-select fillter-font3">
-                            <a href="#" class="fas fa-times pr-2"></a>Adidas
-                          </span>
+                          <div class="row flex-xl-row">
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times pr-2"></a>Male
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times pr-2"></a>Adidas
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times pr-2"></a>Adidas
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times pr-2"></a>Adidas
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times pr-2"></a>Adidas
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times pr-2"></a>Adidas
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times pr-2"></a>onitsuka
+                              </span>
+                          </div>
                       </div>
                   </div>
-              </div>
+              </form>
               <hr>
-              <div class="form-group">
+              <form class="form-group">
                     <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample222" aria-expanded="false" aria-controls="collapseExample">
                         <span class="fillter-font2 pull-left">GENDER</span>
                         <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
@@ -101,9 +115,9 @@
                             </label>
                         </div>
                     </div>
-                </div>
+                </form>
                 <hr>
-                <div class="form-group">
+                <form class="form-group">
                       <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample333" aria-expanded="false" aria-controls="collapseExample">
                           <span class="fillter-font2 pull-left">BRAND</span>
                           <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
@@ -180,9 +194,9 @@
                               </label>
                           </div>
                       </div>
-                  </div>
+                  </form>
                 <hr>
-                <div class="form-group">
+                <form class="form-group">
                       <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample444" aria-expanded="false" aria-controls="collapseExample">
                           <span class="fillter-font2 pull-left">CLOTHING SIZE</span>
                           <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
@@ -217,9 +231,9 @@
                               </label>
                           </div>
                       </div>
-                  </div>
+                  </form>
                   <hr>
-                  <div class="form-group">
+                  <form class="form-group">
                         <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample555" aria-expanded="false" aria-controls="collapseExample">
                             <span class="fillter-font2 pull-left">FOOTWEAR SIZE</span>
                             <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
@@ -254,9 +268,9 @@
                                 </label>
                             </div>
                         </div>
-                    </div>
+                    </form>
                     <hr>
-                    <div class="form-group">
+                    <form class="form-group">
                           <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample666" aria-expanded="false" aria-controls="collapseExample">
                               <span class="fillter-font2 pull-left">COLOR</span>
                               <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
@@ -290,8 +304,8 @@
                                   </label>
                               </div>
                           </div>
-                      </div>
-                    <hr>
+                    </form>
+                  <hr>
                </div>
           </section>
           <div class="filtered-item filtered-item3 col-xl-10 col-lg-9 col-md-12 fadeIn animated">

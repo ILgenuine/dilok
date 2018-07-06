@@ -28,7 +28,7 @@
               <h2>OUR STORES</h2> 
             </div>
             <div class="col-lg-12 text-center ">
-              <p>END storse simply dummy text of the printing and typesetting industry. Lorem </p>  
+              <p>dilok storse simply dummy text of the printing and typesetting industry. Lorem </p>  
             </div>
             <div class="col-lg-6 mb-4">
               <div class="add_Branch-card">
@@ -47,7 +47,7 @@
             <div class="col-lg-6 mb-4">
               <div class="add_Branch-card">
                 <div class="add_Branch-fix-frame mt-4">
-                  <a href="#"><img src='https://s3-ap-southeast-1.amazonaws.com/wpimage.shopspotapp.com/wp-content/uploads/2016/07/15072043/re_IMG_9319.jpg' class="add_Branch-img-top" /></a>  
+                  <a href="#"><img src='https://s3-ap-southeast-1.amazonaws.com/wpimages.mover.in.th/wp-content/uploads/2017/02/28040159/IMG_06391-1024x682.jpg' class="add_Branch-img-top" /></a>  
                 </div>
                 <div class="text-center mt-3">
                   <h3>GLASGOW</h3>
@@ -59,32 +59,7 @@
             </div>
           </div>
         </div>
-<<<<<<< HEAD
 
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> b888d94caa2c0af9c6547bebbd24cc21c8315331
         <!-- END SITE CONTENT -->
 
 

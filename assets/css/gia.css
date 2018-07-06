@@ -52,6 +52,14 @@ cursor: zoom-in;
     
 }
 
+.pagination .news_page-link.active{
+     color: #ffffff;
+    text-decoration: none;
+    background-color: #000000;
+    transition: 1s;
+
+}
+
 
 .news_page-link {
     position: relative;
@@ -89,12 +97,12 @@ cursor: zoom-in;
 }
 .launches_font_3{
     font-weight: 600;
-    font-size: 17px;
+    font-size: 16px;
   
 }
 .launches_font_30{
     font-weight: 500;
-    font-size: 17px;
+    font-size: 16px;
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -113,24 +121,9 @@ cursor: zoom-in;
         border-right: 1px solid;
 }
 
-.add-to-cart{
-    background-color: white;
-    border:2px solid black;
-    border-radius: 0px;
-    color:black;
-  }
 
-/*.fast-buy{
-    background-color: black;
-    outline:2px solid white;
-    border:2px solid black;
-    outline-offset:-3px;
-    border-radius: 0px;
-    color:white;
-  }
-*/
-.launches-fix-frame{
-    height: 240px;
+.launches-fix-frame {
+    height: auto;
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -209,13 +202,15 @@ cursor: zoom-in;
     transform: translate(-50%, -50%);
     width: 100%;
     height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 .add_our_story-fix-frame-boy {
     height: 640px;
     position: relative;
     overflow: hidden;
-    width: 100%;
+    width: 70%;
 }
 .add_our_story-img-top-boy {
    position:absolute;
@@ -231,12 +226,9 @@ cursor: zoom-in;
 }
 
 .add_our_story-padtext{
-    padding-bottom: 210px;
-    padding-top: 210px;
+   padding: 210px 100px 210px 100px;
 }
-.add_our_story-line{
-    line-height: 3px;
-}
+
 
 
 /*-------------------------
@@ -303,15 +295,42 @@ cursor: zoom-in;
     text-align: center;
     font-size: 14px;
 }
+
 .launches-fix-frame {
     height: 200px;
     position: relative;
     overflow: hidden;
-    width: 100%;
+    width: 98%;
 }
 /*-------------------------
 ---------launches end-------
 ---------------------------*/
+
+/*------------------------
+----------add_our_story---
+--------------------------*/
+.row_fix {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0px; 
+    margin-left: 0px; 
+}
+.add_our_story-fix-frame-boy {
+    height: 640px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+.add_our_story-padtext {
+    padding: 190px 30px 210px 30px;
+}
+
+/*---------------------------
+----------add_our_story end---
+----------------------------*/
 
 }
 
@@ -325,16 +344,13 @@ cursor: zoom-in;
         text-align: center;
         font-size: 14px;
     }
-  
-  .launches-img {
-    width: 660px;
-}
     .launches-fix-frame {
-    height: auto;
+    height: 200px;
     position: relative;
     overflow: hidden;
-    width: 100%;
+    width: 98%;
 }
+
 /*-------------------------
 ---------launches end-------
 ---------------------------*/
@@ -343,9 +359,11 @@ cursor: zoom-in;
 ---------Add_our_story------
 ---------------------------*/
 .add_our_story-padtext {
-    padding-bottom: 50px;
-    padding-top: 10px;
+    padding-bottom: 40px;
+    padding-top: 40px;
 }
+
+
 /*----------------------------
 ---------Add_our_story end-----
 -----------------------------*/
@@ -360,14 +378,14 @@ cursor: zoom-in;
 /*-------------------------
 ---------launches-------
 ---------------------------*/
-    .launches_font_32 {
+.launches_font_32 {
     text-align: left;
     font-size: 14px;
 }
  .launches-img{
          width: 100%;
     }
-    .launches-fix-frame {
+ .launches-fix-frame {
     height: auto;
     position: relative;
     overflow: hidden;
@@ -397,6 +415,19 @@ cursor: zoom-in;
 ----------------------------*/
 .add_our_story-padding {
     padding: 0px;
+}
+
+.add_our_story-fix-frame {
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+.add_our_story-fix-frame-boy {
+    height: 590px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
 }
 /*---------------------------
 --------add_our story end-----
@@ -445,6 +476,19 @@ cursor: zoom-in;
 --------add_branch end----------
 ---------------------------*/
 
+/*-----------------------------
+------add_our_story------------
+------------------------------*/
+.add_our_story-fix-frame-boy {
+    height: 550px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+/*-----------------------------
+------add_our_story end--------
+------------------------------*/
+
 
 }
 
@@ -462,5 +506,18 @@ cursor: zoom-in;
 /*--------------------------
 --------add_branch end-------
 ---------------------------*/
+
+/*-----------------------------
+------add_our_story------------
+------------------------------*/
+.add_our_story-fix-frame-boy {
+    height: 430px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+/*-----------------------------
+------add_our_story end--------
+------------------------------*/
 
 }
