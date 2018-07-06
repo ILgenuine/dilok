@@ -188,7 +188,7 @@
                 <div class="latest-product-btn pull-right mb-2">
                     <button type="button" class="btn add-to-cart p-2 res-414-up">
                       <label class="mb-0 d-flex px-2">
-                        <span>ดูทั้งหมด</span>
+                        <span>view all</span>
                         <i class="fas fa-plus ml-auto pl-3 pt-1" aria-hidden="true"></i>
                       </label>
                     </button>
