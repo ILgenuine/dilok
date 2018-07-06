@@ -26,7 +26,7 @@
         <div class="container-fluid custom-container">
 
           <section class="product-detail mt-lg-5 mt-3 mb-lg-5 mb-md-5 mb-4">
-            <div class="product-detail-box product-detail-boxes">
+            <div class="product-detail-box">
 
               <div class="product-detail1-left-side mb-md-4 mb-3">
 
@@ -216,8 +216,6 @@
                                    <span class="sr-only">Next</span>
                                  </a>
                                </div>
-
-
                              </div>
                            </div>
                       </div>
@@ -231,196 +229,32 @@
 
               <div class="product-detail1-right-side pl-xl-5 pl-0">
                 <div class="sticky-box">
-                      <div class="row mx-0">
-                        <div class="col-12 pr-lg-0">
-                          <div class="sticky-product-title w-100">
-                              <h2>Nike Air Zoom Pegasus 35
-                                <button type="button" class="btn top-btn heart-btn pull-right"><i name="like-button" class="fa-1x fa-heart liked fas liked-shaked"></i></button>
-                                <button type="button" class="btn top-btn pull-right"><i class="fa-1x fa-share-alt fas"></i></button>
-                              </h2>
-                          </div>
-
-                          <div class="sticky-product-excerpt mb-2">
-                              <span>
-                                ห้าวหาญ สะดุดตา ไม่ยอมใคร รองเท้า Prophere จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง
-                              </span>
-                          </div>
-
-                          <div class="sticky-product-picker">
-                            <span class="ml-2">
-                               Color
-                            </span>
-                            <span class="grey">
-                               (black)
-                            </span>
-                            <div class="row mx-0 mt-2 mb-3">
-                              <div class="col-lg-1 col-md-1 col-2 px-1 mb-2 text-center">
-                                <button type="button" class="btn color-btn color-active" style="background-color:blue"></button>
-                              </div>
-                              <div class="col-lg-1 col-md-1 col-2 px-1 mb-2 text-center">
-                                <button type="button" class="btn color-btn" style="background-color:white"></button>
-                              </div>
-                              <div class="col-lg-1 col-md-1 col-2 px-1 mb-2 text-center">
-                                <button type="button" class="btn color-btn" style="background-color:black"></button>
-                              </div>
-                              <div class="col-lg-1 col-md-1 col-2 px-1 mb-2 text-center">
-                                <button type="button" class="btn color-btn" style="background-color:orange"></button>
-                              </div>
-                            </div>
-                            <span class="ml-2">
-                               Size
-                            </span>
-                            <div class="row mx-0 mt-2 mb-3 size-select-box">
-                              <div class="col-xl-4 col-6 px-0 size-select active">
-                                <span>US 7</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select disabled">
-                                <span>US 7.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 8</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select disabled">
-                                <span>US 8.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 9</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select disabled">
-                                <span>US 9.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 10</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 10.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 11</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 11.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 12</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select disabled">
-                                <span>US 12.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 13</span>
-                              </div>
-                            </div>
-                          </div>
-
-
-                          <div class="sticky-product-quantity p-3">
-                            <div class="row mx-0">
-                              <div class="col-5 px-0 pt-2">
-                                <select class="quantity">
-                                  <option value="1">1</option>
-                                  <option value="2">2</option>
-                                  <option value="3">3</option>
-                                  <option value="4">4</option>
-                                </select>
-                                จำนวน
-                              </div>
-                              <div class="col-7 px-0">
-                                <div class="sale-percent px-2">
-                                  <span>ลด 50%</span>
-                                </div>
-                                <div class="pt-2 latest-product-price">
-                                  <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
-                                  <!-- ไม่ลดราคา -->
-                                  <!-- <span class="original">925</span><span class="currency">THB</span> -->
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="row my-3 mx-0">
-                            <div class="col-xl-4 col-lg-6"></div>
-                            <div class="col-xl-4 col-lg-3 col-md-6 col-12 px-xl-1 px-lg-1 px-md-2 px-1 latest-product-btn mb-2">
-                              <button type="button" class="btn add-to-cart p-2">
-                                <label class="mb-0 d-flex px-2">
-                                  <span>เพิ่มใส่ตะกร้า</span>
-                                  <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
-                                </label>
-                              </button>
-                            </div>
-                            <div class="col-xl-4 col-lg-3 col-md-6 col-12 px-xl-1 px-lg-1 px-md-2 px-1 latest-product-btn">
-                              <button type="button" class="btn fast-buy p-2">
-                                <label class="mb-0 d-flex px-2">
-                                  <span>ซื้อทันที</span>
-                                  <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
-                                </label>
-                              </button>
-                            </div>
-                          </div>
-
-                        </div>
-                      </div>
-                </div>
-              </div>
-
-            </div>
-          </section>
-
-          <section class="mb-5">
-            <div class="row mx-0 px-lg-0 px-md-5 px-1">
-                <div class="col-12">
-                    <h3 class="mb-2">PRODUCT DETAIL</h3>
-                </div>
-                <div class="launches_detail-bg">
-                  <p>มีหลักฐานที่เป็นข้อเท็จจริงยืนยันมานานแล้ว ว่าเนื้อหาที่อ่านรู้เรื่องนั้นจะไปกวนสมาธิของคนอ่านให้เขวไปจากส่วนที้เป็น Layout เรานำ Lorem Ipsum มาใช้เพราะความที่มันมีการกระจายของตัวอักษรธรรมดาๆ แบบพอประมาณ ซึ่งเอามาใช้แทนการเขียนว่า ‘ตรงนี้เป็นเนื้อหา, ตรงนี้เป็นเนื้อหา' ได้ และยังทำให้มองดูเหมือนกับภาษาอังกฤษที่อ่านได้ปกติ ปัจจุบันมีแพ็กเกจของซอฟท์แวร์การทำสื่อสิ่งพิมพ์</p>
-                  <div class="launches_detail-lineheight mt-lg-4">
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่อที่นิยมกัน Lorem Ipsum ไม่ได้เป็นเพียงแค่ชุดตัว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>มีหลักฐานที่เป็นข้อเท็จจริงยืนยันมานานแล้ว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่อที่นิยมกัน Lorem Ipsum ไม่ได้เป็นเพียงแค่ชุดตัว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่อที่นิยมกัน Lorem Ipsum ไม่ได้เป็นเพียงแค่ชุดตัว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่อที่นิยมกัน Lorem Ipsum ไม่ได้เป็นเพียงแค่ชุดตัว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่อที่นิยมกัน Lorem Ipsum ไม่ได้เป็นเพียงแค่ชุดตัว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่</p>
+                  <span class="launches_detail-text launches_detail-color-icon"><i class="far fa-calendar"></i></span>
+                  <span class="launches_detail-color-font launches_detail-text">31</span>
+                  <span class="launches_detail-text">มกราคม 2561</span>
+                  <div class="launches_detail-lineheight mt-lg-3">
+                    <h5>AIR VAPORMAX X OFF-WHITE THE TEN'BLACK/CLEAR'</h5>
+                    <p>เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8.00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
+                  </div>
+                  <div>
+                    <p>Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus te maken. Het heeft niet alleen vijf eeuwen</p>
+                  </div>
+                  <div >
+                    <hr class="launches_detail-hr">
+                  </div>
+                  <div class="col-lg-12 text-right px-0">
+                    <button type="button" class="btn fast-buy p-2">
+                      <label class="mb-0  px-2">
+                        <span>จองทันที</span>
+                          <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
+                        </label>
+                    </button>
                   </div>
                 </div>
+              </div>
+
             </div>
           </section>
-
-
-
-
-          <!-- SITE CONTENT -->
-          <!-- <div class="row">
-            <div class="col-lg-6 mt-lg-4">
-
-            </div>
-            <div class="col-lg-6 mt-lg-4">
-                <span class="launches_detail-text launches_detail-color-icon"><i class="far fa-calendar"></i></span>
-                <span class="launches_detail-color-font launches_detail-text">31</span>
-                <span class="launches_detail-text">มกราคม 2561</span>
-              <div class="launches_detail-lineheight mt-lg-3">
-                <h5>AIR VAPORMAX X OFF-WHITE THE TEN'BLACK/CLEAR'</h5>
-                <p>เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8.00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
-              </div>
-              <div>
-                <p>Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus te maken. Het heeft niet alleen vijf eeuwen</p>
-              </div>
-              <div >
-                <hr class="launches_detail-hr">
-              </div>
-              <div class="col-lg-12 text-right px-0">
-                <button type="button" class="btn fast-buy p-2">
-                  <label class="mb-0  px-2">
-                    <span>จองทันที</span>
-                      <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                    </label>
-                </button>
-              </div>
-            </div>
-          </div> -->
 
 
           <section class="latest-product mb-lg-5 mb-md-5 mb-4">
@@ -527,8 +361,6 @@
     $(".item8").click(function(){
       $(".product-carousel").carousel(7);
     });
-
-
 
 
 

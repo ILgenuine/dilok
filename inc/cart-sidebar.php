@@ -14,7 +14,7 @@
 
               <!-- Product loop -->
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                  <a href="#">
+                  <a href="product-detail-2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/3.jpg">
                     </div>
@@ -28,7 +28,7 @@
                         </button>
                     </div>
                     <div class="cart-product-name">
-                        <a href="#">
+                      <a href="product-detail-1.php">
                           <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
                         </a>
                     </div>
@@ -50,7 +50,7 @@
               <!-- END first product  loop -->
 
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                  <a href="#">
+                <a href="product-detail-2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/6.jpg">
                     </div>
@@ -64,7 +64,7 @@
                         </button>
                     </div>
                     <div class="cart-product-name">
-                        <a href="#">
+                      <a href="product-detail-1.php">
                           <span>DAME D.O.L.L.A.R (AC9613) "Night Cargo"</span>
                         </a>
                     </div>
@@ -85,7 +85,7 @@
               </div>
 
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                  <a href="#">
+                <a href="product-detail-2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/3.jpg">
                     </div>
@@ -99,7 +99,7 @@
                         </button>
                     </div>
                     <div class="cart-product-name">
-                        <a href="#">
+                      <a href="product-detail-1.php">
                           <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
                         </a>
                     </div>
@@ -120,7 +120,7 @@
               </div>
 
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                  <a href="#">
+                <a href="product-detail-2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/6.jpg">
                     </div>
@@ -134,7 +134,7 @@
                         </button>
                     </div>
                     <div class="cart-product-name">
-                        <a href="#">
+                      <a href="product-detail-1.php">
                           <span>DAME D.O.L.L.A.R (AC9613) "Night Cargo"</span>
                         </a>
                     </div>
@@ -156,7 +156,7 @@
 
 
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                  <a href="#">
+                <a href="product-detail-2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/3.jpg">
                     </div>
@@ -170,7 +170,7 @@
                         </button>
                     </div>
                     <div class="cart-product-name">
-                        <a href="#">
+                      <a href="product-detail-1.php">
                           <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
                         </a>
                     </div>
@@ -192,7 +192,7 @@
 
 
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                  <a href="#">
+                <a href="product-detail-2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/6.jpg">
                     </div>
@@ -206,7 +206,7 @@
                         </button>
                     </div>
                     <div class="cart-product-name">
-                        <a href="#">
+                      <a href="product-detail-1.php">
                           <span>DAME D.O.L.L.A.R (AC9613) "Night Cargo"</span>
                         </a>
                     </div>

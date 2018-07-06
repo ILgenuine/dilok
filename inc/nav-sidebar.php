@@ -13,15 +13,24 @@
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample1">
               <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>View all Latest</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>New This Week</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Latest Sneakers</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Restocks</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Latest Women's</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Latest Kid's</span></a>
+                </li>
               </ul>
             </div>
           </div>
@@ -35,15 +44,18 @@
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample2">
               <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>View All Brand</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Nike</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Adidas</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Reebok</span></a>
+                </li>
               </ul>
             </div>
           </div>
@@ -57,15 +69,18 @@
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample3">
               <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>Brand</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Men</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Women</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Kid</span></a>
+                </li>
               </ul>
             </div>
           </div>
@@ -79,15 +94,18 @@
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample4">
               <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>Clothes</span></a>
+                </li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>Schoes</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Latest Sneakers</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Restocks</span></a>
+                </li>
               </ul>
             </div>
           </div>
@@ -101,15 +119,18 @@
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample5">
               <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>Clothes</span></a>
+                </li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>Schoes</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Latest Sneakers</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Restocks</span></a>
+                </li>
               </ul>
             </div>
           </div>
@@ -123,15 +144,18 @@
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample6">
               <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>Clothes</span></a>
+                </li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>Schoes</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Latest Sneakers</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Restocks</span></a>
+                </li>
               </ul>
             </div>
           </div>
@@ -145,15 +169,18 @@
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample7">
               <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>Clothes</span></a>
+                </li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>Schoes</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Latest Sneakers</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Restocks</span></a>
+                </li>
               </ul>
             </div>
           </div>
@@ -168,61 +195,18 @@
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample8">
               <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 py-1 menu-list">
-          <div class="promotion">
-            <a class="mobile-nav-list" data-toggle="collapse" href="#collapseExample9" role="button" aria-expanded="false" aria-controls="collapseExample">
-                <div class="promotion-button">
-                   <span class="pull-left">LAUNCHES</span><span class="icon-collpase fa fa-plus pull-right side-navbar-plus" aria-hidden="true"></span>
-                </div>
-            </a>
-            <div class="promotion-collapse collapse mb-2" id="collapseExample9">
-              <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 py-1 menu-list">
-          <div class="promotion">
-            <a class="mobile-nav-list" data-toggle="collapse" href="#collapseExample10" role="button" aria-expanded="false" aria-controls="collapseExample">
-                <div class="promotion-button">
-                   <span class="pull-left">BLOG</span><span class="icon-collpase fa fa-plus pull-right side-navbar-plus" aria-hidden="true"></span>
-                </div>
-            </a>
-            <div class="promotion-collapse collapse mb-2" id="collapseExample10">
-              <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
-                <li class="nav-item"><a href="#"><span>Nederlands</span></a></li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>Clothes</span></a>
+                </li>
+                <li class="nav-item">
+                  <a href="filter.php"><span>Schoes</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Latest Sneakers</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  href="filter.php"><span>Restocks</span></a>
+                </li>
               </ul>
             </div>
           </div>
@@ -231,7 +215,27 @@
         <div class="col-12 py-1 menu-list">
           <div class="promotion">
             <div class="promotion-button">
-                <a href="#">
+              <a href="launches.php">
+                <span class="pull-left">LAUNCHES</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 py-1 menu-list">
+          <div class="promotion">
+            <div class="promotion-button">
+              <a href="add.blank.php">
+                <span class="pull-left">BLOG</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 py-1 menu-list">
+          <div class="promotion">
+            <div class="promotion-button">
+                <a href="login-php">
                 <span class="pull-left"> LOG IN</span>
                 <!-- <a class="btn login-btn" type="button">
                    <span><i class="fa fa-sign-in" aria-hidden="true"></i> Log in</span>
@@ -260,8 +264,8 @@
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample11">
               <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><span>Edit profile</span></li>
-                <li class="nav-item"><span>Log out</span></li>
+                <li class="nav-item"><a href="edit-profile.php"><span>Edit profile</span></a></li>
+                <li class="nav-item"><a href="logout.php"><span>Log out</span></a></li>
               </ul>
             </div>
           </div>
@@ -293,8 +297,8 @@
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample13">
               <ul class="navbar-nav sidenav-list-text">
-                <a href=""><li class="nav-item"><span>OUR STORY</span></li></a>
-                <a href=""><li class="nav-item"><span>BRANCH</span></li></a>
+                <a href="add-our-story.php"><li class="nav-item"><span>OUR STORY</span></li></a>
+                <a href="add-branch.php"><li class="nav-item"><span>BRANCH</span></li></a>
               </ul>
             </div>
           </div>
@@ -372,7 +376,7 @@
           <div class="row copy-right justify-content-center text-center">
             <div class="col-10 text-center">
               <span class="white">Copyright 2018 © Dilok.com <br> All right reserved  </span><br>
-              <p class="white"><a class="white" href="#">Term of use</a> | <a class="white" href="#">Policy</a></p>
+              <p class="white"><a class="white" href="add-blank.php">Term of use</a> | <a class="white" href="add-blank.php">Policy</a></p>
             </div>
           </div>
         </div>
