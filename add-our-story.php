@@ -24,7 +24,11 @@
         <!-- SITE CONTENT -->
 
         <!-- ----------------------แบนเนอร์------------ -->
-        <div class="container-fluid  px-0">
+
+        <div class="container-fluid">
+          
+        </div>
+       <!--  <div class="container-fluid  px-0">
           <div class="row mt-4 row_fix">
             <div class="col-lg-12">
               <div class="add_our_story-fix-frame">
@@ -32,18 +36,18 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
          <!-- ----------------------แบนเนอร์ จบ------------ -->
 
         <div class="container-fluid">
           <div class="row add_our_story-padding mt-lg-4 mt-1">
             <div class="col-lg-6   order-lg-0 order-1">
               <div class="add_our_story-fix-frame-boy ml-auto">
-                <img class="add_our_story-img-top-boy " src="https://obs.line-scdn.net/0hw3oXC81nKBxSIQe6tFNXS2h3K3NhTTsfNhd5Hw5Pdih3Q28ePURjKX4pJX59EW9CO0dieXIlMy14RjtKbUdj/w644"> 
+                <img class="add_our_story-img-top-boy " src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-9/29594672_1243414645791276_8053915019021994202_n.jpg?_nc_cat=0&oh=2de84ad60a1e39f8668086a08525086f&oe=5BDE3353"> 
               </div>
             </div>
-            <div class="col-lg-6 text-center add_our_story-padtext order-lg-0 order-2">
-              <h4>ABOUT END</h4>
+            <div class="col-lg-6 text-center add_our_story-padtext order-lg-0 order-2" style=" text-transform: uppercase;">
+              <h4>ABOUT DILOK</h4>
               <p>Welcome to Didok It is a long established fact that a reader will be distracted by the readable is simply dummy text of the printing and typesetting industry. Lorem Ipsum</p>
             </div>
           </div>
@@ -52,11 +56,12 @@
          <div class="container-fluid">
           <div class="row add_our_story-padding">
             <div class="col-lg-6 text-center add_our_story-padtext order-lg-0 order-4" style=" text-transform: uppercase;">
+              <h4>ABOUT DILOK</h4>
               <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the </p>
             </div>
-            <div class="col-lg-6  text-center order-lg-0 order-3">
-              <div class="add_our_story-fix-frame-boy">
-                <img class="add_our_story-img-top-boy" src="https://s3-ap-southeast-1.amazonaws.com/wpimages.shopspotter.in.th/wp-content/uploads/2017/10/10162701/shutterstock_489096901.jpg"> 
+            <div class="col-lg-6  order-lg-0 order-3">
+              <div class="add_our_story-fix-frame-boy ">
+                <img class="add_our_story-img-top-boy text-center" src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-9/34203665_1281105178688889_5250456610072952832_n.jpg?_nc_cat=0&oh=66b0e6adc0d9ed8896745dd2d4b789ca&oe=5BAC7374"> 
               </div>
             </div>
           </div>

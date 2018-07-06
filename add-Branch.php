@@ -47,7 +47,7 @@
             <div class="col-lg-6 mb-4">
               <div class="add_Branch-card">
                 <div class="add_Branch-fix-frame mt-4">
-                  <a href="#"><img src='https://s3-ap-southeast-1.amazonaws.com/wpimage.shopspotapp.com/wp-content/uploads/2016/07/15072043/re_IMG_9319.jpg' class="add_Branch-img-top" /></a>  
+                  <a href="#"><img src='https://s3-ap-southeast-1.amazonaws.com/wpimages.mover.in.th/wp-content/uploads/2017/02/28040159/IMG_06391-1024x682.jpg' class="add_Branch-img-top" /></a>  
                 </div>
                 <div class="text-center mt-3">
                   <h3>GLASGOW</h3>
