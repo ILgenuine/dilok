@@ -41,7 +41,7 @@
                         <div class="header-slide-btn">
                           <a href="#" class="btn fast-buy p-2 w-100">
                             <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
-                              <span>รายละเอียด</span>
+                              <span>adjunct</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
@@ -61,7 +61,7 @@
                         <div class="header-slide-btn">
                           <a href="#" class="btn fast-buy p-2 w-100">
                             <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
-                              <span>รายละเอียด</span>
+                              <span>adjunct</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
@@ -81,7 +81,7 @@
                         <div class="header-slide-btn">
                           <a href="#" class="btn fast-buy p-2 w-100">
                             <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
-                              <span>รายละเอียด</span>
+                              <span>adjunct</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
@@ -102,7 +102,7 @@
                         <div class="header-slide-btn">
                           <a href="#" class="btn fast-buy p-2 w-100">
                             <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
-                              <span>รายละเอียด</span>
+                              <span>adjunct</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
