@@ -27,7 +27,6 @@
                             </div>
                           </div>
                       </div>
-<<<<<<< HEAD
 <!--                       <div class="col-2 mb-2 px-0">
                         <button class="navbar-toggler hamburger py-2" type="button">
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -36,12 +35,6 @@
                         </button>
                       </div> -->
                       <div class="col-2 mb-2 ml-auto px-0">
-=======
-                      <div class="col-2 mb-2 px-0">
-                        
-                      </div>
-                      <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                         <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                       </div>
                       <div class="col-4 px-xl-2 px-0 mb-2">
@@ -92,7 +85,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -101,12 +93,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -159,7 +145,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -168,12 +153,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -229,15 +208,11 @@
                         </div>
                     </div>
                     <div class="col-2 mb-2 px-0">
-<<<<<<< HEAD
 <!--                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
                           <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
                         </svg>
                       </button> -->
-=======
-
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                     </div>
                     <div class="col-2 mb-2 ml-auto px-0">
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
@@ -294,7 +269,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -303,12 +277,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -364,7 +332,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -373,12 +340,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -489,15 +450,11 @@
                         </div>
                     </div>
                     <div class="col-2 mb-2 px-0">
-<<<<<<< HEAD
 <!--                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
                           <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
                         </svg>
                       </button> -->
-=======
-
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                     </div>
                     <div class="col-2 mb-2 ml-auto px-0">
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
@@ -552,7 +509,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -561,12 +517,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -621,7 +571,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
  <!--                    <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -630,12 +579,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -690,7 +633,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -699,12 +641,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -760,7 +696,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -769,12 +704,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -884,7 +813,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -893,12 +821,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -951,7 +873,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -960,12 +881,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -1020,7 +935,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -1029,12 +943,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -1089,7 +997,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -1098,12 +1005,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
@@ -1156,7 +1057,6 @@
                           </div>
                         </div>
                     </div>
-<<<<<<< HEAD
 <!--                     <div class="col-2 mb-2 px-0">
                       <button class="navbar-toggler hamburger py-2" type="button">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false">
@@ -1165,12 +1065,6 @@
                       </button>
                     </div> -->
                     <div class="col-2 mb-2 ml-auto px-0">
-=======
-                    <div class="col-2 mb-2 px-0">
-
-                    </div>
-                    <div class="col-2 mb-2 px-0">
->>>>>>> b53c7849136aafb35758dd7de408b3a0c73467d4
                       <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                     </div>
                     <div class="col-4 px-xl-2 px-0 mb-2">
