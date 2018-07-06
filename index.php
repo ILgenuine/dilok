@@ -194,96 +194,97 @@
                     </button>
                 </div>
               </div>
-    	    		<div class="col-lg-4">
-    	    			<div class="card_new">
-                  <div class="launches-fix-frame launches-index-frame">
-    	    					<span class='zoom' id='zoom1'>
-    								<img src='assets/images/product/2/silver-bullet-nike-air-max-97.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-    							</span>
-    	    				</div>
-    				  		<div class="card-body">
-    				     		<div class="row">
-    				      			<div class="col-3 col-lg-4 col-md-4  launches_border text-md-center">
-    									<p class="launches_font_30">กุมภาพันธ์</p>
-    									<p class="launches_font_31">7</p>
-    									<p class="launches_font_32">2561</p>
-    				      			</div>
-    				     			<div class="col-9 col-lg-8 col-md-8  lau_pad_10">
-    				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
-    				     				<p class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
-    				      			</div>
-    				      			<div class="col-lg-12 text-right px-0">
-    									<button type="button" class="btn fast-buy p-2">
-                              				<label class="mb-0 d-flex px-2">
-                                				<span>Buy Now</span>
-                                					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                              					</label>
-                            			</button>
-                        			</div>
-    				      		</div>
-    				  		</div>
-    					  </div>
-    	    		</div>
-    	    		<div class="col-lg-4">
-    	    			<div class="card_new">
-                  <div class="launches-fix-frame launches-index-frame">
-    					 		<span class='zoom' id='zoom2'>
-    								<img src='assets/images/product/2/NAM16.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-    							</span>
-    					 	</div>
-    					 	<div class="card-body">
-    				     		<div class="row">
-    				      			<div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-    									<p class="launches_font_30">มีนาคม</p>
-    									<p class="launches_font_31">28</p>
-    									<p class="launches_font_32">2561</p>
-    				      			</div>
-    				     			<div class="col-9 col-lg-8 col-md-8 lau_pad_10">
-    				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
-    				     				<p class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
-    				      			</div>
-    				      			<div class="col-lg-12 text-right px-0">
-    									<button type="button" class="btn fast-buy p-2">
-                              				<label class="mb-0 d-flex px-2">
-                                				<span>Buy Now</span>
-                                					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                              					</label>
-                            			</button>
-                        			</div>
-    				      		</div>
-    				  		</div>
-    					  </div>
-    	    		</div>
-              <div class="col-lg-4">
+    	    		<div class="col-lg-4 col-md-6 col-12">
                 <div class="card_new">
-                  <div class="launches-fix-frame launches-index-frame">
-                  <span class='zoom' id='zoom3'>
-                    <img src='assets/images/product/2/NAM16.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-                  </span>
-                </div>
-                <div class="card-body">
+                  <div class="launches-fix-frame">
+                    <span class='zoom' id='zoom1'>
+                    <img src='assets/images/product/2/silver-bullet-nike-air-max-97.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                    </span>   
+                  </div>  
+                  <div class="card-body">
                     <div class="row">
-                        <div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-                      <p class="launches_font_30">มีนาคม</p>
-                      <p class="launches_font_31">28</p>
-                      <p class="launches_font_32">2561</p>
-                        </div>
-                      <div class="col-9 col-lg-8 col-md-8 lau_pad_10">
-                        <a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
-                        <p class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
-                        </div>
-                        <div class="col-lg-12 text-right px-0">
-                      <button type="button" class="btn fast-buy p-2">
-                                      <label class="mb-0 d-flex px-2">
-                                        <span>Buy Now</span>
-                                          <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                                        </label>
-                                  </button>
-                              </div>
+                      <div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
+                        <p class="launches_font_30">January</p>
+                        <p class="launches_font_31">7</p>
+                        <p class="launches_font_32">2018</p>
                       </div>
+                      <div class="col-9 col-lg-9 col-md-8  lau_pad_10">
+                        <a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE IR VAPORMAX OFF-WHITE THE TEN'BTHE TEN'BLACAR'</p></a>
+                        <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
+                      </div>
+                      <div class="col-lg-12 text-right px-0">
+                        <button type="button" class="btn fast-buy p-2">
+                          <label class="mb-0 d-flex px-2">
+                            <span>BUY NOW</span>
+                              <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
+                            </label>
+                        </button> 
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
+    	    		<div class="col-lg-4 col-md-6 col-12">
+                <div class="card_new">
+                  <div class="launches-fix-frame">
+                    <span class='zoom' id='zoom2'>
+                    <img src='assets/images/product/2/Nike-Air-Max-97-Neon-1.png' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                    </span>   
+                  </div>  
+                  <div class="card-body">
+                    <div class="row">
+                      <div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
+                        <p class="launches_font_30">January</p>
+                        <p class="launches_font_31">7</p>
+                        <p class="launches_font_32">2018</p>
+                      </div>
+                      <div class="col-9 col-lg-9 col-md-8  lau_pad_10">
+                        <a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
+                        <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
+                      </div>
+                      <div class="col-lg-12 text-right px-0">
+                        <button type="button" class="btn fast-buy p-2">
+                          <label class="mb-0 d-flex px-2">
+                            <span>BUY NOW</span>
+                              <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
+                            </label>
+                        </button> 
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+             <div class="col-lg-4 col-md-6 col-12">
+                <div class="card_new">
+                  <div class="launches-fix-frame">
+                    <span class='zoom' id='zoom3'>
+                    <img src='assets/images/product/2/nike-lebron-soldier-25-straight-ao2088-400-3.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                    </span>   
+                  </div>  
+                  <div class="card-body">
+                    <div class="row">
+                      <div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
+                        <p class="launches_font_30">January</p>
+                        <p class="launches_font_31">7</p>
+                        <p class="launches_font_32">2018</p>
+                      </div>
+                      <div class="col-9 col-lg-9 col-md-8  lau_pad_10">
+                        <a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
+                        <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
+                      </div>
+                      <div class="col-lg-12 text-right px-0">
+                        <button type="button" class="btn fast-buy p-2">
+                          <label class="mb-0 d-flex px-2">
+                            <span>BUY NOW</span>
+                              <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
+                            </label>
+                        </button> 
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
 
               <div class="col-12 res-414-down">
                 <a href="launches.php">
