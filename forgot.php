@@ -10,11 +10,12 @@
 </head>
   <body>
     <div class="wrapper">
-    <div class="container pb-5 fadeIn animated">
+   
       <!-- CART SIDEBAR -->
       <?php include_once('inc/cart-sidebar.php'); ?>
       <?php include_once('inc/nav-sidebar.php'); ?>
       <!-- END CART SIDEBAR -->
+       <div class="container pb-5 fadeIn animated">
         <div class="col-12 text-center mt-5">
             <div class="forgot-font1">FORGOT YOUR PASSWORD?</div>
         </div>

@@ -59,10 +59,10 @@
                         <div class="nav-col col-12">
                           <a href="">
                             <div class="nav-double">
-                              <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                              <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                             </div>
                             <div class="w-100 text-center">
-                              <span>NIKE</span>
+                              <span>UltraBOOST</span>
                             </div>
                           </a>
                         </div>
@@ -84,20 +84,20 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/7.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
-                                <span>ADIDAS</span>
+                                <span>DAME 4 (BB7571) </span>
                               </div>
                             </a>
                           </div>
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/8.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
-                                <span>NIKE</span>
+                                <span>ALPHABOUNCE</span>
                               </div>
                             </a>
                           </div>
@@ -260,20 +260,20 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/9.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
-                                <span>ADIDAS</span>
+                                <span>DAME LOGO TEE</span>
                               </div>
                             </a>
                           </div>
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/10.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
-                                <span>NIKE</span>
+                                <span>BLACK PANTHER</span>
                               </div>
                             </a>
                           </div>
@@ -299,7 +299,7 @@
                                 <div class="launches-col col-5">
                                   <a href="">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -321,7 +321,7 @@
                                 <div class="launches-col col-5">
                                   <a href="">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -343,7 +343,7 @@
                                 <div class="launches-col col-5">
                                   <a href="">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/10.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -365,7 +365,7 @@
                                 <div class="launches-col col-5">
                                   <a href="">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -387,7 +387,7 @@
                                 <div class="launches-col col-5">
                                   <a href="">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/7.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -409,7 +409,7 @@
                                 <div class="launches-col col-5">
                                   <a href="">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/8.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -431,7 +431,7 @@
                                 <div class="launches-col col-5">
                                   <a href="">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/9.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -453,7 +453,7 @@
                                 <div class="launches-col col-5">
                                   <a href="">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -762,7 +762,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -772,7 +772,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -920,7 +920,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -930,7 +930,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/8.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -1079,7 +1079,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/11.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -1089,7 +1089,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/12.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -1238,7 +1238,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/13.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -1248,7 +1248,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/14.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -1342,7 +1342,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/15.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -1352,7 +1352,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/16.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -1381,7 +1381,7 @@
                                   <div class="col-4 blog-col">
                                     <a href="#">
                                       <div class="nav-blog">
-                                        <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                        <img class="nav-product" src="assets/images/index/navbrand/9.jpg" alt="Card image cap">
                                       </div>
                                     </a>
                                   </div>
@@ -1400,7 +1400,7 @@
                                   <div class="col-4 blog-col">
                                     <a href="#">
                                       <div class="nav-blog">
-                                        <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                        <img class="nav-product" src="assets/images/index/navbrand/10.jpg" alt="Card image cap">
                                       </div>
                                     </a>
                                   </div>
@@ -1419,7 +1419,7 @@
                                   <div class="col-4 blog-col">
                                     <a href="#">
                                       <div class="nav-blog">
-                                        <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                        <img class="nav-product" src="assets/images/index/navbrand/11.jpg" alt="Card image cap">
                                       </div>
                                     </a>
                                   </div>
@@ -1438,7 +1438,7 @@
                                   <div class="col-4 blog-col">
                                     <a href="#">
                                       <div class="nav-blog">
-                                        <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                        <img class="nav-product" src="assets/images/index/navbrand/12.jpg" alt="Card image cap">
                                       </div>
                                     </a>
                                   </div>
@@ -1457,7 +1457,7 @@
                                   <div class="col-4 blog-col">
                                     <a href="#">
                                       <div class="nav-blog">
-                                        <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                        <img class="nav-product" src="assets/images/index/navbrand/13.jpg" alt="Card image cap">
                                       </div>
                                     </a>
                                   </div>
@@ -1476,7 +1476,7 @@
                         <div class="col-2 nav-col-single">
                           <div class="nav-blog-single mb-2">
                             <a href="#">
-                              <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                              <img class="nav-product" src="assets/images/index/navbrand/14.jpg" alt="Card image cap">
                             </a>
                           </div>
                           <div class="nav-blog-text text-center">
@@ -1506,7 +1506,7 @@
           </li>
           <li class="nav-item cart mr-3">
               <button class="btn btn-secondary cart-btn sidebarCollapse" type="button" >
-                 <span><i class="fa fa-shopping-cart" aria-hidden="true"></i> ตะกร้าสินค้า(0)</span></a>
+                 <span><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart (0)</span></a>
               </button>
           </li>
           <!-- logged in -->

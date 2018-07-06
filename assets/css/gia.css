@@ -1,6 +1,6 @@
-a:hover {
+/*a:hover {
     color: #000;
-    text-decoration: none;
+    text-decoration: none;*/
 
 }
 a {
@@ -93,7 +93,7 @@ cursor: zoom-in;
   
 }
 .launches_font_30{
-    font-weight: 600;
+    font-weight: 500;
     font-size: 17px;
     position: relative;
     overflow: hidden;
@@ -120,7 +120,7 @@ cursor: zoom-in;
     color:black;
   }
 
-.fast-buy{
+/*.fast-buy{
     background-color: black;
     outline:2px solid white;
     border:2px solid black;
@@ -128,7 +128,7 @@ cursor: zoom-in;
     border-radius: 0px;
     color:white;
   }
-
+*/
 .launches-fix-frame{
     height: 240px;
     position: relative;
