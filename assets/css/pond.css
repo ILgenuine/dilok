@@ -362,6 +362,12 @@
 .fillter-block{
   margin: 5px;
 }
+.fillter-close{
+  color: black;
+}
+.fillter-close:hover{
+  color:#999;
+}
 /*-------------------------------------
 ------------- END FILLTER ---------------
 ---------------------------------------*/

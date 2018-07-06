@@ -49,7 +49,7 @@
                                     <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                                     <span class="red tooltips d-xl-none d-block"><i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                                     <div class="latest-product-frame">
-                                        <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                                        <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
@@ -99,7 +99,7 @@
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <span><br></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -149,7 +149,7 @@
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <span><br></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -199,7 +199,7 @@
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <span><br></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -249,7 +249,7 @@
                                   <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                                   <span class="red tooltips d-xl-none d-block"><i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                                   <div class="latest-product-frame">
-                                    <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                                    <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
                                   </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -299,7 +299,7 @@
                                 <!-- แทนสินค้าร่วมรายการ -->
                                 <span><br></span>
                                   <div class="latest-product-frame">
-                                    <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                                    <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
@@ -349,7 +349,7 @@
                                 <!-- แทนสินค้าร่วมรายการ -->
                                 <span><br></span>
                                   <div class="latest-product-frame">
-                                    <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                                    <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
@@ -399,7 +399,7 @@
                                 <!-- แทนสินค้าร่วมรายการ -->
                                 <span><br></span>
                                   <div class="latest-product-frame">
-                                    <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
+                                    <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
@@ -499,7 +499,7 @@
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <span><br></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -549,7 +549,7 @@
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <span><br></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -599,7 +599,7 @@
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <span><br></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -670,7 +670,7 @@
                                     <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                                     <span class="red tooltips d-xl-none d-block"><i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
@@ -720,7 +720,7 @@
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <span><br></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -770,7 +770,7 @@
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <span><br></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -820,7 +820,7 @@
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <span><br></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -870,7 +870,7 @@
                                   <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                                   <span class="red tooltips d-xl-none d-block"><i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                                   <div class="latest-product-frame">
-                                    <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                                    <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
                                   </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -920,7 +920,7 @@
                                 <!-- แทนสินค้าร่วมรายการ -->
                                 <span><br></span>
                                   <div class="latest-product-frame">
-                                    <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                                    <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
@@ -970,7 +970,7 @@
                                 <!-- แทนสินค้าร่วมรายการ -->
                                 <span><br></span>
                                   <div class="latest-product-frame">
-                                    <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                                    <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
@@ -1020,7 +1020,7 @@
                                 <!-- แทนสินค้าร่วมรายการ -->
                                 <span><br></span>
                                   <div class="latest-product-frame">
-                                    <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
+                                    <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
@@ -1120,7 +1120,7 @@
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <span><br></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -1170,7 +1170,7 @@
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <span><br></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
