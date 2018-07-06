@@ -25,10 +25,7 @@
 
         <!-- ----------------------แบนเนอร์------------ -->
 
-        <div class="container-fluid">
-          
-        </div>
-       <!--  <div class="container-fluid  px-0">
+        <div class="container-fluid  px-0">
           <div class="row mt-4 row_fix">
             <div class="col-lg-12">
               <div class="add_our_story-fix-frame">
@@ -36,7 +33,7 @@
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
          <!-- ----------------------แบนเนอร์ จบ------------ -->
 
         <div class="container-fluid">

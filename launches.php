@@ -36,12 +36,12 @@
 	            <div class="col-lg-6 col-md-6 col-12 text-lg-right text-md-right text-center">
 	            	<button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                            <span>กำลังจะมาถึง</span>
+                            <span>COMING SOON</span>
                         </label>
                      </button>
                      <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                            <span>ล่าสุด</span>
+                            <span>NOW</span>
                         </label>
                      </button>		
 	            </div>
