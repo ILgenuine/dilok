@@ -10,16 +10,15 @@
   	<!-- START NAVBAR -->
     <?php include_once('inc/navbar.php'); ?>
     <!-- END NAVBAR -->
-
+    
+    <!-- CART SIDEBAR -->
+    <?php include_once('inc/cart-sidebar.php'); ?>
+    <?php include_once('inc/nav-sidebar.php'); ?>
+    <!-- END CART SIDEBAR -->
 
 
     <!-- START CONTENT -->
       <div class="wrapper fadeIn animated">
-        <!-- CART SIDEBAR -->
-        <?php include_once('inc/cart-sidebar.php'); ?>
-        <?php include_once('inc/nav-sidebar.php'); ?>
-        <!-- END CART SIDEBAR -->
-
 
         <!-- SITE CONTENT -->
         <div class="container-fluid custom-container">

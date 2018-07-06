@@ -8,12 +8,13 @@
   <?php include_once('inc/navbar.php'); ?>
   <!-- END NAVBAR -->
 </head>
+<!-- CART SIDEBAR -->
+<?php include_once('inc/cart-sidebar.php'); ?>
+<?php include_once('inc/nav-sidebar.php'); ?>
+<!-- END CART SIDEBAR -->
+
   <body>
     <div class="container pb-5 fadeIn animated">
-        <!-- CART SIDEBAR -->
-        <?php include_once('inc/cart-sidebar.php'); ?>
-        <?php include_once('inc/nav-sidebar.php'); ?>
-        <!-- END CART SIDEBAR -->
         <div class="col-xl-12 text-center mt-5">
             <div class="regist-font1">LOG IN OR CREATE AN ACCOUNT</div>
         </div>
