@@ -11,27 +11,42 @@
       <div class="col-12 menu-list py-1">
         <div class="promotion">
            <ul class="navbar-nav sidenav-list-text">
-               <li class="nav-item">
-                    <a href="#">
-                      <span>
-                        <div class="form-group">
-                             <button class="btn fillter-bg2 px-0" type="button" data-toggle="collapse" data-target="#collapseExample60" aria-expanded="false" aria-controls="collapseExample">
+              <li class="nav-item">
+                    <span>
+                        <form class="form-group">
+                             <button class="btn fillter-bg2 px-0" type="button" data-toggle="collapse" data-target="#collapseExample999" aria-expanded="false" aria-controls="collapseExample">
                                  <span class="fillter-font2 pull-left">SELECTED</span>
                                  <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
                              </button>
-                             <div class="collapse show" id="collapseExample60">
+                             <div class="collapse show" id="collapseExample999">
                                  <div class="mt-2">
-                                     <span class="fillter-select fillter-font4">
-                                       <i class="fas fa-times pr-2"></i>Male
-                                     </span>
-                                     <span class="ml-2 fillter-select fillter-font4">
-                                       <i class="fas fa-times pr-2"></i>Adidas
-                                     </span>
+                                     <div class="row">
+                                         <span class="fillter-block fillter-select fillter-font4">
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Male
+                                         </span>
+                                         <span class="fillter-block fillter-select fillter-font4">
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
+                                         </span>
+                                         <span class="fillter-block fillter-select fillter-font4">
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
+                                         </span>
+                                         <span class="fillter-block fillter-select fillter-font4">
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
+                                         </span>
+                                         <span class="fillter-block fillter-select fillter-font4">
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
+                                         </span>
+                                         <span class="fillter-block fillter-select fillter-font4">
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
+                                         </span>
+                                         <span class="fillter-block fillter-select fillter-font4">
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>onitsuka
+                                         </span>
+                                     </div>
                                  </div>
                              </div>
-                         </div>
-                       </span>
-                     </a>
+                         </form>
+                    </span>
                 </li>
                 <li class="nav-item">
                     <hr class="fillter-hr">
@@ -286,9 +301,7 @@
               </ul>
           </div>
         </div>
-
       </div>
     </div>
-
 </nav>
 <!-- END CART CONTENT -->

@@ -10,16 +10,15 @@
   	<!-- START NAVBAR -->
     <?php include_once('inc/navbar.php'); ?>
     <!-- END NAVBAR -->
-
+    
+    <!-- CART SIDEBAR -->
+    <?php include_once('inc/cart-sidebar.php'); ?>
+    <?php include_once('inc/nav-sidebar.php'); ?>
+    <!-- END CART SIDEBAR -->
 
 
     <!-- START CONTENT -->
       <div class="wrapper fadeIn animated">
-        <!-- CART SIDEBAR -->
-        <?php include_once('inc/cart-sidebar.php'); ?>
-        <?php include_once('inc/nav-sidebar.php'); ?>
-        <!-- END CART SIDEBAR -->
-
 
         <!-- SITE CONTENT -->
         <div class="container-fluid custom-container">
@@ -28,7 +27,9 @@
                    <div class="cart-font2">MY CART</div>
                    <div class="row pt-3">
                        <div class="col-xl-2 col-lg-2 col-md-3 col-12">
-                          <img src="/dilok/assets/images/productfill/1.png" class="cart-size">
+                          <div class="overlay-img">
+                            <img class="image-full" src="/dilok/assets/images/productfill/1.png">
+                          </div>
                        </div>
                        <div class="col-xl-3 col-lg-4 col-md-6 col-12 cart-p-l">
                            <div class="pay-font8 cart-m-t2">Pureboost DPR Shoes</div>
@@ -95,7 +96,9 @@
                      <hr>
                      <div class="row pt-3">
                          <div class="col-xl-2 col-lg-2 col-md-3 col-12">
-                            <img src="/dilok/assets/images/productfill/1.png" class="cart-size">
+                             <div class="overlay-img">
+                               <img class="image-full" src="/dilok/assets/images/productfill/1.png">
+                             </div>
                          </div>
                          <div class="col-xl-3 col-lg-4 col-md-6 col-12 cart-p-l">
                              <div class="pay-font8 cart-m-t2">Pureboost DPR Shoes</div>
@@ -193,7 +196,7 @@
                                </div>
                            </div>
                            <div class="row mt-3 bg-gray py-3 pay-m-r-l2">
-                               <div class="col-xl-6 col-lg-6  col-md-6 col-6 pay-m-l-r">
+                               <div class="col-xl-6 col-lg-6  col-md-6 col-6 pay-m-l-r pt-1">
                                    <div class="pay-font10">Total</div>
                                </div>
                                <div class="col-xl-6 col-lg-6 col-md-6 col-6 pay-m-l-r text-right">
@@ -219,14 +222,12 @@
                            <a href="#">
                                <div class="promotion-button">
                                   <span class="pull-left">นโยบายการคือสินค้า</span>
-                                  <span class="fa fa-plus pull-right"></span>
                                </div>
                            </a>
                          <hr class="mt-0">
                            <a href="#">
                                <div class="promotion-button">
                                   <span class="pull-left">ช่องทางการชำระสินค้า</span>
-                                  <span class="fa fa-plus pull-right"></span>
                                </div>
                            </a>
                          <hr class="mt-0">

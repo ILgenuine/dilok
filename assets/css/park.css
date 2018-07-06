@@ -1,3 +1,21 @@
+button {
+	text-transform: uppercase;
+}
+
+a.btn {
+	text-transform: uppercase;
+}
+.title-show-slide-fix {
+	overflow: hidden;
+    height: 40px;
+    line-height: 20px;
+}
+.body-fix-slide {
+	overflow: hidden;
+    height: 40px;
+    line-height: 20px;
+    font-weight: 300;
+}
 /*---------------------------
 ------- ACCOUNT -------------
 -----------------------------*/
@@ -21,7 +39,7 @@
     text-decoration: none;
 }
 .account-card {
-	background: #eee;
+	background: #eee6;
     border: none;
     border-radius: 0px;
 }
@@ -241,7 +259,7 @@
 }
 .sub-img-auto {
 	position: absolute;
-    width: 100%;
+    width: auto;
     left: 50%;
     top: 50%;
     transform: translate(-50% ,-50%);

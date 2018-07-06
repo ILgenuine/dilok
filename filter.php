@@ -52,24 +52,41 @@
       <div class="row">
         <div class="col-xl-2 col-lg-3 fillter-d-n3" id="myDIV">
           <section class="filter">
-             <div class="form-group">
+             <form class="form-group">
                   <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample111" aria-expanded="false" aria-controls="collapseExample">
                       <span class="fillter-font2 pull-left">SELECTED</span>
                       <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
                   </button>
                   <div class="collapse show" id="collapseExample111">
                       <div class="mt-2">
-                          <span class="fillter-select fillter-font3">
-                            <a href="#" class="fas fa-times pr-2"></a>Male
-                          </span>
-                          <span class="ml-2 fillter-select fillter-font3">
-                            <a href="#" class="fas fa-times pr-2"></a>Adidas
-                          </span>
+                          <div class="row flex-xl-row">
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times fillter-close pr-2"></a>Male
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
+                              </span>
+                              <span class="fillter-block fillter-select fillter-font3">
+                                <a href="#" class="fas fa-times fillter-close pr-2"></a>onitsuka
+                              </span>
+                          </div>
                       </div>
                   </div>
-              </div>
+              </form>
               <hr>
-              <div class="form-group">
+              <form class="form-group">
                     <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample222" aria-expanded="false" aria-controls="collapseExample">
                         <span class="fillter-font2 pull-left">GENDER</span>
                         <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
@@ -98,9 +115,9 @@
                             </label>
                         </div>
                     </div>
-                </div>
+                </form>
                 <hr>
-                <div class="form-group">
+                <form class="form-group">
                       <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample333" aria-expanded="false" aria-controls="collapseExample">
                           <span class="fillter-font2 pull-left">BRAND</span>
                           <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
@@ -177,9 +194,9 @@
                               </label>
                           </div>
                       </div>
-                  </div>
+                  </form>
                 <hr>
-                <div class="form-group">
+                <form class="form-group">
                       <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample444" aria-expanded="false" aria-controls="collapseExample">
                           <span class="fillter-font2 pull-left">CLOTHING SIZE</span>
                           <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
@@ -214,9 +231,9 @@
                               </label>
                           </div>
                       </div>
-                  </div>
+                  </form>
                   <hr>
-                  <div class="form-group">
+                  <form class="form-group">
                         <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample555" aria-expanded="false" aria-controls="collapseExample">
                             <span class="fillter-font2 pull-left">FOOTWEAR SIZE</span>
                             <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
@@ -251,9 +268,9 @@
                                 </label>
                             </div>
                         </div>
-                    </div>
+                    </form>
                     <hr>
-                    <div class="form-group">
+                    <form class="form-group">
                           <button class="btn fillter-bg px-0" type="button" data-toggle="collapse" data-target="#collapseExample666" aria-expanded="false" aria-controls="collapseExample">
                               <span class="fillter-font2 pull-left">COLOR</span>
                               <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
@@ -287,8 +304,8 @@
                                   </label>
                               </div>
                           </div>
-                      </div>
-                    <hr>
+                    </form>
+                  <hr>
                </div>
           </section>
           <div class="filtered-item filtered-item3 col-xl-10 col-lg-9 col-md-12 fadeIn animated">
@@ -300,7 +317,7 @@
                               <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                               <span class="red tooltips d-xl-none d-block"><i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                               <div class="latest-product-frame">
-                                <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                                <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
                               </div>
                               <div class="card-body p-0">
                                 <div class="row px-0 mx-0">
@@ -350,7 +367,7 @@
                             <!-- แทนสินค้าร่วมรายการ -->
                             <span><br></span>
                               <div class="latest-product-frame">
-                                <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                                <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
@@ -400,7 +417,7 @@
                             <!-- แทนสินค้าร่วมรายการ -->
                             <span><br></span>
                               <div class="latest-product-frame">
-                                <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                                <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
@@ -450,7 +467,7 @@
                             <!-- แทนสินค้าร่วมรายการ -->
                             <span><br></span>
                               <div class="latest-product-frame">
-                                <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
+                                <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
@@ -500,7 +517,7 @@
                             <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                             <span class="red tooltips d-xl-none d-block"><i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                             <div class="latest-product-frame">
-                              <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
                             </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
@@ -550,7 +567,7 @@
                           <!-- แทนสินค้าร่วมรายการ -->
                           <span><br></span>
                             <div class="latest-product-frame">
-                              <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
                             </div>
                           <div class="card-body p-0">
                             <div class="row px-0 mx-0">
@@ -600,7 +617,7 @@
                           <!-- แทนสินค้าร่วมรายการ -->
                           <span><br></span>
                             <div class="latest-product-frame">
-                              <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
                             </div>
                           <div class="card-body p-0">
                             <div class="row px-0 mx-0">
@@ -700,7 +717,7 @@
                               <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                               <span class="red tooltips d-xl-none d-block"><i class="fas fa-question-circle"></i><span class="tooltiptext"> รายการ</span></span>
                               <div class="latest-product-frame">
-                                <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
+                                <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/1.png" alt="Card image cap"> </a>
                               </div>
                               <div class="card-body p-0">
                                 <div class="row px-0 mx-0">
@@ -750,7 +767,7 @@
                             <!-- แทนสินค้าร่วมรายการ -->
                             <span><br></span>
                               <div class="latest-product-frame">
-                                <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
+                                <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/2.png" alt="Card image cap"> </a>
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
@@ -800,7 +817,7 @@
                             <!-- แทนสินค้าร่วมรายการ -->
                             <span><br></span>
                               <div class="latest-product-frame">
-                                <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
+                                <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/3.png" alt="Card image cap"> </a>
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">
@@ -850,7 +867,7 @@
                             <!-- แทนสินค้าร่วมรายการ -->
                             <span><br></span>
                               <div class="latest-product-frame">
-                                <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
+                                <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/4.png" alt="Card image cap"> </a>
                               </div>
                             <div class="card-body p-0">
                               <div class="row px-0 mx-0">

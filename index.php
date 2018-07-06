@@ -39,9 +39,9 @@
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-                          <a href="product-details2.php" type="button" class="btn fast-buy p-2 w-100">
-                            <label class="mb-0 d-flex px-2 white">
-                              <span>รายละเอียด</span>
+                          <a href="#" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
+                              <span>More Detail</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
@@ -59,9 +59,10 @@
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-                          <a  href="product-details2.php" type="button" class="btn fast-buy p-2 w-100">
-                            <label class="mb-0 d-flex px-2 white">
-                              <span>รายละเอียด</span>
+
+                          <a href="#" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
+                              <span>More Detail</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
@@ -79,9 +80,10 @@
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-                          <a  href="product-details2.php" type="button" class="btn fast-buy p-2 w-100">
-                            <label class="mb-0 d-flex px-2 white">
-                              <span>รายละเอียด</span>
+
+                          <a href="#" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
+                              <span>More Detail</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
@@ -100,9 +102,10 @@
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-                          <a href="product-details2.php" type="button" class="btn fast-buy p-2 w-100">
-                            <label class="mb-0 d-flex px-2 white">
-                              <span>รายละเอียด</span>
+
+                          <a href="#" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
+                              <span>More Detail</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
@@ -131,10 +134,12 @@
                       <h1>The Top Series</h1>
                       <h5>ค้นพบรองเท้าสไตล์ที่เหมาะกับคุณ</h5>
                       <hr></hr>
-                      <div class="header-slide-btn">
-                        <a href="product-details2.php" type="button" class="btn fast-buy p-2 w-100">
+
+                      <div class="header-slide-btn" style="width: 20%;">
+                        <a href="#" class="btn fast-buy p-2 w-100">
                           <label class="mb-0 d-flex px-2 white">
-                            <span>เพิ่มเติม</span>
+
+                            <span>More Detail</span>
                             <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                           </label>
                         </a>
@@ -155,27 +160,31 @@
               <!-- บังคับ first child มัclass first    last child มี class last  -->
               <div class="item first">
                 <div class="slide-brand-frame">
-                  <a href="product-details2.php">
+
+                  <a href="filter.php">
                     <img class="slide-brand-img" src='assets/images/logo/adidas.png'>
                   </a>
                 </div>
               </div>
               <div class="item">
                 <div class="slide-brand-frame">
-                  <a href="product-details2.php">
+
+                  <a href="filter.php">
                     <img class="slide-brand-img" src='assets/images/logo/nike.png'>
                   </a>
                 </div>
               </div>
               <div class="item">
                 <div class="slide-brand-frame">
-                  <a href="product-details2.php">
+
+                  <a href="filter.php">
                     <img class="slide-brand-img" src='assets/images/logo/reebok.png'>
                   </a>
                 </div>
               </div>
               <div class="item">
                 <div class="slide-brand-frame">
+                  <img class="slide-brand-img" src='assets//logo/onisuka.png'>
                   <a href="product-details2.php">
                     <img class="slide-brand-img" src='assets/images/logo/onisuka.png'>
                   </a>
@@ -183,7 +192,8 @@
               </div>
               <div class="item last">
                 <div class="slide-brand-frame">
-                  <a href="product-details2.php">
+
+                  <a href="filter.php">
                     <img class="slide-brand-img" src='assets/images/logo/nike.png'>
                   </a>
                 </div>
@@ -198,6 +208,7 @@
                 <div class="latest-product-btn pull-right mb-2">
                     <button type="button" class="btn add-to-cart p-2 res-414-up">
                       <label class="mb-0 d-flex px-2">
+
                         <a href="launches.php"><span>ดูทั้งหมด</span></a>
                         <i class="fas fa-plus ml-auto pl-3 pt-1" aria-hidden="true"></i>
                       </label>
@@ -219,13 +230,15 @@
     									<p class="launches_font_32">2561</p>
     				      			</div>
     				     			<div class="col-9 col-lg-8 col-md-8  lau_pad_10">
+
     				     				<a href="launches-detail.php"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
     				     				<p class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
     				      			</div>
     				      			<div class="col-lg-12 text-right px-0">
     									<button type="button" class="btn fast-buy p-2">
                               				<label class="mb-0 d-flex px-2">
-                                				<span>จองทันที</span>
+
+                                				<span>Buy Now</span>
                                 					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                               					</label>
                             			</button>
@@ -249,13 +262,15 @@
     									<p class="launches_font_32">2561</p>
     				      			</div>
     				     			<div class="col-9 col-lg-8 col-md-8 lau_pad_10">
+
     				     				<a href="launches-detail.php"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
     				     				<p class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
     				      			</div>
     				      			<div class="col-lg-12 text-right px-0">
     									<button type="button" class="btn fast-buy p-2">
                               				<label class="mb-0 d-flex px-2">
-                                				<span>จองทันที</span>
+
+                                				<span>Buy Now</span>
                                 					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                               					</label>
                             			</button>
@@ -279,13 +294,15 @@
                       <p class="launches_font_32">2561</p>
                         </div>
                       <div class="col-9 col-lg-8 col-md-8 lau_pad_10">
+
                         <a href="launches-detail.php"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
                         <p class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
                         </div>
                         <div class="col-lg-12 text-right px-0">
                       <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex px-2">
-                                        <span>จองทันที</span>
+
+                                        <span>Buy Now</span>
                                           <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                                         </label>
                                   </button>
@@ -297,7 +314,8 @@
 
               <div class="col-12 res-414-down">
                 <a href="launches.php">
-                  <label>ดูทั้งหมด <span> > </span></label>
+
+                  <label>view all <span> > </span></label>
                 </a>
               </div>
 
@@ -311,6 +329,7 @@
                 <div class="latest-product-btn pull-right mb-2">
                     <button type="button" class="btn add-to-cart p-2 res-414-up">
                       <label class="mb-0 d-flex px-2">
+
                         <a href="blankpage.php"><span>ดูทั้งหมด</span></a>
                         <i class="fas fa-plus ml-auto pl-3 pt-1" aria-hidden="true"></i>
                       </label>
@@ -353,7 +372,8 @@
 
               <div class="col-12 res-414-down">
                 <a href="blog.php">
-                  <label>ดูทั้งหมด <span> > </span></label>
+
+                  <label>view all <span> > </span></label>
                 </a>
               </div>
 

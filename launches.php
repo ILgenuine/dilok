@@ -28,29 +28,29 @@
 
 <!-- ------card----- -->
 
-        <div class="container">
-		    <div class="row mt-5"> 
+         <div class="container-fluid custom-container">
+		    <div class="row mt-3"> 
 	    		<div class="col-lg-6 col-md-6 col-12 text-lg-left text-md-left text-center">
-	    	         <p>LAUNCHES</p>
+	    	         <p style="padding-top: 14px;">LAUNCHES</p>
 	            </div>
 	            <div class="col-lg-6 col-md-6 col-12 text-lg-right text-md-right text-center">
 	            	<button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
-                            <span>กำลังจะมาถึง</span>
+                            <span>COMING SOON</span>
                         </label>
                      </button>
                      <button type="button" class="btn add-to-cart p-2">
                         <label class="mb-0 d-flex px-2">
-                            <span>ล่าสุด</span>
+                            <span>NOW</span>
                         </label>
                      </button>		
 	            </div>
 		    </div>
 	    </div>
 
-	    <div class="container mt-5">
+	    <div class="container-fluid custom-container mt-2">
 	    	<div class="row">
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 	    					<span class='zoom' id='zoom1'>
@@ -59,19 +59,19 @@
 	    				</div>  
 				  		<div class="card-body">
 				     		<div class="row">
-				      			<div class="col-3 col-lg-4 col-md-4  launches_border text-md-center">
-									<p class="launches_font_3">กุมภาพันธ์</p>
+				      			<div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
+									<p class="launches_font_30">January</p>
 									<p class="launches_font_31">7</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
-				     			<div class="col-9 col-lg-8 col-md-8  lau_pad_10">
+				     			<div class="col-9 col-lg-9 col-md-8  lau_pad_10">
 				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
-				     				<p class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
+				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -80,7 +80,7 @@
 				  		</div>
 					</div>
 	    		</div>
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					 		<span class='zoom' id='zoom2'>
@@ -89,19 +89,19 @@
 					 	</div>
 					 	<div class="card-body">
 				     		<div class="row">
-				      			<div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-									<p class="launches_font_3">มีนาคม</p>
+				      			<div class="col-3 col-lg-3 col-md-4 launches_border text-md-center">
+									<p class="launches_font_30">December</p>
 									<p class="launches_font_31">28</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
-				     			<div class="col-9 col-lg-8 col-md-8 lau_pad_10">
+				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
 				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
-				     				<p class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
+				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -110,7 +110,7 @@
 				  		</div>
 					</div>
 	    		</div>	
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom3'>
@@ -119,19 +119,19 @@
 					  	</div>
 					  <div class="card-body">
 				     		<div class="row">
-				      			<div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-									<p class="launches_font_3">มกราคม</p>
+				      			<div class="col-3 col-lg-3 col-md-4 launches_border text-md-center">
+									<p class="launches_font_30">March</p>
 									<p class="launches_font_31">31</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
-				     			<div class="col-9 col-lg-8 col-md-8 lau_pad_10">
+				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
 				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
-				     				<p class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
+				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -140,7 +140,7 @@
 				  		</div>
 					</div>
 	    		</div>
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12 mt-lg-4">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom4'>
@@ -149,19 +149,19 @@
 						</div>
 					  <div class="card-body">
 				     		<div class="row">
-				      			<div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-									<p class="launches_font_3">มกราคม</p>
+				      			<div class="col-3 col-lg-3 col-md-4 launches_border text-md-center">
+									<p class="launches_font_30">September</p>
 									<p class="launches_font_31">31</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
-				     			<div class="col-9 col-lg-8 col-md-8 lau_pad_10">
+				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
 				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
-				     				<p class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
+				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -170,7 +170,7 @@
 				  		</div>
 					</div>
 	    		</div>		  
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12 mt-lg-4">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom5'>
@@ -179,19 +179,19 @@
 					  	</div>
 					  <div class="card-body">
 				     		<div class="row">
-				      			<div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-									<p class="launches_font_3">มกราคม</p>
+				      			<div class="col-3 col-lg-3 col-md-4 launches_border text-md-center">
+									<p class="launches_font_30">July</p>
 									<p class="launches_font_31">31</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
-				     			<div class="col-9 col-lg-8 col-md-8 lau_pad_10">
+				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
 				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
-				     				<p class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
+				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -200,7 +200,7 @@
 				  		</div>
 					</div>
 	    		</div>		  
-	    		<div class="col-lg-4">
+	    		<div class="col-lg-4 col-md-6 col-12 mt-lg-4">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom6'>
@@ -209,22 +209,22 @@
 						</div>
 					  <div class="card-body">
 				     		<div class="row">
-				      			<div class="col-3 col-lg-4 col-md-4 launches_border text-md-center">
-									<p class="launches_font_3">มกราคม</p>
+				      			<div class="col-3 col-lg-3 col-md-4 launches_border text-md-center">
+									<p class="launches_font_30">February</p>
 									<p class="launches_font_31">31</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
-				     			<div class="col-9 col-lg-8 col-md-8 lau_pad_10">
+				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
 				     				<div>
 				     					<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
 				     				</div>
 				     				
-				     				<p  class="font_14 line-h-20">เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8:00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
+				     				<p  class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>จองทันที</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -233,12 +233,6 @@
 				  		</div>
 					</div>
 	    		</div>
-	    		<!-- <div class="col-lg-4">
-	    			<span class='zoom' id='zoom1'>
-						<img src='http://www.babywallpaper.us/user-content/uploads/wall/o/55/170720136.jpg' width='500' height='400' alt='Baby Wallper'/>
-					</span>		  		
-	    		</div> -->
-	    		    		
 	    	</div>
 	    </div>
 
@@ -248,10 +242,10 @@
 
 <!--------เลขหน้า --------->
 
-		<div class="container mt-5">                  
+		<div class="container-fluid custom-container mt-5">                  
           <ul class="pagination justify-content-center">
-            <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">1</a></li>
-            <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">2</a></li>
+            <li class="page-item pr-1"><a class="news_page-link active" href="javascript:void(0);">1</a></li>
+            <li class="page-item pr-1"><a class="news_page-link " href="javascript:void(0);">2</a></li>
             <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">3</a></li>
             <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">4</a></li>        
           </ul>
