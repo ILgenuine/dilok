@@ -60,9 +60,9 @@
 				  		<div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
-									<p class="launches_font_3">January</p>
+									<p class="launches_font_30">January</p>
 									<p class="launches_font_31">7</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8  lau_pad_10">
 				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
@@ -71,7 +71,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>Book now</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -90,9 +90,9 @@
 					 	<div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-3 col-md-4 launches_border text-md-center">
-									<p class="launches_font_3">มีนาคม</p>
+									<p class="launches_font_30">December</p>
 									<p class="launches_font_31">28</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
 				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
@@ -101,7 +101,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>Book now</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -120,9 +120,9 @@
 					  <div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-3 col-md-4 launches_border text-md-center">
-									<p class="launches_font_3">มกราคม</p>
+									<p class="launches_font_30">March</p>
 									<p class="launches_font_31">31</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
 				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
@@ -131,7 +131,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>Book now</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -150,9 +150,9 @@
 					  <div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-3 col-md-4 launches_border text-md-center">
-									<p class="launches_font_3">มกราคม</p>
+									<p class="launches_font_30">September</p>
 									<p class="launches_font_31">31</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
 				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
@@ -161,7 +161,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>Book now</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -180,9 +180,9 @@
 					  <div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-3 col-md-4 launches_border text-md-center">
-									<p class="launches_font_3">มกราคม</p>
+									<p class="launches_font_30">July</p>
 									<p class="launches_font_31">31</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
 				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
@@ -191,7 +191,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>Book now</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
@@ -210,9 +210,9 @@
 					  <div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-3 col-md-4 launches_border text-md-center">
-									<p class="launches_font_3">มกราคม</p>
+									<p class="launches_font_30">February</p>
 									<p class="launches_font_31">31</p>
-									<p class="launches_font_32">2561</p>
+									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
 				     				<div>
@@ -224,7 +224,7 @@
 				      			<div class="col-lg-12 text-right px-0">
 									<button type="button" class="btn fast-buy p-2">
                           				<label class="mb-0 d-flex px-2">
-                            				<span>Book nowี</span>
+                            				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
                         			</button>	
