@@ -82,10 +82,10 @@ body{
     margin-top: 90px;
 }
 .regist-m-t2{
-    margin-top: 37px;
+    margin-top: 22px;
 }
 .regist-m-t3{
-    margin-top: 52px;
+    margin-top: 50px;
 }
 .regist-m-t4{
     margin-top: 50px;
@@ -96,11 +96,14 @@ body{
 .regist-m-t6{
     margin-top: 18px;
 }
+.regist-m-t7{
+  margin-top: 50px;
+}
 .regist-p-l{
     padding-left: 25px;
 }
 .regist-m-l{
-    margin-left: 60px;
+    margin-left: 95px;
 }
 .regist-m-l2{
     margin-left: 35px;
@@ -203,7 +206,7 @@ body{
     padding-left: 10px;
 }
 .forgot-m-l{
-    margin-left: 330px;
+    margin-left: 320px;
 }
 .forgot-m-l2{
     margin-left:270px;
@@ -263,7 +266,6 @@ body{
 }
 .box{
     padding: 10px;
-    background: #fff;
 }
 .filter {
     padding: 20px;
@@ -314,28 +316,31 @@ body{
     transition:  all 0.5s;
 }
 .btn-column{
-    background-color: #fff;
+    background-color: transparent;
     font-size: 20px;
     width: 30px;
-    padding: 5px;
+    padding: 3.5px;
 }
 .btn-column:hover{
     background-color: #fff;
     font-size: 20px;
     color: #999;
     transition: all 0.5s;
+    background-color: transparent;
 }
 .btn-row{
     background-color: #fff;
     font-size: 18px;
     width: 30px;
     padding: 5px;
+    background-color: transparent;
 }
 .btn-row:hover{
     background-color: #fff;
     font-size: 18px;
     color: #999;
     transition: all 0.5s;
+    background-color: transparent;
 }
 .fillter-m-b{
     margin-bottom: 30px;
@@ -351,7 +356,6 @@ body{
 .fillter-select{
     background-color: #E5E7E9;
     padding: 5px;
-    width: 100px;
 }
 .fillter-m{
     margin: 0px;
@@ -359,9 +363,13 @@ body{
 .fillter-hr{
     border: 0.5px solid white;
 }
+.fillter-block{
+  margin: 5px;
+}
 /*-------------------------------------
 ------------- END FILLTER ---------------
 ---------------------------------------*/
+
 
 /*-------------------------------------
 ------------- PAYMENT -----------------
@@ -395,7 +403,7 @@ body{
     font-family: 'kanitlight';
 }
 .pay-font8{
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'kanitmedium';
 }
 .pay-font9{
@@ -408,9 +416,8 @@ body{
     font-family: 'kanitlight';
 }
 .pay-font11{
-    font-size: 16px;
+    font-size: 20px;
     color: #E74C3C;
-    font-family: 'kanitlight';
 }
 .txt-right{
    text-align: right;
@@ -505,11 +512,6 @@ body{
     margin-top: -7px;
     margin-left: 5px;
 }
-.pay-size4{
-    width: 100%;
-    height: 110px;
-    border: 1px solid #888;
-}
 .pay-form{
     border: 1px solid #e3e3e3;
     width: 100%;
@@ -520,7 +522,7 @@ body{
     border-radius: 0px;
 }
 .bg-gray{
-    background-color:#F2F3F4;
+    background-color:#F8F9F9;
 }
 .pay-m-t{
     margin-top: 30px;
@@ -533,9 +535,17 @@ body{
     margin-left: 0px;
     margin-right: 0px;
 }
+.overlay-img2 {
+   position: relative;
+   height: 140px;
+   width: 100%;
+   overflow: hidden;
+   border:  1px solid #333;
+}
 /*-------------------------------------
 ------------ END PAYMENT --------------
 ---------------------------------------*/
+
 
 /*-------------------------------------
 ------------ CART --------------
@@ -565,16 +575,11 @@ body{
     border: 1px solid black;
     padding-left: 10px;
 }
-.cart-size{
-    width: 100%;
-    height: 130px;
-    border: 1px solid #888;
-}
 .sale-percent{
     width: 70px !important;
 }
 .cart-bg{
-    background-color: #f4f5f6;
+    background-color:#F8F9F9;
     padding: 30px;
     margin-top: 20px;
     margin-bottom: 30px;
@@ -597,6 +602,36 @@ body{
 .cart-m-l5{
   margin-left: 0px;
 }
+.overlay-img {
+   position: relative;
+   height: 140px;
+   width: 100%;
+   overflow: hidden;
+}
+.image-full{
+   position: absolute;
+   display: block;
+   width: 100%;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+.promotion-button .pull-left{
+  font-size: 16px !important;
+  line-height: 1px !important;
+  color:#e5e5e5 !important;
+  height:20px !important;
+}
+.promotion-button .pull-left:hover{
+  font-size: 16px !important;
+  line-height: 1px !important;
+  color:#666 !important;
+  height:20px !important;
+  transition: all 0.4s !important;
+}
+button{
+  text-transform: uppercase !important;
+}
 /*-------------------------------------
 ------------ END CART --------------
 ---------------------------------------*/
@@ -609,12 +644,60 @@ body{
 }
 .wish-font2{
     font-weight: bolder;
+    color: #cd0928;
 }
 .wish-d3{
-  display:none;
+    display:none;
 }
 .wish-m{
-  margin: 0px;
+    margin: 0px;
+}
+.wishlist-screen{
+    position: relative;
+}
+.wishlist-screen2{
+    position: absolute;
+    background: url(/dilok/assets/images/productfill/street.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: -1;
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+.wish-m-ll{
+    margin: 0px;
+}
+.btn-column2{
+    background-color: transparent;
+    font-size: 20px;
+    width: 30px;
+    padding: 3.5px;
+}
+.btn-column2:hover{
+    background-color: #fff;
+    font-size: 20px;
+    color: gray;
+    transition: all 0.5s;
+    background-color: transparent;
+}
+.btn-row2{
+    background-color: #fff;
+    font-size: 18px;
+    width: 30px;
+    padding: 5px;
+    background-color: transparent;
+}
+.btn-row2:hover{
+    background-color: #fff;
+    font-size: 18px;
+    color: gray;
+    transition: all 0.5s;
+    background-color: transparent;
 }
 /*-------------------------------------
 ------------ END WISHLIST --------------
@@ -626,7 +709,7 @@ body{
   ------------ REGIST 1366 ---------------
   ---------------------------------------*/
   .regist-p-l{
-      padding-left: 20px;
+      padding-left: 28px;
   }
   .regist-m-l{
       margin-left:60px;
@@ -634,6 +717,17 @@ body{
   /*-------------------------------------
   ----------- END REGIST 1366 ------------
   ---------------------------------------*/
+
+  /*-------------------------------------
+  -----------  FORGOT 1366 ------------
+  ---------------------------------------*/
+  .forgot-m-l2{
+      margin-left:270px;
+  }
+  /*-------------------------------------
+  ----------- END FORGOT 1366 ------------
+  ---------------------------------------*/
+
 
   /*-------------------------------------
   ------------ FILLTER 1366 --------------
@@ -653,11 +747,6 @@ body{
   /*-------------------------------------
   ---------- PAY 1366 ------------
   ---------------------------------------*/
-  .pay-size4{
-      width: 100%;
-      height:90px;
-      border: 1px solid #888;
-  }
   .pay-m-t{
     margin-top: 0px;
   }
@@ -676,6 +765,13 @@ body{
   .pay-m-l-r{
       padding-left:10px;
       padding-right:10px;
+  }
+  .overlay-img2 {
+     position: relative;
+     height: 114px;
+     width: 100%;
+     overflow: hidden;
+     border:  1px solid #333;
   }
   /*-------------------------------------
   ---------- END PAY 1366 ------------
@@ -726,10 +822,10 @@ body{
   ------------ REGIST 1024 --------------
   ---------------------------------------*/
   .regist-m-t3{
-      margin-top:20px;
+      margin-top:17px;
   }
   .regist-m-l{
-      margin-left:275px;
+      margin-left:290px;
   }
   .regist-m-t4{
       margin-top: 50px;
@@ -738,7 +834,7 @@ body{
       margin-right:0px;
   }
   .regist-p-l{
-      padding-left:0px;
+      padding-left:2px;
   }
   /*------------------------------------
   ----------- END REGIST 1024 ----------
@@ -748,7 +844,7 @@ body{
   /*-------------------------------------
   ------------ FORGOT 1024 --------------
   ---------------------------------------*/
-    .forgot-m-l{
+  .forgot-m-l{
         margin-left: 240px;
   }
   /*-------------------------------------
@@ -778,16 +874,18 @@ body{
   .pay-m-l5{
       margin-left: 680px;
   }
-  .pay-size4{
-      width: 100%;
-      height:auto;
-      border: 1px solid #888;
-  }
   .pay-m-t{
     margin-top: 3em;
   }
   .pay-m-t2{
     margin-top: 2em;
+  }
+  .overlay-img2 {
+     position: relative;
+     height: 250px;
+     width: 100%;
+     overflow: hidden;
+     border:  1px solid #333;
   }
   /*-------------------------------------
   ------------- END PAY 1024 ------------
@@ -846,7 +944,7 @@ body{
         border-right: none;
     }
     .regist-m-l{
-        margin-left: 41em;
+        margin-left: 43em;
     }
     .regist-m-t4{
         margin-top: 40px;
@@ -854,6 +952,12 @@ body{
     .regist-m-r{
         margin-right: 0px;
         margin-left: 0px;
+    }
+    .regist-m-t5{
+      margin-top: 10px;
+    }
+    .regist-m-t7{
+      margin-top: 50px;
     }
 
   /*-----------------------------------
@@ -864,7 +968,7 @@ body{
   ------------ FORGOT 768 --------------
   ---------------------------------------*/
   .forgot-m-l{
-        margin-left: 120px;
+        margin-left: 110px;
   }
   /*-------------------------------------
   ---------- END FORGOT 768 ------------
@@ -923,16 +1027,18 @@ body{
   .pay-m-l5{
       margin-left: 440px;
   }
-  .pay-size4{
-      width: 100%;
-      height:auto;
-      border: 1px solid #888;
-  }
   .pay-m-t{
     margin-top: 3em;
   }
   .pay-m-t2{
     margin-top: 1em;
+  }
+  .overlay-img2 {
+     position: relative;
+     height: 180px;
+     width: 100%;
+     overflow: hidden;
+     border:  1px solid #333;
   }
   /*-------------------------------------
   ------------- END PAY 768 ------------
@@ -999,7 +1105,7 @@ body{
         padding-left: 10px;
     }
     .regist-m-l{
-        margin-left: 190px;
+        margin-left: 210px;
     }
     .regist-m-t4{
         margin-top: 40px;
@@ -1007,6 +1113,12 @@ body{
     .regist-m-r{
       margin-right: 0px;
       margin-left: 0px;
+    }
+    .regist-m-t5{
+      margin-top: 10px;
+    }
+    .regist-m-t7{
+      margin-top: 50px;
     }
   /*-----------------------------------
   ---------- END REGIST 414 -----------
@@ -1023,6 +1135,9 @@ body{
     }
     .forgot-m-l{
         margin-left: 0px;
+    }
+    .forgot-m-l2{
+        margin-left: 190px;
     }
     .forgot-form{
         width: 100%;
@@ -1058,30 +1173,30 @@ body{
   /*-------------------------------------
   ------------ FILLTER 414 --------------
   ---------------------------------------*/
-  .fillter-d-n1{
-    display: none;
-  }
-  .fillter-d-n3{
-    display: none;
-  }
-  .fillter-d-n2{
-    display: none;
-  }
-  .box{
-      padding: 30px;
-      background: #fff;
-  }
-  .fillter-r-l{
-    padding-left:20px;
-    padding-right:20px;
-  }
-  .fillter-m-t2{
-    margin-top: 30px;
-  }
-  .fillter-m-tt{
-    margin-top: 20px;
-    margin-left: 5px;
-  }
+    .fillter-d-n1{
+        display: none;
+    }
+    .fillter-d-n3{
+        display: none;
+    }
+    .fillter-d-n2{
+        display: none;
+    }
+    .box{
+        padding: 30px;
+        background: #fff;
+    }
+    .fillter-r-l{
+        padding-left:20px;
+        padding-right:20px;
+    }
+    .fillter-m-t2{
+        margin-top: 30px;
+    }
+    .fillter-m-tt{
+        margin-top: 20px;
+        margin-left: 5px;
+    }
   /*-------------------------------------
   ------------END FILLTER 414 --------------
   ---------------------------------------*/
@@ -1100,11 +1215,6 @@ body{
   }
   .pay-m-l5{
       margin-left: 120px;
-  }
-  .pay-size4{
-      width: 100%;
-      height:auto;
-      border: 1px solid #888;
   }
   .pay-size{
       width: 40px;
@@ -1139,6 +1249,13 @@ body{
       color: #999;
       text-align: center;
   }
+  .overlay-img2 {
+     position: relative;
+     height: 270px;
+     width: 100%;
+     overflow: hidden;
+     border:  1px solid #333;
+  }
   /*-------------------------------------
   ------------- END PAY 414 ------------
   ---------------------------------------*/
@@ -1148,11 +1265,6 @@ body{
   ---------------------------------------*/
   .cart-m-l5{
       margin-left: 160px;
-  }
-  .cart-size{
-      width: 100%;
-      height: 230px;
-      border: 1px solid #888;
   }
   .cart-p-l{
       padding-left: 0px;
@@ -1166,6 +1278,20 @@ body{
   .cart-m-l2{
       margin-left: 0px;
   }
+  .overlay-img {
+     position: relative;
+     height: 200px;
+     width: 100%;
+     overflow: hidden;
+  }
+  .image-full{
+     position: absolute;
+     display: block;
+     width: 100%;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+  }
   /*-------------------------------------
   ----------- END CART 414 -------------
   --------------------------------------*/
@@ -1174,16 +1300,16 @@ body{
   ----------- WISHLIST 414 -------------
   --------------------------------------*/
   .latest-product-price{
-    text-align: right !important;
+      text-align: right !important;
   }
   .wish-d2{
-    display: none;
+      display: none;
   }
   .wish-p-l{
-    padding-left: 10px;
+      padding-left: 10px;
   }
   .wish-p-r{
-    padding-right: 20px;
+      padding-right: 20px;
   }
   .wish-m-ll{
       margin-left: 0px;
@@ -1202,7 +1328,7 @@ body{
         margin-left:160px;
     }
     .regist-m-l{
-        margin-left: 150px;
+        margin-left: 175px;
     }
   /*-----------------------------------
   ---------- END REGIST 375 -----------
@@ -1219,6 +1345,9 @@ body{
     }
     .forgot-m-l{
         margin-left: 0px;
+    }
+    .forgot-m-l2{
+        margin-left: 150px;
     }
   /*-------------------------------------
   ---------- END FORGOT 375 ------------
@@ -1280,8 +1409,14 @@ body{
   /*-------------------------------------
   ------------ REGIST 320  --------------
   ---------------------------------------*/
+  .regist-font1{
+      font-family: 'kanitlight';
+      font-size: 30px;
+      color:black;
+      font-weight: bolder;
+  }
   .regist-m-l{
-        margin-left:100px;
+      margin-left:120px;
   }
   /*-------------------------------------
   ---------- END REGIST 320  -------------
@@ -1291,7 +1426,7 @@ body{
   ------------ FORGOT 320  --------------
   ---------------------------------------*/
     .forgot-m-l2{
-        margin-left:105px;
+        margin-left:100px;
     }
   /*-------------------------------------
   ---------- END FORGOT 320 ------------
@@ -1301,31 +1436,38 @@ body{
   /*-------------------------------------
   --------------- PAY 320 --------------
   ---------------------------------------*/
-  .pay-m-l2{
-      margin-left: 82px;
-  }
-  .pay-m-l3{
-      margin-left: 59px;
-  }
-  .pay-m-l4{
-      margin-left: 63px;
-  }
-  .pay-m-l5{
-      margin-left: 40px;
-  }
-  .pay-size{
-      width: 35px;
-      height: 22px;
-      margin-top: -7px;
-      margin-left: 0px;
-  }
-  .pay-size2{
-      width: 35px;
-      height: 22px;
-      margin-top: -7px;
-      border: 1px solid #e3e3e3;
-      margin-left: 0px;
-  }
+    .pay-m-l2{
+        margin-left: 82px;
+    }
+    .pay-m-l3{
+        margin-left: 59px;
+    }
+    .pay-m-l4{
+        margin-left: 63px;
+    }
+    .pay-m-l5{
+        margin-left: 40px;
+    }
+    .pay-size{
+        width: 35px;
+        height: 22px;
+        margin-top: -7px;
+        margin-left: 0px;
+    }
+    .pay-size2{
+        width: 35px;
+        height: 22px;
+        margin-top: -7px;
+        border: 1px solid #e3e3e3;
+        margin-left: 0px;
+    }
+    .overlay-img2 {
+       position: relative;
+       height: 230px;
+       width: 100%;
+       overflow: hidden;
+       border:  1px solid #333;
+    }
   /*-------------------------------------
   ------------ END PAY 320 --------------
   ---------------------------------------*/
