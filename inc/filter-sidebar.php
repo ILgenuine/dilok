@@ -14,33 +14,33 @@
               <li class="nav-item">
                     <span>
                         <form class="form-group">
-                             <button class="btn fillter-bg2 px-0" type="button" data-toggle="collapse" data-target="#collapseExample111" aria-expanded="false" aria-controls="collapseExample">
+                             <button class="btn fillter-bg2 px-0" type="button" data-toggle="collapse" data-target="#collapseExample999" aria-expanded="false" aria-controls="collapseExample">
                                  <span class="fillter-font2 pull-left">SELECTED</span>
                                  <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
                              </button>
-                             <div class="collapse show" id="collapseExample111">
+                             <div class="collapse show" id="collapseExample999">
                                  <div class="mt-2">
                                      <div class="row">
                                          <span class="fillter-block fillter-select fillter-font4">
-                                           <a href="#" class="fas fa-times pr-2"></a>Male
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Male
                                          </span>
                                          <span class="fillter-block fillter-select fillter-font4">
-                                           <a href="#" class="fas fa-times pr-2"></a>Adidas
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
                                          </span>
                                          <span class="fillter-block fillter-select fillter-font4">
-                                           <a href="#" class="fas fa-times pr-2"></a>Adidas
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
                                          </span>
                                          <span class="fillter-block fillter-select fillter-font4">
-                                           <a href="#" class="fas fa-times pr-2"></a>Adidas
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
                                          </span>
                                          <span class="fillter-block fillter-select fillter-font4">
-                                           <a href="#" class="fas fa-times pr-2"></a>Adidas
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
                                          </span>
                                          <span class="fillter-block fillter-select fillter-font4">
-                                           <a href="#" class="fas fa-times pr-2"></a>Adidas
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>Adidas
                                          </span>
                                          <span class="fillter-block fillter-select fillter-font4">
-                                           <a href="#" class="fas fa-times pr-2"></a>onitsuka
+                                           <a href="#" class="fas fa-times fillter-close pr-2"></a>onitsuka
                                          </span>
                                      </div>
                                  </div>
