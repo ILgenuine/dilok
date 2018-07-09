@@ -372,6 +372,52 @@
 .fillter-close:hover{
   color:#999;
 }
+.filter-width{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.filter-image-full{
+   position: absolute;
+   display: block;
+   width: 100% !important;
+   height: 230px!important;
+   height: auto;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   margin-top: -98px;
+}
+.filter-position-a{
+   position: absolute;
+   margin-top: 201px !important;
+}
+.filter-position-r{
+   position: relative;
+   height: 370px !important;
+}
+.filter-image-full2{
+   position: absolute;
+   display: block;
+   width: 100% !important;
+   height: 293px!important;
+   height: auto;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   margin-top: -72px;
+}
+.filter-position-a2{
+   position: absolute;
+   margin-top: 265px !important;
+}
+.filter-position-r2{
+   height: 440px !important;
+   width: 100% !important;
+}
+.color-down{
+  color: white;
+  padding-top: 2px;
+}
 /*-------------------------------------
 ------------- END FILLTER ---------------
 ---------------------------------------*/
@@ -743,6 +789,46 @@
   .fillter-m{
       margin: 5px;
   }
+  .filter-image-full{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 178px!important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -136px;
+  }
+  .filter-position-a{
+     position: absolute;
+     margin-top: 170px !important;
+  }
+  .filter-position-r{
+     position: relative;
+     height: 423px !important;
+  }
+  .filter-image-full2{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 212px !important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -106px;
+  }
+  .filter-position-a2{
+     position: absolute;
+     margin-top: 214px !important;
+  }
+  .filter-position-r2{
+     height: 444px !important;
+  }
+  .filter-p{
+    padding: 10px;
+  }
   /*-------------------------------------
   ---------- END FILLTER 1366 ------------
   ---------------------------------------*/
@@ -928,6 +1014,50 @@
   /*-------------------------------------
   ----------- END WISH 1024 -------------
   ---------------------------------------*/
+
+  /*-------------------------------------
+  ----------- FILTER 1024 -------------
+  ---------------------------------------*/
+  .filter-image-full{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 156px!important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -121px;
+  }
+  .filter-position-a{
+     position: absolute;
+     margin-top: 140px !important;
+  }
+  .filter-position-r{
+     position: relative;
+     height: 377px !important;
+  }
+  .filter-image-full2{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 212px !important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -100px;
+  }
+  .filter-position-a2{
+     position: absolute;
+     margin-top: 197px !important;
+  }
+  .filter-position-r2{
+     height: 434px !important;
+  }
+  /*-------------------------------------
+  ----------- END FILTER 1024 -------------
+  ---------------------------------------*/
 }
 
 @media(max-width: 768px){
@@ -1005,6 +1135,43 @@
   .fillter-m-tt{
     margin-top: 10px;
     margin-left: 5px;
+  }
+  .filter-image-full{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 139px!important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -121px;
+  }
+  .filter-position-a{
+     position: absolute;
+     margin-top: 140px !important;
+  }
+  .filter-position-r{
+     position: relative;
+     height: 377px !important;
+  }
+  .filter-image-full2{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 212px !important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -100px;
+  }
+  .filter-position-a2{
+     position: absolute;
+     margin-top: 197px !important;
+  }
+  .filter-position-r2{
+     height: 434px !important;
   }
   /*-------------------------------------
   ------------END FILLTER 768 --------------
@@ -1197,6 +1364,25 @@
     .fillter-m-tt{
         margin-top: 20px;
         margin-left: 5px;
+    }
+    .filter-image-full{
+       position: absolute;
+       display: block;
+       width: 100% !important;
+       height: 184px!important;
+       height: auto;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+       margin-top: -125px;
+    }
+    .filter-position-a{
+       position: absolute;
+       margin-top: 183px !important
+    }
+    .filter-position-r{
+       position: relative;
+       height: 420px !important;
     }
   /*-------------------------------------
   ------------END FILLTER 414 --------------
