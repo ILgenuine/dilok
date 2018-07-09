@@ -212,7 +212,7 @@
                   <div class="card_new">
                     <div class="launches-fix-frame">
                       <span class='zoom' id='zoom1'>
-                      <img src='assets/images/product/2/silver-bullet-nike-air-max-97.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                      <img src='assets/images/product/2/adidas/6.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
                       </span>
                     </div>
                     <div class="card-body">
@@ -242,7 +242,7 @@
                   <div class="card_new">
                     <div class="launches-fix-frame">
                       <span class='zoom' id='zoom2'>
-                      <img src='assets/images/product/2/Nike-Air-Max-97-Neon-1.png' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                      <img src='assets/images/product/2/adidas/1.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
                       </span>
                     </div>
                     <div class="card-body">
@@ -272,7 +272,7 @@
                   <div class="card_new">
                     <div class="launches-fix-frame">
                       <span class='zoom' id='zoom3'>
-                      <img src='assets/images/product/2/nike-lebron-soldier-25-straight-ao2088-400-3.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                      <img src='assets/images/product/2/adidas/4.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
                       </span>
                     </div>
                     <div class="card-body">
