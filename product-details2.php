@@ -35,7 +35,7 @@
                   <!-- บังคับใช้ zoom + เลข ทั้ง id และ class   มี script ข้างล่าง -->
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
                       <div class="product-desktop-frame zoom1" id="zoom1" data-toggle="modal" data-target="#full-screen-product-1">
-                        <img class="product-desktop-img" src="assets/images/product/1/2.jpg">
+                        <img class="product-desktop-img" src="assets/images/product/1/22.jpg">
                       </div>
                   </div>
 
@@ -47,22 +47,22 @@
                   </div>
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
                     <div class="product-desktop-frame zoom3" id="zoom3" data-toggle="modal" data-target="#full-screen-product-1">
-                      <img class="product-desktop-img" src="assets/images/product/1/4.jpg">
+                      <img class="product-desktop-img" src="assets/images/product/1/44.jpg">
                     </div>
                   </div>
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
                     <div class="product-desktop-frame zoom4" id="zoom4" data-toggle="modal" data-target="#full-screen-product-1">
-                      <img class="product-desktop-img" src="assets/images/product/1/5.jpg">
+                      <img class="product-desktop-img" src="assets/images/product/1/55.jpg">
                     </div>
                   </div>
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
                     <div class="product-desktop-frame zoom5" id="zoom5" data-toggle="modal" data-target="#full-screen-product-1">
-                      <img class="product-desktop-img" src="assets/images/product/1/1.jpg">
+                      <img class="product-desktop-img" src="assets/images/product/1/11.jpg">
                     </div>
                   </div>
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
                     <div class="product-desktop-frame zoom6" id="zoom6" data-toggle="modal" data-target="#full-screen-product-1">
-                      <img class="product-desktop-img" src="assets/images/product/1/3.jpg">
+                      <img class="product-desktop-img" src="assets/images/product/1/33.jpg">
                     </div>
                   </div>
                 </div>
@@ -76,12 +76,12 @@
                       <button type="button" class="close custom-close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                       </button>
-                      <img width="100%" src="assets/images/product/1/1.jpg">
-                      <img width="100%" src="assets/images/product/1/2.jpg">
-                      <img width="100%" src="assets/images/product/1/3.jpg">
-                      <img width="100%" src="assets/images/product/1/4.jpg">
-                      <img width="100%" src="assets/images/product/1/5.jpg">
-                      <img width="100%" src="assets/images/product/1/6.jpg">
+                      <img width="100%" src="assets/images/product/1/11.jpg">
+                      <img width="100%" src="assets/images/product/1/22.jpg">
+                      <img width="100%" src="assets/images/product/1/33.jpg">
+                      <img width="100%" src="assets/images/product/1/44.jpg">
+                      <img width="100%" src="assets/images/product/1/55.jpg">
+                      <img width="100%" src="assets/images/product/1/66.jpg">
 
                     </div>
                   </div>
@@ -98,28 +98,28 @@
                     <div class="productdetail2-carousel owl-carousel owl-theme">
                         <div class="item">
                           <div class="product-ipad-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-ipad-img" src="assets/images/product/1/2.jpg">
+                            <img class="product-ipad-img" src="assets/images/product/1/22.jpg">
                           </div>
                         </div>
                         <div class="item-video"><a class="owl-video" href="https://www.youtube.com/watch?v=yjNXVkWhXkc"></a></div>
                         <div class="item">
                           <div class="product-ipad-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-ipad-img" src="assets/images/product/1/3.jpg">
+                            <img class="product-ipad-img" src="assets/images/product/1/33.jpg">
                           </div>
                         </div>
                         <div class="item">
                           <div class="product-ipad-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-ipad-img" src="assets/images/product/1/4.jpg">
+                            <img class="product-ipad-img" src="assets/images/product/1/44.jpg">
                           </div>
                         </div>
                         <div class="item">
                           <div class="product-ipad-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-ipad-img" src="assets/images/product/1/5.jpg">
+                            <img class="product-ipad-img" src="assets/images/product/1/55jpg">
                           </div>
                         </div>
                         <div class="item">
                           <div class="product-ipad-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-ipad-img" src="assets/images/product/1/6.jpg">
+                            <img class="product-ipad-img" src="assets/images/product/1/66.jpg">
                           </div>
                         </div>
                     </div>
@@ -170,7 +170,7 @@
                                          <div class="row detail-product-frame">
                                            <div class="col-3 p-md-0 p-2">
                                                  <div class="detail-product-frame">
-                                                   <img class="detail-product-img" src="assets/images/product/1/3.jpg">
+                                                   <img class="detail-product-img" src="assets/images/product/1/33.jpg">
                                                  </div>
                                            </div>
                                            <div class="col-9 px-lg-2 px-lg-0 px-md-1 px-0">

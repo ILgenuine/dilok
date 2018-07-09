@@ -1651,7 +1651,7 @@
             <li class="breadcrumb-item active" aria-current="page">Data</li>
           </ol>
         </div>
-        <div class="col-6 pt-2">
+        <div class="col-6 pt-3">
           <div class="w-100 h-100">
             <div class="centering-logo mx-auto h-100">
               <a href="index.php">

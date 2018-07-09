@@ -36,7 +36,7 @@
                       <div class="carousel-inner">
                         <div class="carousel-item active">
                           <div class="product-carousel-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-carousel-img" src="assets/images/product/1/2.jpg">
+                            <img class="product-carousel-img" src="assets/images/product/1/22.jpg">
                           </div>
                         </div>
                         <div class="carousel-item">
@@ -47,32 +47,32 @@
                         </div>
                         <div class="carousel-item">
                           <div class="product-carousel-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-carousel-img" src="assets/images/product/1/3.jpg">
+                            <img class="product-carousel-img" src="assets/images/product/1/33.jpg">
                           </div>
                         </div>
                         <div class="carousel-item">
                           <div class="product-carousel-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-carousel-img" src="assets/images/product/1/4.jpg">
+                            <img class="product-carousel-img" src="assets/images/product/1/44.jpg">
                           </div>
                         </div>
                         <div class="carousel-item">
                           <div class="product-carousel-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-carousel-img" src="assets/images/product/1/5.jpg">
+                            <img class="product-carousel-img" src="assets/images/product/1/55.jpg">
                           </div>
                         </div>
                         <div class="carousel-item">
                           <div class="product-carousel-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-carousel-img" src="assets/images/product/1/6.jpg">
+                            <img class="product-carousel-img" src="assets/images/product/1/66.jpg">
                           </div>
                         </div>
                         <div class="carousel-item">
                           <div class="product-carousel-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-carousel-img" src="assets/images/product/1/5.jpg">
+                            <img class="product-carousel-img" src="assets/images/product/1/55.jpg">
                           </div>
                         </div>
                         <div class="carousel-item">
                           <div class="product-carousel-frame" data-toggle="modal" data-target="#full-screen-product-1">
-                            <img class="product-carousel-img" src="assets/images/product/1/4.jpg">
+                            <img class="product-carousel-img" src="assets/images/product/1/44.jpg">
                           </div>
                         </div>
                       </div>
@@ -91,43 +91,43 @@
                         <!-- บังคับไล่ชื่อitem+เลขด้วย -->
                         <div class="item item1">
                           <div class="product-ipad-frame">
-                            <img  class="product-ipad-img" src="assets/images/product/1/2.jpg">
+                            <img  class="product-ipad-img" src="assets/images/product/1/22.jpg">
                           </div>
                         </div>
                         <div class="item item2">
                           <div class="owl-video-play-icon"></div>
                           <div class="product-ipad-frame">
-                            <img class="product-ipad-img" src="//img.youtube.com/vi/JhDIILjlhBQ/0.jpg">
+                            <img class="product-ipad-img" src="//img.youtube.com/vi/iGEUCPnw4Po/0.jpg">
                           </div>
                         </div>
                         <div class="item item3">
                           <div class="product-ipad-frame">
-                            <img class="product-ipad-img" src="assets/images/product/1/3.jpg">
+                            <img class="product-ipad-img" src="assets/images/product/1/33.jpg">
                           </div>
                         </div>
                         <div class="item item4">
                           <div class="product-ipad-frame">
-                            <img class="product-ipad-img" src="assets/images/product/1/4.jpg">
+                            <img class="product-ipad-img" src="assets/images/product/1/44.jpg">
                           </div>
                         </div>
                         <div class="item item5">
                           <div class="product-ipad-frame">
-                            <img class="product-ipad-img" src="assets/images/product/1/5.jpg">
+                            <img class="product-ipad-img" src="assets/images/product/1/55.jpg">
                           </div>
                         </div>
                         <div class="item item6">
                           <div class="product-ipad-frame">
-                            <img class="product-ipad-img" src="assets/images/product/1/6.jpg">
+                            <img class="product-ipad-img" src="assets/images/product/1/66.jpg">
                           </div>
                         </div>
                         <div class="item item7">
                           <div class="product-ipad-frame">
-                            <img class="product-ipad-img" src="assets/images/product/1/5.jpg">
+                            <img class="product-ipad-img" src="assets/images/product/1/55.jpg">
                           </div>
                         </div>
                         <div class="item item8">
                           <div class="product-ipad-frame">
-                            <img class="product-ipad-img" src="assets/images/product/1/4.jpg">
+                            <img class="product-ipad-img" src="assets/images/product/1/44.jpg">
                           </div>
                         </div>
                     </div>
@@ -160,12 +160,12 @@
                                </button>
                              </div>
                              <div class="col-12 px-0 h-100 d-xl-none d-block ">
-                               <img width="100%" src="assets/images/product/1/1.jpg">
-                               <img width="100%" src="assets/images/product/1/2.jpg">
-                               <img width="100%" src="assets/images/product/1/3.jpg">
-                               <img width="100%" src="assets/images/product/1/4.jpg">
-                               <img width="100%" src="assets/images/product/1/5.jpg">
-                               <img width="100%" src="assets/images/product/1/6.jpg">
+                               <img width="100%" src="assets/images/product/1/11.jpg">
+                               <img width="100%" src="assets/images/product/1/22.jpg">
+                               <img width="100%" src="assets/images/product/1/33.jpg">
+                               <img width="100%" src="assets/images/product/1/44.jpg">
+                               <img width="100%" src="assets/images/product/1/55.jpg">
+                               <img width="100%" src="assets/images/product/1/66.jpg">
                              </div>
 
                              <div class="col-12 px-0 h-100 d-xl-block d-none">
@@ -183,28 +183,28 @@
                                  </ol>
                                  <div class="carousel-inner w-50 mx-auto">
                                       <div class="carousel-item h-100 active">
-                                        <img class="d-block h-100 w-100" src="assets/images/product/1/2.jpg">
+                                        <img class="d-block h-100 w-100" src="assets/images/product/1/22.jpg">
                                       </div>
                                       <div class="carousel-item">
                                         <iframe width="100%" height="100%" src="https://www.youtube.com/embed/iGEUCPnw4Po?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                                       </div>
                                       <div class="carousel-item">
-                                        <img class="d-block h-100 w-100" src="assets/images/product/1/3.jpg">
+                                        <img class="d-block h-100 w-100" src="assets/images/product/1/33.jpg">
                                       </div>
                                       <div class="carousel-item">
-                                        <img class="d-block h-100 w-100" src="assets/images/product/1/4.jpg">
+                                        <img class="d-block h-100 w-100" src="assets/images/product/1/44.jpg">
                                       </div>
                                       <div class="carousel-item">
-                                        <img class="d-block h-100 w-100" src="assets/images/product/1/5.jpg">
+                                        <img class="d-block h-100 w-100" src="assets/images/product/1/55.jpg">
                                       </div>
                                       <div class="carousel-item">
-                                        <img class="d-block h-100 w-100" src="assets/images/product/1/6.jpg">
+                                        <img class="d-block h-100 w-100" src="assets/images/product/1/66.jpg">
                                       </div>
                                       <div class="carousel-item">
-                                        <img class="d-block h-100 w-100" src="assets/images/product/1/5.jpg">
+                                        <img class="d-block h-100 w-100" src="assets/images/product/1/55.jpg">
                                       </div>
                                       <div class="carousel-item">
-                                        <img class="d-block h-100 w-100" src="assets/images/product/1/4.jpg">
+                                        <img class="d-block h-100 w-100" src="assets/images/product/1/44.jpg">
                                       </div>
                                  </div>
                                  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
