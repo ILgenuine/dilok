@@ -49,8 +49,8 @@
                                   <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
                                   <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
                                     <div class="latest-product-frame">
-                                        <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/NAM16.jpg" alt="Card image cap"> </a>
-                                        <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                        <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
+                                        <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
@@ -99,8 +99,8 @@
                                 <div class="card p-1 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <div class="latest-product-frame">
-                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/Perfect-Nike-Air-Max-2017-Mens-New-Fangbian2144-30180596.jpg" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -146,8 +146,8 @@
                                 <div class="card p-1 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <div class="latest-product-frame">
-                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/nike-lebron-soldier-25-straight-ao2088-400-3.jpg" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/8.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -193,8 +193,8 @@
                                 <div class="card p-1 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <div class="latest-product-frame">
-                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/4.jpg" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -241,8 +241,8 @@
                                   <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
                                   <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
                                     <div class="latest-product-frame">
-                                        <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/NAM16.jpg" alt="Card image cap"> </a>
-                                        <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                        <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
+                                        <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
@@ -292,8 +292,8 @@
                                   <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
                                   <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
                                     <div class="latest-product-frame">
-                                        <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/NAM16.jpg" alt="Card image cap"> </a>
-                                        <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                        <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
+                                        <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
@@ -342,8 +342,8 @@
                                 <div class="card p-1 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <div class="latest-product-frame">
-                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -389,8 +389,8 @@
                                 <div class="card p-1 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <div class="latest-product-frame">
-                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/4.jpg" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -437,8 +437,8 @@
                                   <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
                                   <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
                                     <div class="latest-product-frame">
-                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/NAM16.jpg" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="productdetails.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/4.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
@@ -487,8 +487,8 @@
                                 <div class="card p-1 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <div class="latest-product-frame">
-                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/Perfect-Nike-Air-Max-2017-Mens-New-Fangbian2144-30180596.jpg" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -534,8 +534,8 @@
                                 <div class="card p-1 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <div class="latest-product-frame">
-                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/nike-lebron-soldier-25-straight-ao2088-400-3.jpg" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/8.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -581,8 +581,8 @@
                                 <div class="card p-1 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <div class="latest-product-frame">
-                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -650,8 +650,8 @@
                                   <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
                                   <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
                                     <div class="latest-product-frame">
-                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/NAM16.jpg" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
                                     </div>
                                     <div class="card-body p-0">
                                       <div class="row px-0 mx-0">
@@ -700,8 +700,8 @@
                                 <div class="card p-1 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <div class="latest-product-frame">
-                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/Perfect-Nike-Air-Max-2017-Mens-New-Fangbian2144-30180596.jpg" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -747,8 +747,8 @@
                                 <div class="card p-1 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <div class="latest-product-frame">
-                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/nike-lebron-soldier-25-straight-ao2088-400-3.jpg" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/4.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -794,8 +794,8 @@
                                 <div class="card p-1 wish-m">
                                   <!-- แทนสินค้าร่วมรายการ -->
                                   <div class="latest-product-frame">
-                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
-                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
+                                      <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/8.jpg" alt="Card image cap"> </a>
                                     </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -842,8 +842,8 @@
                                   <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
                                   <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
                                   <div class="latest-product-frame">
-                                    <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/NAM16.jpg" alt="Card image cap"> </a>
-                                    <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                    <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/8.jpg" alt="Card image cap"> </a>
+                                    <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
                                   </div>
                                   <div class="card-body p-0">
                                     <div class="row px-0 mx-0">
@@ -894,8 +894,8 @@
                                 <span class="red tooltips d-xl-block d-none"></span>
                                 <span class="red tooltips d-xl-none d-block"></span>
                                   <div class="latest-product-frame">
-                                    <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/Perfect-Nike-Air-Max-2017-Mens-New-Fangbian2144-30180596.jpg" alt="Card image cap"> </a>
-                                    <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                    <a href="product-details1.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/4.jpg" alt="Card image cap"> </a>
+                                    <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
@@ -943,8 +943,8 @@
                                 <span class="red tooltips d-xl-block d-none"></span>
                                 <span class="red tooltips d-xl-none d-block"></span>
                                   <div class="latest-product-frame">
-                                    <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/nike-lebron-soldier-25-straight-ao2088-400-3.jpg" alt="Card image cap"> </a>
-                                    <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                    <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
+                                    <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
@@ -992,8 +992,8 @@
                                 <span class="red tooltips d-xl-block d-none"></span>
                                 <span class="red tooltips d-xl-none d-block"></span>
                                   <div class="latest-product-frame">
-                                    <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"></a>
-                                    <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/Nike-Air-Max-97-Neon-1.png" alt="Card image cap"> </a>
+                                    <a href="product-details2.php"> <img class="latest-product-pic" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"></a>
+                                    <a href="product-details2.php"> <img class="latest-product-pic second-latest-product" src="assets/images/product/2/adidas/8.jpg" alt="Card image cap"> </a>
                                   </div>
                                 <div class="card-body p-0">
                                   <div class="row px-0 mx-0">
@@ -1227,14 +1227,16 @@
                               </div>
                             </li>
                        </ul>
-                       <div class="container">
-                             <ul class="pagination justify-content-center">
-                               <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">1</a></li>
-                               <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">2</a></li>
-                               <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">3</a></li>
-                               <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">4</a></li>
-                             </ul>
-                       </div>
+                      <!-- เลขหน้า -->
+                        <div class="container-fluid custom-container mt-5">
+                          <ul class="pagination justify-content-center">
+                            <li class="page-item pr-1"><a class="news_page-link active" href="javascript:void(0);">1</a></li>
+                            <li class="page-item pr-1"><a class="news_page-link " href="javascript:void(0);">2</a></li>
+                            <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">3</a></li>
+                            <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">4</a></li>
+                          </ul>
+                        </div>
+                     <!-- เลขหน้า จบ  -->
                   </section>
                 </div>
             </div>

@@ -160,31 +160,6 @@
             </div>
           </div>
         </div>
-        <div class="col-12 py-1 menu-list">
-          <div class="promotion">
-            <a class="mobile-nav-list" data-toggle="collapse" href="#collapseExample7" role="button" aria-expanded="false" aria-controls="collapseExample">
-                <div class="promotion-button">
-                   <span class="pull-left">TRANSGENDER</span><span class="icon-collpase fa fa-plus pull-right side-navbar-plus" aria-hidden="true"></span>
-                </div>
-            </a>
-            <div class="promotion-collapse collapse mb-2" id="collapseExample7">
-              <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item">
-                  <a href="filter.php"><span>Clothes</span></a>
-                </li>
-                <li class="nav-item">
-                  <a href="filter.php"><span>Schoes</span></a>
-                </li>
-                <li class="nav-item">
-                  <a  href="filter.php"><span>Latest Sneakers</span></a>
-                </li>
-                <li class="nav-item">
-                  <a  href="filter.php"><span>Restocks</span></a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
 
         <div class="col-12 py-1 menu-list">
           <div class="promotion">

@@ -42,7 +42,7 @@
                         <div class="carousel-item">
                           <div class="product-carousel-frame" data-toggle="modal" data-target="#full-screen-product-1">
                             <!-- รุป youtube เปลี่ยนแค่ช่องก่อน0.jpg เป็นlink video -->
-                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/yjNXVkWhXkc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/iGEUCPnw4Po?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                           </div>
                         </div>
                         <div class="carousel-item">
@@ -186,7 +186,7 @@
                                         <img class="d-block h-100 w-100" src="assets/images/product/1/2.jpg">
                                       </div>
                                       <div class="carousel-item">
-                                        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/yjNXVkWhXkc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                                        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/iGEUCPnw4Po?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                                       </div>
                                       <div class="carousel-item">
                                         <img class="d-block h-100 w-100" src="assets/images/product/1/3.jpg">
@@ -346,7 +346,7 @@
                             <div class="col-xl-4 col-lg-3 col-md-6 col-12 px-xl-1 px-lg-1 px-md-2 px-1 latest-product-btn mb-2">
                               <button type="button" class="btn add-to-cart p-2">
                                 <label class="mb-0 d-flex px-2">
-                                  <span>เพิ่มใส่ตะกร้า</span>
+                                  <span>ADD TO CART</span>
                                   <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                                 </label>
                               </button>
@@ -354,7 +354,7 @@
                             <div class="col-xl-4 col-lg-3 col-md-6 col-12 px-xl-1 px-lg-1 px-md-2 px-1 latest-product-btn">
                               <button type="button" class="btn fast-buy p-2">
                                 <label class="mb-0 d-flex px-2">
-                                  <span>ซื้อทันที</span>
+                                  <span>BUY NOW</span>
                                   <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                                 </label>
                               </button>

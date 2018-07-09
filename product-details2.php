@@ -42,7 +42,7 @@
                   <!-- ตาม layout Video อยู่อันที่2  ติ๊กเอาทุกอย่าง(controllerของvideo ชื่อ video etc.)ออกเวลา copy iframeมาใส่-->
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
                     <div class="product-desktop-frame">
-                      <iframe width="100%" height="100%"src="https://www.youtube.com/embed/yjNXVkWhXkc?rel=0&amp;controls=0&amp;mute=1&amp;autoplay=1&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                      <iframe width="100%" height="100%"src="https://www.youtube.com/embed/iGEUCPnw4Po?rel=0&amp;controls=0&amp;mute=1&amp;autoplay=1&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                      </div>
                   </div>
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
@@ -327,7 +327,7 @@
                               <div class="col-xl-6 col-lg-12 col-6 px-xl-1 px-lg-0 px-md-2 px-1 latest-product-btn mb-2">
                                 <button type="button" class="btn add-to-cart p-2">
                                   <label class="mb-0 d-flex px-2">
-                                    <span>เพิ่มใส่ตะกร้า</span>
+                                    <span>ADD TO CART</span>
                                     <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
                                   </label>
                                 </button>
@@ -335,7 +335,7 @@
                               <div class="col-xl-6 col-lg-12 col-6 px-xl-1 px-lg-0 px-md-2 px-1 latest-product-btn">
                                 <button type="button" class="btn fast-buy p-2">
                                   <label class="mb-0 d-flex px-2">
-                                    <span>ซื้อทันที</span>
+                                    <span>BUY NOW</span>
                                     <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                                   </label>
                                 </button>
