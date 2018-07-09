@@ -157,29 +157,29 @@
                       <div class="row pt-3 pay-padding">
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
                               <div class="overlay-img2">
-                                <img class="image-full" src="/dilok/assets/images/productfill/1.png">
+                                <img class="image-full" src="assets/images/product/2/Perfect-Nike-Air-Max-2017-Mens-New-Fangbian2144-30180596.jpg">
                               </div>
                           </div>
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
-                            <div class="pay-font8 pay-m-t2">Pureboost DPR Shoes</div>
-                            <div class="pay-font9 pt-1 pay-m-t2">Color: White-Blue</div>
+                            <div class="pay-font8 pay-m-t3">Pureboost DPR Shoes</div>
+                            <div class="pay-font9 pay-m-t3 pay-m-t2">Color: White-Blue</div>
                             <div class="pay-font9 pay-m-t2">Size: [UK] 7.5</div>
                             <div class="pay-font9 pay-m-t2">Qty: 2</div>
-                            <div class="pay-font8 text-lg-right text-md-right pay-m-t">1,850 THB</div>
+                            <div class="pay-font12 text-center text-lg-right text-md-right pay-m-t">1,850 THB</div>
                           </div>
                       </div>
-                      <div class="row pt-3 pay-padding">
+                      <div class="row pt-3 pay-m-t4 pay-padding">
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
                               <div class="overlay-img2">
                                 <img class="image-full" src="/dilok/assets/images/productfill/1.png">
                               </div>
                           </div>
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
-                            <div class="pay-font8 pay-m-t2">Pureboost DPR Shoes</div>
-                            <div class="pay-font9 pt-1 pay-m-t2">Color: White-Blue</div>
+                            <div class="pay-font8 pay-m-t3">Pureboost DPR Shoes</div>
+                            <div class="pay-font9 pay-m-t3 pay-m-t2">Color: White-Blue</div>
                             <div class="pay-font9 pay-m-t2">Size: [UK] 7.5</div>
                             <div class="pay-font9 pay-m-t2">Qty: 2</div>
-                            <div class="pay-font8 text-lg-right text-md-right pay-m-t">1,850 THB</div>
+                            <div class="pay-font12 text-center text-lg-right text-md-right pay-m-t">1,850 THB</div>
                           </div>
                       </div>
                       <hr class="mt-5">

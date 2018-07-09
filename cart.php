@@ -10,7 +10,7 @@
   	<!-- START NAVBAR -->
     <?php include_once('inc/navbar.php'); ?>
     <!-- END NAVBAR -->
-    
+
     <!-- CART SIDEBAR -->
     <?php include_once('inc/cart-sidebar.php'); ?>
     <?php include_once('inc/nav-sidebar.php'); ?>
@@ -28,7 +28,7 @@
                    <div class="row pt-3">
                        <div class="col-xl-2 col-lg-2 col-md-3 col-12">
                           <div class="overlay-img">
-                            <img class="image-full" src="/dilok/assets/images/productfill/1.png">
+                            <img class="image-full" src="assets/images/product/2/Perfect-Nike-Air-Max-2017-Mens-New-Fangbian2144-30180596.jpg">
                           </div>
                        </div>
                        <div class="col-xl-3 col-lg-4 col-md-6 col-12 cart-p-l">
@@ -65,7 +65,7 @@
                     <div class="row mt-2">
                          <div class="col-xl-2"></div>
                          <div class="col-xl-10">
-                             <div class="row">
+                             <div class="row cart-m-t6">
                                  <div class="col-xl-6 col-lg-6 col-md-6 col-12 text-center text-lg-left  text-md-left">
                                      <span>
                                        <a href="#" class="cart-font4">
@@ -94,7 +94,7 @@
                          </div>
                      </div>
                      <hr>
-                     <div class="row pt-3">
+                     <div class="row pt-3 cart-m-t7">
                          <div class="col-xl-2 col-lg-2 col-md-3 col-12">
                              <div class="overlay-img">
                                <img class="image-full" src="/dilok/assets/images/productfill/1.png">
@@ -134,7 +134,7 @@
                       <div class="row mt-2">
                            <div class="col-xl-2"></div>
                            <div class="col-xl-10">
-                               <div class="row">
+                               <div class="row cart-m-t6">
                                    <div class="col-xl-6 col-lg-6 col-md-6 col-12 text-center text-lg-left  text-md-left">
                                        <span>
                                          <a href="#" class="cart-font4">
@@ -220,14 +220,14 @@
                      <div class="col-xl-12 mt-2">
                          <hr>
                            <a href="#">
-                               <div class="promotion-button">
-                                  <span class="pull-left">นโยบายการคือสินค้า</span>
+                               <div class="promotion-button2">
+                                  <span class="pull-left2">นโยบายการคือสินค้า</span>
                                </div>
                            </a>
                          <hr class="mt-0">
                            <a href="#">
-                               <div class="promotion-button">
-                                  <span class="pull-left">ช่องทางการชำระสินค้า</span>
+                               <div class="promotion-button2">
+                                  <span class="pull-left2">ช่องทางการชำระสินค้า</span>
                                </div>
                            </a>
                          <hr class="mt-0">

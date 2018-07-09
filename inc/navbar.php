@@ -3,7 +3,7 @@
       <div class="container-fluid black-bg">
         <ul class="desktop-nav navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#"><span>LATEST</span></a>
+            <a class="nav-link" href="#"><span style="font-weight : 400;">LATEST</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="row">
@@ -71,7 +71,7 @@
                         <div class="nav-col col-12">
                           <a href="">
                             <div class="nav-double">
-                              <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                              <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                             </div>
                             <div class="w-100 text-center">
                               <span>NIKE</span>
@@ -96,7 +96,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/7.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -106,7 +106,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/8.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -121,7 +121,7 @@
           </li> <!-- Latest -->
           <li class="nav-item">
 
-            <a class="nav-link" href="filter.php"><span>BRAND</span></a>
+            <a class="nav-link" href="filter.php"><span style="font-weight : 400;">BRAND</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="row">
@@ -317,7 +317,7 @@
 
                             <a href="filter.php">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/9.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -328,7 +328,7 @@
 
                             <a href="filter.php">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/10.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -343,7 +343,7 @@
           </li> <!-- Brand -->
           <li class="nav-item">
 
-            <a class="nav-link" href="filter.php"><span>LAUNCHES</span></a>
+            <a class="nav-link" href="launches.php"><span style="font-weight : 400;">LAUNCHES</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="row">
@@ -360,7 +360,7 @@
                                   <a href
                                   <a href="launches-detail.php">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -383,7 +383,7 @@
 
                                   <a href="launches-detail.php">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -406,7 +406,7 @@
 
                                   <a href="launches-detail.php">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/10.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -429,7 +429,7 @@
 
                                   <a href="launches-detail.php">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -452,7 +452,7 @@
 
                                   <a href="launches-detail.php">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/7.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -475,7 +475,7 @@
 
                                   <a href="launches-detail.php">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/8.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -498,7 +498,7 @@
 
                                   <a href="launches-detail.php">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/9.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -521,7 +521,7 @@
 
                                   <a href="launches-detail.php">
                                     <div class="nav-launches">
-                                      <img class="nav-product" src="assets/images/index/navbrand/1.png" alt="Card image cap">
+                                      <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
                                     </div>
                                   </a>
                                 </div>
@@ -547,7 +547,7 @@
           </li> <!-- Launches -->
           <li class="nav-item">
 
-            <a class="nav-link" href="filter.php"><span>CATEGORIES</span></a>
+            <a class="nav-link" href="filter.php"><span style="font-weight : 400;">CATEGORIES</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="row">
@@ -740,7 +740,7 @@
           </li> <!-- Categories -->
           <li class="nav-item">
 
-            <a class="nav-link" href="filter.php"><span>MEN</span></a>
+            <a class="nav-link" href="filter.php"><span style="font-weight : 400;">MEN</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="row">
@@ -905,7 +905,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -915,7 +915,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -930,7 +930,7 @@
           </li> <!-- MEN -->
           <li class="nav-item">
 
-            <a class="nav-link" href="filter.php"><span>WOMEN</span></a>
+            <a class="nav-link" href="filter.php"><span style="font-weight : 400;">WOMEN</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="row">
@@ -1095,7 +1095,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -1105,7 +1105,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/8.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -1121,7 +1121,7 @@
           </li> <!-- WOMEN -->
           <li class="nav-item">
 
-            <a class="nav-link" href="filter.php"><span>KID</span></a>
+            <a class="nav-link" href="filter.php"><span style="font-weight : 400;">KID</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="row">
@@ -1286,7 +1286,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/11.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -1296,7 +1296,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/12.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -1312,7 +1312,7 @@
           </li> <!-- KID -->
           <li class="nav-item">
 
-            <a class="nav-link" href="filter.php"><span>TRANSGENDER</span></a>
+            <a class="nav-link" href="filter.php"><span style="font-weight : 400;">TRANSGENDER</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="row">
@@ -1478,7 +1478,7 @@
 
                             <a href="filter.php">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/13.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -1489,7 +1489,7 @@
 
                             <a href="filter.php">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/14.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -1505,7 +1505,7 @@
           </li> <!-- Transgender -->
           <li class="nav-item">
 
-            <a class="nav-link" href="filter.php"><span>SALE</span></a>
+            <a class="nav-link" href="filter.php"><span style="font-weight : 400;">SALE</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="row">
@@ -1603,7 +1603,7 @@
 
                             <a href="filter.php">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/5.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/15.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -1614,7 +1614,7 @@
 
                             <a href="filter.php">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/16.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>NIKE</span>
@@ -1629,7 +1629,7 @@
           </li> <!-- SALE -->
           <li class="nav-item">
 
-            <a class="nav-link" href="blog.php"><span>BLOG</span></a>
+            <a class="nav-link" href="#"><span style="font-weight : 400;">BLOG</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="w-100 mb-3">
@@ -1643,15 +1643,15 @@
                                 <div class="row blog-row">
                                   <div class="col-4 blog-col">
 
-                                    <a href="blog-detail.php">
+                                    <a href="#">
                                       <div class="nav-blog">
-                                        <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                        <img class="nav-product" src="assets/images/index/navbrand/9.jpg" alt="Card image cap">
                                       </div>
                                     </a>
                                   </div>
                                   <div class="col-8 blog-row">
 
-                                    <a href="blog-detail.php">
+                                    <a href="#">
                                       <div class="center-table nav-blog-text">
                                         <span>I'm vertically reatee layout.</span>
                                       </div>
@@ -1664,15 +1664,15 @@
                                 <div class="row blog-row">
                                   <div class="col-4 blog-col">
 
-                                    <a href="blog-detail.php">
+                                    <a href="#">
                                       <div class="nav-blog">
-                                        <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                        <img class="nav-product" src="assets/images/index/navbrand/10.jpg" alt="Card image cap">
                                       </div>
                                     </a>
                                   </div>
                                   <div class="col-8 blog-row">
 
-                                    <a href="blog-detail.php">
+                                    <a href="#">
                                       <div class="center-table nav-blog-text">
                                         <span>I'm vertically reatee layout.</span>
                                       </div>
@@ -1685,15 +1685,15 @@
                                 <div class="row blog-row">
                                   <div class="col-4 blog-col">
 
-                                    <a href="blog-detail.php">
+                                    <a href="#">
                                       <div class="nav-blog">
-                                        <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                        <img class="nav-product" src="assets/images/index/navbrand/11.jpg" alt="Card image cap">
                                       </div>
                                     </a>
                                   </div>
                                   <div class="col-8 blog-row">
 
-                                    <a href="blog-detail.php">
+                                    <a href="#">
                                       <div class="center-table nav-blog-text">
                                         <span>I'm vertically reatee layout.</span>
                                       </div>
@@ -1706,15 +1706,15 @@
                                 <div class="row blog-row">
                                   <div class="col-4 blog-col">
 
-                                    <a href="blog-detail.php">
+                                    <a href="#">
                                       <div class="nav-blog">
-                                        <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                        <img class="nav-product" src="assets/images/index/navbrand/12.jpg" alt="Card image cap">
                                       </div>
                                     </a>
                                   </div>
                                   <div class="col-8 blog-row">
 
-                                    <a href="blog-detail.php">
+                                    <a href="#">
                                       <div class="center-table nav-blog-text">
                                         <span>I'm vertically reatee layout.</span>
                                       </div>
@@ -1727,15 +1727,15 @@
                                 <div class="row blog-row">
                                   <div class="col-4 blog-col">
 
-                                    <a href="blog-detail.php">
+                                    <a href="#">
                                       <div class="nav-blog">
-                                        <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                                        <img class="nav-product" src="assets/images/index/navbrand/13.jpg" alt="Card image cap">
                                       </div>
                                     </a>
                                   </div>
                                   <div class="col-8 blog-row">
 
-                                    <a href="blog-detail.php">
+                                    <a href="#">
                                       <div class="center-table nav-blog-text">
                                         <span>I'm vertically reatee layout.</span>
                                       </div>
@@ -1749,13 +1749,13 @@
                         <div class="col-2 nav-col-single">
                           <div class="nav-blog-single mb-2">
 
-                            <a href="blog-detail.php">
-                              <img class="nav-product" src="assets/images/index/navbrand/2.jpg" alt="Card image cap">
+                            <a href="#">
+                              <img class="nav-product" src="assets/images/index/navbrand/14.jpg" alt="Card image cap">
                             </a>
                           </div>
                           <div class="nav-blog-text text-center">
 
-                            <a href="blog-detail.php">
+                            <a href="#">
                              <span>This is dummy topic name.</span>
                             </a>
                           </div>
@@ -1781,7 +1781,7 @@
           </li>
           <li class="nav-item cart mr-3">
               <button class="btn btn-secondary cart-btn sidebarCollapse" type="button" >
-                 <span><i class="fa fa-shopping-cart" aria-hidden="true"></i> ตะกร้าสินค้า(0)</span></a>
+                 <span style="font-weight : 400;"><i class="fa fa-shopping-cart" aria-hidden="true"></i> CART (0)</span></a>
               </button>
           </li>
           <!-- logged in -->
@@ -1809,7 +1809,7 @@
                   <li class="nav-item">
                        <div class="dropdown">
                          <button class="btn btn-secondary log-in-dropdown-btn" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                           <span><i class="fa fa-sign-in-alt" aria-hidden="true"></i> Log in</span>
+                           <span style="font-weight:400;"><i class="fa fa-sign-in-alt" aria-hidden="true"></i> Log in</span>
                          </button>
                          <div class="dropdown-menu dropdown-menu-right log-in-dropdown" aria-labelledby="dropdownMenuButton">
                                <form class="p-5">
@@ -1818,13 +1818,13 @@
                                   <input type="email" class="form-control" aria-describedby="" placeholder="">
                                 </div>
                                 <div class="form-group">
-                                  <label class="d-flex">Password<span class="red">*</span><span class="ml-auto"><a class="grey" href="forgetpassword.php">Forget your password?</a></span></label>
+                                  <label class="d-flex">Password<span class="red">*</span><span class="ml-auto"><a class="grey" href="forgot.php">Forget your password?</a></span></label>
                                   <input type="password" class="form-control" placeholder="">
                                 </div>
-                                <button type="submit" class="btn btn-primary login-btn">LOG IN</button>
+                                <button type="submit" class="btn btn-primary login-btn"><span>LOG IN</span></button>
                               </form>
                               <div class="create-account py-3">
-                                <span><a class="black" href="forgetpassword.php">New? Create an account</a></span>
+                                <span><a class="black" href="regist.php">New? Create an account</a></span>
                               </div>
                          </div>
                        </div>

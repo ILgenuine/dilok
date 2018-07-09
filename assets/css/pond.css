@@ -595,7 +595,7 @@
     border-radius: 0px;
     background: #fff url(../../assets/images/logo/down.png) no-repeat right 15px center;
     background-size: 20px;
-    -webkit-appearance: none!important;
+    -webkit-appearance: none !important;
     padding: 5px 15px!important;
     width: 70px;
 }
@@ -622,13 +622,13 @@
    left: 50%;
    transform: translate(-50%, -50%);
 }
-.promotion-button .pull-left{
+.promotion-button2{
   font-size: 16px !important;
   line-height: 1px !important;
   color:#e5e5e5 !important;
   height:20px !important;
 }
-.promotion-button .pull-left:hover{
+.promotion-button2:hover{
   font-size: 16px !important;
   line-height: 1px !important;
   color:#666 !important;
@@ -715,7 +715,7 @@
       padding-left: 28px;
   }
   .regist-m-l{
-      margin-left:60px;
+      margin-left:90px;
   }
   /*-------------------------------------
   ----------- END REGIST 1366 ------------
@@ -1300,9 +1300,6 @@
   /*-------------------------------------
   ----------- WISHLIST 414 -------------
   --------------------------------------*/
-  .latest-product-price{
-      text-align: right !important;
-  }
   .wish-d2{
       display: none;
   }

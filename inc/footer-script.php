@@ -9,7 +9,7 @@
 
     <script src="assets/vendor/datepic/dist/js/bootstrap-datepicker.min.js"></script>
     <script src="assets/vendor/datepic/dist/locales/bootstrap-datepicker.th.min.js" charset="UTF-8"></script>
-    
+
     <script type="text/javascript">
     $(document).ready(function () {
       // when opening the sidebar
@@ -382,25 +382,31 @@
         $('.latest-product-frame').each( function (){
           var iw = $(this).width();
           if(window.matchMedia("(max-width: 320px)").matches){
-            iw2 = iw * 2;
+            iw2 = iw * 1.8;
             $(this).closest('div.latest-slide').find('.card').css({'height':iw2+'px'});
-            iw = iw * 1.4;
+            iw = iw * 0.7;
             $(this).css({'height':iw+'px'});
           }
           else if(window.matchMedia("(max-width: 414px)").matches){
-            iw2 = iw * 1.8;
+            iw2 = iw * 1.5;
             $(this).closest('div.latest-slide').find('.card').css({'height':iw2+'px'});
-            iw = iw * 1.2;
+            iw = iw * 0.7;
             $(this).css({'height':iw+'px'});
           }
           else if(window.matchMedia("(max-width: 1024px)").matches){
-            iw2 = iw * 2;
+            iw2 = iw * 1.6;
             $(this).closest('div.latest-slide').find('.card').css({'height':iw2+'px'});
-            iw = iw * 1.4;
+            iw = iw * 0.8;
+            $(this).css({'height':iw+'px'});
+          }
+          else if(window.matchMedia("(max-width: 1366px)").matches){
+            iw2 = iw * 1.2;
+            $(this).closest('div.latest-slide').find('.card').css({'height':iw2+'px'});
+            iw = iw * 0.8;
             $(this).css({'height':iw+'px'});
           }
           else{
-            iw2 = iw * 1.4;
+            iw2 = iw * 1.2;
             $(this).closest('div.latest-slide').find('.card').css({'height':iw2+'px'});
             iw = iw * 0.8;
             $(this).css({'height':iw+'px'});
@@ -410,12 +416,13 @@
            var iw = $(this).width();
            var ih = $(this).height();
            if(iw > ih){
-             $(this).css({'width':100+'%'});
-             $(this).css({'height':'auto'});
-           }
-           else if(ih > iw){
              $(this).css({'width':'auto'});
              $(this).css({'height':100+'%'});
+           }
+           else if(ih > iw){
+             $(this).css({'width':100+'%'});
+             $(this).css({'height':'auto'});
+
            }
            else if(ih == iw){
              $(this).css({'width':100+'%'});

@@ -235,7 +235,7 @@
         <div class="col-12 py-1 menu-list">
           <div class="promotion">
             <div class="promotion-button">
-                <a href="login-php">
+                <a href="regist.php">
                 <span class="pull-left"> LOG IN</span>
                 <!-- <a class="btn login-btn" type="button">
                    <span><i class="fa fa-sign-in" aria-hidden="true"></i> Log in</span>
@@ -264,7 +264,8 @@
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample11">
               <ul class="navbar-nav sidenav-list-text">
-                <li class="nav-item"><a href="edit-profile.php"><span>Edit profile</span></a></li>
+                <!-- modal อยู่ใน add-account -->
+                <li class="nav-item"><a href="#" data-toggle="modal" data-target="#edit_new_address"><span>Edit profile</span></a></li>
                 <li class="nav-item"><a href="logout.php"><span>Log out</span></a></li>
               </ul>
             </div>

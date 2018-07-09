@@ -42,7 +42,7 @@
                         <div class="carousel-item">
                           <div class="product-carousel-frame" data-toggle="modal" data-target="#full-screen-product-1">
                             <!-- รุป youtube เปลี่ยนแค่ช่องก่อน0.jpg เป็นlink video -->
-                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/JhDIILjlhBQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/yjNXVkWhXkc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                           </div>
                         </div>
                         <div class="carousel-item">
@@ -186,7 +186,7 @@
                                         <img class="d-block h-100 w-100" src="assets/images/product/1/2.jpg">
                                       </div>
                                       <div class="carousel-item">
-                                        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/JhDIILjlhBQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                                        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/yjNXVkWhXkc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                                       </div>
                                       <div class="carousel-item">
                                         <img class="d-block h-100 w-100" src="assets/images/product/1/3.jpg">

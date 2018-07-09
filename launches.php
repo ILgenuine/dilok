@@ -26,10 +26,10 @@
         <div class="container-fluid custom-container">
 
 
-<!-- ------card----- -->
+<!-- card -->
 
          <div class="container-fluid custom-container">
-		    <div class="row mt-3"> 
+		    <div class="row mt-3">
 	    		<div class="col-lg-6 col-md-6 col-12 text-lg-left text-md-left text-center">
 	    	         <p style="padding-top: 14px;">LAUNCHES</p>
 	            </div>
@@ -43,7 +43,7 @@
                         <label class="mb-0 d-flex px-2">
                             <span>NOW</span>
                         </label>
-                     </button>		
+                     </button>
 	            </div>
 		    </div>
 	    </div>
@@ -55,8 +55,8 @@
 	    				<div class="launches-fix-frame">
 	    					<span class='zoom' id='zoom1'>
 								<img src='assets/images/product/2/silver-bullet-nike-air-max-97.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-							</span>		
-	    				</div>  
+							</span>
+	    				</div>
 				  		<div class="card-body">
 				     		<div class="row">
 				      			<div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
@@ -74,7 +74,7 @@
                             				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
-                        			</button>	
+                        			</button>
                     			</div>
 				      		</div>
 				  		</div>
@@ -85,7 +85,7 @@
 	    				<div class="launches-fix-frame">
 					 		<span class='zoom' id='zoom2'>
 								<img src='assets/images/product/2/NAM16.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-							</span>		
+							</span>
 					 	</div>
 					 	<div class="card-body">
 				     		<div class="row">
@@ -104,18 +104,18 @@
                             				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
-                        			</button>	
+                        			</button>
                     			</div>
 				      		</div>
 				  		</div>
 					</div>
-	    		</div>	
+	    		</div>
 	    		<div class="col-lg-4 col-md-6 col-12">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom3'>
 								<img src='assets/images/product/2/Nike-Air-Max-97-Neon-1.png' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-							</span>		
+							</span>
 					  	</div>
 					  <div class="card-body">
 				     		<div class="row">
@@ -134,7 +134,7 @@
                             				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
-                        			</button>	
+                        			</button>
                     			</div>
 				      		</div>
 				  		</div>
@@ -145,7 +145,7 @@
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom4'>
 								<img src='assets/images/product/2/nike-lebron-soldier-25-straight-ao2088-400-3.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-							</span>		
+							</span>
 						</div>
 					  <div class="card-body">
 				     		<div class="row">
@@ -164,18 +164,18 @@
                             				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
-                        			</button>	
+                        			</button>
                     			</div>
 				      		</div>
 				  		</div>
 					</div>
-	    		</div>		  
+	    		</div>
 	    		<div class="col-lg-4 col-md-6 col-12 mt-lg-4">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom5'>
 								<img src='assets/images/product/2/NIKE_AIR_MAX_270_GREY.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-							</span>		
+							</span>
 					  	</div>
 					  <div class="card-body">
 				     		<div class="row">
@@ -194,18 +194,18 @@
                             				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
-                        			</button>	
+                        			</button>
                     			</div>
 				      		</div>
 				  		</div>
 					</div>
-	    		</div>		  
+	    		</div>
 	    		<div class="col-lg-4 col-md-6 col-12 mt-lg-4">
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom6'>
 								<img src='assets/images/product/2/Perfect-Nike-Air-Max-2017-Mens-New-Fangbian2144-30180596.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-							</span>		
+							</span>
 						</div>
 					  <div class="card-body">
 				     		<div class="row">
@@ -218,7 +218,7 @@
 				     				<div>
 				     					<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
 				     				</div>
-				     				
+
 				     				<p  class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
@@ -227,7 +227,7 @@
                             				<span>BUY NOW</span>
                             					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
                           					</label>
-                        			</button>	
+                        			</button>
                     			</div>
 				      		</div>
 				  		</div>
@@ -236,24 +236,23 @@
 	    	</div>
 	    </div>
 
-<!-- ------card end----- -->
+<!-- card end -->
 
 
 
-<!--------เลขหน้า --------->
-
-		<div class="container-fluid custom-container mt-5">                  
+<!-- เลขหน้า -->
+		<div class="container-fluid custom-container mt-5">
           <ul class="pagination justify-content-center">
             <li class="page-item pr-1"><a class="news_page-link active" href="javascript:void(0);">1</a></li>
             <li class="page-item pr-1"><a class="news_page-link " href="javascript:void(0);">2</a></li>
             <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">3</a></li>
-            <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">4</a></li>        
+            <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">4</a></li>
           </ul>
-        </div>  
-        
-        
+        </div>
 
- <!--------เลขหน้า จบ---- -->
+
+
+ <!-- เลขหน้า จบ  -->
 
 
         </div>

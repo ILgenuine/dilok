@@ -66,7 +66,7 @@
 
         <div class="container-fluid  px-0">
           <div class="row mt-4 row_fix">
-            <div class="col-lg-12">
+            <div class="col-lg-12 add_our-story_pad">
               <div class="add_our_story-fix-frame">
                 <img class="add_our_story-img-top" src="http://moresneakers.com/wp-content/uploads/2017/08/20507772_10154881760207686_3961999767642757148_o.jpg">
               </div>

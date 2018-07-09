@@ -42,7 +42,7 @@
                   <!-- ตาม layout Video อยู่อันที่2  ติ๊กเอาทุกอย่าง(controllerของvideo ชื่อ video etc.)ออกเวลา copy iframeมาใส่-->
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
                     <div class="product-desktop-frame">
-                      <iframe width="100%" height="100%"src="https://www.youtube.com/embed/JhDIILjlhBQ?rel=0&amp;controls=0&amp;mute=1&amp;autoplay=1&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                      <iframe width="100%" height="100%"src="https://www.youtube.com/embed/yjNXVkWhXkc?rel=0&amp;controls=0&amp;mute=1&amp;autoplay=1&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                      </div>
                   </div>
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
@@ -101,7 +101,7 @@
                             <img class="product-ipad-img" src="assets/images/product/1/2.jpg">
                           </div>
                         </div>
-                        <div class="item-video"><a class="owl-video" href="https://www.youtube.com/watch?v=JhDIILjlhBQ"></a></div>
+                        <div class="item-video"><a class="owl-video" href="https://www.youtube.com/watch?v=yjNXVkWhXkc"></a></div>
                         <div class="item">
                           <div class="product-ipad-frame" data-toggle="modal" data-target="#full-screen-product-1">
                             <img class="product-ipad-img" src="assets/images/product/1/3.jpg">

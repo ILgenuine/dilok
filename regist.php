@@ -92,9 +92,12 @@
                                     Date of birth
                                     <span class="forgot-font3">*</span>
                                 </label>
-                                <div class="input-group text-center">
-                                    <div class="input-group-prepend"></div>
-                                    <input type="date" class="regist-form" id="validationDefaultUsername2" placeholder="Password" aria-describedby="inputGroupPrepend2" required>
+
+                                <div class="input-group date" data-provide="datepicker">
+                                    <input type="text" id="datepicker" class="regist-form" placeholder="dd/mm/yyyy">
+                                    <div class="input-group-addon">
+                                        <span class="glyphicon glyphicon-th"></span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -126,7 +129,7 @@
                         <div class="form-row">
                             <div class="col-xl-12 mb-3">
                                 <label class="check">
-                                       <div class="regist-m-l2 regist-font7 pt-2">I would like to receive news and special promotions by email from END.</div>
+                                       <div class="regist-m-l2 regist-font7 pt-2">I would like to receive news and special promotions by email from Dilok.</div>
                                        <input type="checkbox">
                                        <span class="checkmark"></span>
                                 </label>

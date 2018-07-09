@@ -14,7 +14,7 @@
 
               <!-- Product loop -->
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                  <a href="product-detail-2.php">
+                  <a href="product-details2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/3.jpg">
                     </div>
@@ -50,7 +50,7 @@
               <!-- END first product  loop -->
 
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                <a href="product-detail-2.php">
+                <a href="product-details2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/6.jpg">
                     </div>
@@ -85,7 +85,7 @@
               </div>
 
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                <a href="product-detail-2.php">
+                <a href="product-details2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/3.jpg">
                     </div>
@@ -120,7 +120,7 @@
               </div>
 
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                <a href="product-detail-2.php">
+                <a href="product-details2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/6.jpg">
                     </div>
@@ -156,7 +156,7 @@
 
 
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                <a href="product-detail-2.php">
+                <a href="product-details2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/3.jpg">
                     </div>
@@ -192,7 +192,7 @@
 
 
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
-                <a href="product-detail-2.php">
+                <a href="product-details2.php">
                     <div class="cart-product-frame">
                       <img class="cart-product" src="assets/images/product/1/6.jpg">
                     </div>
@@ -268,8 +268,8 @@
                     <input type="text" class="form-control code-input" id="" aria-describedby="" placeholder="">
                   </div>
                   <div class="code-button">
-                    <button type="submit" class="btn btn-primary pull-left">เช็คเงิน</button>
-                    <button type="submit" class="btn btn-primary pull-right">ยืนยัน</button>
+                    <button type="submit" class="btn btn-primary pull-left">CHECK BALANCE</button>
+                    <button type="submit" class="btn btn-primary pull-right">CONFIRM</button>
                   </div>
                 </form>
               </div>

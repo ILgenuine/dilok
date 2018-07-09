@@ -34,14 +34,14 @@
                     <div class="row header-row">
                       <div class="col-12">
                         <h1>Best of MEN's SNEAKERS</h1>
-                        <h5> is simply dummy text of the printing and typesetting industry. Lorem Ipsum</h5>
+                        <h5>is simply dummy text of the printing and typesetting industry. Lorem Ipsum</h5>
                       </div>
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
                           <a href="#" class="btn fast-buy p-2 w-100">
                             <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
-                              <span>More Detail</span>
+                              <span>DETAIL</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
@@ -54,15 +54,14 @@
                     <div class="row header-row">
                       <div class="col-12">
                         <h1>Best of MEN's SNEAKERS</h1>
-                        <h5> is simply dummy text of the printing and typesetting industry. Lorem Ipsum</h5>
+                        <h5>is simply dummy text of the printing and typesetting industry. Lorem Ipsum</h5>
                       </div>
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-
                           <a href="#" class="btn fast-buy p-2 w-100">
                             <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
-                              <span>More Detail</span>
+                              <span>DETAIL</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
@@ -75,15 +74,14 @@
                     <div class="row header-row">
                       <div class="col-12">
                         <h1>Best of MEN's SNEAKERS</h1>
-                        <h5> is simply dummy text of the printing and typesetting industry. Lorem Ipsum</h5>
+                        <h5>is simply dummy text of the printing and typesetting industry. Lorem Ipsum</h5>
                       </div>
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-
                           <a href="#" class="btn fast-buy p-2 w-100">
                             <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
-                              <span>More Detail</span>
+                              <span>DETAIL</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
@@ -97,15 +95,14 @@
                       <div class="col-12">
 
                         <h1>Best of MEN's SNEAKERS</h1>
-                        <h5> is simply dummy text of the printing and typesetting industry. Lorem Ipsum</h5>
+                        <h5>ลดราคารองเท้า 50 - 70% ไม่ว่าจะเป็นรองเท้าผ้าใบ รองเท้าเดือนทาง รองเท้าวิ่ง</h5>
                       </div>
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-
                           <a href="#" class="btn fast-buy p-2 w-100">
                             <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
-                              <span>More Detail</span>
+                              <span>DETAIL</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                             </label>
                           </a>
@@ -135,10 +132,9 @@
                       <h5>ค้นพบรองเท้าสไตล์ที่เหมาะกับคุณ</h5>
                       <hr></hr>
 
-                      <div class="header-slide-btn" style="width: 20%;">
-                        <a href="#" class="btn fast-buy p-2 w-100">
+                      <div class="header-slide-btn" >
+                        <a href="product-details2.php" class="btn fast-buy p-2 w-100">
                           <label class="mb-0 d-flex px-2 white">
-
                             <span>More Detail</span>
                             <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
                           </label>
@@ -176,7 +172,6 @@
               </div>
               <div class="item">
                 <div class="slide-brand-frame">
-
                   <a href="filter.php">
                     <img class="slide-brand-img" src='assets/images/logo/reebok.png'>
                   </a>
@@ -184,7 +179,6 @@
               </div>
               <div class="item">
                 <div class="slide-brand-frame">
-                  <img class="slide-brand-img" src='assets//logo/onisuka.png'>
                   <a href="product-details2.php">
                     <img class="slide-brand-img" src='assets/images/logo/onisuka.png'>
                   </a>
@@ -289,7 +283,7 @@
                           <p class="launches_font_32">2018</p>
                         </div>
                         <div class="col-9 col-lg-9 col-md-8  lau_pad_10">
-                          <a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
+                          <a href="launches-detail.php"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
                           <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
                         </div>
                         <div class="col-lg-12 text-right px-0">
@@ -312,66 +306,64 @@
                   </a>
                 </div>
 
-              </div>
             </section>
 
-          <section class="blog-launches mb-lg-5 mb-md-5 mb-4">
-            <div class="row mx-0">
-              <div class="col-12 px-lg-3 px-0 mb-md-3">
-                <h3 class="mb-1 mt-2 pull-left">BLOG</h3>
-                <div class="latest-product-btn pull-right mb-2">
+            <section class="blog-launches mb-lg-5 mb-md-5 mb-4">
+              <div class="row mx-0">
+                <div class="col-12 px-lg-3 px-0 mb-md-3">
+                  <h3 class="mb-1 mt-2 pull-left">BLOG</h3>
+                  <div class="latest-product-btn pull-right mb-2">
                     <button type="button" class="btn add-to-cart p-2 res-414-up">
                       <label class="mb-0 d-flex px-2">
-
-                        <a href="blankpage.php"><span>ดูทั้งหมด</span></a>
+                        <span>view all</span>
                         <i class="fas fa-plus ml-auto pl-3 pt-1" aria-hidden="true"></i>
                       </label>
                     </button>
+                  </div>
                 </div>
-              </div>
 
-              <div class="col-lg-6 col-12 blog-img-col">
-                <div class="card_new mr-0 px-1">
-                    <div class="blog-img-frame">
-                      <a href="blog-details.php">
-                        <img class="blog-img" src='assets/images/index/blog1.jpg'/>
-                      </a>
-                    </div>
-                    <div class="card-body">
-                      <div class="blog-excerpt">
-                        <span class="launches_font_30 line-h-20">เปิดตัวสาขาใหม่ ณ สยามพารากอน ผู้นำแฟชั่นรองเท้า เครื่องแต่งกาย แบรนด์ชั้นนำ มากมาย อาทิเช่น adidas, Nike, Reebok</span>
+                <div class="col-lg-6 col-12 blog-img-col">
+                  <div class="card_new mr-0 px-1">
+                      <div class="blog-img-frame">
+                        <a href="blankpage.php">
+                          <img class="blog-img" src='assets/images/index/blog1.jpg'/>
+                        </a>
                       </div>
-                        <span class="launches_font_30 line-h-20 grey">5 มิถุนายน 2561</span>
-                    </div>
-                </div>
-              </div>
-
-              <div class="col-lg-6 col-12 blog-img-col">
-                <div class="card_new mr-0  px-1">
-                    <div class="blog-img-frame">
-                      <a href="blog-details.php">
-                        <img class="blog-img" src='assets/images/index/blog2.jpg'/>
-                      </a>
-                    </div>
-                    <div class="card-body">
-                      <div class="blog-excerpt">
-                        <span class="launches_font_30 line-h-20">เปิดตัวสาขาใหม่ ณ สยามพารากอน ผู้นำแฟชั่นรองเท้า เครื่องแต่งกาย แบรนด์ชั้นนำ มากมาย อาทิเช่น adidas, Nike, Reebok</span>
+                      <div class="card-body">
+                        <div class="blog-excerpt">
+                          <span class="launches_font_30 line-h-20">เปิดตัวสาขาใหม่ ณ สยามพารากอน ผู้นำแฟชั่นรองเท้า เครื่องแต่งกาย แบรนด์ชั้นนำ มากมาย อาทิเช่น adidas, Nike, Reebok</span>
+                        </div>
+                          <span class="launches_font_30 line-h-20 grey">5 มิถุนายน 2561</span>
                       </div>
-                        <span class="launches_font_30 line-h-20 grey">5 มิถุนายน 2561</span>
-                    </div>
+                  </div>
                 </div>
+
+                <div class="col-lg-6 col-12 blog-img-col">
+                  <div class="card_new mr-0  px-1">
+                      <div class="blog-img-frame">
+                        <a href="blankpage.php">
+                          <img class="blog-img" src='assets/images/index/blog2.jpg'/>
+                        </a>
+                      </div>
+                      <div class="card-body">
+                        <div class="blog-excerpt">
+                          <span class="launches_font_30 line-h-20">เปิดตัวสาขาใหม่ ณ สยามพารากอน ผู้นำแฟชั่นรองเท้า เครื่องแต่งกาย แบรนด์ชั้นนำ มากมาย อาทิเช่น adidas, Nike, Reebok</span>
+                        </div>
+                          <span class="launches_font_30 line-h-20 grey">5 มิถุนายน 2561</span>
+                      </div>
+                  </div>
+                </div>
+
+
+                <div class="col-12 res-414-down">
+                  <a href="add-blank.php">
+                    <label>view all <span> > </span></label>
+                  </a>
+                </div>
+
               </div>
-
-
-              <div class="col-12 res-414-down">
-                <a href="blog.php">
-
-                  <label>view all <span> > </span></label>
-                </a>
-              </div>
-
-            </div>
-          </section>
+            </section>
+          </div>
 
         </div>
         <!-- END SITE CONTENT -->
