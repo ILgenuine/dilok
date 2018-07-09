@@ -311,7 +311,7 @@
           <div class="filtered-item filtered-item3 col-xl-10 col-lg-9 col-md-12 fadeIn animated">
             <section class="grid-item box">
                 <ul class="row list-unstyled">
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                         <div class="item">
                           <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
@@ -362,7 +362,7 @@
                           </div>
                         </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <div class="latest-product-frame filter-position-r">
@@ -411,7 +411,7 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <div class="latest-product-frame filter-position-r">
@@ -460,7 +460,7 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <div class="latest-product-frame filter-position-r">
@@ -509,7 +509,7 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                         <div class="item">
                           <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
@@ -560,7 +560,7 @@
                           </div>
                         </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <div class="latest-product-frame filter-position-r">
@@ -609,7 +609,7 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <div class="latest-product-frame filter-position-r">
@@ -658,7 +658,7 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <div class="latest-product-frame filter-position-r">
@@ -707,7 +707,7 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                         <div class="item">
                           <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
@@ -758,7 +758,7 @@
                           </div>
                         </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <div class="latest-product-frame filter-position-r">
@@ -807,9 +807,9 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1">                  
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <div class="latest-product-frame filter-position-r">
                               <a href="product-details1.php"> <img class=" filter-image-full fillter-position3" src="assets/images/product/2/Originals/nike-lebron-soldier-25-straight-ao2088-400-3.jpg" alt="Card image cap"> </a>
                               <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/NIKE_AIR_MAX_270_GREY.jpg" alt="Card image cap"> </a>
@@ -856,7 +856,7 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b">
+                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1">
                             <div class="latest-product-frame filter-position-r">

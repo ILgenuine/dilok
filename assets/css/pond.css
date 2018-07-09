@@ -399,7 +399,7 @@
    position: absolute;
    display: block;
    width: 100% !important;
-   height: 240px!important;
+   height: 293px!important;
    height: auto;
    top: 50%;
    left: 50%;
@@ -408,11 +408,15 @@
 }
 .filter-position-a2{
    position: absolute;
-   margin-top: 238px !important;
+   margin-top: 265px !important;
 }
 .filter-position-r2{
-   height: 410px !important;
-   width: 93% !important;
+   height: 440px !important;
+   width: 100% !important;
+}
+.color-down{
+  color: white;
+  padding-top: 2px;
 }
 /*-------------------------------------
 ------------- END FILLTER ---------------
@@ -821,7 +825,9 @@
   }
   .filter-position-r2{
      height: 444px !important;
-     width: 93% !important;
+  }
+  .filter-p{
+    padding: 10px;
   }
   /*-------------------------------------
   ---------- END FILLTER 1366 ------------
@@ -1048,7 +1054,6 @@
   }
   .filter-position-r2{
      height: 434px !important;
-     width: 93% !important;
   }
   /*-------------------------------------
   ----------- END FILTER 1024 -------------
@@ -1130,6 +1135,43 @@
   .fillter-m-tt{
     margin-top: 10px;
     margin-left: 5px;
+  }
+  .filter-image-full{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 139px!important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -121px;
+  }
+  .filter-position-a{
+     position: absolute;
+     margin-top: 140px !important;
+  }
+  .filter-position-r{
+     position: relative;
+     height: 377px !important;
+  }
+  .filter-image-full2{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 212px !important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -100px;
+  }
+  .filter-position-a2{
+     position: absolute;
+     margin-top: 197px !important;
+  }
+  .filter-position-r2{
+     height: 434px !important;
   }
   /*-------------------------------------
   ------------END FILLTER 768 --------------
@@ -1327,20 +1369,20 @@
        position: absolute;
        display: block;
        width: 100% !important;
-       height: 224px!important;
+       height: 184px!important;
        height: auto;
        top: 50%;
        left: 50%;
        transform: translate(-50%, -50%);
-       margin-top: -122px;
+       margin-top: -125px;
     }
     .filter-position-a{
        position: absolute;
-       margin-top: 208px !important;
+       margin-top: 183px !important
     }
     .filter-position-r{
        position: relative;
-       height: 444px !important;
+       height: 420px !important;
     }
   /*-------------------------------------
   ------------END FILLTER 414 --------------

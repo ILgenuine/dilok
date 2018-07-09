@@ -16,7 +16,7 @@
                         <form class="form-group">
                              <button class="btn fillter-bg2 px-0" type="button" data-toggle="collapse" data-target="#collapseExample999" aria-expanded="false" aria-controls="collapseExample">
                                  <span class="fillter-font2 pull-left">SELECTED</span>
-                                 <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
+                                 <i class="fas fa-chevron-down pull-right color-down" aria-hidden="true"></i>
                              </button>
                              <div class="collapse show" id="collapseExample999">
                                  <div class="mt-2">
@@ -55,7 +55,7 @@
                           <div class="form-group">
                                 <button class="btn fillter-bg2 px-0" type="button" data-toggle="collapse" data-target="#collapseExample55" aria-expanded="false" aria-controls="collapseExample">
                                     <span class="fillter-font2 pull-left">GENDER</span>
-                                    <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
+                                    <i class="fas fa-chevron-down pull-right color-down" aria-hidden="true"></i>
                                 </button>
                                 <div class="collapse show" id="collapseExample55">
                                     <div class="filter-scroll">
@@ -92,7 +92,7 @@
                         <div class="form-group">
                               <button class="btn fillter-bg2 px-0" type="button" data-toggle="collapse" data-target="#collapseExample56" aria-expanded="false" aria-controls="collapseExample">
                                   <span class="fillter-font2 pull-left">BRAND</span>
-                                  <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
+                                  <i class="fas fa-chevron-down pull-right color-down" aria-hidden="true"></i>
                               </button>
                               <div class="collapse show" id="collapseExample56">
                                   <div class="filter-scroll">
@@ -177,7 +177,7 @@
                         <div class="form-group">
                               <button class="btn fillter-bg2 px-0" type="button" data-toggle="collapse" data-target="#collapseExample57" aria-expanded="false" aria-controls="collapseExample">
                                   <span class="fillter-font2 pull-left">CLOTHING SIZE</span>
-                                  <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
+                                  <i class="fas fa-chevron-down pull-right color-down" aria-hidden="true"></i>
                               </button>
                               <div class="collapse show" id="collapseExample57">
                                   <div class="filter-scroll">
@@ -220,7 +220,7 @@
                           <div class="form-group">
                                 <button class="btn fillter-bg2 px-0" type="button" data-toggle="collapse" data-target="#collapseExample58" aria-expanded="false" aria-controls="collapseExample">
                                     <span class="fillter-font2 pull-left">FOOTWEAR SIZE</span>
-                                    <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
+                                    <i class="fas fa-chevron-down pull-right color-down" aria-hidden="true"></i>
                                 </button>
                                 <div class="collapse show" id="collapseExample58">
                                     <div class="filter-scroll">
@@ -263,7 +263,7 @@
                           <div class="form-group">
                                 <button class="btn fillter-bg2 px-0" type="button" data-toggle="collapse" data-target="#collapseExample59" aria-expanded="false" aria-controls="collapseExample">
                                     <span class="fillter-font2 pull-left">COLOR</span>
-                                    <span class="fas fa-chevron-down pull-right" aria-hidden="true"></span>
+                                    <i class="fas fa-chevron-down pull-right color-downs" aria-hidden="true"></i>
                                 </button>
                                 <div class="collapse show" id="collapseExample59">
                                     <div class="filter-scroll">
