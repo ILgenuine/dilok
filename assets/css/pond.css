@@ -418,6 +418,44 @@
   color: white;
   padding-top: 2px;
 }
+.filter-image-full3{
+   position: absolute;
+   display: block;
+   width: 100% !important;
+   height: 265px!important;
+   height: auto;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   margin-top: -72px;
+}
+.filter-position-a3{
+   position: absolute;
+   margin-top: 242px !important;
+}
+.filter-position-r3{
+   height: 412px !important;
+   width: 100% !important;
+}
+.filter-image-full4{
+   position: absolute;
+   display: block;
+   width: 100% !important;
+   height: 362px !important;
+   height: auto;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   margin-top: -72px;
+}
+.filter-position-a4{
+   position: absolute;
+   margin-top: 296px !important;
+}
+.filter-position-r4{
+   height: 469px !important;
+   width: 100% !important;
+}
 /*-------------------------------------
 ------------- END FILLTER ---------------
 ---------------------------------------*/
@@ -748,6 +786,44 @@
     transition: all 0.5s;
     background-color: transparent;
 }
+.wish-image-full{
+   position: absolute;
+   display: block;
+   width: 100% !important;
+   height: 174px !important;
+   height: auto;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   margin-top: -99px;
+}
+.wish-position-a{
+   position: absolute;
+   margin-top: 175px !important;
+}
+.wish-position-r{
+   height: 429px !important;
+   width: 100% !important;
+}
+.wish-image-full2{
+   position: absolute;
+   display: block;
+   width: 100% !important;
+   height: 277px!important;
+   height: auto;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   margin-top: -72px;
+}
+.wish-position-a2{
+   position: absolute;
+   margin-top: 254px !important;
+}
+.wish-position-r2{
+   height: 485px !important;
+   width: 100% !important;
+}
 /*-------------------------------------
 ------------ END WISHLIST --------------
 ---------------------------------------*/
@@ -793,7 +869,7 @@
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 178px!important;
+     height: 150px!important;
      height: auto;
      top: 50%;
      left: 50%;
@@ -802,11 +878,11 @@
   }
   .filter-position-a{
      position: absolute;
-     margin-top: 170px !important;
+     margin-top: 145px !important;
   }
   .filter-position-r{
      position: relative;
-     height: 423px !important;
+     height: 399px !important;
   }
   .filter-image-full2{
      position: absolute;
@@ -828,6 +904,44 @@
   }
   .filter-p{
     padding: 10px;
+  }
+  .filter-image-full3{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 190px!important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -107px;
+  }
+  .filter-position-a3{
+     position: absolute;
+     margin-top: 190px !important;
+  }
+  .filter-position-r3{
+     height: 446px !important;
+     width: 100% !important;
+  }
+  .filter-image-full4{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 267px !important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -72px;
+  }
+  .filter-position-a4{
+     position: absolute;
+     margin-top: 263px !important;
+  }
+  .filter-position-r4{
+     height: 495px !important;
+     width: 100% !important;
   }
   /*-------------------------------------
   ---------- END FILLTER 1366 ------------
@@ -900,6 +1014,25 @@
   }
   .wish-m-ll{
       margin-left: 102px;
+  }
+  .wish-image-full{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 193px !important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -104px;
+  }
+  .wish-position-a{
+     position: absolute;
+     margin-top: 195px !important;
+  }
+  .wish-position-r{
+     height: 450px !important;
+     width: 100% !important;
   }
   /*-------------------------------------
   ----------- END WISH 1366 -------------
@@ -1011,6 +1144,44 @@
   .wish-m-ll{
       margin-left: 0px;
   }
+  .wish-image-full{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 194px !important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -99px;
+  }
+  .wish-position-a{
+     position: absolute;
+     margin-top: 182px !important;
+  }
+  .wish-position-r{
+     height: 418px !important;
+     width: 100% !important;
+  }
+  .wish-image-full2{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 286px !important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -72px;
+  }
+  .wish-position-a2{
+     position: absolute;
+     margin-top: 254px !important;
+  }
+  .wish-position-r2{
+     height: 490px !important;
+     width: 100% !important;
+  }
   /*-------------------------------------
   ----------- END WISH 1024 -------------
   ---------------------------------------*/
@@ -1022,7 +1193,7 @@
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 156px!important;
+     height: 137px!important;
      height: auto;
      top: 50%;
      left: 50%;
@@ -1031,11 +1202,11 @@
   }
   .filter-position-a{
      position: absolute;
-     margin-top: 140px !important;
+     margin-top: 132px !important;
   }
   .filter-position-r{
      position: relative;
-     height: 377px !important;
+     height: 367px !important;
   }
   .filter-image-full2{
      position: absolute;
@@ -1054,6 +1225,44 @@
   }
   .filter-position-r2{
      height: 434px !important;
+  }
+  .filter-image-full3{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 190px!important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -107px;
+  }
+  .filter-position-a3{
+     position: absolute;
+     margin-top: 173px !important;
+  }
+  .filter-position-r3{
+     height: 409px !important;
+     width: 100% !important;
+  }
+  .filter-image-full4{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 279px !important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -72px;
+  }
+  .filter-position-a4{
+     position: absolute;
+     margin-top: 255px !important;
+  }
+  .filter-position-r4{
+     height: 491px !important;
+     width: 100% !important;
   }
   /*-------------------------------------
   ----------- END FILTER 1024 -------------
@@ -1140,7 +1349,7 @@
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 139px!important;
+     height: 135px!important;
      height: auto;
      top: 50%;
      left: 50%;
@@ -1149,11 +1358,11 @@
   }
   .filter-position-a{
      position: absolute;
-     margin-top: 140px !important;
+     margin-top: 132px !important;
   }
   .filter-position-r{
      position: relative;
-     height: 377px !important;
+     height: 369px !important;
   }
   .filter-image-full2{
      position: absolute;
@@ -1224,6 +1433,51 @@
   }
   /*-------------------------------------
   ----------- END CART 768 -------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ----------- WISH 768 -------------
+  ---------------------------------------*/
+  .wish-image-full{
+       position: absolute;
+       display: block;
+       width: 100% !important;
+       height: 142px !important;
+       height: auto;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+       margin-top: -113px;
+  }
+  .wish-position-a{
+       position: absolute;
+       margin-top: 145px !important;
+  }
+  .wish-position-r{
+       height: 381px !important;
+       width: 100% !important;
+  }
+  .wish-image-full2{
+       position: absolute;
+       display: block;
+       width: 100% !important;
+       height: 218px !important;
+       height: auto;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+       margin-top: -75px;
+  }
+  .wish-position-a2{
+       position: absolute;
+       margin-top: 221px !important;
+  }
+  .wish-position-r2{
+       height: 458px !important;
+       width: 100% !important;
+  }
+  /*-------------------------------------
+  ----------- END WISH 768 -------------
   ---------------------------------------*/
 }
 
@@ -1369,7 +1623,7 @@
        position: absolute;
        display: block;
        width: 100% !important;
-       height: 184px!important;
+       height: 217px !important;
        height: auto;
        top: 50%;
        left: 50%;
@@ -1378,11 +1632,11 @@
     }
     .filter-position-a{
        position: absolute;
-       margin-top: 183px !important
+       margin-top: 194px !important
     }
     .filter-position-r{
        position: relative;
-       height: 420px !important;
+       height: 431px !important;
     }
   /*-------------------------------------
   ------------END FILLTER 414 --------------
@@ -1498,6 +1752,25 @@
   .wish-m-ll{
       margin-left: 0px;
   }
+  .wish-image-full{
+       position: absolute;
+       display: block;
+       width: 100% !important;
+       height: 245px !important;
+       height: auto;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+       margin-top: -113px;
+  }
+  .wish-position-a{
+       position: absolute;
+       margin-top: 228px !important;
+  }
+  .wish-position-r{
+       height: 464px !important;
+       width: 100% !important;
+  }
   /*-------------------------------------
   ----------- END WISHLIST 414 ----------
   --------------------------------------*/
@@ -1568,6 +1841,25 @@
   .fast-buy{
     font-size: 15px;
   }
+  .filter-image-full{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 198px!important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -125px;
+  }
+  .filter-position-a{
+     position: absolute;
+     margin-top: 183px !important
+  }
+  .filter-position-r{
+     position: relative;
+     height: 420px !important;
+  }
   /*-------------------------------------
   ------------END FILLTER 375 --------------
   ---------------------------------------*/
@@ -1586,6 +1878,32 @@
   }
   /*-------------------------------------
   ------------ END CART 375 --------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ WISH 375 --------------
+  ---------------------------------------*/
+  .wish-image-full{
+       position: absolute;
+       display: block;
+       width: 100% !important;
+       height: 215px !important;
+       height: auto;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+       margin-top: -113px;
+  }
+  .wish-position-a{
+       position: absolute;
+       margin-top: 209px !important;
+  }
+  .wish-position-r{
+       height: 445px !important;
+       width: 100% !important;
+  }
+  /*-------------------------------------
+  ------------ END WISH 375 --------------
   ---------------------------------------*/
 }
 
@@ -1614,6 +1932,32 @@
     }
   /*-------------------------------------
   ---------- END FORGOT 320 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ FILLTER 320 --------------
+  ---------------------------------------*/
+  .filter-image-full{
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: 168px!important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin-top: -125px;
+  }
+  .filter-position-a{
+     position: absolute;
+     margin-top: 152px !important
+  }
+  .filter-position-r{
+     position: relative;
+     height: 388px !important;
+  }
+  /*-------------------------------------
+  ------------END FILLTER 320 --------------
   ---------------------------------------*/
 
 
@@ -1667,6 +2011,32 @@
   }
   /*-------------------------------------
   ------------ END CART 320 --------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ WISH 320 --------------
+  ---------------------------------------*/
+  .wish-image-full{
+       position: absolute;
+       display: block;
+       width: 100% !important;
+       height: 177px !important;
+       height: auto;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+       margin-top: -113px;
+  }
+  .wish-position-a{
+       position: absolute;
+       margin-top: 171px !important;
+  }
+  .wish-position-r{
+       height: 407px !important;
+       width: 100% !important;
+  }
+  /*-------------------------------------
+  ------------ END WISH 320 --------------
   ---------------------------------------*/
 
 }

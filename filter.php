@@ -313,14 +313,14 @@
                 <ul class="row list-unstyled">
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                         <div class="item">
-                          <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                          <div class="card p-1 fillter-m filter-position-r fillter-position6 fillter-position8 fillter-position1">
                             <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
                             <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
                               <div class="latest-product-frame filter-position-r">
-                                <a href="product-details1.php"> <img class=" filter-image-full fillter-position3" src="assets/images/product/2/NAM16.jpg" alt="Card image cap"> </a>
-                                <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/NIKE_AIR_MAX_270_GREY.jpg" alt="Card image cap"> </a>
+                                <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/NAM16.jpg" alt="Card image cap"> </a>
+                                <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/NIKE_AIR_MAX_270_GREY.jpg" alt="Card image cap"> </a>
                               </div>
-                              <div class="card-body p-1 filter-position-a fillter-position2">
+                              <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                                 <div class="row px-0 mx-0">
                                     <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                         <div class="product-title">
@@ -364,12 +364,12 @@
                     </li>
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class="filter-image-full fillter-position3" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/adidas/4.jpg" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class="filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/4.jpg" alt="Card image cap"> </a>
                             </div>
-                            <div class="card-body p-1 filter-position-a fillter-position2">
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                               <div class="row px-0 mx-0">
                                   <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
@@ -413,12 +413,12 @@
                     </li>
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
                             </div>
-                            <div class="card-body p-1 filter-position-a fillter-position2">
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                               <div class="row px-0 mx-0">
                                   <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
@@ -462,12 +462,12 @@
                     </li>
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3" src="assets/images/product/2/adidas/8.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/8.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
                             </div>
-                            <div class="card-body p-1 filter-position-a fillter-position2">
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                               <div class="row px-0 mx-0">
                                   <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
@@ -511,14 +511,14 @@
                     </li>
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                         <div class="item">
-                          <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                          <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
                             <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
                               <div class="latest-product-frame filter-position-r">
-                                <a href="product-details1.php"> <img class=" filter-image-full fillter-position3" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
-                                <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
+                                <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
+                                <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
                               </div>
-                              <div class="card-body p-1 filter-position-a fillter-position2">
+                              <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                                 <div class="row px-0 mx-0">
                                     <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                         <div class="product-title">
@@ -562,12 +562,12 @@
                     </li>
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class="filter-image-full fillter-position3" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class="filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
                             </div>
-                            <div class="card-body p-1 filter-position-a fillter-position2">
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                               <div class="row px-0 mx-0">
                                   <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
@@ -611,12 +611,12 @@
                     </li>
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
                             </div>
-                            <div class="card-body p-1 filter-position-a fillter-position2">
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position7">
                               <div class="row px-0 mx-0">
                                   <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
@@ -660,12 +660,12 @@
                     </li>
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
                             </div>
-                            <div class="card-body p-1 filter-position-a fillter-position2">
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                               <div class="row px-0 mx-0">
                                   <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
@@ -709,14 +709,14 @@
                     </li>
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                         <div class="item">
-                          <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                          <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
                             <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
                               <div class="latest-product-frame filter-position-r">
-                                <a href="product-details1.php"> <img class=" filter-image-full fillter-position3" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
-                                <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
+                                <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
+                                <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
                               </div>
-                              <div class="card-body p-1 filter-position-a fillter-position2">
+                              <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                                 <div class="row px-0 mx-0">
                                     <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                         <div class="product-title">
@@ -760,12 +760,12 @@
                     </li>
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class="filter-image-full fillter-position3" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class="filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
                             </div>
-                            <div class="card-body p-1 filter-position-a fillter-position2">
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                               <div class="row px-0 mx-0">
                                   <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
@@ -809,12 +809,12 @@
                     </li>
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3" src="assets/images/product/2/adidas/8.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/8.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
                             </div>
-                            <div class="card-body p-1 filter-position-a fillter-position2">
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                               <div class="row px-0 mx-0">
                                   <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
@@ -858,12 +858,12 @@
                     </li>
                     <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
                             </div>
-                            <div class="card-body p-1 filter-position-a fillter-position2">
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                               <div class="row px-0 mx-0">
                                   <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
                                       <div class="product-title">
@@ -942,9 +942,21 @@
 
           if(document.getElementById("demo").innerHTML == 'show filter'){
               document.getElementById("demo").innerHTML = "hide filter";
+              $('.fillter-position4').removeClass('filter-image-full3');
+              $('.fillter-position5').removeClass('filter-position-a3');
+              $('.fillter-position6').removeClass('filter-position-r3');
+
+              $('.fillter-position7').removeClass('filter-image-full4');
+              $('.fillter-position8').removeClass('filter-position-r4');
+              $('.fillter-position9').removeClass('filter-position-a4');
           }
+
           else if(document.getElementById("demo").innerHTML == 'hide filter'){
-            document.getElementById("demo").innerHTML = "show filter";
+              document.getElementById("demo").innerHTML = "show filter";
+              $('.fillter-position4').addClass('filter-image-full3');
+              $('.fillter-position5').addClass('filter-position-a3');
+              $('.fillter-position6').addClass('filter-position-r3');
+
           }
       }
 
@@ -960,6 +972,33 @@
           $('.fillter-position2').removeClass('filter-position-a');
           $('.fillter-position3').removeClass('filter-image-full');
 
+        if(document.getElementById("demo").innerHTML == 'show filter') {
+            $('.fillter-position7').addClass('filter-image-full4');
+            $('.fillter-position8').addClass('filter-position-r4');
+            $('.fillter-position9').addClass('filter-position-a4');
+
+            $('.fillter-position4').removeClass('filter-image-full2');
+            $('.fillter-position5').removeClass('filter-position-r2');
+            $('.fillter-position6').removeClass('filter-position-a2');
+
+            $('.fillter-position1').removeClass('filter-image-full');
+            $('.fillter-position2').removeClass('filter-position-r');
+            $('.fillter-position3').removeClass('filter-position-a');
+          }
+          else {
+            $('.fillter-position1').addClass('filter-position-r2');
+            $('.fillter-position2').addClass('filter-position-a2');
+            $('.fillter-position3').addClass('filter-image-full2');
+
+            $('.fillter-position1').removeClass('filter-position-r');
+            $('.fillter-position2').removeClass('filter-position-a');
+            $('.fillter-position3').removeClass('filter-image-full');
+
+            $('.fillter-position7').removeClass('filter-image-full4');
+            $('.fillter-position8').removeClass('filter-position-r4');
+            $('.fillter-position9').removeClass('filter-position-a4');
+          }
+
         }
         function myFunction3() {
           $('.filtered-item2').addClass('col-xl-3 col-12 col-lg-4 col-md-4');
@@ -972,6 +1011,10 @@
           $('.fillter-position1').removeClass('filter-position-r2');
           $('.fillter-position2').removeClass('filter-position-a2');
           $('.fillter-position3').removeClass('filter-image-full2');
+
+          $('.fillter-position7').removeClass('filter-image-full4');
+          $('.fillter-position8').removeClass('filter-position-r4');
+          $('.fillter-position9').removeClass('filter-position-a4');
         }
 
 
