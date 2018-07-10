@@ -1227,16 +1227,19 @@
                               </div>
                             </li>
                        </ul>
-                      <!-- เลขหน้า -->
-                        <div class="container-fluid custom-container mt-5">
-                          <ul class="pagination justify-content-center">
-                            <li class="page-item pr-1"><a class="news_page-link active" href="javascript:void(0);">1</a></li>
-                            <li class="page-item pr-1"><a class="news_page-link " href="javascript:void(0);">2</a></li>
-                            <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">3</a></li>
-                            <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">4</a></li>
-                          </ul>
-                        </div>
-                     <!-- เลขหน้า จบ  -->
+                     <!-- เลขหน้า -->
+                      <div class="container-fluid custom-container mt-5">
+                        <ul class="pagination justify-content-center">
+                          <li class="page-item pr-1"><a class="news_page-link active" href="javascript:void(0);">1</a></li>
+                          <li class="page-item pr-1"><a class="news_page-link " href="javascript:void(0);">2</a></li>
+                          <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">3</a></li>
+                          <li class="page-item pr-1"><a class="news_page-link" href="javascript:void(0);">4</a></li>
+                        </ul>
+                      </div>
+
+
+
+ <!-- เลขหน้า จบ  -->
                   </section>
                 </div>
             </div>

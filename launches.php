@@ -174,7 +174,7 @@
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom5'>
-								<img src='assets/images/product/2/adidas/5.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+								<img src='https://www.unpacked.ph/wp-content/uploads/2018/01/adidas-ultra-boost-5th-anniversary-bb6220-5.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
 							</span>
 					  	</div>
 					  <div class="card-body">
@@ -204,7 +204,7 @@
 	    			<div class="card_new">
 	    				<div class="launches-fix-frame">
 					  		<span class='zoom' id='zoom6'>
-								<img src='assets/images/product/2/adidas/6.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+								<img src='http://www.central.co.th/e-shopping/wp-content/uploads/2017/01/Adidas-Gazelle-%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%B5%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B9%E0%B9%89%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
 							</span>
 						</div>
 					  <div class="card-body">
@@ -284,4 +284,6 @@
   $('#zoom5').zoom();
   $('#zoom6').zoom();
 });
+
+
 </script>

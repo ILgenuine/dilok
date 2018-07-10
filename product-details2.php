@@ -34,7 +34,7 @@
 
                   <!-- บังคับใช้ zoom + เลข ทั้ง id และ class   มี script ข้างล่าง -->
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
-                      <div class="product-desktop-frame zoom1" id="zoom1" data-toggle="modal" data-target="#full-screen-product-1">
+                      <div class="product-desktop-frame zoom1 cur" id="zoom1" data-toggle="modal" data-target="#full-screen-product-1">
                         <img class="product-desktop-img" src="assets/images/product/1/22.jpg">
                       </div>
                   </div>
@@ -46,22 +46,22 @@
                      </div>
                   </div>
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
-                    <div class="product-desktop-frame zoom3" id="zoom3" data-toggle="modal" data-target="#full-screen-product-1">
+                    <div class="product-desktop-frame zoom3 cur" id="zoom3" data-toggle="modal" data-target="#full-screen-product-1">
                       <img class="product-desktop-img" src="assets/images/product/1/44.jpg">
                     </div>
                   </div>
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
-                    <div class="product-desktop-frame zoom4" id="zoom4" data-toggle="modal" data-target="#full-screen-product-1">
+                    <div class="product-desktop-frame zoom4 cur" id="zoom4" data-toggle="modal" data-target="#full-screen-product-1">
                       <img class="product-desktop-img" src="assets/images/product/1/55.jpg">
                     </div>
                   </div>
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
-                    <div class="product-desktop-frame zoom5" id="zoom5" data-toggle="modal" data-target="#full-screen-product-1">
+                    <div class="product-desktop-frame zoom5 cur" id="zoom5" data-toggle="modal" data-target="#full-screen-product-1">
                       <img class="product-desktop-img" src="assets/images/product/1/11.jpg">
                     </div>
                   </div>
                   <div class="product-desktop-col col-xl-6 col-lg-12 px-1 mb-2">
-                    <div class="product-desktop-frame zoom6" id="zoom6" data-toggle="modal" data-target="#full-screen-product-1">
+                    <div class="product-desktop-frame zoom6 cur" id="zoom6" data-toggle="modal" data-target="#full-screen-product-1">
                       <img class="product-desktop-img" src="assets/images/product/1/33.jpg">
                     </div>
                   </div>
@@ -137,8 +137,8 @@
                   <div class="sticky-box">
                         <div class="row mx-0">
                           <div class="col-12">
-                            <button type="button" class="btn top-btn heart-btn pull-right"><i name="like-button" class="fa-1x fa-heart liked fas liked-shaked"></i></button>
-                            <button type="button" class="btn top-btn pull-right"><i class="fa-1x fa-share-alt fas"></i></button>
+                            <button type="button" class="btn top-btn heart-btn pull-right"><i name="like-button" class="fa-1x fa-heart liked fas liked-shaked icon-size"></i></button>
+                            <button type="button" class="btn top-btn pull-right"><i class="fa-1x fa-share-alt fas "></i></button>
                           </div>
                           <div class="col-12 pr-lg-0">
                             <div class="sticky-product-title">
