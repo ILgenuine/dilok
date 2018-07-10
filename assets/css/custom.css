@@ -3472,19 +3472,19 @@ $END PRODUCT DETAILS 1
   }
 
   .latest-next {
-    right: -15%;
+    right: -10%;
   }
 
   .latest-prev {
-    left: -15%;
+    left: -10%;
   }
 
   .latest-next:hover {
-      right: -15%;
+      right: -10%;
   }
 
   .latest-prev:hover {
-      left: -15%;
+      left: -10%;
   }
 
   /*------------------------------------*

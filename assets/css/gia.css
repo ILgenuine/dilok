@@ -16,6 +16,15 @@ a {
 ---------launches----------
 ---------------------------*/
 
+/*-------index----------------*/
+.index-next-right i{
+    margin-right: 25px;
+}
+.index-next-left i{
+    margin-left: 25px;
+}
+/*---------index end----------*/
+
 
 
 /*------------zoom---------------*/
@@ -37,7 +46,9 @@ cursor: zoom-in;
 .icon-size{
 font-size: 24px;
 }
-/*------product-details2-----*/
+/*------product-details2 end-----*/
+
+
 
 /*-----------zoom-------------------*/
 
@@ -304,6 +315,18 @@ font-size: 24px;
 
 @media (max-width: 1024px){
 
+
+/*-----lanches-detail--------*/
+.dis_block{
+    display: block;
+}
+
+
+/*-----lanches-detail end-----*/
+
+
+
+
 /*-------------------------
 ---------launches -------
 ---------------------------*/    
@@ -355,6 +378,16 @@ font-size: 24px;
 }
 
 @media (max-width: 768px){
+
+/*-------index----------------*/
+.n-r i{
+        margin-right: 70px;
+}
+.n-l i{
+    margin-left: 70px;
+}
+
+/*---------index end----------*/
 
 /*-------------------------
 ---------launches -------
