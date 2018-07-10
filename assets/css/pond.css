@@ -418,6 +418,44 @@
   color: white;
   padding-top: 2px;
 }
+.filter-image-full3{
+   position: absolute;
+   display: block;
+   width: 100% !important;
+   height: 265px!important;
+   height: auto;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   margin-top: -72px;
+}
+.filter-position-a3{
+   position: absolute;
+   margin-top: 242px !important;
+}
+.filter-position-r3{
+   height: 412px !important;
+   width: 100% !important;
+}
+.filter-image-full4{
+   position: absolute;
+   display: block;
+   width: 100% !important;
+   height: 362px !important;
+   height: auto;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   margin-top: -72px;
+}
+.filter-position-a4{
+   position: absolute;
+   margin-top: 296px !important;
+}
+.filter-position-r4{
+   height: 469px !important;
+   width: 100% !important;
+}
 /*-------------------------------------
 ------------- END FILLTER ---------------
 ---------------------------------------*/
