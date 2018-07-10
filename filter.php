@@ -976,6 +976,14 @@
             $('.fillter-position7').addClass('filter-image-full4');
             $('.fillter-position8').addClass('filter-position-r4');
             $('.fillter-position9').addClass('filter-position-a4');
+
+            $('.fillter-position4').removeClass('filter-image-full2');
+            $('.fillter-position5').removeClass('filter-position-r2');
+            $('.fillter-position6').removeClass('filter-position-a2');
+
+            $('.fillter-position1').removeClass('filter-image-full');
+            $('.fillter-position2').removeClass('filter-position-r');
+            $('.fillter-position3').removeClass('filter-position-a');
           }
           else {
             $('.fillter-position1').addClass('filter-position-r2');
