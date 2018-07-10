@@ -101,11 +101,13 @@
         $(this).closest("div.promotion").find(".icon-collpase").toggleClass("fa-plus fa-minus");
       });
     });
+// โหลด
 
-    $(window).on('resize', function () {
-      location.reload();
-    });
-
+    if(window.matchMedia("(min-width: 9000px)").matches){
+      $(window).on('resize', function () {
+        location.reload();
+      });
+    }
 
     $(window).on('load', function () {
       // LANGUAGE PICKER

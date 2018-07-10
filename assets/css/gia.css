@@ -16,6 +16,12 @@ a {
 ---------launches----------
 ---------------------------*/
 
+.frame::-webkit-scrollbar
+ {
+   display: none;
+   width: 0px;
+ }
+
 /*-------index----------------*/
 .index-next-right i{
     margin-right: 25px;
@@ -380,13 +386,12 @@ font-size: 24px;
 @media (max-width: 768px){
 
 /*-------index----------------*/
-.n-r i{
-        margin-right: 70px;
+.index-next-right i{
+    margin-right: -25px;
 }
-.n-l i{
-    margin-left: 70px;
+.index-next-left i{
+    margin-left: -25px;
 }
-
 /*---------index end----------*/
 
 /*-------------------------

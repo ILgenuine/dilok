@@ -438,11 +438,11 @@ else{
 
 }
 
-$('.brand-slide').find('.owl-next').addClass('latest-next arrow-fadein index-next-right n-r');
-$('.brand-slide').find('.owl-next').append("<i class='fas fa-angle-right fa-5x'></i>");
+$('.brand-slide').find('.owl-next').addClass('latest-next latest-next-1 arrow-fadein');
+$('.brand-slide').find('.owl-next').append("<i class='fas fa-angle-right fa-4x'></i>");
 $('.brand-slide').find('.owl-prev').removeClass('disabled');
-$('.brand-slide').find('.owl-prev').addClass('latest-prev index-next-left n-l');
-$('.brand-slide').find('.owl-prev').append("<i class='fas fa-angle-left fa-5x'></i>");
+$('.brand-slide').find('.owl-prev').addClass('latest-prev  latest-prev-1');
+$('.brand-slide').find('.owl-prev').append("<i class='fas fa-angle-left fa-4x'></i>");
 $('.brand-slide').on('translated.owl.carousel', function(e) {
   $('.brand-slide .owl-stage .owl-item.active').each(function(){
       if($(this).closest('.owl-stage').find('.active .item').hasClass('first'))

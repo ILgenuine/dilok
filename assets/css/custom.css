@@ -183,6 +183,48 @@ $Structure
     background:unset !important;
   }
 
+  .latest-next-1{
+    position:absolute;
+    top:40%;
+    right:-5% !important;
+    color:black !important;
+    font-weight: 700 !important;
+    background:unset !important;
+  }
+
+  .latest-next-1:active{
+    position:absolute;
+    top:40%;
+    right:-5%;
+    color:black !important;
+    font-weight: 700 !important;
+    background:unset !important;
+  }
+
+  .latest-prev-1{
+    position:absolute;
+    top:40%;
+    left:-5% !important;
+    color:black !important;
+    font-weight: 700 !important;
+    background:unset !important;
+  }
+
+  .latest-prev-1:active{
+    position:absolute;
+    top:40%;
+    left:-5% !important;
+    color:black !important;
+    font-weight: 700 !important;
+    background:unset !important;
+  }
+
+
+
+
+
+
+
   .latest-slide{
     width:100%;
   }
@@ -1229,6 +1271,27 @@ input[type=number]::-webkit-outer-spin-button {
 
 }
 
+.card-re-g{
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    /* min-width: 0; */
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    /* border: 1px solid rgba(0,0,0,.125); */
+    /* border-radius: .25rem; */
+}
+
+.dis-all{
+    display: none;
+}
+
 /*------------------------------------*
 $End Sidebar
 *------------------------------------*/
@@ -2023,7 +2086,7 @@ $END PRODUCT DETAILS 1
     padding-bottom: 12px;
   }
 
-  .login-btn:hover{
+  /*.login-btn:hover span{
     width:100%;
     background-color:white !important;
     color:black;
@@ -2054,7 +2117,7 @@ $END PRODUCT DETAILS 1
     font-weight: 700;
     padding-top:12px;
     padding-bottom: 12px;
-  }
+  }*/
 
   .create-account{
     border-top: 1px solid #DDD;
@@ -3472,19 +3535,35 @@ $END PRODUCT DETAILS 1
   }
 
   .latest-next {
-    right: -10%;
+    right: -15%;
   }
 
   .latest-prev {
-    left: -10%;
+    left: -15%;
   }
 
   .latest-next:hover {
-      right: -10%;
+      right: -15%;
   }
 
   .latest-prev:hover {
-      left: -10%;
+      left: -15%;
+  }
+
+  .latest-next-1 {
+    right: 5% !important;
+  }
+
+  .latest-prev-1 {
+    left: 5% !important;
+  }
+
+  .latest-next-1:hover {
+      right: 5% !important;
+  }
+
+  .latest-prev-1:hover {
+      left: 5% ;
   }
 
   /*------------------------------------*
@@ -3671,6 +3750,14 @@ $END PRODUCT DETAILS 1
 
   .sidebarCollapse{
     font-size: 23px;;
+  }
+
+  .code-button button {
+    width: 100%;
+    border: none;
+    border-radius: 0px;
+    font-size: 18px;
+    margin-top: 10px;
   }
 
   /*------------------------------------*

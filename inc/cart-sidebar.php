@@ -16,7 +16,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                   <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/3.jpg">
+                      <img class="cart-product" src="assets/images/product/1/33.jpg">
                     </div>
                   </a>
               </div>
@@ -52,7 +52,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                 <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/6.jpg">
+                      <img class="cart-product" src="assets/images/product/1/66.jpg">
                     </div>
                   </a>
               </div>
@@ -87,7 +87,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                 <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/3.jpg">
+                      <img class="cart-product" src="assets/images/product/1/33.jpg">
                     </div>
                   </a>
               </div>
@@ -122,7 +122,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                 <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/6.jpg">
+                      <img class="cart-product" src="assets/images/product/1/66.jpg">
                     </div>
                   </a>
               </div>
@@ -158,7 +158,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                 <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/3.jpg">
+                      <img class="cart-product" src="assets/images/product/1/33.jpg">
                     </div>
                   </a>
               </div>
@@ -194,7 +194,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                 <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/6.jpg">
+                      <img class="cart-product" src="assets/images/product/1/66.jpg">
                     </div>
                   </a>
               </div>
