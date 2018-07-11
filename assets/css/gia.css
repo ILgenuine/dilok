@@ -1,12 +1,15 @@
-/*a:hover {
-    color: #000;
-    text-decoration: none;*/
+
 
 }
 a {
     color: #000;
     text-decoration: none;
 }
+a:hover {
+    color: #000 !important;
+    text-decoration: none;
+}
+
 
 .btn:focus {
      outline: 0!important;

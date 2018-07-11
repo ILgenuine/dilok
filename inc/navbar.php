@@ -1649,7 +1649,7 @@
         <div class="col-3">
           <ol class="breadcrumb pull-left" style="top:0;">
 
-            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+            <li class="breadcrumb-item "><a href="index.php" class="text-dark">Home</a></li>
             <li class="breadcrumb-item active" aria-current="page">Data</li>
           </ol>
         </div>
