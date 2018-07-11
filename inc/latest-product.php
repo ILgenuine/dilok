@@ -946,11 +946,11 @@
         <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/9.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/9.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -959,7 +959,7 @@
         <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/10.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/10.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
               <p class="card-title">Pureboost DPR Shoes</p>
@@ -972,11 +972,11 @@
         <div class="h-100">
           <div class="latest-card" >
            <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/11.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/11.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -985,11 +985,11 @@
         <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/12.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/12.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -998,11 +998,11 @@
         <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/13.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/13.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1011,11 +1011,11 @@
         <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/14.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/14.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1024,11 +1024,11 @@
         <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/15.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/15.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1037,11 +1037,11 @@
         <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/16.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/16.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1050,11 +1050,11 @@
         <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/17.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/17.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1067,11 +1067,11 @@
        <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/18.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/18.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1080,11 +1080,11 @@
         <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/19.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/19.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1093,11 +1093,11 @@
         <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/20.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/20.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1106,11 +1106,11 @@
        <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/21.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/21.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1119,11 +1119,11 @@
        <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/22.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/22.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1132,11 +1132,11 @@
        <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/23.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/23.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1145,11 +1145,11 @@
        <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/24.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/24.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1158,11 +1158,11 @@
        <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/25.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/25.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
@@ -1171,11 +1171,11 @@
        <div class="h-100">
           <div class="latest-card" >
             <div class="latest-fix-frame">
-              <img class="latest-img-top" src="assets/images/product/2/adidas/26.jpg" alt="Card image cap">
+              <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/26.jpg" alt="Card image cap"></a>
             </div>
             <div class="card-body text-center">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
             </div>
           </div>
         </div>
