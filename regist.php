@@ -110,7 +110,7 @@
                                 </label>
                                 <div class="input-group text-center">
                                     <div class="input-group-prepend"></div>
-                                    <input type="text" class="regist-form" id="validationDefaultUsername2" placeholder="Create Password" aria-describedby="inputGroupPrepend2" required>
+                                    <input type="password" class="regist-form" id="validationDefaultUsername2" placeholder="Create Password" aria-describedby="inputGroupPrepend2" required>
                                 </div>
                             </div>
                         </div>
@@ -122,7 +122,7 @@
                                 </label>
                                 <div class="input-group text-center">
                                     <div class="input-group-prepend"></div>
-                                    <input type="text" class="regist-form" id="validationDefaultUsername2" placeholder="Confirm Password" aria-describedby="inputGroupPrepend2" required>
+                                    <input type="password" class="regist-form" id="validationDefaultUsername2" placeholder="Confirm Password" aria-describedby="inputGroupPrepend2" required>
                                 </div>
                             </div>
                         </div>
@@ -135,8 +135,8 @@
                                 </label>
                             </div>
                         </div>
-                        <div class="regist-m-t2 text-center">
-                               <button class="btn regist-btn" type="submit">LOG IN</button>
+                        <div class="regist-m-t text-center">
+                          <button type="button" class="btn regist-btn" onclick="myFunction()">CREATE AN ACCOUNT</button>
                         </div>
                     </form>
 
@@ -172,7 +172,7 @@
                                <div class="input-group">
                                  <div class="input-group-prepend">
                                  </div>
-                                 <input type="text" class="regist-form" id="validationDefaultUsername2" placeholder="Password" aria-describedby="inputGroupPrepend2" required>
+                                 <input type="password" class="regist-form" id="validationDefaultUsername2" placeholder="Password" aria-describedby="inputGroupPrepend2" required>
                                </div>
                            </div>
                        </div>

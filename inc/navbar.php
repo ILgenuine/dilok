@@ -1629,7 +1629,9 @@
                                   <label class="d-flex">Password<span class="red">*</span><span class="ml-auto"><a class="grey" href="forgot.php">Forget your password?</a></span></label>
                                   <input type="password" class="form-control" placeholder="">
                                 </div>
-                                <button type="submit" class="btn btn-primary login-btn"><span>LOG IN</span></button>
+                                  <div class="regist-m-t2 text-center">
+                                    <button class="btn regist-btn-1" type="submit">LOG IN</button>
+                                  </div>
                               </form>
                               <div class="create-account py-3">
                                 <span><a class="black" href="regist.php">New? Create an account</a></span>

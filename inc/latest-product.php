@@ -947,8 +947,8 @@
           <div class="card" style="width: 37vw;">
             <img class="card-img-top" src="https://media.endclothing.com/media/f_auto,q_auto,w_760,h_760/prodmedia/media/catalog/product/1/5/15-06-2018_givenchy_tr3runner_burgundy_grey_bh0019h04z-602_lm_1.jpg" alt="Card image cap">
             <div class="card-body text-center">
-              <h5 class="card-title">Pureboost DPR Shoes</h5>
-              <p class="card-text text-secondary">Men running</p>
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
             </div>
           </div>
         </div>
@@ -958,8 +958,8 @@
           <div class="card" style="width: 37vw;">
             <img class="card-img-top" src="https://media.endclothing.com/media/f_auto,q_auto,w_760,h_760/prodmedia/media/catalog/product/1/5/15-06-2018_givenchy_tr3runner_burgundy_grey_bh0019h04z-602_lm_1.jpg" alt="Card image cap">
             <div class="card-body text-center">
-              <h5 class="card-title">Pureboost DPR Shoes</h5>
-              <p class="card-text text-secondary">Men running</p>
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary"  style="font-size: 14px;">Men running</p>
             </div>
           </div>
         </div>
@@ -969,8 +969,8 @@
           <div class="card" style="width: 37vw;">
             <img class="card-img-top" src="https://media.endclothing.com/media/f_auto,q_auto,w_760,h_760/prodmedia/media/catalog/product/1/5/15-06-2018_givenchy_tr3runner_burgundy_grey_bh0019h04z-602_lm_1.jpg" alt="Card image cap">
             <div class="card-body text-center">
-              <h5 class="card-title">Pureboost DPR Shoes</h5>
-              <p class="card-text text-secondary">Men running</p>
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
             </div>
           </div>
         </div>
@@ -980,8 +980,8 @@
           <div class="card" style="width: 37vw;">
             <img class="card-img-top" src="https://media.endclothing.com/media/f_auto,q_auto,w_760,h_760/prodmedia/media/catalog/product/1/5/15-06-2018_givenchy_tr3runner_burgundy_grey_bh0019h04z-602_lm_1.jpg" alt="Card image cap">
             <div class="card-body text-center">
-              <h5 class="card-title">Pureboost DPR Shoes</h5>
-              <p class="card-text text-secondary">Men running</p>
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
             </div>
           </div>
         </div>
@@ -991,8 +991,52 @@
           <div class="card" style="width: 37vw;">
             <img class="card-img-top" src="https://media.endclothing.com/media/f_auto,q_auto,w_760,h_760/prodmedia/media/catalog/product/1/5/15-06-2018_givenchy_tr3runner_burgundy_grey_bh0019h04z-602_lm_1.jpg" alt="Card image cap">
             <div class="card-body text-center">
-              <h5 class="card-title">Pureboost DPR Shoes</h5>
-              <p class="card-text text-secondary">Men running</p>
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="inner-item ">
+        <div class="h-100">
+          <div class="card" style="width: 37vw;">
+            <img class="card-img-top" src="https://media.endclothing.com/media/f_auto,q_auto,w_760,h_760/prodmedia/media/catalog/product/1/5/15-06-2018_givenchy_tr3runner_burgundy_grey_bh0019h04z-602_lm_1.jpg" alt="Card image cap">
+            <div class="card-body text-center">
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="inner-item ">
+        <div class="h-100">
+          <div class="card" style="width: 37vw;">
+            <img class="card-img-top" src="https://media.endclothing.com/media/f_auto,q_auto,w_760,h_760/prodmedia/media/catalog/product/1/5/15-06-2018_givenchy_tr3runner_burgundy_grey_bh0019h04z-602_lm_1.jpg" alt="Card image cap">
+            <div class="card-body text-center">
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="inner-item ">
+        <div class="h-100">
+          <div class="card" style="width: 37vw;">
+            <img class="card-img-top" src="https://media.endclothing.com/media/f_auto,q_auto,w_760,h_760/prodmedia/media/catalog/product/1/5/15-06-2018_givenchy_tr3runner_burgundy_grey_bh0019h04z-602_lm_1.jpg" alt="Card image cap">
+            <div class="card-body text-center">
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="inner-item ">
+        <div class="h-100">
+          <div class="card" style="width: 37vw;">
+            <img class="card-img-top" src="https://media.endclothing.com/media/f_auto,q_auto,w_760,h_760/prodmedia/media/catalog/product/1/5/15-06-2018_givenchy_tr3runner_burgundy_grey_bh0019h04z-602_lm_1.jpg" alt="Card image cap">
+            <div class="card-body text-center">
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
             </div>
           </div>
         </div>
@@ -1006,8 +1050,8 @@
           <div class="card" style="width: 37vw;">
             <img class="card-img-top" src="http://static8.central.co.th/productimages/lpimage/O313854.jpg" alt="Card image cap">
             <div class="card-body text-center">
-              <h5 class="card-title">Pureboost DPR Shoes</h5>
-              <p class="card-text text-secondary">Men running</p>
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
             </div>
           </div>
         </div>
@@ -1017,8 +1061,8 @@
           <div class="card" style="width: 37vw;">
             <img class="card-img-top" src="http://static8.central.co.th/productimages/lpimage/O313854.jpg" alt="Card image cap">
             <div class="card-body text-center">
-              <h5 class="card-title">Pureboost DPR Shoes</h5>
-              <p class="card-text text-secondary">Men running</p>
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
             </div>
           </div>
         </div>
@@ -1028,8 +1072,8 @@
           <div class="card" style="width: 37vw;">
             <img class="card-img-top" src="http://static8.central.co.th/productimages/lpimage/O313854.jpg" alt="Card image cap">
             <div class="card-body text-center">
-              <h5 class="card-title">Pureboost DPR Shoes</h5>
-              <p class="card-text text-secondary">Men running</p>
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
             </div>
           </div>
         </div>
@@ -1039,8 +1083,8 @@
           <div class="card" style="width: 37vw;">
             <img class="card-img-top" src="http://static8.central.co.th/productimages/lpimage/O313854.jpg" alt="Card image cap">
             <div class="card-body text-center">
-              <h5 class="card-title">Pureboost DPR Shoes</h5>
-              <p class="card-text text-secondary">Men running</p>
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
             </div>
           </div>
         </div>
@@ -1050,11 +1094,56 @@
           <div class="card" style="width: 37vw;">
             <img class="card-img-top" src="http://static8.central.co.th/productimages/lpimage/O313854.jpg" alt="Card image cap">
             <div class="card-body text-center">
-              <h5 class="card-title">Pureboost DPR Shoes</h5>
-              <p class="card-text text-secondary">Men running</p>
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="inner-item w-100">
+       <div class="h-100">
+          <div class="card" style="width: 37vw;">
+            <img class="card-img-top" src="http://static8.central.co.th/productimages/lpimage/O313854.jpg" alt="Card image cap">
+            <div class="card-body text-center">
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="inner-item w-100">
+       <div class="h-100">
+          <div class="card" style="width: 37vw;">
+            <img class="card-img-top" src="http://static8.central.co.th/productimages/lpimage/O313854.jpg" alt="Card image cap">
+            <div class="card-body text-center">
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="inner-item w-100">
+       <div class="h-100">
+          <div class="card" style="width: 37vw;">
+            <img class="card-img-top" src="http://static8.central.co.th/productimages/lpimage/O313854.jpg" alt="Card image cap">
+            <div class="card-body text-center">
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="inner-item w-100">
+       <div class="h-100">
+          <div class="card" style="width: 37vw;">
+            <img class="card-img-top" src="http://static8.central.co.th/productimages/lpimage/O313854.jpg" alt="Card image cap">
+            <div class="card-body text-center">
+              <p class="card-title">Pureboost DPR Shoes</p>
+              <p class="card-text text-secondary" style="font-size: 14px;">Men running</p>
             </div>
           </div>
         </div>
       </div>
    </div>
 </div>
+

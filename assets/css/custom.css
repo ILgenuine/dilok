@@ -1390,8 +1390,8 @@ $Index
     top:50%;
     left:50%;
     transform: translate(-50%, -50%);
-    width:auto;
-    height:100%;
+    width:100%;
+    height:auto;
   }
 
   .header-slide .item .header-row{
@@ -3579,9 +3579,7 @@ $END PRODUCT DETAILS 1
   /*------------------------------------*
   $Index 414
   *------------------------------------*/
-  .slide-img{
-    display:none !important;
-  }
+ 
 
   .header-slide-btn {
     width: 40%;
