@@ -28,9 +28,29 @@
 
                 <div class="header-slide owl-carousel owl-theme">
                   <div class="item">
-                    <img class="slide-img" src='https://media.endclothing.com/media/endclothing_cms/0/5/05-07-2018_dima-leu_1600x900.jpg'>
+                    <img class="slide-img" src='http://blog.wishatl.com/wp-content/uploads/2015/12/Hypebeast-adidas-Originals-Uncaged-2.jpg'>
                     <div class="row header-row">
+                      <div class="col-12 index-text-color  ">
+                        <h1>Best of MEN's SNEAKERS</h1>
+                        <h5>is simply dummy text of the printing and typesetting industry. Lorem Ipsum</h5>
+                      </div>
                       <div class="col-12 ">
+                        <hr></hr>
+                        <div class="header-slide-btn">
+                          <a href="#" class="btn fast-buy p-2 w-100">
+                            <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
+                              <span>DETAIL</span>
+                              <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
+                            </label>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img class="slide-img" src='http://blog.wishatl.com/wp-content/uploads/2015/12/Hypebeast-adidas-Originals-Uncaged-4.jpg'>
+                    <div class="row header-row">
+                      <div class="col-12 index-text-color">
                         <h1>Best of MEN's SNEAKERS</h1>
                         <h5>is simply dummy text of the printing and typesetting industry. Lorem Ipsum</h5>
                       </div>
@@ -48,9 +68,9 @@
                     </div>
                   </div>
                   <div class="item">
-                    <img class="slide-img" src='https://media.endclothing.com/media/endclothing_cms/0/5/05-07-2018_dima-leu_1600x900.jpg'>
+                    <img class="slide-img" src='http://blog.wishatl.com/wp-content/uploads/2015/12/Hypebeast-adidas-Originals-Uncaged-7.jpg'>
                     <div class="row header-row">
-                      <div class="col-12">
+                      <div class="col-12 index-text-color ">
                         <h1>Best of MEN's SNEAKERS</h1>
                         <h5>is simply dummy text of the printing and typesetting industry. Lorem Ipsum</h5>
                       </div>
@@ -68,29 +88,9 @@
                     </div>
                   </div>
                   <div class="item">
-                    <img class="slide-img" src='https://media.endclothing.com/media/endclothing_cms/0/5/05-07-2018_dima-leu_1600x900.jpg'>
+                    <img class="slide-img" src='http://blog.wishatl.com/wp-content/uploads/2015/12/Hypebeast-adidas-Originals-Uncaged-6.jpg'>
                     <div class="row header-row">
-                      <div class="col-12">
-                        <h1>Best of MEN's SNEAKERS</h1>
-                        <h5>is simply dummy text of the printing and typesetting industry. Lorem Ipsum</h5>
-                      </div>
-                      <div class="col-12">
-                        <hr></hr>
-                        <div class="header-slide-btn">
-                          <a href="#" class="btn fast-buy p-2 w-100">
-                            <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
-                              <span>DETAIL</span>
-                              <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
-                            </label>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="item">
-                    <img class="slide-img" src='https://media.endclothing.com/media/endclothing_cms/0/5/05-07-2018_dima-leu_1600x900.jpg'>
-                    <div class="row header-row">
-                      <div class="col-12">
+                      <div class="col-12 index-text-color ">
 
                         <h1>Best of MEN's SNEAKERS</h1>
                         <h5>ลดราคารองเท้า 50 - 70% ไม่ว่าจะเป็นรองเท้าผ้าใบ รองเท้าเดือนทาง รองเท้าวิ่ง</h5>
@@ -342,7 +342,7 @@
                         <div class="card_new mr-0  px-1">
                             <div class="blog-img-frame">
                               <a href="blankpage.php">
-                                <img class="blog-img" src='assets/images/index/blog2.jpg'/>
+                                <img class="blog-img" src='https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-9/16939236_1004972542935763_1944494886694740495_n.jpg?_nc_cat=0&oh=f912c0654d66380fb7ac48705cec09f0&oe=5B9F6832'/>
                               </a>
                             </div>
                             <div class="card-body">
