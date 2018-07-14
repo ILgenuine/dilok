@@ -110,6 +110,7 @@
     }
 
     $(window).on('load', function () {
+
       // LANGUAGE PICKER
       $(".large").bind('mouseover', function() {
         var languagecount = document.getElementById("languagepicker").getElementsByTagName("li").length

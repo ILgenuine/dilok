@@ -11,27 +11,21 @@
                     <div class="col-2 list-first-col">
                       <ul class="nav flex-column">
                         <li class="nav-item">
-
                           <a class="nav-link main" href="filter.php">View all Latest</a>
                         </li>
                         <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">New This Week</a>
                         </li>
                         <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Latest Sneakers</a>
                         </li>
                         <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Restocks</a>
                         </li>
                         <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Latest Women's</a>
                         </li>
                         <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Latest Kid's</a>
                         </li>
                       </ul>

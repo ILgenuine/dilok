@@ -144,92 +144,49 @@
                             <div class="sticky-product-title">
                                 <h2>Nike Air Zoom Pegasus 35</h2>
                             </div>
-                            <div class="sticky-product-excerpt mb-2">
-                                <span>
-                                  ห้าวหาญ สะดุดตา ไม่ยอมใคร รองเท้า Prophere จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                  นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                  นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                  นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง
-                                </span>
-                                <br>
-                                <label class="additional-details d-flex" data-toggle="modal" data-target="#viewdetials">
-                                <a class="additional-details ml-auto" href="#">รายละเอียดเพิ่มเติม.. &raquo;</a>
-                                </label>
 
-                            </div>
-
-
-                            <!-- Modal -->
-                            <div class="modal fade full-screen-product" id="viewdetials" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                              <div class="modal-dialog" role="document">
-                                <div class="modal-content">
-                                  <div class="modal-header">
-                                     <div class="row w-100 px-3">
-
-                                       <div class="col-xl-3 col-lg-5 colmd-7 col-10">
-                                         <div class="row detail-product-frame">
-                                           <div class="col-3 p-md-0 p-2">
-                                                 <div class="detail-product-frame">
-                                                   <img class="detail-product-img" src="assets/images/product/1/33.jpg">
-                                                 </div>
-                                           </div>
-                                           <div class="col-9 px-lg-2 px-lg-0 px-md-1 px-0">
-                                               <div class="cart-product-detail detail-product-frame">
-                                                 <div class="cart-product-name">
-                                                     <a href="#">
-                                                       <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
-                                                     </a>
-                                                 </div>
-                                                 <div class="cart-product-quantity">
-                                                   <span class="pull-left discounted">4,800</span><span class="pull-left discount mx-1">2,400</span><span class="pull-left">THB</span>
-                                                 </div>
-                                               </div>
-                                           </div>
-                                         </div>
-                                       </div>
-
-                                       <div class="col-2 col-2 ml-auto">
-                                         <button type="button" class="close custom-close2 my-auto" data-dismiss="modal" aria-label="Close">
-                                           <span aria-hidden="true">&times;</span>
-                                         </button>
-                                       </div>
-
-                                     </div>
+                            <div class="sticky-product-quantity p-3">
+                              <div class="row mx-0">
+                                <!-- <div class="col-5 px-0 pt-2">
+                                  <select class="quantity">
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                  </select>
+                                  จำนวน
+                                </div> -->
+                                <div class="col-12 px-0">
+                                  <div class="sale-percent px-2">
+                                    <span>ลด 50%</span>
                                   </div>
-                                  <div class="modal-body product-detail-modal-body">
-
-                                    <div class="container">
-                                      <!-- Text editor ปล. ใส่ tag pre ยกตัวอย่างเฉยๆ-->
-                                      <pre>
-สบาย ลดแรงกระแทกได้ดี
-
-ถุงเท้าเทรนนิ่ง Nike Dry Cushion Quarter ผลิตด้วยการลดแรงกระแทกที่จัดตำแหน่งไว้เป็นอย่างดี มอบการปกป้องจากแรงกระทบอย่างไร้ที่ติระหว่างที่ออกกำลังกาย
-
-
-ข้อดี
-
-เทคโนโลยี Dri-FIT ช่วยให้รู้สึกแห้งสบาย
-ลดแรงกระแทกตรงจุดเพื่อดูดซับแรงกระทบแบบเฉพาะจุด
-ตาข่ายระบายอากาศเพื่อให้อากาศไหลเวียนดีเยี่ยม
-ออกแบบสำหรับเท้าซ้าย/ขวาเพื่อความกระชับที่มากขึ้น
-
-รายละเอียดสินค้า
-
-ผ้า: Dri-FIT โพลีเอสเตอร์ 66%/ผ้าคอตตอน 18%/ไนลอน 14%/สแปนเดกซ์ 2%
-ซักเครื่อง
-นำเข้า
-สีที่แสดง: White/Wolf Grey/Black
-สไตล์: SX5549-100
-ประเทศ/ภูมิภาคที่ผลิต: ปากีสถาน
-                                      </pre>
-                                    </div>
-
+                                  <div class="pt-2 latest-product-price">
+                                    <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
+                                    <!-- ไม่ลดราคา -->
+                                    <!-- <span class="original">925</span><span class="currency">THB</span> -->
                                   </div>
                                 </div>
                               </div>
                             </div>
 
-
+                            <div class="row my-3 mx-0">
+                              <div class="col-xl-6 col-lg-12 col-6 px-xl-1 px-lg-0 px-md-2 px-1 latest-product-btn mb-2">
+                                <button type="button" class="btn add-to-cart p-2">
+                                  <label class="mb-0 d-flex px-2">
+                                    <span>ADD TO CART</span>
+                                    <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
+                                  </label>
+                                </button>
+                              </div>
+                              <div class="col-xl-6 col-lg-12 col-6 px-xl-1 px-lg-0 px-md-2 px-1 latest-product-btn">
+                                <button type="button" class="btn fast-buy p-2">
+                                  <label class="mb-0 d-flex px-2">
+                                    <span>BUY NOW</span>
+                                    <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
+                                  </label>
+                                </button>
+                              </div>
+                            </div>
 
                             <div class="sticky-product-picker">
                               <span class="ml-2">
@@ -299,46 +256,88 @@
                             </div>
 
 
-                            <div class="sticky-product-quantity p-3">
-                              <div class="row mx-0">
-                                <div class="col-5 px-0 pt-2">
-                                  <select class="quantity">
-                                    <option value="1">1</option>
-                                    <option value="2">2</option>
-                                    <option value="3">3</option>
-                                    <option value="4">4</option>
-                                  </select>
-                                  จำนวน
-                                </div>
-                                <div class="col-7 px-0">
-                                  <div class="sale-percent px-2">
-                                    <span>ลด 50%</span>
-                                  </div>
-                                  <div class="pt-2 latest-product-price">
-                                    <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
-                                    <!-- ไม่ลดราคา -->
-                                    <!-- <span class="original">925</span><span class="currency">THB</span> -->
-                                  </div>
-                                </div>
-                              </div>
+                            <div class="sticky-product-excerpt mb-2">
+                                <span>
+                                  ห้าวหาญ สะดุดตา ไม่ยอมใคร รองเท้า Prophere จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
+                                  นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
+                                  นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
+                                  นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง
+                                </span>
+                                <br>
+                                <label class="additional-details d-flex" data-toggle="modal" data-target="#viewdetials">
+                                <a class="additional-details ml-auto" href="#">รายละเอียดเพิ่มเติม.. &raquo;</a>
+                                </label>
+
                             </div>
 
-                            <div class="row my-3 mx-0">
-                              <div class="col-xl-6 col-lg-12 col-6 px-xl-1 px-lg-0 px-md-2 px-1 latest-product-btn mb-2">
-                                <button type="button" class="btn add-to-cart p-2">
-                                  <label class="mb-0 d-flex px-2">
-                                    <span>ADD TO CART</span>
-                                    <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
-                                  </label>
-                                </button>
-                              </div>
-                              <div class="col-xl-6 col-lg-12 col-6 px-xl-1 px-lg-0 px-md-2 px-1 latest-product-btn">
-                                <button type="button" class="btn fast-buy p-2">
-                                  <label class="mb-0 d-flex px-2">
-                                    <span>BUY NOW</span>
-                                    <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
-                                  </label>
-                                </button>
+
+                            <!-- Modal -->
+                            <div class="modal fade full-screen-product" id="viewdetials" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                              <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                  <div class="modal-header">
+                                     <div class="row w-100 px-3">
+
+                                       <div class="col-xl-3 col-lg-5 col-md-7 col-11">
+                                         <div class="row detail-product-frame">
+                                           <div class="col-3 p-md-0 p-1">
+                                                 <div class="detail-product-frame">
+                                                   <img class="detail-product-img" src="assets/images/product/1/33.jpg">
+                                                 </div>
+                                           </div>
+                                           <div class="col-9 px-lg-2 px-lg-0 px-md-1 px-0">
+                                               <div class="cart-product-detail detail-product-frame">
+                                                 <div class="cart-product-name">
+                                                     <a href="#">
+                                                       <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
+                                                     </a>
+                                                 </div>
+                                                 <div class="cart-product-quantity">
+                                                   <span class="pull-left discounted">4,800</span><span class="pull-left discount mx-1">2,400</span><span class="pull-left">THB</span>
+                                                 </div>
+                                               </div>
+                                           </div>
+                                         </div>
+                                       </div>
+
+                                       <div class="col-lg-2 col-md-2 col-1 ml-auto">
+                                         <button type="button" class="close custom-close2 my-auto" data-dismiss="modal" aria-label="Close">
+                                           <span aria-hidden="true">&times;</span>
+                                         </button>
+                                       </div>
+
+                                     </div>
+                                  </div>
+                                  <div class="modal-body product-detail-modal-body">
+
+                                    <div class="container">
+                                      <!-- Text editor ปล. ใส่ tag pre ยกตัวอย่างเฉยๆ-->
+                                      <pre>
+สบาย ลดแรงกระแทกได้ดี
+
+ถุงเท้าเทรนนิ่ง Nike Dry Cushion Quarter ผลิตด้วยการลดแรงกระแทกที่จัดตำแหน่งไว้เป็นอย่างดี มอบการปกป้องจากแรงกระทบอย่างไร้ที่ติระหว่างที่ออกกำลังกาย
+
+
+ข้อดี
+
+เทคโนโลยี Dri-FIT ช่วยให้รู้สึกแห้งสบาย
+ลดแรงกระแทกตรงจุดเพื่อดูดซับแรงกระทบแบบเฉพาะจุด
+ตาข่ายระบายอากาศเพื่อให้อากาศไหลเวียนดีเยี่ยม
+ออกแบบสำหรับเท้าซ้าย/ขวาเพื่อความกระชับที่มากขึ้น
+
+รายละเอียดสินค้า
+
+ผ้า: Dri-FIT โพลีเอสเตอร์ 66%/ผ้าคอตตอน 18%/ไนลอน 14%/สแปนเดกซ์ 2%
+ซักเครื่อง
+นำเข้า
+สีที่แสดง: White/Wolf Grey/Black
+สไตล์: SX5549-100
+ประเทศ/ภูมิภาคที่ผลิต: ปากีสถาน
+                                      </pre>
+                                    </div>
+
+                                  </div>
+                                </div>
                               </div>
                             </div>
 

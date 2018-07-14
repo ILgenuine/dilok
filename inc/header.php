@@ -28,7 +28,7 @@
 <link rel="stylesheet" type="text/css" href="assets/css/park.css">
 
 <!-- GOOGLE FONTS -->
-<link href="https://fonts.googleapis.com/css?family=Kanit:200,300,500,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Kanit:300,400,500,600" rel="stylesheet">
 
 
 <!-- CUSTOM CSS -->

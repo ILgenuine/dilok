@@ -209,9 +209,9 @@
 
         <div class="col-12 py-1 menu-list">
           <div class="promotion">
-            <div class="promotion-button">
+            <div class="promotion-button with-icon">
                 <a href="regist.php">
-                <span class="pull-left"> LOG IN</span>
+                <span class="pull-left"><i class="fas fa-sign-in-alt"></i> LOG IN</span>
                 <!-- <a class="btn login-btn" type="button">
                    <span><i class="fa fa-sign-in" aria-hidden="true"></i> Log in</span>
                 </a> -->
@@ -222,9 +222,9 @@
 
         <div class="col-12 py-1 menu-list">
           <div class="promotion">
-            <div class="promotion-button">
+            <div class="promotion-button with-icon">
                 <a href="cart.php">
-                <span class="pull-left"> MY CART</span>
+                <span class="pull-left"><i class="fas fa-shopping-cart"></i> MY CART</span>
                 </a>
             </div>
           </div>
@@ -233,8 +233,8 @@
         <div class="col-12 py-1 menu-list">
           <div class="promotion">
             <a class="mobile-nav-list" data-toggle="collapse" href="#collapseExample11" role="button" aria-expanded="false" aria-controls="collapseExample">
-                <div class="promotion-button">
-                   <span class="pull-left">Suradech Srisukdee</span><span class="icon-collpase fa fa-plus pull-right side-navbar-plus" aria-hidden="true"></span>
+                <div class="promotion-button with-icon">
+                   <span class="pull-left"><i class="fas fa-user"></i> Suradech Srisukdee</span><span class="icon-collpase fa fa-plus pull-right side-navbar-plus" aria-hidden="true"></span>
                 </div>
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample11">
@@ -250,8 +250,8 @@
         <div class="col-12 py-1 menu-list">
           <div class="promotion">
             <a class="mobile-nav-list" data-toggle="collapse" href="#collapseExample12" role="button" aria-expanded="false" aria-controls="collapseExample">
-                <div class="promotion-button">
-                   <span class="pull-left">CONTACT US</span><span class="icon-collpase fa fa-plus pull-right side-navbar-plus" aria-hidden="true"></span>
+                <div class="promotion-button with-icon">
+                   <span class="pull-left"><i class="fas fa-phone"></i> CONTACT US</span><span class="icon-collpase fa fa-plus pull-right side-navbar-plus" aria-hidden="true"></span>
                 </div>
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample12">

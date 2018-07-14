@@ -29,11 +29,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
+                          <span>DAME D.O.L.L.A.R</span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Black, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
@@ -65,11 +68,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9613) "Night Cargo"</span>
+                          <span>DAME D.O.L.L.A.R </span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Red, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
@@ -100,11 +106,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
+                          <span>DAME D.O.L.L.A.R</span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Black, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
@@ -135,11 +144,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9613) "Night Cargo"</span>
+                          <span>DAME D.O.L.L.A.R </span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Red, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
@@ -171,11 +183,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
+                          <span>DAME D.O.L.L.A.R</span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Black, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
@@ -207,11 +222,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9613) "Night Cargo"</span>
+                          <span>DAME D.O.L.L.A.R </span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Red, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
