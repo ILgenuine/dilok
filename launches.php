@@ -65,7 +65,7 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8  lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
+				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
@@ -95,7 +95,7 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
+				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
@@ -125,7 +125,7 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
+				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
@@ -155,7 +155,7 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
+				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
@@ -185,7 +185,7 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
+				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
@@ -215,7 +215,7 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
+				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">

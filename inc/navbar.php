@@ -11,28 +11,22 @@
                     <div class="col-2 list-first-col">
                       <ul class="nav flex-column">
                         <li class="nav-item">
-
                           <a class="nav-link main" href="filter.php">View all Latest</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">New This Week</a>
-                        </li>
-                        <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Latest Sneakers</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Restocks</a>
+                          <a class="nav-link" href="filter.php">Latest Kid's</a>
                         </li>
                         <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Latest Women's</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Latest Kid's</a>
+                          <a class="nav-link" href="filter.php">New This Week</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="filter.php">Restocks</a>
                         </li>
                       </ul>
                     </div>
@@ -40,28 +34,19 @@
                     <div class="col-2">
                       <ul class="nav flex-column">
                         <li class="nav-item">
-
-                          <a class="nav-link main-2" href="filter.php">LATEST BRANDS</a>
+                          <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Nike</a>
-                        </li>
-                        <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Adidas</a>
                         </li>
                         <li class="nav-item">
-
+                          <a class="nav-link" href="filter.php">Crock</a>
+                        </li>
+                        <li class="nav-item">
                           <a class="nav-link" href="filter.php">Onisuka</a>
                         </li>
                         <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Reblox</a>
-                        </li>
-                        <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Crock</a>
                         </li>
                       </ul>
                     </div>
@@ -74,14 +59,14 @@
                               <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                             </div>
                             <div class="w-100 text-center">
-                              <span>NIKE</span>
+                              <span>ADIDAS</span>
                             </div>
                           </a>
                         </div>
                         <div class="nav-col col-12">
                           <a href="">
                             <div class="nav-double">
-                              <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
+                              <img class="nav-product" src="assets/images/index/navbrand/7.jpg" alt="Card image cap">
                             </div>
                             <div class="w-100 text-center">
                               <span>ADIDAS</span>
@@ -109,7 +94,7 @@
                                 <img class="nav-product" src="assets/images/index/navbrand/8.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
-                                <span>NIKE</span>
+                                <span>ADIDAS</span>
                               </div>
                             </a>
                           </div>
@@ -120,7 +105,6 @@
             </div>
           </li> <!-- Latest -->
           <li class="nav-item">
-
             <a class="nav-link" href="filter.php"><span style="font-weight : 400;">BRAND</span></a>
             <div class="list">
                 <div class="list-container">
@@ -130,182 +114,148 @@
                       <div class="row">
                         <div class="col-12">
                           <div class="w-100">
-
-                          <a class="main" href="filter.php">View all Brans and Designers</a>
+                          <a class="nav-link main" href="filter.php">View all Brans and Designers</a>
                           </div>
                           <div class="column-box">
                             <div class="columns">
                               <ul class="nav-ul-list">
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
+                                </li>
+                                <li>
+                                  <a class="nav-link" href="filter.php">Crock</a>
+                                </li>
+                                <li>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
+                                </li>
+                                <li>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                               </ul>
-                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -331,7 +281,7 @@
                                 <img class="nav-product" src="assets/images/index/navbrand/10.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
-                                <span>NIKE</span>
+                                <span>Onisuka</span>
                               </div>
                             </a>
                           </div>
@@ -350,14 +300,12 @@
                     <!-- col 1 -->
                     <div class="col-12">
                           <div class="w-100">
-
-                          <a href="launches.php">VIEW UPCOMING RELEASES</a>
+                            <a class="nav-link" href="launches.php">VIEW UPCOMING RELEASES</a>
                           </div>
                           <div class="row launch-row pt-3">
                             <div class="col-4 mb-3">
                               <div class="row">
                                 <div class="launches-col col-5">
-                                  <a href
                                   <a href="launches-detail.php">
                                     <div class="nav-launches">
                                       <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
@@ -546,7 +494,6 @@
             </div>
           </li> <!-- Launches -->
           <li class="nav-item">
-
             <a class="nav-link" href="filter.php"><span style="font-weight : 400;">CATEGORIES</span></a>
             <div class="list">
                 <div class="list-container">
@@ -555,181 +502,148 @@
                       <div class="row">
                         <div class="col-12">
                           <div class="w-100">
-                          <a class="main" href="">ALL CATEGORIES</a>
+                            <a class="main" href="">ALL CATEGORIES</a>
                           </div>
                           <div class="column-box">
                             <div class="columns">
                               <ul class="nav-ul-list">
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">LATEST BRANDS</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Nike</a>
+                                  <a class="nav-link" href="filter.php">Crock</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Reblox</a>
+                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-
-                                  <a class="" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="filter.php">Adidas</a>
+                                </li>
+                                <li>
+                                  <a class="nav-link" href="filter.php">Crock</a>
+                                </li>
+                                <li>
+                                  <a class="nav-link" href="filter.php">Onisuka</a>
+                                </li>
+                                <li>
+                                  <a class="nav-link" href="filter.php">Reblox</a>
                                 </li>
                               </ul>
-                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -748,24 +662,19 @@
                     <div class="col-2 list-first-col">
                       <ul class="nav flex-column">
                         <li class="nav-item">
-
                           <a class="nav-link main" href="filter.php">NEW PRODUCTS</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">New This Week</a>
-                        </li>
-                        <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Latest Sneakers</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Restocks</a>
+                          <a class="nav-link" href="filter.php">Latest Women's</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Latest Women's</a>
+                          <a class="nav-link" href="filter.php">New This Week</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="filter.php">Restocks</a>
                         </li>
                       </ul>
                     </div>
@@ -773,64 +682,48 @@
                     <div class="col-3 list-first-col">
                         <div class="row">
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">CHLOTHES</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                          </ul>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">CHLOTHES</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Kid's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Women's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
                           </div>
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">SCHOES</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                          </ul>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">SCHOES</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Kid's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Women's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
                         </div>
                         </div>
                     </div>
@@ -838,65 +731,43 @@
                     <div class="col-3">
                         <div class="row">
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">Sport</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                          </ul>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">Sport</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
                           </div>
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">Size</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                          </ul>
-                        </div>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">Size</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Kid's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Women's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
+                          </div>
                         </div>
                     </div>
                     <!-- col 4 -->
@@ -918,7 +789,7 @@
                                 <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
-                                <span>NIKE</span>
+                                <span>ADIDAS</span>
                               </div>
                             </a>
                           </div>
@@ -928,8 +799,9 @@
                 </div>
             </div>
           </li> <!-- MEN -->
-          <li class="nav-item">
 
+
+          <li class="nav-item">
             <a class="nav-link" href="filter.php"><span style="font-weight : 400;">WOMEN</span></a>
             <div class="list">
                 <div class="list-container">
@@ -938,24 +810,19 @@
                     <div class="col-2 list-first-col">
                       <ul class="nav flex-column">
                         <li class="nav-item">
-
                           <a class="nav-link main" href="filter.php">NEW PRODUCTS</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">New This Week</a>
-                        </li>
-                        <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Latest Sneakers</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Restocks</a>
+                          <a class="nav-link" href="filter.php">Latest Women's</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Latest Women's</a>
+                          <a class="nav-link" href="filter.php">New This Week</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="filter.php">Restocks</a>
                         </li>
                       </ul>
                     </div>
@@ -963,64 +830,48 @@
                     <div class="col-3 list-first-col">
                         <div class="row">
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">CHLOTHES</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                          </ul>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">CHLOTHES</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Kid's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Women's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
                           </div>
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">SCHOES</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                          </ul>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">SCHOES</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Kid's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Women's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
                         </div>
                         </div>
                     </div>
@@ -1028,65 +879,43 @@
                     <div class="col-3">
                         <div class="row">
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">Sport</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                          </ul>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">Sport</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
                           </div>
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">Size</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                          </ul>
-                        </div>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">Size</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Kid's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Women's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
+                          </div>
                         </div>
                     </div>
                     <!-- col 4 -->
@@ -1095,7 +924,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -1105,10 +934,10 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/8.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
-                                <span>NIKE</span>
+                                <span>ADIDAS</span>
                               </div>
                             </a>
                           </div>
@@ -1129,24 +958,19 @@
                     <div class="col-2 list-first-col">
                       <ul class="nav flex-column">
                         <li class="nav-item">
-
                           <a class="nav-link main" href="filter.php">NEW PRODUCTS</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">New This Week</a>
-                        </li>
-                        <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Latest Sneakers</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Restocks</a>
+                          <a class="nav-link" href="filter.php">Latest Women's</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Latest Women's</a>
+                          <a class="nav-link" href="filter.php">New This Week</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="filter.php">Restocks</a>
                         </li>
                       </ul>
                     </div>
@@ -1154,64 +978,48 @@
                     <div class="col-3 list-first-col">
                         <div class="row">
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">CHLOTHES</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                          </ul>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">CHLOTHES</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Kid's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Women's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
                           </div>
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">SCHOES</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                          </ul>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">SCHOES</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Kid's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Women's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
                         </div>
                         </div>
                     </div>
@@ -1219,65 +1027,43 @@
                     <div class="col-3">
                         <div class="row">
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">Sport</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                          </ul>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">Sport</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
                           </div>
                           <div class="col-6">
-                          <ul class="nav flex-column">
-                            <li class="nav-item">
-
-                              <a class="nav-link main" href="filter.php">Size</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">All clothes</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Trend</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Women's</a>
-                            </li>
-                            <li class="nav-item">
-
-                              <a class="nav-link" href="filter.php">Latest Kid's</a>
-                            </li>
-                          </ul>
-                        </div>
+                            <ul class="nav flex-column">
+                              <li class="nav-item">
+                                <a class="nav-link main" href="filter.php">Size</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">All clothes</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Kid's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Latest Women's</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="filter.php">Trend</a>
+                              </li>
+                            </ul>
+                          </div>
                         </div>
                     </div>
                     <!-- col 4 -->
@@ -1286,7 +1072,7 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/11.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
                                 <span>ADIDAS</span>
@@ -1296,10 +1082,10 @@
                           <div class="nav-col col-12">
                             <a href="">
                               <div class="nav-double">
-                                <img class="nav-product" src="assets/images/index/navbrand/12.jpg" alt="Card image cap">
+                                <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
-                                <span>NIKE</span>
+                                <span>ADIDAS</span>
                               </div>
                             </a>
                           </div>
@@ -1321,28 +1107,22 @@
                     <div class="col-2 list-first-col">
                       <ul class="nav flex-column">
                         <li class="nav-item">
-
                           <a class="nav-link main" href="filter.php">View all Latest</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">New This Week</a>
+                          <a class="nav-link" href="filter.php">Latest Kid's</a>
                         </li>
                         <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Latest Sneakers</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Restocks</a>
-                        </li>
-                        <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Latest Women's</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Latest Kid's</a>
+                          <a class="nav-link" href="filter.php">New This Week</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="filter.php">Restocks</a>
                         </li>
                       </ul>
                     </div>
@@ -1350,28 +1130,19 @@
                     <div class="col-2">
                       <ul class="nav flex-column">
                         <li class="nav-item">
-
                           <a class="nav-link main-2" href="filter.php">LATEST BRANDS</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Nike</a>
-                        </li>
-                        <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Adidas</a>
                         </li>
                         <li class="nav-item">
-
+                          <a class="nav-link" href="filter.php">Crock</a>
+                        </li>
+                        <li class="nav-item">
                           <a class="nav-link" href="filter.php">Onisuka</a>
                         </li>
                         <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Reblox</a>
-                        </li>
-                        <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Crock</a>
                         </li>
                       </ul>
                     </div>
@@ -1379,28 +1150,19 @@
                     <div class="col-2">
                       <ul class="nav flex-column">
                         <li class="nav-item">
-
                           <a class="nav-link main-2" href="filter.php">LATEST BRANDS</a>
                         </li>
                         <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Nike</a>
-                        </li>
-                        <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Adidas</a>
                         </li>
                         <li class="nav-item">
-
+                          <a class="nav-link" href="filter.php">Crock</a>
+                        </li>
+                        <li class="nav-item">
                           <a class="nav-link" href="filter.php">Onisuka</a>
                         </li>
                         <li class="nav-item">
-
                           <a class="nav-link" href="filter.php">Reblox</a>
-                        </li>
-                        <li class="nav-item">
-
-                          <a class="nav-link" href="filter.php">Crock</a>
                         </li>
                       </ul>
                     </div>
@@ -1425,7 +1187,7 @@
                                 <img class="nav-product" src="assets/images/index/navbrand/16.jpg" alt="Card image cap">
                               </div>
                               <div class="w-100 text-center">
-                                <span>NIKE</span>
+                                <span>ADIDAS</span>
                               </div>
                             </a>
                           </div>
@@ -1666,12 +1428,13 @@
         </div>
         <div class="col-3">
           <ul id="languagepicker" class="languagepicker roundborders large">
-          	<a><li class="current-language"><img src="http://i65.tinypic.com/2d0kyno.png"/>Nederlands</li></a>
-            <a href="#en"><li><img src="http://i64.tinypic.com/fd60km.png"/>English</li></a>
-          	<a href="#de"><li><img src="http://i63.tinypic.com/10zmzyb.png"/>German</li></a>
-          	<a href="#fr"><li><img src="http://i65.tinypic.com/300b30k.png"/>Français</li></a>
-          	<a href="#es"><li><img src="http://i68.tinypic.com/avo5ky.png"/>Español</li></a>
-          	<a href="#it"><li><img src="http://i65.tinypic.com/23jl6bn.png"/>Italiano</li></a>
+              <a href="#en"><li class="current-language"><img src="http://i64.tinypic.com/fd60km.png"/>English</li></a>
+              <a href="#es"><li><img src="http://i68.tinypic.com/avo5ky.png"/>Español</li></a>
+              <a href="#fr"><li><img src="http://i65.tinypic.com/300b30k.png"/>Français</li></a>
+              <a href="#de"><li><img src="http://i63.tinypic.com/10zmzyb.png"/>German</li></a>
+              <a href="#it"><li><img src="http://i65.tinypic.com/23jl6bn.png"/>Italiano</li></a>
+              <a href="#nt"><li><img src="http://i65.tinypic.com/2d0kyno.png"/>Nederlands</li></a>
+              <a href="#en"><li><img src="http://i65.tinypic.com/14llf13.gif"/>Thailand</li></a>
           </ul>
         </div>
       </div>

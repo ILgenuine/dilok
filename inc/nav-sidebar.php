@@ -209,9 +209,9 @@
 
         <div class="col-12 py-1 menu-list">
           <div class="promotion">
-            <div class="promotion-button">
+            <div class="promotion-button with-icon">
                 <a href="regist.php">
-                <span class="pull-left"> LOG IN</span>
+                <span class="pull-left"><i class="fas fa-sign-in-alt"></i> LOG IN</span>
                 <!-- <a class="btn login-btn" type="button">
                    <span><i class="fa fa-sign-in" aria-hidden="true"></i> Log in</span>
                 </a> -->
@@ -222,9 +222,9 @@
 
         <div class="col-12 py-1 menu-list">
           <div class="promotion">
-            <div class="promotion-button">
+            <div class="promotion-button with-icon">
                 <a href="cart.php">
-                <span class="pull-left"> MY CART</span>
+                <span class="pull-left"><i class="fas fa-shopping-cart"></i> MY CART</span>
                 </a>
             </div>
           </div>
@@ -233,8 +233,8 @@
         <div class="col-12 py-1 menu-list">
           <div class="promotion">
             <a class="mobile-nav-list" data-toggle="collapse" href="#collapseExample11" role="button" aria-expanded="false" aria-controls="collapseExample">
-                <div class="promotion-button">
-                   <span class="pull-left">Suradech Srisukdee</span><span class="icon-collpase fa fa-plus pull-right side-navbar-plus" aria-hidden="true"></span>
+                <div class="promotion-button with-icon">
+                   <span class="pull-left"><i class="fas fa-user"></i> Suradech Srisukdee</span><span class="icon-collpase fa fa-plus pull-right side-navbar-plus" aria-hidden="true"></span>
                 </div>
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample11">
@@ -250,8 +250,8 @@
         <div class="col-12 py-1 menu-list">
           <div class="promotion">
             <a class="mobile-nav-list" data-toggle="collapse" href="#collapseExample12" role="button" aria-expanded="false" aria-controls="collapseExample">
-                <div class="promotion-button">
-                   <span class="pull-left">CONTACT US</span><span class="icon-collpase fa fa-plus pull-right side-navbar-plus" aria-hidden="true"></span>
+                <div class="promotion-button with-icon">
+                   <span class="pull-left"><i class="fas fa-phone"></i> CONTACT US</span><span class="icon-collpase fa fa-plus pull-right side-navbar-plus" aria-hidden="true"></span>
                 </div>
             </a>
             <div class="promotion-collapse collapse mb-2" id="collapseExample12">
@@ -308,7 +308,7 @@
             <div class="col-11 px-0">
               <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary language-picker" data-toggle="modal" data-target="#exampleModal">
-                  Language : <img class="pb-2 pr-2" src="http://i65.tinypic.com/2d0kyno.png"/><u>Nederlands</u>
+                  Language : <img class="pb-2 pr-2" src="http://i64.tinypic.com/fd60km.png"/><u>English</u>
                 </button>
                 <!-- Modal -->
                 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -321,23 +321,26 @@
                         </button>
                       </div>
                       <div class="modal-body text-left">
-                          <div class="w-100 my-3">
-                          	<a href="#en"><img class="pr-3" src="http://i65.tinypic.com/2d0kyno.png"/>Nederlands</a>
-                          </div>
                           <div class="w-100 my-3 active">
                             <a href="#en"><img class="pr-3" src="http://i64.tinypic.com/fd60km.png"/>English</a>
-                          </div>
-                          <div class="w-100 my-3">
-                            <a href="#de"><img class="pr-3" src="http://i63.tinypic.com/10zmzyb.png"/>German</a>
-                          </div>
-                          <div class="w-100 my-3">
-                            <a href="#fr"><img class="pr-3" src="http://i65.tinypic.com/300b30k.png"/>Français</a>
                           </div>
                           <div class="w-100 my-3">
                             <a href="#es"><img class="pr-3" src="http://i68.tinypic.com/avo5ky.png"/>Español</a>
                           </div>
                           <div class="w-100 my-3">
+                            <a href="#fr"><img class="pr-3" src="http://i65.tinypic.com/300b30k.png"/>Français</a>
+                          </div>
+                          <div class="w-100 my-3">
+                            <a href="#de"><img class="pr-3" src="http://i63.tinypic.com/10zmzyb.png"/>German</a>
+                          </div>
+                          <div class="w-100 my-3">
                             <a href="#it"><img class="pr-3" src="http://i65.tinypic.com/23jl6bn.png"/>Italiano</a>
+                          </div>
+                          <div class="w-100 my-3">
+                            <a href="#en"><img class="pr-3" src="http://i65.tinypic.com/2d0kyno.png"/>Nederlands</a>
+                          </div>
+                          <div class="w-100 my-3">
+                            <a href="#fr"><img class="pr-3" src="http://i65.tinypic.com/14llf13.gif"/>Thailand</a>
                           </div>
                       </div>
                     </div>

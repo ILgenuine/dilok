@@ -110,10 +110,11 @@
     }
 
     $(window).on('load', function () {
+
       // LANGUAGE PICKER
       $(".large").bind('mouseover', function() {
         var languagecount = document.getElementById("languagepicker").getElementsByTagName("li").length
-        language = languagecount - 1;
+        language = languagecount;
         language = language * 41;
         $(this).css("height", language);
       });

@@ -113,7 +113,7 @@
           </section>
 
           <div class="custom-container">
-            
+
                 <section class="latest-product mb-lg-5 mb-md-5 mb-4">
                   <?php include_once('inc/latest-product.php'); ?>
                 </section>
@@ -129,7 +129,8 @@
                         <div class="row mx-0 header-row h-100">
                           <div class="col-12 my-auto">
                             <h1>The Top Series</h1>
-                            <h5>ค้นพบรองเท้าสไตล์ที่เหมาะกับคุณ</h5>
+
+                            <h5>Discovering Your Individual Style</h5>
                             <hr></hr>
 
                             <div class="header-slide-btn" >
@@ -162,14 +163,7 @@
                         </a>
                       </div>
                     </div>
-                    <div class="item">
-                      <div class="slide-brand-frame">
 
-                        <a href="filter.php">
-                          <img class="slide-brand-img" src='assets/images/logo/nike.png'>
-                        </a>
-                      </div>
-                    </div>
                     <div class="item">
                       <div class="slide-brand-frame">
                         <a href="filter.php">
@@ -184,141 +178,128 @@
                         </a>
                       </div>
                     </div>
-                    <div class="item last">
-                      <div class="slide-brand-frame">
-
-                        <a href="filter.php">
-                          <img class="slide-brand-img" src='assets/images/logo/nike.png'>
-                        </a>
-                      </div>
-                    </div>
                   </div>
                 </section>
 
                 <section class="upcoming-launches mb-lg-5 mb-md-5 mb-4">
-                    <div class="row mx-0">
-                      <div class="col-12 px-lg-3 px-0 mb-md-3">
-                        <h3 class="mb-1 pull-left">UPCOMING LAUNCES</h3>
-                        <div class="latest-product-btn pull-right mb-2">
-                            <button type="button" class="btn add-to-cart p-2 res-414-up">
-                              <label class="mb-0 d-flex px-2">
-                                <span>view all</span>
-                                <i class="fas fa-plus ml-auto pl-3 pt-1" aria-hidden="true"></i>
-                              </label>
-                            </button>
-                        </div>
-                      </div>
-            	    		<div class="col-lg-4 col-md-6 col-12">
-                        <div class="card_new">
-                          <div class="launches-fix-frame">
-                            <span class='zoom' id='zoom1'>
-                            <img src='assets/images/product/2/adidas/3.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-                            </span>
-                          </div>
-                          <div class="card-body">
-                            <div class="row">
-                              <div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
-                                <p class="launches_font_30">January</p>
-                                <p class="launches_font_31">7</p>
-                                <p class="launches_font_32">2018</p>
-                              </div>
-                              <div class="col-9 col-lg-9 col-md-8  lau_pad_10">
-                                <a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE IR VAPORMAX OFF-WHITE THE TEN'BTHE TEN'BLACAR'</p></a>
-                                <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
-                              </div>
-                              <div class="col-lg-12 text-right px-0">
-                                <button type="button" class="btn fast-buy p-2">
-                                  <label class="mb-0 d-flex px-2">
-                                    <span>BUY NOW</span>
-                                      <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                                    </label>
-                                </button>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-            	    		<div class="col-lg-4 col-md-6 col-12">
-                        <div class="card_new">
-                          <div class="launches-fix-frame">
-                            <span class='zoom' id='zoom2'>
-                            <img src='assets/images/product/2/adidas/2.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-                            </span>
-                          </div>
-                          <div class="card-body">
-                            <div class="row">
-                              <div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
-                                <p class="launches_font_30">January</p>
-                                <p class="launches_font_31">7</p>
-                                <p class="launches_font_32">2018</p>
-                              </div>
-                              <div class="col-9 col-lg-9 col-md-8  lau_pad_10">
-                                <a href="#"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
-                                <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
-                              </div>
-                              <div class="col-lg-12 text-right px-0">
-                                <button type="button" class="btn fast-buy p-2">
-                                  <label class="mb-0 d-flex px-2">
-                                    <span>BUY NOW</span>
-                                      <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                                    </label>
-                                </button>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                     <div class="col-lg-4 col-md-6 col-12">
-                        <div class="card_new">
-                          <div class="launches-fix-frame">
-                            <span class='zoom' id='zoom3'>
-                            <img src='assets/images/product/2/adidas/1.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
-                            </span>
-                          </div>
-                          <div class="card-body">
-                            <div class="row">
-                              <div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
-                                <p class="launches_font_30">January</p>
-                                <p class="launches_font_31">7</p>
-                                <p class="launches_font_32">2018</p>
-                              </div>
-                              <div class="col-9 col-lg-9 col-md-8  lau_pad_10">
-                                <a href="launches-detail.php"><p class="launches_font_30 line-h-20">AIR VAPORMAX OFF-WHITE THE TEN'BLACAR'</p></a>
-                                <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
-                              </div>
-                              <div class="col-lg-12 text-right px-0">
-                                <button type="button" class="btn fast-buy p-2">
-                                  <label class="mb-0 d-flex px-2">
-                                    <span>BUY NOW</span>
-                                      <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                                    </label>
-                                </button>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                                   <div class="row mx-0">
+                                     <div class="col-12 px-lg-3 px-0 mb-md-3">
+                                       <h3 class="mb-1 pull-left">UPCOMING LAUNCES</h3>
+                                       <div class="latest-product-btn pull-right mb-2">
+                                           <a href="#" class="btn view-all p-2 res-414-up">
+                                             <label class="mb-0 d-flex px-2">
+                                               <span>view all</span>
+                                               <i class="fas fa-plus ml-auto pl-3 pt-1" aria-hidden="true"></i>
+                                             </label>
+                                           </a>
+                                       </div>
+                                     </div>
+                           	    		<div class="col-lg-4 col-md-6 col-12">
+                                       <div class="card_new">
+                                         <div class="launches-fix-frame">
+                                           <span class='zoom' id='zoom1'>
+                                           <img src='assets/images/product/2/adidas/6.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                                           </span>
+                                         </div>
+                                         <div class="card-body">
+                                           <div class="row">
+                                             <div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
+                                               <p class="launches_font_30">January</p>
+                                               <p class="launches_font_31">7</p>
+                                               <p class="launches_font_32">2018</p>
+                                             </div>
+                                             <div class="col-9 col-lg-9 col-md-8  lau_pad_10">
+                                               <a href="#"><p class="launches_font_30 line-h-20">ADIDAS ORIGINALS “EQT SUPPORT SK PRIMEKNIT”</p></a>
+                                               <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
+                                             </div>
+                                             <div class="col-lg-12 text-right px-0">
+                                               <button type="button" class="btn fast-buy p-2">
+                                                 <label class="mb-0 d-flex px-2">
+                                                   <span>BUY NOW</span>
+                                                     <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
+                                                   </label>
+                                               </button>
+                                             </div>
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </div>
+                           	    		<div class="col-lg-4 col-md-6 col-12">
+                                       <div class="card_new">
+                                         <div class="launches-fix-frame">
+                                           <span class='zoom' id='zoom2'>
+                                           <img src='assets/images/product/2/adidas/1.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                                           </span>
+                                         </div>
+                                         <div class="card-body">
+                                           <div class="row">
+                                             <div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
+                                               <p class="launches_font_30">January</p>
+                                               <p class="launches_font_31">7</p>
+                                               <p class="launches_font_32">2018</p>
+                                             </div>
+                                             <div class="col-9 col-lg-9 col-md-8  lau_pad_10">
+                                               <a href="#"><p class="launches_font_30 line-h-20">ADIDAS X RAF SIMONS REPLICANT OZWEEGO US</p></a>
+                                               <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
+                                             </div>
+                                             <div class="col-lg-12 text-right px-0">
+                                               <button type="button" class="btn fast-buy p-2">
+                                                 <label class="mb-0 d-flex px-2">
+                                                   <span>BUY NOW</span>
+                                                     <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
+                                                   </label>
+                                               </button>
+                                             </div>
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </div>
+                                    <div class="col-lg-4 col-md-6 col-12">
+                                       <div class="card_new">
+                                         <div class="launches-fix-frame">
+                                           <span class='zoom' id='zoom3'>
+                                           <img src='assets/images/product/2/adidas/4.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                                           </span>
+                                         </div>
+                                         <div class="card-body">
+                                           <div class="row">
+                                             <div class="col-3 col-lg-3 col-md-4  launches_border text-md-center">
+                                               <p class="launches_font_30">January</p>
+                                               <p class="launches_font_31">7</p>
+                                               <p class="launches_font_32">2018</p>
+                                             </div>
+                                             <div class="col-9 col-lg-9 col-md-8  lau_pad_10">
+                                               <a href="launches-detail.php"><p class="launches_font_30 line-h-20">ADIDAS ORIGINALS BY ALEXANDER WANG TRAINER ADIDAS ORIGINALS BY ALEXANDER </p></a>
+                                               <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
+                                             </div>
+                                             <div class="col-lg-12 text-right px-0">
+                                               <button type="button" class="btn fast-buy p-2">
+                                                 <label class="mb-0 d-flex px-2">
+                                                   <span>BUY NOW</span>
+                                                     <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
+                                                   </label>
+                                               </button>
+                                             </div>
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </div>
+                                   </div>
 
-                      <div class="col-12 res-414-down">
-                        <a href="launches.php">
-                          <label>view all <span> > </span></label>
-                        </a>
-                      </div>
-
-                  </section>
 
                   <section class="blog-launches mb-lg-5 mb-md-5 mb-4">
                     <div class="row mx-0">
                       <div class="col-12 px-lg-3 px-0 mb-md-3">
                         <h3 class="mb-1 mt-2 pull-left">BLOG</h3>
                         <div class="latest-product-btn pull-right mb-2">
-                          <button type="button" class="btn add-to-cart p-2 res-414-up">
+
+                          <a href="#" class="btn view-all p-2 res-414-up">
                             <label class="mb-0 d-flex px-2">
                               <span>view all</span>
                               <i class="fas fa-plus ml-auto pl-3 pt-1" aria-hidden="true"></i>
                             </label>
-                          </button>
+
+                          </a>
                         </div>
                       </div>
 
@@ -330,10 +311,12 @@
                               </a>
                             </div>
                             <div class="card-body">
-                              <div class="blog-excerpt">
-                                <span class="launches_font_30 line-h-20">เปิดตัวสาขาใหม่ ณ สยามพารากอน ผู้นำแฟชั่นรองเท้า เครื่องแต่งกาย แบรนด์ชั้นนำ มากมาย อาทิเช่น adidas,  Reebok</span>
+                           
+                              <div class="blog-excerpt mb-2">
+                                <span class="launches_font_30 line-h-20">Sports fashion retailer Dilok has opened a new store at Chola Soi7 Sports fashion retailer Dilok has opened a new store at Chola Soi7</span>
                               </div>
-                                <span class="launches_font_30 line-h-20 grey">5 มิถุนายน 2561</span>
+
+                                <span class="line-h-20 grey text-small">22/06/2018</span>
                             </div>
                         </div>
                       </div>
@@ -346,10 +329,12 @@
                               </a>
                             </div>
                             <div class="card-body">
-                              <div class="blog-excerpt">
-                                <span class="launches_font_30 line-h-20">เปิดตัวสาขาใหม่ ณ สยามพารากอน ผู้นำแฟชั่นรองเท้า เครื่องแต่งกาย แบรนด์ชั้นนำ มากมาย อาทิเช่น adidas, Reebok</span>
+                             
+                              <div class="blog-excerpt mb-2">
+                                <span class="launches_font_30 line-h-20">Sports fashion retailer Dilok has opened a new store at Chola Soi7 Sports fashion retailer Dilok has opened a new store at Chola Soi7</span>
                               </div>
-                                <span class="launches_font_30 line-h-20 grey">5 มิถุนายน 2561</span>
+                            
+                                <span class="line-h-20 grey text-small">20/06/2018</span>
                             </div>
                         </div>
                       </div>

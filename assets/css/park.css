@@ -1,8 +1,22 @@
 button {
 	text-transform: uppercase;
 }
-
-
+.footer-link {
+	color: #fff;
+}
+.footer-link:hover {
+	color: #999999!important;
+	transition: all 0.3s;
+}
+.nav-link:hover {
+	color: #999999!important;
+	transition: 0.3s;
+}
+.btn-cmd-detail-position {
+	position: absolute;
+	top: 0px;
+	right: 35px;
+}
 .title-show-slide-fix {
 	overflow: hidden;
     height: 40px;
@@ -378,6 +392,11 @@ button {
 /*---------------------------
 ------- ACCOUNT 414 --------
 -----------------------------*/
+	.btn-cmd-detail-position {
+			position: absolute;
+			top: -10px;
+			right: 25px;
+	}
 	.account-modal-dialog {
 	    max-width: 100%!important;
 	    margin: 5px 5px 0px 5px!important;
@@ -545,6 +564,11 @@ button {
 	    overflow: hidden;
 	    height: 450px;
 	}
+	.btn-cmd-detail-position {
+		position: absolute;
+		top: -10px;
+		right: 35px;
+}
 /*------------------------------
 ----- END SUB BRANCH 320 -------
 --------------------------------*/
