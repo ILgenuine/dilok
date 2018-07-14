@@ -49,6 +49,12 @@ $FONTFACE
 $Structure
 *------------------------------------*/
 
+.owl-carousel
+{
+    -ms-touch-action: pan-y !important;
+    touch-action: pan-y !important;
+}
+
   input{
     border-radius: 0px !important;
   }
@@ -2003,11 +2009,17 @@ $END PRODUCT DETAILS 1
       pointer-events: none;
     }
 
+    .latest-product-frame:hover .latest-product-pic{
+      opacity:unset;
+    }
+
+    .latest-product-frame:hover .second-latest-product{
+      opacity:0;
+    }
+
   /*------------------------------------*
   $End Structure
   *------------------------------------*/
-
-
 
 
 
@@ -3577,7 +3589,7 @@ $END PRODUCT DETAILS 1
   /*------------------------------------*
   $Index 414
   *------------------------------------*/
- 
+
 
   .header-slide-btn {
     width: 40%;
