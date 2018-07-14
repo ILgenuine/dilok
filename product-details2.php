@@ -145,7 +145,7 @@
                                 <h2>Nike Air Zoom Pegasus 35</h2>
                             </div>
 
-                            <div class="sticky-product-quantity p-3">
+                            <div class="sticky-product-quantity p-3 mb-3">
                               <div class="row mx-0">
                                 <!-- <div class="col-5 px-0 pt-2">
                                   <select class="quantity">
@@ -169,26 +169,7 @@
                               </div>
                             </div>
 
-                            <div class="row my-3 mx-0">
-                              <div class="col-xl-6 col-lg-12 col-6 px-xl-1 px-lg-0 px-md-2 px-1 latest-product-btn mb-2">
-                                <button type="button" class="btn add-to-cart p-2">
-                                  <label class="mb-0 d-flex px-2">
-                                    <span>ADD TO CART</span>
-                                    <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
-                                  </label>
-                                </button>
-                              </div>
-                              <div class="col-xl-6 col-lg-12 col-6 px-xl-1 px-lg-0 px-md-2 px-1 latest-product-btn">
-                                <button type="button" class="btn fast-buy p-2">
-                                  <label class="mb-0 d-flex px-2">
-                                    <span>BUY NOW</span>
-                                    <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
-                                  </label>
-                                </button>
-                              </div>
-                            </div>
-
-                            <div class="sticky-product-picker">
+                            <div class="">
                               <span class="ml-2">
                                  Color
                               </span>
@@ -252,6 +233,25 @@
                                 <div class="col-xl-4 col-6 px-0 size-select">
                                   <span>US 13</span>
                                 </div>
+                              </div>
+                            </div>
+
+                            <div class="row my-3 mx-0 pb-3 sticky-product-picker">
+                              <div class="col-xl-6 col-lg-12 col-6 px-xl-1 px-lg-0 px-md-2 px-1 latest-product-btn mb-2">
+                                <button type="button" class="btn add-to-cart p-2">
+                                  <label class="mb-0 d-flex px-2">
+                                    <span>ADD TO CART</span>
+                                    <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
+                                  </label>
+                                </button>
+                              </div>
+                              <div class="col-xl-6 col-lg-12 col-6 px-xl-1 px-lg-0 px-md-2 px-1 latest-product-btn">
+                                <button type="button" class="btn fast-buy p-2">
+                                  <label class="mb-0 d-flex px-2">
+                                    <span>BUY NOW</span>
+                                    <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
+                                  </label>
+                                </button>
                               </div>
                             </div>
 
