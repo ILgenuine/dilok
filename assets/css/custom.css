@@ -545,6 +545,7 @@ $Navbar
     padding-bottom: 0px;
     color:white;
     font-weight: 300;
+    font-size: 14px;
   }
 
   .list .main{
@@ -559,6 +560,17 @@ $Navbar
 
   .nav-item span{
     color:white;
+    font-weight: 300;
+  }
+
+  .nav-item .launches-date{
+    font-size: 12px;
+  }
+  .nav-item .launches-date span{
+    color: #afafaf;
+  }
+  .nav-item .launches-description span{
+    font-size: 14px;
     font-weight: 300;
   }
 
@@ -986,7 +998,7 @@ $Sidebar
 
 #sidebar {
     background: #f8f8f8;
-    color: black;
+    color: #333333;
     transition: all 0.3s;
     min-width: 30vw;
     max-width: 30vw;
@@ -1080,8 +1092,9 @@ $Sidebar
 }
 
 .cart-product-name span{
-  color:black;
-  font-weight: 700;
+  color: #333333;
+  font-weight: 400;
+  font-size: 14px;
 }
 
 .cart-product-size{
@@ -1089,7 +1102,9 @@ $Sidebar
 }
 
 .cart-product-size span{
-  color:grey;
+  color: grey;
+  font-weight: 300;
+  font-size: 14px;
 }
 
 .cart-product-quantity{
@@ -1170,7 +1185,7 @@ input[type=number]::-webkit-outer-spin-button {
 .promotion-button .pull-left{
   font-size: 20px;
   line-height: 1px;
-  color:#e5e5e5;
+  color:#808080;
   height:20px;
 }
 
@@ -1510,6 +1525,22 @@ $Index
   .blog-excerpt{
     overflow: hidden;
   }
+
+.text-small{
+  font-size: small;
+}
+
+.view-all{
+  background-color: white;
+  border:2px solid black;
+  border-radius: 0px;
+  color:black;
+  text-transform: uppercase;
+}
+
+.view-all label{
+  cursor: pointer;
+}
 /*------------------------------------*
 $END Index
 *------------------------------------*/

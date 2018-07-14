@@ -308,7 +308,7 @@
             <div class="col-11 px-0">
               <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary language-picker" data-toggle="modal" data-target="#exampleModal">
-                  Language : <img class="pb-2 pr-2" src="http://i65.tinypic.com/2d0kyno.png"/><u>Nederlands</u>
+                  Language : <img class="pb-2 pr-2" src="http://i64.tinypic.com/fd60km.png"/><u>English</u>
                 </button>
                 <!-- Modal -->
                 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -321,23 +321,26 @@
                         </button>
                       </div>
                       <div class="modal-body text-left">
-                          <div class="w-100 my-3">
-                          	<a href="#en"><img class="pr-3" src="http://i65.tinypic.com/2d0kyno.png"/>Nederlands</a>
-                          </div>
                           <div class="w-100 my-3 active">
                             <a href="#en"><img class="pr-3" src="http://i64.tinypic.com/fd60km.png"/>English</a>
-                          </div>
-                          <div class="w-100 my-3">
-                            <a href="#de"><img class="pr-3" src="http://i63.tinypic.com/10zmzyb.png"/>German</a>
-                          </div>
-                          <div class="w-100 my-3">
-                            <a href="#fr"><img class="pr-3" src="http://i65.tinypic.com/300b30k.png"/>Français</a>
                           </div>
                           <div class="w-100 my-3">
                             <a href="#es"><img class="pr-3" src="http://i68.tinypic.com/avo5ky.png"/>Español</a>
                           </div>
                           <div class="w-100 my-3">
+                            <a href="#fr"><img class="pr-3" src="http://i65.tinypic.com/300b30k.png"/>Français</a>
+                          </div>
+                          <div class="w-100 my-3">
+                            <a href="#de"><img class="pr-3" src="http://i63.tinypic.com/10zmzyb.png"/>German</a>
+                          </div>
+                          <div class="w-100 my-3">
                             <a href="#it"><img class="pr-3" src="http://i65.tinypic.com/23jl6bn.png"/>Italiano</a>
+                          </div>
+                          <div class="w-100 my-3">
+                            <a href="#en"><img class="pr-3" src="http://i65.tinypic.com/2d0kyno.png"/>Nederlands</a>
+                          </div>
+                          <div class="w-100 my-3">
+                            <a href="#fr"><img class="pr-3" src="http://i65.tinypic.com/14llf13.gif"/>Thailand</a>
                           </div>
                       </div>
                     </div>

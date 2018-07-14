@@ -1428,12 +1428,13 @@
         </div>
         <div class="col-3">
           <ul id="languagepicker" class="languagepicker roundborders large">
-          	<a><li class="current-language"><img src="http://i65.tinypic.com/2d0kyno.png"/>Nederlands</li></a>
-            <a href="#en"><li><img src="http://i64.tinypic.com/fd60km.png"/>English</li></a>
-          	<a href="#de"><li><img src="http://i63.tinypic.com/10zmzyb.png"/>German</li></a>
-          	<a href="#fr"><li><img src="http://i65.tinypic.com/300b30k.png"/>Français</li></a>
-          	<a href="#es"><li><img src="http://i68.tinypic.com/avo5ky.png"/>Español</li></a>
-          	<a href="#it"><li><img src="http://i65.tinypic.com/23jl6bn.png"/>Italiano</li></a>
+              <a href="#en"><li class="current-language"><img src="http://i64.tinypic.com/fd60km.png"/>English</li></a>
+              <a href="#es"><li><img src="http://i68.tinypic.com/avo5ky.png"/>Español</li></a>
+              <a href="#fr"><li><img src="http://i65.tinypic.com/300b30k.png"/>Français</li></a>
+              <a href="#de"><li><img src="http://i63.tinypic.com/10zmzyb.png"/>German</li></a>
+              <a href="#it"><li><img src="http://i65.tinypic.com/23jl6bn.png"/>Italiano</li></a>
+              <a href="#nt"><li><img src="http://i65.tinypic.com/2d0kyno.png"/>Nederlands</li></a>
+              <a href="#en"><li><img src="http://i65.tinypic.com/14llf13.gif"/>Thailand</li></a>
           </ul>
         </div>
       </div>

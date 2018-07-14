@@ -72,7 +72,7 @@ a:hover {
     transform: translate(-50%, -50%);
     width: 100%;
     height: auto;
-    
+
 }
 .latest-fix-frame{
     height: 250px;
@@ -93,8 +93,8 @@ position: relative;
 display: block;
 cursor: zoom-in;
 }
-.zoom img::selection { 
-    background-color: transparent; 
+.zoom img::selection {
+    background-color: transparent;
 }
 /*------product-details2-----*/
 .cur{
@@ -130,7 +130,7 @@ font-size: 24px;
     top:50%;
     left:50%;
     transform: translate(-50%, -50%);
-    
+
 }
 
 .pagination .news_page-link.active{
@@ -179,10 +179,10 @@ font-size: 24px;
 .launches_font_3{
     font-weight: 600;
     font-size: 16px;
-  
+
 }
 .launches_font_30{
-    font-weight: 500;
+    font-weight: 400;
     font-size: 16px;
     position: relative;
     overflow: hidden;
@@ -267,7 +267,7 @@ font-size: 24px;
     transform: translate(-50%, -50%);
     width: 100%;
     height: auto;
-    
+
 }
 
 
@@ -294,7 +294,7 @@ font-size: 24px;
     height: auto;
     background-repeat: no-repeat;
     background-size: cover;
-    
+
 }
 .add_our_story-fix-frame-boy {
     height: 640px;
@@ -309,7 +309,7 @@ font-size: 24px;
     transform: translate(-50%, -50%);
     width: 100%;
     height: auto;
-    
+
 }
 .add_our_story-padding{
     padding: 15px 100px 0px 100px;
@@ -357,7 +357,7 @@ font-size: 24px;
 
  /*-------------------------
 ---------launches -------
----------------------------*/   
+---------------------------*/
     .lau_pad_10{
         padding: 0px 0px 0px 10px;
     }
@@ -388,8 +388,8 @@ font-size: 24px;
 
 /*-------------------------
 ---------launches -------
----------------------------*/    
-  
+---------------------------*/
+
     .lau_pad_10{
         padding: 0px 0px 0px 10px;
     }
@@ -417,8 +417,8 @@ font-size: 24px;
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-right: 0px; 
-    margin-left: 0px; 
+    margin-right: 0px;
+    margin-left: 0px;
 }
 .add_our_story-fix-frame-boy {
     height: 640px;
@@ -575,7 +575,7 @@ font-size: 24px;
 
 
 
-    
+
 }
 @media (max-width: 375px){
 
@@ -642,7 +642,7 @@ font-size: 24px;
 
 /*--------------------------
 --------add_branch----------
----------------------------*/    
+---------------------------*/
     .add_Branch-fix-frame {
     height: 200px;
     position: relative;
