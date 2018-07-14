@@ -212,7 +212,7 @@
                         <div class="card_new">
                           <div class="launches-fix-frame">
                             <span class='zoom' id='zoom1'>
-                            <img src='assets/images/product/2/adidas/6.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                            <img src='assets/images/product/2/adidas/3.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
                             </span>
                           </div>
                           <div class="card-body">
@@ -242,7 +242,7 @@
                         <div class="card_new">
                           <div class="launches-fix-frame">
                             <span class='zoom' id='zoom2'>
-                            <img src='assets/images/product/2/adidas/1.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                            <img src='assets/images/product/2/adidas/2.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
                             </span>
                           </div>
                           <div class="card-body">
@@ -272,7 +272,7 @@
                         <div class="card_new">
                           <div class="launches-fix-frame">
                             <span class='zoom' id='zoom3'>
-                            <img src='assets/images/product/2/adidas/4.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                            <img src='assets/images/product/2/adidas/1.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
                             </span>
                           </div>
                           <div class="card-body">
@@ -331,7 +331,7 @@
                             </div>
                             <div class="card-body">
                               <div class="blog-excerpt">
-                                <span class="launches_font_30 line-h-20">เปิดตัวสาขาใหม่ ณ สยามพารากอน ผู้นำแฟชั่นรองเท้า เครื่องแต่งกาย แบรนด์ชั้นนำ มากมาย อาทิเช่น adidas, Nike, Reebok</span>
+                                <span class="launches_font_30 line-h-20">เปิดตัวสาขาใหม่ ณ สยามพารากอน ผู้นำแฟชั่นรองเท้า เครื่องแต่งกาย แบรนด์ชั้นนำ มากมาย อาทิเช่น adidas,  Reebok</span>
                               </div>
                                 <span class="launches_font_30 line-h-20 grey">5 มิถุนายน 2561</span>
                             </div>
@@ -347,7 +347,7 @@
                             </div>
                             <div class="card-body">
                               <div class="blog-excerpt">
-                                <span class="launches_font_30 line-h-20">เปิดตัวสาขาใหม่ ณ สยามพารากอน ผู้นำแฟชั่นรองเท้า เครื่องแต่งกาย แบรนด์ชั้นนำ มากมาย อาทิเช่น adidas, Nike, Reebok</span>
+                                <span class="launches_font_30 line-h-20">เปิดตัวสาขาใหม่ ณ สยามพารากอน ผู้นำแฟชั่นรองเท้า เครื่องแต่งกาย แบรนด์ชั้นนำ มากมาย อาทิเช่น adidas, Reebok</span>
                               </div>
                                 <span class="launches_font_30 line-h-20 grey">5 มิถุนายน 2561</span>
                             </div>

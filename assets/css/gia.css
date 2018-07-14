@@ -137,7 +137,7 @@ font-size: 24px;
      color: #ffffff;
     text-decoration: none;
     background-color: #000000;
-    transition: 1s;
+    transition: 1s !important;
 
 }
 
@@ -153,10 +153,10 @@ font-size: 24px;
     border-radius: 0px;
 }
 .news_page-link:hover {
-    color: #ffffff;
+    color: #ffffff !important;
     text-decoration: none;
     background-color: #000000;
-    transition: 1s;
+    transition: 1s !important;
 }
 
 
@@ -210,7 +210,7 @@ font-size: 24px;
      position:relative;
     overflow: hidden;
     width:100%;
-    height: 330px;
+    height: 290px;
 }
 .font_14{
     font-size: 14px;
@@ -365,6 +365,12 @@ font-size: 24px;
     text-align: center;
     font-size: 14px;
 }
+.launches-fix-frame {
+    position: relative;
+    overflow: hidden;
+    width: 98%;
+    height: 240px;
+}
 
 /*-------------------------
 ---------launches end-------
@@ -399,7 +405,7 @@ font-size: 24px;
 }
 
 .launches-fix-frame {
-    height: 200px;
+    height: 180px;
     position: relative;
     overflow: hidden;
     width: 98%;
@@ -461,6 +467,7 @@ font-size: 24px;
     overflow: hidden;
     width: 98%;
 }
+
 
 /*-------------------------
 ---------launches end-------
@@ -530,6 +537,7 @@ font-size: 24px;
 .launches_font_30 {
     font-size: 14px;
 }
+
 
 /*-------------------------
 ---------launches end-------

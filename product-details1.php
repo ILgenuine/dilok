@@ -234,7 +234,7 @@
                       <div class="row mx-0">
                         <div class="col-12 pr-lg-0">
                           <div class="sticky-product-title w-100">
-                              <h2>Nike Air Zoom Pegasus 35
+                              <h2>adidas Zoom Pegasus 35
                                 <button type="button" class="btn top-btn heart-btn pull-right"><i name="like-button" class="fa-1x fa-heart liked fas liked-shaked"></i></button>
                                 <button type="button" class="btn top-btn pull-right"><i class="fa-1x fa-share-alt fas"></i></button>
                               </h2>

@@ -92,7 +92,7 @@
               <div class="product-detail-left-side-small d-lg-none d-md-block">
                 <div class="row mx-0">
                   <div class="col-6"><span>รองเท้าวิ่งชาย</span></div><div class="col-6 text-right"><span>925 THB</span></div>
-                  <div class="col-12 mb-3"><h3>Nike Air Zoom Peegasus 35</h3></div>
+                  <div class="col-12 mb-3"><h3>adidas Zoom Peegasus 35</h3></div>
 
                   <div class="col-12 px-0">
                     <div class="productdetail2-carousel owl-carousel owl-theme">
@@ -142,7 +142,7 @@
                           </div>
                           <div class="col-12 pr-lg-0">
                             <div class="sticky-product-title">
-                                <h2>Nike Air Zoom Pegasus 35</h2>
+                                <h2>adidas Zoom Pegasus 35</h2>
                             </div>
                             <div class="sticky-product-excerpt mb-2">
                                 <span>
@@ -203,7 +203,7 @@
                                       <pre>
 สบาย ลดแรงกระแทกได้ดี
 
-ถุงเท้าเทรนนิ่ง Nike Dry Cushion Quarter ผลิตด้วยการลดแรงกระแทกที่จัดตำแหน่งไว้เป็นอย่างดี มอบการปกป้องจากแรงกระทบอย่างไร้ที่ติระหว่างที่ออกกำลังกาย
+ถุงเท้าเทรนนิ่ง adidas ผลิตด้วยการลดแรงกระแทกที่จัดตำแหน่งไว้เป็นอย่างดี มอบการปกป้องจากแรงกระทบอย่างไร้ที่ติระหว่างที่ออกกำลังกาย
 
 
 ข้อดี

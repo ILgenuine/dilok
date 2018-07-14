@@ -49,6 +49,15 @@ $FONTFACE
 $Structure
 *------------------------------------*/
 
+
+  .card-body{
+     -webkit-box-flex: unset !important; 
+    -ms-flex: unset !important; 
+     flex: unset !important; 
+  }
+
+
+
 .owl-carousel
 {
     -ms-touch-action: pan-y !important;
@@ -428,8 +437,8 @@ $Structure
 
   .fast-buy{
     background-color: black;
-    outline:2px solid white;
-    border:2px solid black;
+    outline:1px solid white;
+    border:1px solid black;
     outline-offset:-3px;
     border-radius: 0px;
     color:white;
@@ -1032,6 +1041,7 @@ $Sidebar
   position:relative;
   overflow:hidden;
   width:100%;
+  height: 200px;
 }
 
 .cart-product{
@@ -1039,6 +1049,8 @@ $Sidebar
   top:50%;
   left:50%;
   transform: translate(-50%,-50%);
+  width: 100% !important;
+  height: auto !important;
 }
 
 .cart-product-detail{
@@ -1354,7 +1366,7 @@ $Footer
 
   .footer{
     background-color: black;
-    height:500px;
+    height:400px;
   }
 
 
@@ -1491,6 +1503,7 @@ $Index
     position:relative;
     overflow:hidden;
     width:100%;
+    height: 340px !important;
   }
 
   .blog-img{
@@ -2382,6 +2395,12 @@ $END PRODUCT DETAILS 1
   .wrapper {
       min-height: calc(100vh - 560.5px);
   }
+  .blog-img-frame {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 250px !important;
+}
 
   /*------------------------------------*
   $Sidebar
