@@ -1715,12 +1715,17 @@ $PRODUCT DETAILS 2
 
   .detail-product-frame{
     width:100%;
-    height:90px !important;
+    height:80px !important;
+    position: relative;
+    overflow: hidden;
   }
 
   .detail-product-img{
-    height:100%;
     width:100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
   }
 
   .product-detail-modal-body{
@@ -2005,31 +2010,6 @@ $END PRODUCT DETAILS 1
   top: 0;
 }
 
-/* #ribbon:after{
-  content:"";
-  height:0;
-  width: 0;
-  top:0px;
-  right:-30px;
-  position: absolute;
-  border-left: 30px solid transparent;
-  border-right: 30px solid transparent;
-  border-bottom: 30px solid rgba(48,149,75,0.8);
-}
-
-#ribbon:before{
-  content:"";
-  height:0;
-  width: 0;
-  top:0px;
-  right:-30px;
-  position: absolute;
-  border-style: solid;
-  border-left: 30px solid transparent;
-  border-right: 30px solid transparent;
-  border-top: 30px solid rgba(48,149,75,0.8);
-} */
-
 #ribbon2{
   height: 30px;
   font-size: 14px;
@@ -2043,31 +2023,6 @@ $END PRODUCT DETAILS 1
   padding: 0px 15px;
   top: 0;
 }
-
-/* #ribbon2:after{
-  content:"";
-  height:0;
-  width: 0;
-  top:0px;
-  right:-30px;
-  position: absolute;
-  border-left: 30px solid transparent;
-  border-right: 30px solid transparent;
-  border-bottom: 30px solid rgba(197,54,34,0.8);
-}
-
-#ribbon2:before{
-  content:"";
-  height:0;
-  width: 0;
-  top:0px;
-  right:-30px;
-  position: absolute;
-  border-style: solid;
-  border-left: 15px solid transparent;
-  border-right: 15px solid transparent;
-  border-top: 15px solid rgba(197,54,34,0.8);
-} */
 
 .red-ribbon{
   background: rgba(239, 53, 27, 0.8);
@@ -2317,10 +2272,12 @@ $END PRODUCT DETAILS 1
   $PRODUCT DETAIL 2
   *------------------------------------*/
 
-    .detail-product-frame{
-      width:100%;
-      height:70px !important;
-    }
+  .detail-product-frame{
+    width: 100%;
+    height: 80px !important;
+    position: relative;
+    overflow: hidden;
+  }
 
   /*------------------------------------*
   $END PRODUCT DETAIL 2
@@ -2919,8 +2876,12 @@ $END PRODUCT DETAILS 1
     .product-detail-right-side{
       width:50%;
     }
-
-
+    .detail-product-frame {
+        width: 100%;
+        height: 90px !important;
+        position: relative;
+        overflow: hidden;
+    }
   /*------------------------------------*
   $END PRODUCT DETAIL 2  1024
   *------------------------------------*/
@@ -3582,7 +3543,12 @@ $END PRODUCT DETAILS 1
       width: 30px !important;
       margin:0px !important;
     }
-
+    .detail-product-frame {
+        width: 100%;
+        height: 120px !important;
+        position: relative;
+        overflow: hidden;
+    }
 
   /*------------------------------------*
   $END PRODUCT DETAIL 2  768
@@ -4013,7 +3979,12 @@ $END PRODUCT DETAILS 1
   /*------------------------------------*
   $END PRODUCT DETAIL 1  414
   *------------------------------------*/
-
+  .detail-product-frame {
+      width: 100%;
+      height: 100px !important;
+      position: relative;
+      overflow: hidden;
+  }
 
 }
 
@@ -4061,7 +4032,12 @@ $END PRODUCT DETAILS 1
   /*------------------------------------*
   $END PRODUCT DETAIL 1  768
   *------------------------------------*/
-
+  .detail-product-frame {
+      width: 100%;
+      height: 90px !important;
+      position: relative;
+      overflow: hidden;
+  }
 }
 
 @media (max-width: 320px){
@@ -4167,6 +4143,11 @@ $END PRODUCT DETAILS 1
   /*------------------------------------*
   $END PRODUCT DETAIL 1  320
   *------------------------------------*/
-
+  .detail-product-frame {
+      width: 100%;
+      height: 80px !important;
+      position: relative;
+      overflow: hidden;
+  }
 
 }

@@ -276,37 +276,37 @@
                               <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                     <div class="row w-100 px-3">
+                                    <div class="row w-100 px-3">
 
-                                       <div class="col-xl-3 col-lg-5 col-md-7 col-11">
-                                         <div class="row detail-product-frame">
-                                           <div class="col-3 p-md-0 p-1">
-                                                 <div class="detail-product-frame">
-                                                   <img class="detail-product-img" src="assets/images/product/1/33.jpg">
-                                                 </div>
-                                           </div>
-                                           <div class="col-9 px-lg-2 px-lg-0 px-md-1 px-0">
-                                               <div class="cart-product-detail detail-product-frame">
-                                                 <div class="cart-product-name">
-                                                     <a href="#">
-                                                       <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
-                                                     </a>
-                                                 </div>
-                                                 <div class="cart-product-quantity">
-                                                   <span class="pull-left discounted">4,800</span><span class="pull-left discount mx-1">2,400</span><span class="pull-left">THB</span>
-                                                 </div>
-                                               </div>
-                                           </div>
-                                         </div>
-                                       </div>
+                                      <div class="col-xl-3 col-lg-5 colmd-7 col-12">
+                                        <div class="row detail-product-frame">
+                                          <div class="col-md-3 col-4 p-md-0 p-2">
+                                             <div class="detail-product-frame">
+                                               <img class="detail-product-img" src="assets/images/product/1/33.jpg">
+                                             </div>
+                                          </div>
+                                          <div class="col-md-9 col-8 px-lg-2 px-lg-0 px-md-1 px-0">
+                                              <div class="cart-product-detail detail-product-frame">
+                                                <div class="cart-product-name">
+                                                    <a href="#">
+                                                      <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
+                                                    </a>
+                                                </div>
+                                                <div class="cart-product-quantity">
+                                                  <span class="pull-left discounted">4,800</span><span class="pull-left discount mx-1">2,400</span><span class="pull-left">THB</span>
+                                                </div>
+                                              </div>
+                                          </div>
+                                        </div>
+                                      </div>
 
-                                       <div class="col-lg-2 col-md-2 col-1 ml-auto">
-                                         <button type="button" class="close custom-close2 my-auto" data-dismiss="modal" aria-label="Close">
-                                           <span aria-hidden="true">&times;</span>
-                                         </button>
-                                       </div>
+                                      <div class="ml-auto btn-cmd-detail-position">
+                                        <button type="button" class="close custom-close2 my-auto" data-dismiss="modal" aria-label="Close">
+                                          <span aria-hidden="true">&times;</span>
+                                        </button>
+                                      </div>
 
-                                     </div>
+                                    </div>
                                   </div>
                                   <div class="modal-body product-detail-modal-body">
 

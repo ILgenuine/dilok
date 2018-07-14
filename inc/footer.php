@@ -24,24 +24,23 @@
 
         <div class="col-xl-3 col-lg-3 col-md-4 pt-5 d-lg-block d-none">
           <div class="row white mx-0 text-lg-left text-md-center">
-             <div class="col-12 pr-lg-5 px-md-0 mb-lg-2 mb-md-1"><a href="#" class="white">BRAND</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="white">Addidas</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="white">Nike</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="white">Puma</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="white">Reebok</a></div>
+             <div class="col-12 pr-lg-5 px-md-0 mb-lg-2 mb-md-1"><a href="#" class="footer-link">BRAND</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Addidas</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Puma</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Reebok</a></div>
           </div>
         </div>
 
 
         <div class="col-xl-3 col-lg-3 col-md-4 pt-5 d-lg-block d-none">
           <div class="row white mx-0 text-lg-left text-md-center">
-             <div class="col-12 pr-lg-5 px-md-0 mb-lg-2 mb-md-1"><a href="#" class="white">CAREGORIES</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="white">Running</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="white">Basketball</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="white">Training</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="white">Outdoor</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="white">Golf</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="white">Tennis</a></div>
+             <div class="col-12 pr-lg-5 px-md-0 mb-lg-2 mb-md-1"><a href="#" class="footer-link">CAREGORIES</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Basketball</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Golf</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Outdoor</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Running</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Tennis</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Training</a></div>
           </div>
         </div>
 
@@ -49,12 +48,12 @@
         <div class="col-xl-3 col-lg-3 col-md-4 pt-5 d-lg-block d-none">
           <div class="row white mx-0 text-lg-left text-md-center">
              <div class="col-12 pr-lg-5 px-md-0 mb-lg-2 mb-md-1">ABOUT US</div>
-             <div class="col-12 mb-1 footer-submenu"><a href="add-out-story.php" class="white">Out Story</a></div>
-             <div class="col-12 footer-submenu"><a href="add-branch.php" class="white">Brach</a></div>
+              <div class="col-12 footer-submenu"><a href="add-branch.php" class="footer-link">Brach</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="add-out-story.php" class="footer-link">Out Story</a></div>
 
-             <div class="col-12 pr-lg-5 px-md-0 my-md-2 my-lg-2 my-md-1"><a href="#" class="white" data-toggle="modal" data-target="#helpful">HELPFUL</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="add-blank.php" class="white">Term of use</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="add-blank.php" class="white">Policy</a></div>
+             <div class="col-12 pr-lg-5 px-md-0 my-md-2 my-lg-2 my-md-1"><a href="#" class="footer-link" data-toggle="modal" data-target="#helpful">HELPFUL</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="add-blank.php" class="footer-link">Policy</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="add-blank.php" class="footer-link">Term of use</a></div>
           </div>
         </div>
 
