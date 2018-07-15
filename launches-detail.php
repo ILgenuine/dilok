@@ -233,7 +233,7 @@
                   <span class="launches_detail-color-font launches_detail-text">31</span>
                   <span class="launches_detail-text">มกราคม 2561</span>
                   <div class="launches_detail-lineheight mt-lg-3">
-                    <h5>AIR VAPORMAX X OFF-WHITE THE TEN'BLACK/CLEAR'</h5>
+                    <h5>Adidas EQT Support ADV PK</h5>
                     <p>เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8.00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
                   </div>
                   <div>

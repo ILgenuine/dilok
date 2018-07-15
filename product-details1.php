@@ -234,7 +234,7 @@
                       <div class="row mx-0">
                         <div class="col-12 pr-lg-0">
                           <div class="sticky-product-title w-100">
-                              <h2>Nike Air Zoom Pegasus 35
+                              <h2>adidas Zoom Pegasus 35
                                 <button type="button" class="btn top-btn heart-btn pull-right"><i name="like-button" class="fa-1x fa-heart liked fas liked-shaked"></i></button>
                                 <button type="button" class="btn top-btn pull-right"><i class="fa-1x fa-share-alt fas"></i></button>
                               </h2>
@@ -273,46 +273,45 @@
                             <span class="ml-2">
                                Size
                             </span>
-                            <div class="row mx-0 mt-2 mb-3 size-select-box">
-                              <div class="col-xl-4 col-6 px-0 size-select active">
-                                <span>US 7</span>
+                            <div class="row mx-0 mt-2 mb-3 size-select-box2">
+
+                              <div class="dropdown">
+                                <button class="btn add-to-cart dropdown-toggle" type="button" data-toggle="dropdown">Choose size (UK)
+                                <span class="caret"></span></button>
+                                <ul class="dropdown-menu">
+                                  <div class="size-picker">
+                                      <div class="row w-100 mx-0 p-2">
+                                          <div class="size-item active">
+                                            7
+                                          </div>
+                                          <div class="size-item">
+                                            7.5
+                                          </div>
+                                          <div class="size-item">
+                                            8
+                                          </div>
+                                          <div class="size-item">
+                                            8.5
+                                          </div>
+                                          <div class="size-item">
+                                            9
+                                          </div>
+                                          <div class="size-item">
+                                            9.5
+                                          </div>
+                                          <div class="size-item">
+                                            10
+                                          </div>
+                                          <div class="size-item">
+                                            10.5
+                                          </div>
+                                      </div>
+                                  </div>
+                                </ul>
                               </div>
-                              <div class="col-xl-4 col-6 px-0 size-select disabled">
-                                <span>US 7.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 8</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select disabled">
-                                <span>US 8.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 9</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select disabled">
-                                <span>US 9.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 10</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 10.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 11</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 11.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 12</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select disabled">
-                                <span>US 12.5</span>
-                              </div>
-                              <div class="col-xl-4 col-6 px-0 size-select">
-                                <span>US 13</span>
-                              </div>
+
+
+
                             </div>
                           </div>
 
@@ -320,13 +319,13 @@
                           <div class="sticky-product-quantity p-3">
                             <div class="row mx-0">
                               <div class="col-5 px-0 pt-2">
+
+
                                 <select class="quantity">
                                   <option value="1">1</option>
                                   <option value="2">2</option>
-                                  <option value="3">3</option>
-                                  <option value="4">4</option>
                                 </select>
-                                จำนวน
+                                <span class="red">2 pieces, left</span>
                               </div>
                               <div class="col-7 px-0">
                                 <div class="sale-percent px-2">

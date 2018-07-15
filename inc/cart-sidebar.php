@@ -16,7 +16,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                   <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/33.jpg">
+                      <img class="cart-product" src="assets/images/product/2/adidas/1.jpg">
                     </div>
                   </a>
               </div>
@@ -29,11 +29,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
+                          <span>Adidas Stan Smith CF</span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Black, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
@@ -52,7 +55,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                 <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/66.jpg">
+                      <img class="cart-product" src="assets/images/product/2/adidas/2.jpg">
                     </div>
                   </a>
               </div>
@@ -65,11 +68,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9613) "Night Cargo"</span>
+                          <span>Adidas Deerupt Runner</span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Red, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
@@ -87,7 +93,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                 <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/33.jpg">
+                      <img class="cart-product" src="assets/images/product/2/adidas/3.jpg">
                     </div>
                   </a>
               </div>
@@ -100,11 +106,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
+                          <span>Adidas Stan Smith CF</span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Black, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
@@ -122,7 +131,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                 <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/66.jpg">
+                      <img class="cart-product" src="assets/images/product/2/adidas/4.jpg">
                     </div>
                   </a>
               </div>
@@ -135,11 +144,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9613) "Night Cargo"</span>
+                          <span>Adidas Deerupt Runner</span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Red, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
@@ -158,7 +170,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                 <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/33.jpg">
+                      <img class="cart-product" src="assets/images/product/2/adidas/5.jpg">
                     </div>
                   </a>
               </div>
@@ -171,11 +183,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9612) "Night Cargo"</span>
+                          <span>Adidas Stan Smith CF</span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Black, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
@@ -194,7 +209,7 @@
               <div class="col-lg-5 col-md-5 col-5 p-md-0 p-2 cart-col">
                 <a href="product-details2.php">
                     <div class="cart-product-frame">
-                      <img class="cart-product" src="assets/images/product/1/66.jpg">
+                      <img class="cart-product" src="assets/images/product/2/adidas/6.jpg">
                     </div>
                   </a>
               </div>
@@ -207,11 +222,14 @@
                     </div>
                     <div class="cart-product-name">
                       <a href="product-detail-1.php">
-                          <span>DAME D.O.L.L.A.R (AC9613) "Night Cargo"</span>
+                          <span>Adidas Deerupt Runner</span>
                         </a>
                     </div>
                     <div class="cart-product-size">
                           <span>Red, UK 7</span>
+                    </div>
+                    <div class="cart-product-size">
+                          <span>B41674</span>
                     </div>
                     <div class="cart-product-quantity">
                           <span class="mr-xl-1 mr-md-3 mr-2">qty</span>
