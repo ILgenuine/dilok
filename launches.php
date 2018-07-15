@@ -65,16 +65,16 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8  lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
+				     				<a href="launches-detail.php"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
-									<button type="button" class="btn fast-buy p-2">
-                          				<label class="mb-0 d-flex px-2">
-                            				<span>BUY NOW</span>
-                            					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                          					</label>
-                        			</button>
+									<a href="launches-detail.php" class="btn fast-buy p-2 ">
+                                		<label class="mb-0 d-flex px-2 white">
+                                  			<span>Read More</span>
+                                  			<i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
+                                		</label>
+                              		</a>
                     			</div>
 				      		</div>
 				  		</div>
@@ -95,16 +95,16 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
+				     				<a href="launches-detail.php"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
-									<button type="button" class="btn fast-buy p-2">
-                          				<label class="mb-0 d-flex px-2">
-                            				<span>BUY NOW</span>
-                            					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                          					</label>
-                        			</button>
+									<a href="launches-detail.php" class="btn fast-buy p-2 ">
+                                		<label class="mb-0 d-flex px-2 white">
+                                  			<span>Read More</span>
+                                  			<i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
+                                		</label>
+                              		</a>
                     			</div>
 				      		</div>
 				  		</div>
@@ -125,16 +125,16 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
+				     				<a href="launches-detail.php"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
-									<button type="button" class="btn fast-buy p-2">
-                          				<label class="mb-0 d-flex px-2">
-                            				<span>BUY NOW</span>
-                            					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                          					</label>
-                        			</button>
+									<a href="launches-detail.php" class="btn fast-buy p-2 ">
+                                		<label class="mb-0 d-flex px-2 white">
+                                  			<span>Read More</span>
+                                  			<i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
+                                		</label>
+                              		</a>
                     			</div>
 				      		</div>
 				  		</div>
@@ -155,16 +155,16 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
+				     				<a href="launches-detail.php"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
-									<button type="button" class="btn fast-buy p-2">
-                          				<label class="mb-0 d-flex px-2">
-                            				<span>BUY NOW</span>
-                            					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                          					</label>
-                        			</button>
+									<a href="launches-detail.php" class="btn fast-buy p-2 ">
+                                		<label class="mb-0 d-flex px-2 white">
+                                  			<span>Read More</span>
+                                  			<i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
+                                		</label>
+                              		</a>
                     			</div>
 				      		</div>
 				  		</div>
@@ -185,16 +185,16 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
+				     				<a href="launches-detail.php"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
 				      			<div class="col-lg-12 text-right px-0">
-									<button type="button" class="btn fast-buy p-2">
-                          				<label class="mb-0 d-flex px-2">
-                            				<span>BUY NOW</span>
-                            					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                          					</label>
-                        			</button>
+									<a href="launches-detail.php" class="btn fast-buy p-2 ">
+                                		<label class="mb-0 d-flex px-2 white">
+                                  			<span>Read More</span>
+                                  			<i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
+                                		</label>
+                              		</a>
                     			</div>
 				      		</div>
 				  		</div>
@@ -215,17 +215,17 @@
 									<p class="launches_font_32">2018</p>
 				      			</div>
 				     			<div class="col-9 col-lg-9 col-md-8 lau_pad_10">
-				     				<a href="#"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
+				     				<a href="launches-detail.php"><p class="launches_font_30 line-h-20">Adidas EQT Support ADV PK'</p></a>
 				     				<p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
 				      			</div>
-				      			<div class="col-lg-12 text-right px-0">
-									<button type="button" class="btn fast-buy p-2">
-                          				<label class="mb-0 d-flex px-2">
-                            				<span>BUY NOW</span>
-                            					<i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                          					</label>
-                        			</button>
-                    			</div>
+				      			<div class="col-12 text-right header-slide-btn" >
+                             		<a href="launches-detail.php" class="btn fast-buy p-2 ">
+                                		<label class="mb-0 d-flex px-2 white">
+                                  			<span>Read More</span>
+                                  			<i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
+                                		</label>
+                              		</a>
+                            	</div>
 				      		</div>
 				  		</div>
 					</div>

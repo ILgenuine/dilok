@@ -231,10 +231,11 @@
                 <div class="sticky-box">
                   <span class="launches_detail-text launches_detail-color-icon"><i class="far fa-calendar"></i></span>
                   <span class="launches_detail-color-font launches_detail-text">31</span>
-                  <span class="launches_detail-text">มกราคม 2561</span>
+                  <span class="launches_detail-text">July 2561</span>
                   <div class="launches_detail-lineheight mt-lg-3">
                     <h5>Adidas EQT Support ADV PK</h5>
-                    <p>เปิดตัว:วันศุกร์ 30 มีนาคม 2018-8.00 ICT พร้อมจำหน่ายแล้วที่ Dilok</p>
+                    <p>
+Launched: Friday, March 30, 2018-8.00 ICT is available now. Dilok</p>
                   </div>
                   <div>
                     <p>Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus te maken. Het heeft niet alleen vijf eeuwen</p>

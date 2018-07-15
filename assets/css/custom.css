@@ -1475,6 +1475,8 @@ $Index
     top:50%;
     left:50%;
     transform: translate(-50%, -50%);
+    height: auto !important;
+    width: 100% !important;
   }
 
 
@@ -2112,6 +2114,12 @@ $END PRODUCT DETAILS 1
 
 
 @media (max-width: 1366px){
+  .blog-img-frame{
+    position:relative;
+    overflow:hidden;
+    width:100%;
+    height: 340px !important;
+  }
 
 
   /*------------------------------------*
@@ -2484,6 +2492,7 @@ $END PRODUCT DETAILS 1
   /*------------------------------------*
   $END PRODUCT DETAILS 1 1366
   *------------------------------------*/
+
 
 
 
@@ -3331,6 +3340,12 @@ $END PRODUCT DETAILS 1
   .wrapper {
       min-height: calc(100vh - 320px);
   }
+  .blog-img-frame {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 340px !important;
+}
 
   /*------------------------------------*
   $Sidebar 768
@@ -3717,6 +3732,15 @@ $END PRODUCT DETAILS 1
 }
 
 @media (max-width: 414px){
+.blog-img-frame {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 180px !important;
+}
+#ribbon2 {
+    margin-top: 25%;
+}
 
 
   /*------------------------------------*
@@ -4039,6 +4063,15 @@ $END PRODUCT DETAILS 1
 }
 
 @media (max-width: 375px){
+  #ribbon2 {
+    margin-top: 30%;
+}
+.blog-img-frame {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 160px !important;
+}
 
   /*------------------------------------*
   $INDEX 375
@@ -4091,6 +4124,12 @@ $END PRODUCT DETAILS 1
 }
 
 @media (max-width: 320px){
+  .blog-img-frame {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 140px !important;
+}
 
 
   /*------------------------------------*

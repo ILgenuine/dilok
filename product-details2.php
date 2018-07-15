@@ -158,7 +158,7 @@
                                 </div> -->
                                 <div class="col-12 px-0">
                                   <div class="sale-percent px-2">
-                                    <span>ลด 50%</span>
+                                    <span>Sale 50%</span>
                                   </div>
                                   <div class="pt-2 latest-product-price">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
@@ -258,10 +258,11 @@
 
                             <div class="sticky-product-excerpt mb-2">
                                 <span>
-                                  ห้าวหาญ สะดุดตา ไม่ยอมใคร รองเท้า Prophere จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                  นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                  นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                  นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง
+                                 
+Extremely catchy, unobtrusive shoes, Prophase will take you on the road, is a place to tell the story.
+                                  This is the shoes that bring the fabric and bring the decorator will take you on the road is a place to tell the story.
+                                  This is the shoes that bring the fabric and bring the decorator will take you on the road is a place to tell the story.
+                                  This is the shoes that bring the fabric and bring the decoration.
                                 </span>
                                 <br>
                                 <label class="additional-details d-flex" data-toggle="modal" data-target="#viewdetials">
@@ -313,26 +314,29 @@
                                     <div class="container">
                                       <!-- Text editor ปล. ใส่ tag pre ยกตัวอย่างเฉยๆ-->
                                       <pre>
-สบาย ลดแรงกระแทกได้ดี
 
-ถุงเท้าเทรนนิ่ง Adidas Stan Smith CF ผลิตด้วยการลดแรงกระแทกที่จัดตำแหน่งไว้เป็นอย่างดี มอบการปกป้องจากแรงกระทบอย่างไร้ที่ติระหว่างที่ออกกำลังกาย
+Good shock absorption.
+
+Adidas Stan Smith CF Training Cushion is produced with no impact shocks.
 
 
-ข้อดี
 
-เทคโนโลยี Dri-FIT ช่วยให้รู้สึกแห้งสบาย
-ลดแรงกระแทกตรงจุดเพื่อดูดซับแรงกระทบแบบเฉพาะจุด
-ตาข่ายระบายอากาศเพื่อให้อากาศไหลเวียนดีเยี่ยม
-ออกแบบสำหรับเท้าซ้าย/ขวาเพื่อความกระชับที่มากขึ้น
+Advantages
 
-รายละเอียดสินค้า
+Dri-FIT technology helps to feel dry.
+Impact on the spot to absorb the impact.
+Ventilation mesh for excellent air circulation.
+Left / right foot design for greater fit.
 
-ผ้า: Dri-FIT โพลีเอสเตอร์ 66%/ผ้าคอตตอน 18%/ไนลอน 14%/สแปนเดกซ์ 2%
-ซักเครื่อง
-นำเข้า
-สีที่แสดง: White/Wolf Grey/Black
-สไตล์: SX5549-100
-ประเทศ/ภูมิภาคที่ผลิต: ปากีสถาน
+
+Details
+
+Fabric: Dri-FIT Polyester 66% / Cotton 18% / Nylon 14% / Spandex 2%
+Machine wash
+import
+Display Colors: White / Wolf Gray / Black
+Style: SX5549-100
+Country / region: Pakistan
                                       </pre>
                                     </div>
 
