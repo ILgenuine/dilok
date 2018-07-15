@@ -34,7 +34,7 @@
                         <div class="col-xl-11 col-lg-10 col-md-10 col-8 text-left text-lg-right text-md-right mt-2">
                             <div class="fillter-font3">1-20 of 80 items</div>
                         </div>
-                        <div class="col-xl-1 col-lg-2 col-md-2 col-4 text-right text-md-center text-lg-right">
+                        <div class="col-xl-1 col-lg-2 col-md-2 col-4 text-right text-md-center text-lg-right pr-0">
                             <button onclick="myFunction2()" class="btn btn-column"><i class="fas fa-square"></i></button>
                             <button onclick="myFunction3()" class="btn btn-row"><i class="fas fa-th-large"></i></button>
                         </div>
