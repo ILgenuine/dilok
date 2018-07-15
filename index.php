@@ -147,7 +147,7 @@
                   </div>
                 </section>
 
-                <section class="brand-hightlight mb-lg-5 mb-md-5 mb-4">
+               <section class="brand-hightlight mb-lg-5 mb-md-5 mb-4">
                   <div class="row mx-0 mb-3">
                     <div class="col-12 px-lg-3 pl-0 pr-0 mb-md-3">
                       <h3 class="mb-1 mt-2 pull-left">BRAND HIGHLIGHT</h3>
@@ -163,7 +163,14 @@
                         </a>
                       </div>
                     </div>
+                    <div class="item">
+                      <div class="slide-brand-frame">
 
+                        <a href="filter.php">
+                          <img class="slide-brand-img" src='assets/images/logo/onisuka.png'>
+                        </a>
+                      </div>
+                    </div>
                     <div class="item">
                       <div class="slide-brand-frame">
                         <a href="filter.php">
@@ -178,8 +185,17 @@
                         </a>
                       </div>
                     </div>
+                    <div class="item last">
+                      <div class="slide-brand-frame">
+
+                        <a href="filter.php">
+                          <img class="slide-brand-img" src='assets/images/logo/reebok.png'>
+                        </a>
+                      </div>
+                    </div>
                   </div>
                 </section>
+
 
                 <section class="upcoming-launches mb-lg-5 mb-md-5 mb-4">
                                    <div class="row mx-0">

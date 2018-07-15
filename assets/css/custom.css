@@ -2870,8 +2870,8 @@ $END PRODUCT DETAILS 1
     top:50%;
     left:50%;
     transform: translate(-50%, -50%);
-    width:auto;
-    height:100%;
+    width:100%;
+    height:auto;
   }
 
   .header-slide .item .header-row h1 {
@@ -3213,8 +3213,8 @@ $END PRODUCT DETAILS 1
     top:50%;
     left:50%;
     transform: translate(-50%, -50%);
-    width:auto;
-    height:100%;
+    width:100%;
+    height:auto;
   }
 
   .header-slide .item .header-row h1 {
@@ -3453,8 +3453,8 @@ $END PRODUCT DETAILS 1
     top:50%;
     left:50%;
     transform: translate(-50%, -50%);
-    width:auto;
-    height:100%;
+    width:100%;
+    height:auto;
   }
 
   .header-slide .item .header-row h1 {
