@@ -344,7 +344,7 @@
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before filter-font-product1">1,825</span><span class="after filter-font-product1">925</span><span class="currency filter-font-product1">THB</span>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -352,7 +352,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -389,7 +389,7 @@
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -397,7 +397,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -434,7 +434,7 @@
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -442,7 +442,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -479,7 +479,7 @@
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -487,7 +487,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -526,7 +526,7 @@
                                     <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                       <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                     </div>
-                                    <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                    <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                       <button type="button" class="btn add-to-cart p-2">
                                         <label class="mb-0 d-flex pr-2">
                                           <span>Add to cart</span>
@@ -534,7 +534,7 @@
                                         </label>
                                       </button>
                                     </div>
-                                    <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                    <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                       <button type="button" class="btn fast-buy p-2">
                                         <label class="mb-0 d-flex pr-2">
                                           <span >Buy now</span>
@@ -571,7 +571,7 @@
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -579,7 +579,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -616,7 +616,7 @@
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -624,7 +624,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -661,7 +661,7 @@
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -669,7 +669,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -708,7 +708,7 @@
                                     <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                       <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                     </div>
-                                    <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                    <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                       <button type="button" class="btn add-to-cart p-2">
                                         <label class="mb-0 d-flex pr-2">
                                           <span>Add to cart</span>
@@ -716,7 +716,7 @@
                                         </label>
                                       </button>
                                     </div>
-                                    <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                    <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                       <button type="button" class="btn fast-buy p-2">
                                         <label class="mb-0 d-flex pr-2">
                                           <span >Buy now</span>
@@ -753,7 +753,7 @@
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -761,7 +761,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -798,7 +798,7 @@
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -806,7 +806,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -843,7 +843,7 @@
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -851,7 +851,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-none col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>

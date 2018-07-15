@@ -1295,10 +1295,10 @@
   }
   .filter-position-a2{
      position: absolute;
-     margin-top: 226px !important;
+     margin-top: 237px !important;
   }
   .filter-position-r2{
-     height: 462px !important;
+     height: 474px !important;
   }
   .filter-image-full3{
      position: absolute;
@@ -1484,7 +1484,7 @@
   }
   .filter-position-r{
      position: relative;
-     height: 374px !important;
+     height: 241px !important;
   }
   .filter-image-full2{
      position: absolute;
@@ -1497,10 +1497,11 @@
   }
   .filter-position-a2{
      position: absolute;
-     margin-top: 223px !important;
+     width: 100%;
+     margin-top: 236px !important;
   }
   .filter-position-r2{
-     height: 460px !important;
+     height: 334px !important;
   }
   .filter-m-l{
       padding-left: 35px;
