@@ -283,6 +283,11 @@
     font-family: 'kanitlight';
     color: black !important;
 }
+.fillter-font5{
+    font-size: 15px;
+    font-family: 'kanitlight';
+    color: black !important;
+}
 .fillter-font-step{
     font-size: 14px;
     font-family: 'kanitlight';
@@ -343,7 +348,7 @@
     background-color: transparent;
     font-size: 20px;
     width: 30px;
-    padding: 3.5px;
+    transition: all 0.5s;
 }
 .btn-column:hover{
     background-color: #fff;
@@ -354,14 +359,15 @@
 }
 .btn-row{
     background-color: #fff;
-    font-size: 18px;
+    font-size: 20px;
     width: 30px;
-    padding: 5px;
+    padding-left: 0px;
+    transition: all 0.5s;
     background-color: transparent;
 }
 .btn-row:hover{
     background-color: #fff;
-    font-size: 18px;
+    font-size: 20px;
     color: #999;
     transition: all 0.5s;
     background-color: transparent;
@@ -403,39 +409,35 @@
 .filter-image-full{
    position: absolute;
    display: block;
-   width: 100% !important;
-   height: 230px!important;
-   height: auto;
+   width: auto !important;
+   height: 100%;
    top: 50%;
    left: 50%;
    transform: translate(-50%, -50%);
-   margin-top: -98px;
 }
 .filter-position-a{
    position: absolute;
-   margin-top: 201px !important;
+   margin-top: 221px !important;
 }
 .filter-position-r{
    position: relative;
-   height: 370px !important;
+   height: 395px !important;
 }
 .filter-image-full2{
-   position: absolute;
-   display: block;
-   width: 100% !important;
-   height: 293px!important;
-   height: auto;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-   margin-top: -72px;
+     position: absolute;
+     display: block;
+     width: 100% !important;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
 }
 .filter-position-a2{
    position: absolute;
-   margin-top: 265px !important;
+   margin-top: 292px !important;
 }
 .filter-position-r2{
-   height: 440px !important;
+   height: 466px !important;
    width: 100% !important;
 }
 .color-down{
@@ -446,39 +448,75 @@
    position: absolute;
    display: block;
    width: 100% !important;
-   height: 265px!important;
    height: auto;
    top: 50%;
    left: 50%;
    transform: translate(-50%, -50%);
-   margin-top: -72px;
 }
 .filter-position-a3{
    position: absolute;
-   margin-top: 242px !important;
+   margin-top: 365px !important;
 }
 .filter-position-r3{
-   height: 412px !important;
+   height: 539px !important;
    width: 100% !important;
 }
 .filter-image-full4{
    position: absolute;
    display: block;
    width: 100% !important;
-   height: 362px !important;
    height: auto;
    top: 50%;
    left: 50%;
    transform: translate(-50%, -50%);
-   margin-top: -72px;
 }
 .filter-position-a4{
    position: absolute;
-   margin-top: 296px !important;
+   margin-top: 272px !important;
 }
 .filter-position-r4{
-   height: 469px !important;
+   height: 447px !important;
    width: 100% !important;
+}
+.filter-overlay-banner{
+     position: relative;
+     height: 300px;
+     width: 100%;
+     overflow: hidden;
+}
+.filter-image-banner{
+     position: absolute;
+     display: block;
+     width: 100%;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+}
+.filter-overlay-banner2{
+     position: relative;
+     height: 97px;
+     width: 100%;
+     overflow: hidden;
+}
+.filter-image-banner2{
+     position: absolute;
+     display: block;
+     width: 100%;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+}
+.filter-product-frame{
+      height: 214.162px !important;
+}
+.filter-product-frame2{
+      height: 288px !important;
+}
+.filter-product-frame3{
+      height: 360px !important;
+}
+.filter-product-frame4{
+      height: 262px !important;
 }
 /*-------------------------------------
 ------------- END FILLTER ---------------
@@ -893,38 +931,36 @@
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 150px!important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -136px;
+     margin-top: -15px;
   }
   .filter-position-a{
      position: absolute;
-     margin-top: 145px !important;
+     margin-top: 150px !important;
   }
   .filter-position-r{
      position: relative;
-     height: 399px !important;
+     height: 404px !important;
   }
   .filter-image-full2{
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 212px !important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -106px;
+     margin-top: -3px;
   }
   .filter-position-a2{
      position: absolute;
-     margin-top: 214px !important;
+     margin-top: 220px !important;
   }
   .filter-position-r2{
-     height: 444px !important;
+     height: 451px !important;
   }
   .filter-p{
     padding: 10px;
@@ -933,39 +969,55 @@
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 190px!important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -107px;
+     margin-top: -4px;
   }
   .filter-position-a3{
      position: absolute;
-     margin-top: 190px !important;
+     margin-top: 268px !important;
   }
   .filter-position-r3{
-     height: 446px !important;
+     height: 499px !important;
      width: 100% !important;
   }
   .filter-image-full4{
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 267px !important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -72px;
+     margin-top: -18px;
   }
   .filter-position-a4{
      position: absolute;
-     margin-top: 263px !important;
+     margin-top: 197px !important;
   }
   .filter-position-r4{
-     height: 495px !important;
+     height: 453px !important;
      width: 100% !important;
+  }
+  .filter-overlay-banner {
+      position: relative;
+      height: 261px;
+      width: 100%;
+      overflow: hidden;
+  }
+  .filter-product-frame{
+      height: 181px !important;
+  }
+  .filter-product-frame2{
+      height: 221px !important;
+  }
+  .filter-product-frame3{
+        height: 270px !important;
+  }
+  .filter-product-frame4{
+        height: 230px !important;
   }
   /*-------------------------------------
   ---------- END FILLTER 1366 ------------
@@ -1217,76 +1269,124 @@
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 137px!important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -121px;
+     margin-top: -14px;
   }
   .filter-position-a{
      position: absolute;
-     margin-top: 132px !important;
+     margin-top: 150px !important;
   }
   .filter-position-r{
      position: relative;
-     height: 367px !important;
+     height: 387px !important;
   }
   .filter-image-full2{
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 212px !important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -100px;
+     margin-top: -15px;
   }
   .filter-position-a2{
      position: absolute;
-     margin-top: 197px !important;
+     margin-top: 237px !important;
   }
   .filter-position-r2{
-     height: 434px !important;
+     height: 474px !important;
   }
   .filter-image-full3{
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 190px!important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -107px;
+     margin-top:0px;
   }
   .filter-position-a3{
      position: absolute;
-     margin-top: 173px !important;
+     margin-top: 308px !important;
   }
   .filter-position-r3{
-     height: 409px !important;
+     height: 543px !important;
      width: 100% !important;
   }
   .filter-image-full4{
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 279px !important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -72px;
+     margin-top: -31px;
   }
   .filter-position-a4{
      position: absolute;
-     margin-top: 255px !important;
+     margin-top: 205px !important;
   }
   .filter-position-r4{
-     height: 491px !important;
+     height: 440px !important;
      width: 100% !important;
+  }
+  .filter-overlay-banner{
+     position: relative;
+     height: 163px;
+     width: 100%;
+     overflow: hidden;
+  }
+  .filter-image-banner{
+     position: absolute;
+     display: block;
+     width: 100%;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+  }
+  .filter-overlay-banner2{
+     position: relative;
+     height: 73px;
+     width: 100%;
+     overflow: hidden;
+  }
+  .filter-image-banner2{
+     position: absolute;
+     display: block;
+     width: 100%;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+  }
+  .filter-overflow{
+      overflow: hidden;
+      height: 60px;
+  }
+  .fillter-font5{
+      font-size: 14px;
+      font-family: 'kanitlight';
+      color: black !important;
+  }
+  .filter-p {
+      padding: 6px;
+  }
+  .filter-product-frame{
+      height: 168px !important;
+  }
+  .filter-product-frame2{
+      height: 255px !important;
+  }
+  .filter-product-frame3{
+        height: 307px !important;
+  }
+  .filter-product-frame4{
+        height: 263px !important;
   }
   /*-------------------------------------
   ----------- END FILTER 1024 -------------
@@ -1373,38 +1473,50 @@
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 135px!important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -121px;
   }
   .filter-position-a{
      position: absolute;
-     margin-top: 132px !important;
+     margin-top: 139px !important;
   }
   .filter-position-r{
      position: relative;
-     height: 369px !important;
+     height: 241px !important;
   }
   .filter-image-full2{
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 212px !important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -100px;
   }
   .filter-position-a2{
      position: absolute;
-     margin-top: 197px !important;
+     width: 100%;
+     margin-top: 236px !important;
   }
   .filter-position-r2{
-     height: 434px !important;
+     height: 334px !important;
+  }
+  .filter-m-l{
+      padding-left: 35px;
+  }
+  .filter-m-l2{
+      margin-left: 20em;
+  }
+  .filter-overlay-banner {
+      position: relative;
+      height: 322px;
+      width: 100%;
+      overflow: hidden;
+  }
+  .filter-product-frame {
+      height: 166px !important;
   }
   /*-------------------------------------
   ------------END FILLTER 768 --------------
@@ -1620,6 +1732,9 @@
   /*-------------------------------------
   ------------ FILLTER 414 --------------
   ---------------------------------------*/
+    /* .filter-font-product1{
+        font-size: 14px;
+    } */
     .fillter-d-n1{
         display: none;
     }
@@ -1627,7 +1742,7 @@
         display: none;
     }
     .fillter-d-n2{
-        display: none;
+        display: block;
     }
     .box{
         padding: 30px;
@@ -1637,7 +1752,7 @@
         padding-right:20px;
     }
     .fillter-m-t2{
-        margin-top: 30px;
+        margin-top: 0px;
     }
     .fillter-m-tt{
         margin-top: 20px;
@@ -1647,20 +1762,109 @@
        position: absolute;
        display: block;
        width: 100% !important;
-       height: 217px !important;
        height: auto;
        top: 50%;
        left: 50%;
        transform: translate(-50%, -50%);
-       margin-top: -125px;
     }
     .filter-position-a{
        position: absolute;
-       margin-top: 194px !important
+       margin-top: 123px !important;
+       width: 100%;
+    }
+    .filter-position-a5{
+        position: absolute;
+        margin-top: 262px !important;
+        width: 100%;
+    }
+    .filter-position-a6{
+        position: absolute;
+        margin-top: 123px !important;
     }
     .filter-position-r{
        position: relative;
-       height: 431px !important;
+       height: 220px !important;
+    }
+    .filter-position-r5{
+       position: relative;
+       height: 368px !important;
+    }
+    .filter-position-r6{
+       position: relative;
+       height: 220px !important;
+    }
+    .filter-m-l{
+        margin-left: 0px;
+    }
+    .filter-m-l2{
+        margin-left: 137px;
+    }
+    .filter-overlay-banner {
+        position: relative;
+        height: 197px;
+        width: 100%;
+        overflow: hidden;
+    }
+    .filter-overlay-banner2 {
+        position: relative;
+        height: 105px;
+        width: 100%;
+        overflow: hidden;
+    }
+    .filter-p {
+        padding: 6px;
+    }
+    .filter-p2{
+        padding-left:20px;
+        padding-right: 20px;
+    }
+    .filter-p3{
+        padding-left:10px;
+        padding-right: 5px;
+    }
+    .box-padding{
+        padding: 15px;
+    }
+    .filter-pt-3{
+        padding-top: 30px;
+    }
+    .fillter-m {
+         margin: 0px;
+    }
+    .filter-image-full2 {
+        position: absolute;
+        display: block;
+        width: 100% !important;
+        height: auto;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .filter-overlay-product {
+        position: relative;
+        height: 105px;
+        width: 100%;
+        overflow: hidden;
+    }
+    .filter-image-product {
+        position: absolute;
+        display: block;
+        width: 100% !important;
+        height: 128px !important;
+        height: auto;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin-top: -100px;
+    }
+    .filter-product-frame {
+        height: 146px !important;
+    }
+    .filter-product-frame5 {
+        height: 284px !important;
+    }
+    .filter-product-frame6 {
+        height: 146px !important;
     }
   /*-------------------------------------
   ------------END FILLTER 414 --------------
@@ -1857,7 +2061,7 @@
   ------------ FILLTER 375 --------------
   ---------------------------------------*/
   .fillter-m-t2{
-    margin-top: 30px;
+    margin-top: -3px;
   }
   .add-to-cart{
     font-size: 15px;
@@ -1869,20 +2073,47 @@
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 198px!important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -125px;
   }
   .filter-position-a{
      position: absolute;
-     margin-top: 183px !important
+     margin-top: 106px !important
   }
   .filter-position-r{
      position: relative;
-     height: 420px !important;
+     height: 226px !important;
+  }
+  .filter-position-a5{
+      position: absolute;
+      margin-top: 229px !important;
+      width: 100%;
+  }
+  .filter-position-a6{
+      position: absolute;
+      margin-top: 106px !important;
+  }
+  .filter-position-r5{
+     position: relative;
+     height: 331px !important;
+  }
+  .filter-position-r6{
+     position: relative;
+     height: 226px !important;
+  }
+  .filter-product-frame {
+      height: 136px !important;
+  }
+  .filter-product-frame5 {
+      height: 261px !important;
+  }
+  .filter-product-frame6 {
+      height: 136px !important;
+  }
+  .filter-m-l2 {
+      margin-left: 124px;
   }
   /*-------------------------------------
   ------------END FILLTER 375 --------------
@@ -1965,25 +2196,51 @@
      position: absolute;
      display: block;
      width: 100% !important;
-     height: 168px!important;
      height: auto;
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     margin-top: -125px;
   }
   .filter-position-a{
      position: absolute;
-     margin-top: 152px !important
+     margin-top: 88px !important
   }
   .filter-position-r{
      position: relative;
-     height: 388px !important;
+     height: 198px !important;
+  }
+  .filter-position-a5{
+      position: absolute;
+      margin-top: 195px !important;
+      width: 100%;
+  }
+  .filter-position-a6{
+      position: absolute;
+      margin-top: 88px !important;
+  }
+  .filter-position-r5{
+     position: relative;
+     height: 290px !important;
+  }
+  .filter-position-r6{
+     position: relative;
+     height: 198px !important;
+  }
+  .filter-product-frame {
+      height: 120px !important;
+  }
+  .filter-product-frame5 {
+      height: 227px !important;
+  }
+  .filter-product-frame6 {
+      height: 120px !important;
+  }
+  .filter-m-l2 {
+      margin-left: 107px;
   }
   /*-------------------------------------
   ------------END FILLTER 320 --------------
   ---------------------------------------*/
-
 
   /*-------------------------------------
   --------------- PAY 320 --------------

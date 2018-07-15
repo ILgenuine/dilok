@@ -3480,6 +3480,7 @@ $END PRODUCT DETAILS 1
     height:350px !important;
   }
 
+
   /*------------------------------------*
   $END INDEX 768
   *------------------------------------*/
@@ -3750,8 +3751,9 @@ $END PRODUCT DETAILS 1
   .size-select-box2 .dropdown{
       width:100%;
   }
-
-
+  .header-slide .header-slide-btn {
+    margin: 0px auto;
+  }
   .header-slide-btn {
     width: 40%;
   }
@@ -3784,6 +3786,21 @@ $END PRODUCT DETAILS 1
     font-size: 11px;
   }
 
+  .header-slide .item .slide-img{
+    width:auto;
+    height:100%;
+  }
+
+  .header-row hr {
+    float: unset;
+  }
+   .header-slide .item .header-row {
+    text-align: center;
+  }
+  .header-slide .item .header-row {
+    left: 0;
+    padding: 0px 20px;
+  }
   /*------------------------------------*
   $END Index 414
   *------------------------------------*/
