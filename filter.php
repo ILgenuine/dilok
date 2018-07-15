@@ -17,39 +17,8 @@
       <?php include_once('inc/filter-sidebar.php'); ?>
       <!-- END CART SIDEBAR -->
 
+
       <div class="row mt-5">
-          <div class="col-xl-2 col-lg-3 fillter-d-n1">
-              <button onclick="myFunction()" class="btn btn-hide" id="demo">hide filter</button>
-          </div>
-          <div class="col-md-4 col-6 d-md-block d-lg-none d-xl-none fillter-r-l">
-            <button class="btn btn-fillter filter-sidebar-btn pull-right" type="button">
-                <span class="black"> filter </span>
-            </button>
-          </div>
-          <div class="col-xl-6 col-12 col-lg-5 col-md-12 order-2 fillter-m-tt order-lg-1 order-md-3">
-            <ol class="breadcrumb pull-left mb-0 pb-0 pt-2" style="top:0;">
-              <li class="breadcrumb-item"><a href="#" class="fillter-font-step">รองเท้า</a></li>
-              <li class="breadcrumb-item active" aria-current="page">
-                  <span class="fillter-font-step">Brand<span>
-              </li>
-              <li class="breadcrumb-item active" aria-current="page">
-                  <span class="fillter-font-step">Adidas</span>
-              </li>
-            </ol>
-          </div>
-          <div class="col-xl-3 col-6 col-lg-3 col-md-6 text-center text-lg-right text-md-right mt-2 order-1 order-lg-2 order-md-1">
-              <div class="fillter-font3">1-20 of 80 items</div>
-          </div>
-          <div class="col-xl-1 col-lg-1 col-md-2 col-12 text-center text-lg-right text-md-right fillter-d-n2 fillter-m-t2 order-lg-3 order-md-2">
-             <div class="">
-               <button onclick="myFunction2()" class="btn btn-column"><i class="fas fa-columns"></i></button>
-               <button onclick="myFunction3()" class="btn btn-row"><i class="fas fa-align-justify"></i></button>
-             </div>
-          </div>
-      </div>
-
-
-      <div class="row">
         <div class="col-xl-2 col-lg-3 fillter-d-n3" id="myDIV">
           <section class="filter">
              <form class="form-group">
@@ -309,64 +278,98 @@
                </div>
           </section>
           <div class="filtered-item filtered-item3 col-xl-10 col-lg-9 col-md-12 fadeIn animated">
-            <section class="grid-item box">
-                <ul class="row list-unstyled">
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
-                        <div class="item">
-                          <div class="card p-1 fillter-m filter-position-r fillter-position6 fillter-position8 fillter-position1">
-                            <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
-                            <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
-                              <div class="latest-product-frame filter-position-r">
-                                <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/NAM16.jpg" alt="Card image cap"> </a>
-                                <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/NIKE_AIR_MAX_270_GREY.jpg" alt="Card image cap"> </a>
-                              </div>
-                              <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
-                                <div class="row px-0 mx-0">
-                                    <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
-                                        <div class="product-title">
-                                          <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
-                                        </div>
-                                        <div clas="product-categories">
-                                          <span>Men running</span>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
-                                      <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
-                                    </div>
-                                    <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                      <div class="sale-percent">
-                                        <span>ลด 50%</span>
-                                      </div>
-                                    </div>
-                                    <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
-                                      <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
-                                    </div>
-                                    <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
-                                      <button type="button" class="btn add-to-cart p-2">
-                                        <label class="mb-0 d-flex pr-2">
-                                          <span>Add to cart</span>
-                                          <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
-                                        </label>
-                                      </button>
-                                    </div>
-                                    <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
-                                      <button type="button" class="btn fast-buy p-2">
-                                        <label class="mb-0 d-flex pr-2">
-                                          <span >Buy now</span>
-                                          <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
-                                        </label>
-                                      </button>
-                                    </div>
-                                </div>
-                              </div>
-                          </div>
+              <div class="row mx-0">
+                    <div class="col-xl-6 col-lg-5 col-12">
+                        <div class="filter-overlay-banner">
+                            <img src = "//d3ag7gmpyt0wvo.cloudfront.net/catalog/category/20180518_samba_slider.jpg" class="filter-image-banner">
                         </div>
-                    </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-12 pr-3 pl-3">
+                        <div class="col-xl-2 col-lg-2 col-md-1 col-3">
+                            <div class="filter-overlay-banner2 filter-m-l2">
+                                <img src = "assets/images/logo/adidas.png" class="filter-image-banner2">
+                            </div>
+                        </div>
+                        <div class="fillter-font5 filter-overflow filter-p2 text-center text-lg-left text-md-left">
+                          simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+                          standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+                          it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5 mx-0">
+                    <div class="col-md-3 col-12 d-md-block d-lg-none d-xl-none fillter-r-l filter-m-l">
+                        <button class="btn btn-fillter filter-sidebar-btn pull-right" type="button">
+                            <span class="black"> filter </span>
+                        </button>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 fillter-d-n1 pl-4">
+                        <button onclick="myFunction()" class="btn btn-hide" id="demo">hide filter</button>
+                    </div>
+                    <div class="col-xl-10 col-lg-9 col-md-9 col-12">
+                        <div class="row filter-pt-3 filter-p3 mx-0">
+                            <div class="col-xl-11 col-9 col-lg-9 col-md-10 text-left text-lg-right text-md-right mt-2 order-1 order-lg-2 order-md-1">
+                                <div class="fillter-font3">1-20 of 80 items</div>
+                            </div>
+                            <div class="col-xl-1 col-lg-3 col-md-2 col-3 text-right text-lg-right text-md-center fillter-d-n2 fillter-m-t2 order-2 order-lg-3 order-md-2 pr-0">
+                                <button onclick="myFunction2()" class="btn btn-column"><i class="fas fa-square"></i></button>
+                                <button onclick="myFunction3()" class="btn btn-row"><i class="fas fa-th-large"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <section class="grid-item box box-padding">
+                <ul class="row list-unstyled">
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
-                            <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class="filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
+                            <div class="latest-product-frame filter-product-frame fillter-height1 fillter-height2 fillter-height3 fillter-height4">
+                                <a href="product-details1.php"> <img class="filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
+                                <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/4.jpg" alt="Card image cap"> </a>
+                            </div>
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
+                              <div class="row px-0 mx-0">
+                                  <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
+                                      <div class="product-title filter-font-product1">
+                                        <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
+                                      </div>
+                                      <div clas="product-categories filter-font-product1">
+                                        <span>Men running</span>
+                                      </div>
+                                  </div>
+                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
+                                    <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
+                                  </div>
+                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
+                                  <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
+                                    <span class="before filter-font-product1">1,825</span><span class="after filter-font-product1">925</span><span class="currency filter-font-product1">THB</span>
+                                  </div>
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                    <button type="button" class="btn add-to-cart p-2">
+                                      <label class="mb-0 d-flex pr-2">
+                                        <span>Add to cart</span>
+                                        <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
+                                      </label>
+                                    </button>
+                                  </div>
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                    <button type="button" class="btn fast-buy p-2">
+                                      <label class="mb-0 d-flex pr-2">
+                                        <span >Buy now</span>
+                                        <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
+                                      </label>
+                                    </button>
+                                  </div>
+                              </div>
+                            </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                      <div class="item">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
+                            <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
+                              <a href="product-details1.php"> <img class="filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
                               <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/4.jpg" alt="Card image cap"> </a>
                             </div>
                             <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
@@ -380,17 +383,13 @@
                                       </div>
                                   </div>
                                   <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
-                                    <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
+                                    <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                   </div>
-                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                    <div class="sale-percent">
-                                      <span>ลด 50%</span>
-                                    </div>
-                                  </div>
+                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -398,7 +397,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -411,12 +410,12 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
-                            <div class="latest-product-frame filter-position-r">
+                            <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
                               <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
                             </div>
                             <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                               <div class="row px-0 mx-0">
@@ -429,17 +428,13 @@
                                       </div>
                                   </div>
                                   <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
-                                    <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
+                                    <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                   </div>
-                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                    <div class="sale-percent">
-                                      <span>ลด 50%</span>
-                                    </div>
-                                  </div>
+                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -447,7 +442,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -460,10 +455,10 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
-                            <div class="latest-product-frame filter-position-r">
+                            <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
                               <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/8.jpg" alt="Card image cap"> </a>
                               <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
                             </div>
@@ -478,17 +473,13 @@
                                       </div>
                                   </div>
                                   <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
-                                    <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
+                                    <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                   </div>
-                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                    <div class="sale-percent">
-                                      <span>ลด 50%</span>
-                                    </div>
-                                  </div>
+                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -496,7 +487,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -509,12 +500,12 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                         <div class="item">
                           <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
                             <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
-                              <div class="latest-product-frame filter-position-r">
+                              <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
                                 <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
                                 <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
                               </div>
@@ -531,15 +522,11 @@
                                     <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                       <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                     </div>
-                                    <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                      <div class="sale-percent">
-                                        <span>ลด 50%</span>
-                                      </div>
-                                    </div>
+                                    <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
                                     <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                       <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                     </div>
-                                    <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                    <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                       <button type="button" class="btn add-to-cart p-2">
                                         <label class="mb-0 d-flex pr-2">
                                           <span>Add to cart</span>
@@ -547,7 +534,7 @@
                                         </label>
                                       </button>
                                     </div>
-                                    <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                    <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                       <button type="button" class="btn fast-buy p-2">
                                         <label class="mb-0 d-flex pr-2">
                                           <span >Buy now</span>
@@ -560,10 +547,10 @@
                           </div>
                         </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
-                            <div class="latest-product-frame filter-position-r">
+                            <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
                               <a href="product-details1.php"> <img class="filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
                               <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
                             </div>
@@ -580,15 +567,11 @@
                                   <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                     <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                   </div>
-                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                    <div class="sale-percent">
-                                      <span>ลด 50%</span>
-                                    </div>
-                                  </div>
+                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -596,7 +579,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -609,59 +592,10 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
-                            <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
-                            </div>
-                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position7">
-                              <div class="row px-0 mx-0">
-                                  <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
-                                      <div class="product-title">
-                                        <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
-                                      </div>
-                                      <div clas="product-categories">
-                                        <span>Men running</span>
-                                      </div>
-                                  </div>
-                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
-                                    <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
-                                  </div>
-                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                    <div class="sale-percent">
-                                      <span>ลด 50%</span>
-                                    </div>
-                                  </div>
-                                  <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
-                                    <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
-                                  </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
-                                    <button type="button" class="btn add-to-cart p-2">
-                                      <label class="mb-0 d-flex pr-2">
-                                        <span>Add to cart</span>
-                                        <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
-                                      </label>
-                                    </button>
-                                  </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
-                                    <button type="button" class="btn fast-buy p-2">
-                                      <label class="mb-0 d-flex pr-2">
-                                        <span >Buy now</span>
-                                        <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
-                                      </label>
-                                    </button>
-                                  </div>
-                              </div>
-                            </div>
-                        </div>
-                      </div>
-                    </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
-                      <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
-                            <div class="latest-product-frame filter-position-r">
+                            <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
                               <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
                               <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
                             </div>
@@ -676,17 +610,13 @@
                                       </div>
                                   </div>
                                   <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
-                                    <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
+                                    <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
                                   </div>
-                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                    <div class="sale-percent">
-                                      <span>ลด 50%</span>
-                                    </div>
-                                  </div>
+                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -694,7 +624,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -707,13 +637,58 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                      <div class="item">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
+                            <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
+                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/3.jpg" alt="Card image cap"> </a>
+                            </div>
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
+                              <div class="row px-0 mx-0">
+                                  <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
+                                      <div class="product-title">
+                                        <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
+                                      </div>
+                                      <div clas="product-categories">
+                                        <span>Men running</span>
+                                      </div>
+                                  </div>
+                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
+                                    <button type="button" class="btn heart-btn"><i name="like-button" class="far fa-2x fa-heart not-liked"></i></button>
+                                  </div>
+                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
+                                  <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
+                                    <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
+                                  </div>
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                    <button type="button" class="btn add-to-cart p-2">
+                                      <label class="mb-0 d-flex pr-2">
+                                        <span>Add to cart</span>
+                                        <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
+                                      </label>
+                                    </button>
+                                  </div>
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                    <button type="button" class="btn fast-buy p-2">
+                                      <label class="mb-0 d-flex pr-2">
+                                        <span >Buy now</span>
+                                        <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
+                                      </label>
+                                    </button>
+                                  </div>
+                              </div>
+                            </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                         <div class="item">
                           <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
                             <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
-                              <div class="latest-product-frame filter-position-r">
-                                <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
+                              <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
+                                <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
                                 <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
                               </div>
                               <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
@@ -729,15 +704,11 @@
                                     <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                       <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                     </div>
-                                    <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                      <div class="sale-percent">
-                                        <span>ลด 50%</span>
-                                      </div>
-                                    </div>
+                                    <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
                                     <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                       <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                     </div>
-                                    <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                    <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                       <button type="button" class="btn add-to-cart p-2">
                                         <label class="mb-0 d-flex pr-2">
                                           <span>Add to cart</span>
@@ -745,7 +716,7 @@
                                         </label>
                                       </button>
                                     </div>
-                                    <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                    <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                       <button type="button" class="btn fast-buy p-2">
                                         <label class="mb-0 d-flex pr-2">
                                           <span >Buy now</span>
@@ -758,10 +729,10 @@
                           </div>
                         </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
-                            <div class="latest-product-frame filter-position-r">
+                            <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
                               <a href="product-details1.php"> <img class="filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/6.jpg" alt="Card image cap"> </a>
                               <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
                             </div>
@@ -778,15 +749,11 @@
                                   <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                     <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                   </div>
-                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                    <div class="sale-percent">
-                                      <span>ลด 50%</span>
-                                    </div>
-                                  </div>
+                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -794,7 +761,7 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -807,60 +774,11 @@
                         </div>
                       </div>
                     </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
-                            <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/8.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/1.jpg" alt="Card image cap"> </a>
-                            </div>
-                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
-                              <div class="row px-0 mx-0">
-                                  <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
-                                      <div class="product-title">
-                                        <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
-                                      </div>
-                                      <div clas="product-categories">
-                                        <span>Men running</span>
-                                      </div>
-                                  </div>
-                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
-                                    <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
-                                  </div>
-                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                    <div class="sale-percent">
-                                      <span>ลด 50%</span>
-                                    </div>
-                                  </div>
-                                  <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
-                                    <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
-                                  </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
-                                    <button type="button" class="btn add-to-cart p-2">
-                                      <label class="mb-0 d-flex pr-2">
-                                        <span>Add to cart</span>
-                                        <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
-                                      </label>
-                                    </button>
-                                  </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
-                                    <button type="button" class="btn fast-buy p-2">
-                                      <label class="mb-0 d-flex pr-2">
-                                        <span >Buy now</span>
-                                        <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
-                                      </label>
-                                    </button>
-                                  </div>
-                              </div>
-                            </div>
-                        </div>
-                      </div>
-                    </li>
-                    <li class="col-xl-3 col-lg-4 col-md-4 fadeIn animated filtered-item2 fillter-m-b filter-p">
-                      <div class="item">
-                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
-                            <div class="latest-product-frame filter-position-r">
-                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/5.jpg" alt="Card image cap"> </a>
+                            <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
+                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
                               <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
                             </div>
                             <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
@@ -876,15 +794,11 @@
                                   <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
                                     <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
                                   </div>
-                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3">
-                                    <div class="sale-percent">
-                                      <span>ลด 50%</span>
-                                    </div>
-                                  </div>
+                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
                                   <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
                                     <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn add-to-cart p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span>Add to cart</span>
@@ -892,7 +806,52 @@
                                       </label>
                                     </button>
                                   </div>
-                                  <div class="col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
+                                    <button type="button" class="btn fast-buy p-2">
+                                      <label class="mb-0 d-flex pr-2">
+                                        <span >Buy now</span>
+                                        <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
+                                      </label>
+                                    </button>
+                                  </div>
+                              </div>
+                            </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
+                      <div class="item">
+                        <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
+                            <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
+                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
+                            </div>
+                            <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
+                              <div class="row px-0 mx-0">
+                                  <div class="col-xl-8 col-lg-9 col-md-9 col-8 px-xl-2 px-0 mb-2">
+                                      <div class="product-title">
+                                        <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
+                                      </div>
+                                      <div clas="product-categories">
+                                        <span>Men running</span>
+                                      </div>
+                                  </div>
+                                  <div class="col-xl-4 col-lg-3 col-md-3 col-4 mb-2 px-0 text-right">
+                                    <button type="button" class="btn heart-btn"><i name="like-button" class="fa-2x fa-heart liked fas liked-shaked"></i></button>
+                                  </div>
+                                  <div class="col-xl-4 col-md-4 col-3 col-lg-3 px-xl-2 px-0 mb-2 filtered-item3"></div>
+                                  <div class="col-xl-8 col-md-8 col-lg-9 col-9 px-xl-2 px-0 mb-2 latest-product-price filtered-item3">
+                                    <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
+                                  </div>
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mb-xl-0 mb-2 mt-2 latest-product-btn fillter-btn-width">
+                                    <button type="button" class="btn add-to-cart p-2">
+                                      <label class="mb-0 d-flex pr-2">
+                                        <span>Add to cart</span>
+                                        <i class="fas fa-plus ml-auto pt-1" aria-hidden="true"></i>
+                                      </label>
+                                    </button>
+                                  </div>
+                                  <div class="d-none d-lg-block d-md-block col-xl-6 col-lg-12 px-xl-1 px-lg-0 mt-2 latest-product-btn fillter-btn-width">
                                     <button type="button" class="btn fast-buy p-2">
                                       <label class="mb-0 d-flex pr-2">
                                         <span >Buy now</span>
@@ -926,6 +885,9 @@
     <?php include_once('inc/footer-script.php'); ?>
     <!-- END FOOOTER SCRIPT -->
   </body>
+
+
+
   <script type="text/javascript">
 
       function myFunction() {
@@ -937,84 +899,155 @@
           }
 
           $('.filtered-item').toggleClass('col-xl-10 col-xl-12 col-lg-12 col-lg-9');
-
           $('.filtered-item2').addClass('col-lg-4');
 
           if(document.getElementById("demo").innerHTML == 'show filter'){
               document.getElementById("demo").innerHTML = "hide filter";
-              $('.fillter-position4').removeClass('filter-image-full3');
-              $('.fillter-position5').removeClass('filter-position-a3');
-              $('.fillter-position6').removeClass('filter-position-r3');
+              $('.fillter-position1').addClass('filter-position-r');
+              $('.fillter-position2').addClass('filter-position-a');
+              $('.fillter-position3').addClass('filter-image-full');
 
               $('.fillter-position7').removeClass('filter-image-full4');
               $('.fillter-position8').removeClass('filter-position-r4');
               $('.fillter-position9').removeClass('filter-position-a4');
+
+              $('.fillter-position4').removeClass('filter-image-full3');
+              $('.fillter-position5').removeClass('filter-position-a3');
+              $('.fillter-position6').removeClass('filter-position-r3');
+
+              $('.fillter-height1').addClass('filter-product-frame');
+
+              $('.fillter-height3').removeClass('filter-product-fram3');
+              $('.fillter-height4').removeClass('filter-product-frame4');
           }
 
           else if(document.getElementById("demo").innerHTML == 'hide filter'){
               document.getElementById("demo").innerHTML = "show filter";
-              $('.fillter-position4').addClass('filter-image-full3');
-              $('.fillter-position5').addClass('filter-position-a3');
-              $('.fillter-position6').addClass('filter-position-r3');
+              $('.fillter-position7').addClass('filter-image-full4');
+              $('.fillter-position8').addClass('filter-position-r4');
+              $('.fillter-position9').addClass('filter-position-a4');
 
+              $('.fillter-height4').addClass('filter-product-frame4');
+
+              $('.fillter-position4').removeClass('filter-image-full3');
+              $('.fillter-position5').removeClass('filter-position-r3');
+              $('.fillter-position6').removeClass('filter-position-a3');
+
+              $('.fillter-position4').removeClass('filter-image-full2');
+              $('.fillter-position5').removeClass('filter-position-r2');
+              $('.fillter-position6').removeClass('filter-position-a2');
+
+              $('.fillter-position1').removeClass('filter-image-full');
+              $('.fillter-position2').removeClass('filter-position-r');
+              $('.fillter-position3').removeClass('filter-position-a');
+
+              $('.fillter-height3').removeClass('filter-product-frame3');
+
+              $('.fillter-height1').removeClass('filter-product-frame');
+              $('.fillter-height2').removeClass('filter-product-frame2');
           }
       }
 
+
+
         function myFunction2() {
-          $('.filtered-item2').addClass('col-xl-4 col-6 col-lg-6 col-md-6');
-          $('.filtered-item2').removeClass('col-xl-3 col-12 col-lg-4 col-md-4');
-
-          $('.fillter-position1').addClass('filter-position-r2');
-          $('.fillter-position2').addClass('filter-position-a2');
-          $('.fillter-position3').addClass('filter-image-full2');
-
-          $('.fillter-position1').removeClass('filter-position-r');
-          $('.fillter-position2').removeClass('filter-position-a');
-          $('.fillter-position3').removeClass('filter-image-full');
+          $('.filtered-item2').addClass('col-xl-4 col-12 col-lg-6 col-md-6');
+          $('.filtered-item2').removeClass('col-xl-3 col-6 col-lg-4 col-md-4');
 
         if(document.getElementById("demo").innerHTML == 'show filter') {
-            $('.fillter-position7').addClass('filter-image-full4');
-            $('.fillter-position8').addClass('filter-position-r4');
-            $('.fillter-position9').addClass('filter-position-a4');
+            $('.fillter-position4').addClass('filter-image-full3');
+            $('.fillter-position5').addClass('filter-position-a3');
+            $('.fillter-position6').addClass('filter-position-r3');
+            $('.fillter-height3').addClass('filter-product-frame3');
 
-            $('.fillter-position4').removeClass('filter-image-full2');
-            $('.fillter-position5').removeClass('filter-position-r2');
-            $('.fillter-position6').removeClass('filter-position-a2');
+            $('.fillter-position7').removeClass('filter-image-full4');
+            $('.fillter-position8').removeClass('filter-position-r4');
+            $('.fillter-position9').removeClass('filter-position-a4');
+
+            $('.fillter-position1').removeClass('filter-image-full2');
+            $('.fillter-position2').removeClass('filter-position-r2');
+            $('.fillter-position3').removeClass('filter-position-a2');
 
             $('.fillter-position1').removeClass('filter-image-full');
             $('.fillter-position2').removeClass('filter-position-r');
             $('.fillter-position3').removeClass('filter-position-a');
+
+            $('.fillter-height1').removeClass('filter-product-frame');
+            $('.fillter-height2').removeClass('filter-product-frame2');
+
+            $('.fillter-height4').removeClass('filter-product-frame4');
           }
           else {
-            $('.fillter-position1').addClass('filter-position-r2');
-            $('.fillter-position2').addClass('filter-position-a2');
+            $('.fillter-position1').addClass('filter-position-r2 filter-position-r5');
+            $('.fillter-position2').addClass('filter-position-a2 filter-position-a5');
             $('.fillter-position3').addClass('filter-image-full2');
 
-            $('.fillter-position1').removeClass('filter-position-r');
-            $('.fillter-position2').removeClass('filter-position-a');
+            $('.fillter-position1').removeClass('filter-position-r filter-position-r6');
+            $('.fillter-position2').removeClass('filter-position-a filter-position-a6');
             $('.fillter-position3').removeClass('filter-image-full');
 
             $('.fillter-position7').removeClass('filter-image-full4');
             $('.fillter-position8').removeClass('filter-position-r4');
             $('.fillter-position9').removeClass('filter-position-a4');
+
+            $('.fillter-height2').addClass('filter-product-frame2 filter-product-frame5');
+            $('.fillter-height1').removeClass('filter-product-frame filter-product-frame6');
+
+            $('.fillter-height3').removeClass('filter-product-fram3');
+            $('.fillter-height4').removeClass('filter-product-frame4');
+
           }
-
         }
+
+
         function myFunction3() {
-          $('.filtered-item2').addClass('col-xl-3 col-12 col-lg-4 col-md-4');
-          $('.filtered-item2').removeClass('col-xl-4 col-6 col-lg-6 col-md-6');
+          $('.filtered-item2').addClass('col-xl-3 col-6 col-lg-4 col-md-4');
+          $('.filtered-item2').removeClass('col-xl-4 col-12 col-lg-6 col-md-6');
 
-          $('.fillter-position1').addClass('filter-position-r');
-          $('.fillter-position2').addClass('filter-position-a');
-          $('.fillter-position3').addClass('filter-image-full');
+          if(document.getElementById("demo").innerHTML == 'show filter') {
+              $('.fillter-position7').addClass('filter-image-full4');
+              $('.fillter-position8').addClass('filter-position-r4');
+              $('.fillter-position9').addClass('filter-position-a4');
 
-          $('.fillter-position1').removeClass('filter-position-r2');
-          $('.fillter-position2').removeClass('filter-position-a2');
-          $('.fillter-position3').removeClass('filter-image-full2');
+              $('.fillter-height4').addClass('filter-product-frame4');
 
-          $('.fillter-position7').removeClass('filter-image-full4');
-          $('.fillter-position8').removeClass('filter-position-r4');
-          $('.fillter-position9').removeClass('filter-position-a4');
+              $('.fillter-position4').removeClass('filter-image-full3');
+              $('.fillter-position5').removeClass('filter-position-r3');
+              $('.fillter-position6').removeClass('filter-position-a3');
+
+              $('.fillter-position4').removeClass('filter-image-full2');
+              $('.fillter-position5').removeClass('filter-position-r2');
+              $('.fillter-position6').removeClass('filter-position-a2');
+
+              $('.fillter-position1').removeClass('filter-image-full');
+              $('.fillter-position2').removeClass('filter-position-r');
+              $('.fillter-position3').removeClass('filter-position-a');
+
+              $('.fillter-height3').removeClass('filter-product-frame3');
+
+              $('.fillter-height1').removeClass('filter-product-frame');
+              $('.fillter-height2').removeClass('filter-product-frame2');
+            }
+            else {
+              $('.fillter-position1').addClass('filter-position-r filter-position-r6');
+              $('.fillter-position2').addClass('filter-position-a filter-position-a6');
+              $('.fillter-position3').addClass('filter-image-full');
+
+              $('.fillter-position1').removeClass('filter-position-r2 filter-position-r5');
+              $('.fillter-position2').removeClass('filter-position-a2 filter-position-a5');
+              $('.fillter-position3').removeClass('filter-image-full2');
+
+              $('.fillter-position7').removeClass('filter-image-full4');
+              $('.fillter-position8').removeClass('filter-position-r4');
+              $('.fillter-position9').removeClass('filter-position-a4');
+
+              $('.fillter-height1').addClass('filter-product-frame filter-product-frame6');
+              $('.fillter-height2').removeClass('filter-product-frame2 filter-product-frame5');
+
+              $('.fillter-height3').removeClass('filter-product-fram3');
+              $('.fillter-height4').removeClass('filter-product-frame4');
+            }
+
         }
 
 
