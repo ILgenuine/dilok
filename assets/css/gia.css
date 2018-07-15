@@ -64,6 +64,7 @@ a:hover {
     background-color: #fff;
     background-clip: border-box;
     width: 37vw;
+    margin-right: 5px;
 }
 .latest-img-top {
      position:absolute;
@@ -75,7 +76,7 @@ a:hover {
 
 }
 .latest-fix-frame{
-    height: 250px;
+    height: 160px;
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -497,7 +498,7 @@ font-size: 24px;
 @media (max-width: 414px){
 
     .latest-fix-frame {
-    height: 110px;
+    height: 100px;
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -516,6 +517,7 @@ font-size: 24px;
     background-color: #fff;
     background-clip: border-box;
     width: 40vw;
+    margin-right: 5px;
 }
 
 /*-------------------------
@@ -588,7 +590,7 @@ font-size: 24px;
 @media (max-width: 375px){
 
     .latest-fix-frame {
-    height: 100px;
+    height: 95px;
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -647,6 +649,12 @@ font-size: 24px;
 }
 
 @media (max-width: 320px){
+       .latest-fix-frame {
+    height: 80px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
 
 /*--------------------------
 --------add_branch----------

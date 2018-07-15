@@ -98,7 +98,7 @@
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-                          <a href="#" class="btn fast-buy p-2 w-100">
+                          <a href="#" class="btn fast-buy p-2 w-100 mx-auto mx-sm-right">
                             <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
                               <span>DETAIL</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
@@ -122,7 +122,7 @@
                   <div class="row">
                       <div class="col-xl-6 col-lg-8 col-md-6 col-12 product-series-col">
                           <div class="product-series-frame">
-                              <img class="product-series-img" src="assets/images/product/3/1.png">
+                              <img class="product-series-img " src="https://78.media.tumblr.com/7c668391d2de3473ad9b47ef0e739658/tumblr_ober17IfLb1tg9hheo10_r1_1280.gif">
                           </div>
                       </div>
                       <div class="col-xl-6 col-lg-4 col-md-6 col-12 product-series-col">
@@ -202,7 +202,7 @@
                                      <div class="col-12 px-lg-3 px-0 mb-md-3">
                                        <h3 class="mb-1 pull-left">UPCOMING LAUNCES</h3>
                                        <div class="latest-product-btn pull-right mb-2">
-                                           <a href="#" class="btn view-all p-2 res-414-up">
+                                           <a href="launches.php" class="btn view-all p-2 res-414-up">
                                              <label class="mb-0 d-flex px-2">
                                                <span>view all</span>
                                                <i class="fas fa-plus ml-auto pl-3 pt-1" aria-hidden="true"></i>
@@ -214,7 +214,7 @@
                                        <div class="card_new">
                                          <div class="launches-fix-frame">
                                            <span class='zoom' id='zoom1'>
-                                           <img src='assets/images/product/2/adidas/6.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
+                                           <img src='assets/images/product/2/adidas/3.jpg' class="launches-img" width='100%' height='auto' alt='Baby Wallper'/>
                                            </span>
                                          </div>
                                          <div class="card-body">
@@ -229,12 +229,12 @@
                                                <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
                                              </div>
                                              <div class="col-lg-12 text-right px-0">
-                                               <button type="button" class="btn fast-buy p-2">
-                                                 <label class="mb-0 d-flex px-2">
-                                                   <span>BUY NOW</span>
-                                                     <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                                                   </label>
-                                               </button>
+                                               <a href="launches.php" class="btn fast-buy p-2 ">
+                                                  <label class="mb-0 d-flex px-2 white">
+                                                      <span>Read More</span>
+                                                      <i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
+                                                  </label>
+                                                </a>
                                              </div>
                                            </div>
                                          </div>
@@ -259,12 +259,12 @@
                                                <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
                                              </div>
                                              <div class="col-lg-12 text-right px-0">
-                                               <button type="button" class="btn fast-buy p-2">
-                                                 <label class="mb-0 d-flex px-2">
-                                                   <span>BUY NOW</span>
-                                                     <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                                                   </label>
-                                               </button>
+                                              <a href="launches.php" class="btn fast-buy p-2 ">
+                                                  <label class="mb-0 d-flex px-2 white">
+                                                      <span>Read More</span>
+                                                      <i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
+                                                  </label>
+                                                </a>
                                              </div>
                                            </div>
                                          </div>
@@ -289,12 +289,12 @@
                                                <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
                                              </div>
                                              <div class="col-lg-12 text-right px-0">
-                                               <button type="button" class="btn fast-buy p-2">
-                                                 <label class="mb-0 d-flex px-2">
-                                                   <span>BUY NOW</span>
-                                                     <i class="icon-collpase fas fa-angle-right ml-4 pt-1" aria-hidden="true"></i>
-                                                   </label>
-                                               </button>
+                                               <a href="launches.php" class="btn fast-buy p-2 ">
+                                                  <label class="mb-0 d-flex px-2 white">
+                                                      <span>Read More</span>
+                                                      <i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
+                                                  </label>
+                                                </a>
                                              </div>
                                            </div>
                                          </div>
@@ -467,9 +467,14 @@ $('.brand-slide').on('translated.owl.carousel', function(e) {
 
 $('.brand-slide').find('.owl-dots').removeClass('disabled');
 
-$('#zoom1').zoom();
-$('#zoom2').zoom();
-$('#zoom3').zoom();
-
+if(window.matchMedia("(max-width: 1024px)").matches){
+           
+          }
+          else{
+              $('#zoom1').zoom();
+              $('#zoom2').zoom();
+              $('#zoom3').zoom();
+        
+          }
 
 </script>
