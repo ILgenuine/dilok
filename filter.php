@@ -333,7 +333,7 @@
                                       <div class="product-title filter-font-product1">
                                         <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                       </div>
-                                      <div clas="product-categories filter-font-product1">
+                                      <div class="product-categories filter-font-product1">
                                         <span>Men running</span>
                                       </div>
                                   </div>
@@ -378,7 +378,7 @@
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                       </div>
-                                      <div clas="product-categories">
+                                      <div class="product-categories">
                                         <span>Men running</span>
                                       </div>
                                   </div>
@@ -423,7 +423,7 @@
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                       </div>
-                                      <div clas="product-categories">
+                                      <div class="product-categories">
                                         <span>Men running</span>
                                       </div>
                                   </div>
@@ -468,7 +468,7 @@
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                       </div>
-                                      <div clas="product-categories">
+                                      <div class="product-categories">
                                         <span>Men running</span>
                                       </div>
                                   </div>
@@ -515,7 +515,7 @@
                                         <div class="product-title">
                                           <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                         </div>
-                                        <div clas="product-categories">
+                                        <div class="product-categories">
                                           <span>Men running</span>
                                         </div>
                                     </div>
@@ -560,7 +560,7 @@
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                       </div>
-                                      <div clas="product-categories">
+                                      <div class="product-categories">
                                         <span>Men running</span>
                                       </div>
                                   </div>
@@ -605,7 +605,7 @@
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                       </div>
-                                      <div clas="product-categories">
+                                      <div class="product-categories">
                                         <span>Men running</span>
                                       </div>
                                   </div>
@@ -650,7 +650,7 @@
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                       </div>
-                                      <div clas="product-categories">
+                                      <div class="product-categories">
                                         <span>Men running</span>
                                       </div>
                                   </div>
@@ -697,7 +697,7 @@
                                         <div class="product-title">
                                           <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                         </div>
-                                        <div clas="product-categories">
+                                        <div class="product-categories">
                                           <span>Men running</span>
                                         </div>
                                     </div>
@@ -742,7 +742,7 @@
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                       </div>
-                                      <div clas="product-categories">
+                                      <div class="product-categories">
                                         <span>Men running</span>
                                       </div>
                                   </div>
@@ -787,7 +787,7 @@
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                       </div>
-                                      <div clas="product-categories">
+                                      <div class="product-categories">
                                         <span>Men running</span>
                                       </div>
                                   </div>
@@ -832,7 +832,7 @@
                                       <div class="product-title">
                                         <span>Pureboost DPR Shoes Pureboost DPR Shoes Pureboost DPR Shoes<span>
                                       </div>
-                                      <div clas="product-categories">
+                                      <div class="product-categories">
                                         <span>Men running</span>
                                       </div>
                                   </div>
