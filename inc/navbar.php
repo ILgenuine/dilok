@@ -1199,7 +1199,7 @@
           </li> <!-- SALE -->
           <li class="nav-item">
 
-            <a class="nav-link" href="#"><span style="font-weight : 400;">BLOG</span></a>
+            <a class="nav-link" href="blog.php"><span style="font-weight : 400;">BLOG</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="w-100 mb-3">

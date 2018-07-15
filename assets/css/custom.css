@@ -1475,6 +1475,8 @@ $Index
     top:50%;
     left:50%;
     transform: translate(-50%, -50%);
+    height: auto !important;
+    width: 100% !important;
   }
 
 
@@ -2112,6 +2114,12 @@ $END PRODUCT DETAILS 1
 
 
 @media (max-width: 1366px){
+  .blog-img-frame{
+    position:relative;
+    overflow:hidden;
+    width:100%;
+    height: 340px !important;
+  }
 
 
   /*------------------------------------*
@@ -2484,6 +2492,7 @@ $END PRODUCT DETAILS 1
   /*------------------------------------*
   $END PRODUCT DETAILS 1 1366
   *------------------------------------*/
+
 
 
 
@@ -3331,6 +3340,12 @@ $END PRODUCT DETAILS 1
   .wrapper {
       min-height: calc(100vh - 320px);
   }
+  .blog-img-frame {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 340px !important;
+}
 
   /*------------------------------------*
   $Sidebar 768
@@ -3464,6 +3479,7 @@ $END PRODUCT DETAILS 1
   .launches-index-frame{
     height:350px !important;
   }
+
 
   /*------------------------------------*
   $END INDEX 768
@@ -3717,6 +3733,15 @@ $END PRODUCT DETAILS 1
 }
 
 @media (max-width: 414px){
+.blog-img-frame {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 180px !important;
+}
+#ribbon2 {
+    margin-top: 25%;
+}
 
 
   /*------------------------------------*
@@ -3726,8 +3751,9 @@ $END PRODUCT DETAILS 1
   .size-select-box2 .dropdown{
       width:100%;
   }
-
-
+  .header-slide .header-slide-btn {
+    margin: 0px auto;
+  }
   .header-slide-btn {
     width: 40%;
   }
@@ -3760,6 +3786,21 @@ $END PRODUCT DETAILS 1
     font-size: 11px;
   }
 
+  .header-slide .item .slide-img{
+    width:auto;
+    height:100%;
+  }
+
+  .header-row hr {
+    float: unset;
+  }
+   .header-slide .item .header-row {
+    text-align: center;
+  }
+  .header-slide .item .header-row {
+    left: 0;
+    padding: 0px 20px;
+  }
   /*------------------------------------*
   $END Index 414
   *------------------------------------*/
@@ -4039,6 +4080,15 @@ $END PRODUCT DETAILS 1
 }
 
 @media (max-width: 375px){
+  #ribbon2 {
+    margin-top: 30%;
+}
+.blog-img-frame {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 160px !important;
+}
 
   /*------------------------------------*
   $INDEX 375
@@ -4091,6 +4141,12 @@ $END PRODUCT DETAILS 1
 }
 
 @media (max-width: 320px){
+  .blog-img-frame {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 140px !important;
+}
 
 
   /*------------------------------------*

@@ -282,7 +282,7 @@
               <div class="promotion-collapse collapse mb-2" id="collapseExample">
                 <form>
                   <div class="form-group text-left">
-                    <label>กรอกรหัสโปรโมชั่น หรือ รหัสคูปองของขวัญ</label>
+                    <label>Enter promo code or gift coupon code.</label>
                     <input type="text" class="form-control code-input" id="" aria-describedby="" placeholder="">
                   </div>
                   <div class="code-button">
