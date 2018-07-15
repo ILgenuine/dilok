@@ -995,7 +995,6 @@
 
             $('.fillter-height3').removeClass('filter-product-fram3');
             $('.fillter-height4').removeClass('filter-product-frame4');
-
           }
         }
 

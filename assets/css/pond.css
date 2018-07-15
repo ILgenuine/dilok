@@ -821,70 +821,36 @@
 .wish-m-ll{
     margin: 0px;
 }
-.btn-column2{
-    background-color: transparent;
-    font-size: 20px;
-    width: 30px;
-    padding: 3.5px;
-}
-.btn-column2:hover{
-    background-color: #fff;
-    font-size: 20px;
-    color: gray;
-    transition: all 0.5s;
-    background-color: transparent;
-}
-.btn-row2{
-    background-color: #fff;
-    font-size: 18px;
-    width: 30px;
-    padding: 5px;
-    background-color: transparent;
-}
-.btn-row2:hover{
-    background-color: #fff;
-    font-size: 18px;
-    color: gray;
-    transition: all 0.5s;
-    background-color: transparent;
-}
 .wish-image-full{
    position: absolute;
    display: block;
    width: 100% !important;
-   height: 174px !important;
    height: auto;
    top: 50%;
    left: 50%;
    transform: translate(-50%, -50%);
-   margin-top: -99px;
 }
 .wish-position-a{
    position: absolute;
-   margin-top: 175px !important;
+   margin-top: 166px !important;
 }
 .wish-position-r{
-   height: 429px !important;
+   height: 421px !important;
    width: 100% !important;
-}
-.wish-image-full2{
-   position: absolute;
-   display: block;
-   width: 100% !important;
-   height: 277px!important;
-   height: auto;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-   margin-top: -72px;
 }
 .wish-position-a2{
    position: absolute;
-   margin-top: 254px !important;
+   margin-top: 262px !important;
 }
 .wish-position-r2{
-   height: 485px !important;
+   height: 494px !important;
    width: 100% !important;
+}
+.wish-product-frame{
+      height: 166px !important;
+}
+.wish-product-frame2{
+      height: 258px !important;
 }
 /*-------------------------------------
 ------------ END WISHLIST --------------
@@ -1088,27 +1054,27 @@
   .wish-m{
       margin: 5px;
   }
-  .wish-m-ll{
-      margin-left: 102px;
-  }
-  .wish-image-full{
-     position: absolute;
-     display: block;
-     width: 100% !important;
-     height: 193px !important;
-     height: auto;
-     top: 50%;
-     left: 50%;
-     transform: translate(-50%, -50%);
-     margin-top: -104px;
-  }
   .wish-position-a{
      position: absolute;
-     margin-top: 195px !important;
+     margin-top: 121px !important;
   }
   .wish-position-r{
-     height: 450px !important;
+     height: 375px !important;
      width: 100% !important;
+  }
+  .wish-position-a2{
+     position: absolute;
+     margin-top: 191px !important;
+  }
+  .wish-position-r2{
+     height: 447px !important;
+     width: 100% !important;
+  }
+  .wish-product-frame{
+        height: 120px !important;
+  }
+  .wish-product-frame2{
+        height: 190px !important;
   }
   /*-------------------------------------
   ----------- END WISH 1366 -------------
@@ -1205,58 +1171,30 @@
   /*-------------------------------------
   -------------- WISH 1024 ---------------
   ---------------------------------------*/
-  .wish-d{
-      display: block;
-  }
-  .wish-d2{
-      display: block;
-  }
-  .wish-d3{
-      display: none;
-  }
   .wish-m{
       margin: 5px;
   }
-  .wish-m-ll{
-      margin-left: 0px;
-  }
-  .wish-image-full{
-     position: absolute;
-     display: block;
-     width: 100% !important;
-     height: 194px !important;
-     height: auto;
-     top: 50%;
-     left: 50%;
-     transform: translate(-50%, -50%);
-     margin-top: -99px;
-  }
   .wish-position-a{
      position: absolute;
-     margin-top: 182px !important;
+     margin-top: 198px !important;
   }
   .wish-position-r{
-     height: 418px !important;
+     height: 434px !important;
      width: 100% !important;
-  }
-  .wish-image-full2{
-     position: absolute;
-     display: block;
-     width: 100% !important;
-     height: 286px !important;
-     height: auto;
-     top: 50%;
-     left: 50%;
-     transform: translate(-50%, -50%);
-     margin-top: -72px;
   }
   .wish-position-a2{
      position: absolute;
-     margin-top: 254px !important;
+     margin-top: 304px !important;
   }
   .wish-position-r2{
-     height: 490px !important;
+     height: 540px !important;
      width: 100% !important;
+  }
+  .wish-product-frame{
+        height: 196px !important;
+  }
+  .wish-product-frame2{
+        height: 302px !important;
   }
   /*-------------------------------------
   ----------- END WISH 1024 -------------
@@ -1574,43 +1512,29 @@
   /*-------------------------------------
   ----------- WISH 768 -------------
   ---------------------------------------*/
-  .wish-image-full{
-       position: absolute;
-       display: block;
-       width: 100% !important;
-       height: 142px !important;
-       height: auto;
-       top: 50%;
-       left: 50%;
-       transform: translate(-50%, -50%);
-       margin-top: -113px;
-  }
   .wish-position-a{
        position: absolute;
        margin-top: 145px !important;
+       width: 100%;
   }
   .wish-position-r{
-       height: 381px !important;
+       height: 250px !important;
        width: 100% !important;
-  }
-  .wish-image-full2{
-       position: absolute;
-       display: block;
-       width: 100% !important;
-       height: 218px !important;
-       height: auto;
-       top: 50%;
-       left: 50%;
-       transform: translate(-50%, -50%);
-       margin-top: -75px;
   }
   .wish-position-a2{
        position: absolute;
-       margin-top: 221px !important;
+       margin-top: 227px !important;
+       width: 100%;
   }
   .wish-position-r2{
-       height: 458px !important;
+       height: 333px !important;
        width: 100% !important;
+  }
+  .wish-product-frame{
+        height: 143px !important;
+  }
+  .wish-product-frame2{
+        height: 221px !important;
   }
   /*-------------------------------------
   ----------- END WISH 768 -------------
@@ -1732,9 +1656,6 @@
   /*-------------------------------------
   ------------ FILLTER 414 --------------
   ---------------------------------------*/
-    /* .filter-font-product1{
-        font-size: 14px;
-    } */
     .fillter-d-n1{
         display: none;
     }
@@ -1968,8 +1889,8 @@
   /*-------------------------------------
   ----------- WISHLIST 414 -------------
   --------------------------------------*/
-  .wish-d2{
-      display: none;
+  .box-wish {
+      padding: 10px !important;
   }
   .wish-p-l{
       padding-left: 10px;
@@ -1977,27 +1898,30 @@
   .wish-p-r{
       padding-right: 20px;
   }
-  .wish-m-ll{
-      margin-left: 0px;
-  }
-  .wish-image-full{
-       position: absolute;
-       display: block;
-       width: 100% !important;
-       height: 245px !important;
-       height: auto;
-       top: 50%;
-       left: 50%;
-       transform: translate(-50%, -50%);
-       margin-top: -113px;
+  .wish-p-t-btn{
+      padding-top: 20px;
   }
   .wish-position-a{
        position: absolute;
-       margin-top: 228px !important;
+       margin-top: 123px !important;
   }
   .wish-position-r{
-       height: 464px !important;
+       height: 226px !important;
        width: 100% !important;
+  }
+  .wish-position-a2{
+       position: absolute;
+       margin-top: 258px !important;
+  }
+  .wish-position-r2{
+       height: 361px !important;
+       width: 100% !important;
+  }
+  .wish-product-frame{
+        height: 122px !important;
+  }
+  .wish-product-frame2{
+        height: 257px !important;
   }
   /*-------------------------------------
   ----------- END WISHLIST 414 ----------
@@ -2136,30 +2060,39 @@
   ---------------------------------------*/
 
   /*-------------------------------------
-  ------------ WISH 375 --------------
-  ---------------------------------------*/
-  .wish-image-full{
-       position: absolute;
-       display: block;
-       width: 100% !important;
-       height: 215px !important;
-       height: auto;
-       top: 50%;
-       left: 50%;
-       transform: translate(-50%, -50%);
-       margin-top: -113px;
+  ----------- WISHLIST 375 -------------
+  --------------------------------------*/
+  .box-wish {
+      padding: 10px !important;
+  }
+  .wish-p-t-btn{
+      padding-top: 20px;
   }
   .wish-position-a{
        position: absolute;
-       margin-top: 209px !important;
+       margin-top: 114px !important;
   }
   .wish-position-r{
-       height: 445px !important;
+       height: 218px !important;
        width: 100% !important;
   }
+  .wish-position-a2{
+       position: absolute;
+       margin-top: 239px !important;
+  }
+  .wish-position-r2{
+       height: 341px !important;
+       width: 100% !important;
+  }
+  .wish-product-frame{
+        height: 110px !important;
+  }
+  .wish-product-frame2{
+        height: 233px !important;
+  }
   /*-------------------------------------
-  ------------ END WISH 375 --------------
-  ---------------------------------------*/
+  ----------- END WISHLIST 375 ----------
+  --------------------------------------*/
 }
 
 @media(max-width: 320px){
@@ -2295,29 +2228,38 @@
   ---------------------------------------*/
 
   /*-------------------------------------
-  ------------ WISH 320 --------------
-  ---------------------------------------*/
-  .wish-image-full{
-       position: absolute;
-       display: block;
-       width: 100% !important;
-       height: 177px !important;
-       height: auto;
-       top: 50%;
-       left: 50%;
-       transform: translate(-50%, -50%);
-       margin-top: -113px;
+  ----------- WISHLIST 320 -------------
+  --------------------------------------*/
+  .box-wish {
+      padding: 12px !important;
+  }
+  .wish-p-t-btn{
+      padding-top: 20px;
   }
   .wish-position-a{
        position: absolute;
-       margin-top: 171px !important;
+       margin-top: 92px !important;
   }
   .wish-position-r{
-       height: 407px !important;
+       height: 218px !important;
        width: 100% !important;
   }
+  .wish-position-a2{
+       position: absolute;
+       margin-top: 205px !important;
+  }
+  .wish-position-r2{
+       height: 309px !important;
+       width: 100% !important;
+  }
+  .wish-product-frame{
+        height: 95px !important;
+  }
+  .wish-product-frame2{
+        height: 202px !important;
+  }
   /*-------------------------------------
-  ------------ END WISH 320 --------------
-  ---------------------------------------*/
+  ----------- END WISHLIST 320 ----------
+  --------------------------------------*/
 
 }
