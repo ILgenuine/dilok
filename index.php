@@ -98,7 +98,7 @@
                       <div class="col-12">
                         <hr></hr>
                         <div class="header-slide-btn">
-                          <a href="#" class="btn fast-buy p-2 w-100">
+                          <a href="#" class="btn fast-buy p-2 w-100 mx-auto mx-sm-right">
                             <label class="mb-0 d-flex px-2 white" style="cursor:pointer;">
                               <span>DETAIL</span>
                               <i class="icon-collpase fas fa-angle-right ml-auto pt-1" aria-hidden="true"></i>
