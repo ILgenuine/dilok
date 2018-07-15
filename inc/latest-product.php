@@ -951,9 +951,9 @@
             <div class="latest-fix-frame">
               <a href="product-details1.php"><img class="latest-img-top" src="assets/images/product/2/adidas/02.jpg" alt="Card image cap"></a>
             </div>
-            <div class="card-body">
-              <p class="card-title">Pureboost DPR Shoes</p>
-              <p class="card-text text-secondary"  style="font-size: 14px;">Men running</p>
+           <div class="card-body">
+              <a href="product-details1.php"><p class="card-title text-dark">Pureboost DPR Shoes</p></a>
+              <a href="product-details1.php"><p class="card-text text-secondary" style="font-size: 14px;">Men running</p></a>
               <span class="normal">1,850</span><span class="currency">THB</span>
             </div>
           </div>
