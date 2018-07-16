@@ -37,7 +37,7 @@
               </div>
               <div class="form-row forgot-m-t2">
                   <div class="col-12 text-center">
-                        <button class="btn forgot-btn" type="submit">LOG IN</button>
+                        <button class="btn forgot-btn" type="submit">SUBMIT</button>
                   </div>
               </div>
           </form>

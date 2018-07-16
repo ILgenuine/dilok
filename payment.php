@@ -98,7 +98,7 @@
                     <div class="col-xl-12">
                         <div class="pay-font1"style="display:inline;">Billing Address</div>
                         <div class="pay-font1 pay-m-l2 w-100" style="display:inline;">
-                          <a href="#" class="pay-font5"><u>แก้ไข</u></a>
+                          <a href="#" class="pay-font5"><u>edit</u></a>
                         </div>
                     </div>
                 </div>
@@ -115,7 +115,7 @@
                     <div class="col-xl-12">
                         <div class="pay-font1"style="display:inline;">Shipping Address</div>
                         <div class="pay-font1 pay-m-l3 w-100" style="display:inline;">
-                          <a href="#" class="pay-font5"><u>แก้ไข</u></a>
+                          <a href="#" class="pay-font5"><u>edit</u></a>
                         </div>
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                   <div class="col-xl-12">
                       <div class="pay-font1"style="display:inline;">Shipping Method</div>
                       <div class="pay-font1 pay-m-l4 w-100" style="display:inline;">
-                        <a href="#" class="pay-font5"><u>แก้ไข</u></a>
+                        <a href="#" class="pay-font5"><u>edit</u></a>
                       </div>
                   </div>
                 </div>
