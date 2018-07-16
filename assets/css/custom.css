@@ -51,9 +51,9 @@ $Structure
 
 
   .card-body{
-     -webkit-box-flex: unset !important; 
-    -ms-flex: unset !important; 
-     flex: unset !important; 
+     -webkit-box-flex: unset !important;
+    -ms-flex: unset !important;
+     flex: unset !important;
   }
 
 
@@ -2064,6 +2064,7 @@ $END PRODUCT DETAILS 1
   line-height: 30px;
   padding: 0px 15px;
   top: 0;
+  z-index: 5;
 }
 
 #ribbon2{
@@ -2078,6 +2079,7 @@ $END PRODUCT DETAILS 1
   line-height: 30px;
   padding: 0px 15px;
   top: 0;
+  z-index: 5;
 }
 
 .red-ribbon{
@@ -2849,7 +2851,7 @@ $END PRODUCT DETAILS 1
   /*------------------------------------*
   $Footer
   *------------------------------------*/
-    
+
 
     .contact-info [class^="col-"], [class*=" col-"]{
       padding-left: unset;

@@ -327,9 +327,9 @@
                               </a>
                             </div>
                             <div class="card-body">
-                           
+
                               <div class="blog-excerpt mb-2">
-                                <span class="launches_font_30 line-h-20">Sports fashion retailer Dilok has opened a new store at Chola Soi7 Sports fashion retailer Dilok has opened a new store at Chola Soi7</span>
+                                <span class="launches_font_30 line-h-20">Sports fashion retailer Dilok has opened a new store at Chula Soi7 Sports fashion retailer Dilok has opened a new store at Chula Soi7</span>
                               </div>
 
                                 <span class="line-h-20 grey text-small">22/06/2018</span>
@@ -345,11 +345,11 @@
                               </a>
                             </div>
                             <div class="card-body">
-                             
+
                               <div class="blog-excerpt mb-2">
-                                <span class="launches_font_30 line-h-20">Sports fashion retailer Dilok has opened a new store at Chola Soi7 Sports fashion retailer Dilok has opened a new store at Chola Soi7</span>
+                                <span class="launches_font_30 line-h-20">Sports fashion retailer Dilok has opened a new store at Chula Soi7 Sports fashion retailer Dilok has opened a new store at Chula Soi7</span>
                               </div>
-                            
+
                                 <span class="line-h-20 grey text-small">20/06/2018</span>
                             </div>
                         </div>
@@ -468,13 +468,13 @@ $('.brand-slide').on('translated.owl.carousel', function(e) {
 $('.brand-slide').find('.owl-dots').removeClass('disabled');
 
 if(window.matchMedia("(max-width: 1024px)").matches){
-           
+
           }
           else{
               $('#zoom1').zoom();
               $('#zoom2').zoom();
               $('#zoom3').zoom();
-        
+
           }
 
 </script>

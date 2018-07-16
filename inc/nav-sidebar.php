@@ -51,10 +51,7 @@
                   <a  href="filter.php"><span>Adidas</span></a>
                 </li>
                 <li class="nav-item">
-                  <a  href="filter.php"><span>Onisuka</span></a>
-                </li>
-                <li class="nav-item">
-                  <a  href="filter.php"><span>Reebok</span></a>
+                  <a  href="reebok.php"><span>Reebok</span></a>
                 </li>
               </ul>
             </div>
@@ -171,16 +168,16 @@
             <div class="promotion-collapse collapse mb-2" id="collapseExample8">
               <ul class="navbar-nav sidenav-list-text">
                 <li class="nav-item">
-                  <a href="filter.php"><span>Clothes</span></a>
+                  <a href="sale.php"><span>Clothes</span></a>
                 </li>
                 <li class="nav-item">
-                  <a href="filter.php"><span>Schoes</span></a>
+                  <a href="sale.php"><span>Schoes</span></a>
                 </li>
                 <li class="nav-item">
-                  <a  href="filter.php"><span>Latest Sneakers</span></a>
+                  <a  href="sale.php"><span>Latest Sneakers</span></a>
                 </li>
                 <li class="nav-item">
-                  <a  href="filter.php"><span>Restocks</span></a>
+                  <a  href="sale.php"><span>Restocks</span></a>
                 </li>
               </ul>
             </div>

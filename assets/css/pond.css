@@ -409,8 +409,8 @@
 .filter-image-full{
    position: absolute;
    display: block;
-   width: auto !important;
-   height: 100%;
+   width: 100% !important;
+   height: auto;
    top: 50%;
    left: 50%;
    transform: translate(-50%, -50%);
@@ -692,7 +692,7 @@
    height: 140px;
    width: 100%;
    overflow: hidden;
-   border:  1px solid #333;
+   /* border:  1px solid #333; */
 }
 /*-------------------------------------
 ------------ END PAYMENT --------------
@@ -788,6 +788,16 @@
 /*-------------------------------------
 -------------- WISHLIST --------------
 ---------------------------------------*/
+
+.custom-ribbon{
+  margin-top: 5% !important;
+}
+
+.custom-ribbon2{
+  margin-top: 20% !important;
+}
+
+
 .wish-font1{
     font-size: 25px;
 }

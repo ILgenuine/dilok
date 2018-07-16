@@ -36,7 +36,7 @@
                   </div>
                   <div class="card-body px-0">
                     <div class="blog-title  mb-2">
-                      <span>Sports fashion retailer Dilok has opened a new store at Chola Soi7 Sports fashion retailer Dilok has opened a new store at Chola Soi7</span>
+                      <span>Sports fashion retailer Dilok has opened a new store at Chula Soi7 Sports fashion retailer Dilok has opened a new store at Chula Soi7</span>
                     </div>
                     <div>
                       <span class="grey text-small">22/06/2018</span>
@@ -54,7 +54,7 @@
                   </div>
                   <div class="card-body px-0">
                     <div class="blog-title  mb-2">
-                      <span>Sports fashion retailer Dilok has opened a new store at Chola Soi7 Sports fashion retailer Dilok has opened a new store at Chola Soi7</span>
+                      <span>Sports fashion retailer Dilok has opened a new store at Chula Soi7 Sports fashion retailer Dilok has opened a new store at Chula Soi7</span>
                     </div>
                     <div>
                       <span class="grey text-small">22/06/2018</span>
@@ -72,7 +72,7 @@
                   </div>
                   <div class="card-body px-0">
                     <div class="blog-title  mb-2">
-                      <span>Sports fashion retailer Dilok has opened a new store at Chola Soi7 Sports fashion retailer Dilok has opened a new store at Chola Soi7</span>
+                      <span>Sports fashion retailer Dilok has opened a new store at Chula Soi7 Sports fashion retailer Dilok has opened a new store at Chula Soi7</span>
                     </div>
                     <div>
                       <span class="grey text-small">22/06/2018</span>
@@ -90,7 +90,7 @@
                   </div>
                   <div class="card-body px-0">
                     <div class="blog-title  mb-2">
-                      <span>Sports fashion retailer Dilok has opened a new store at Chola Soi7 Sports fashion retailer Dilok has opened a new store at Chola Soi7</span>
+                      <span>Sports fashion retailer Dilok has opened a new store at Chula Soi7 Sports fashion retailer Dilok has opened a new store at Chula Soi7</span>
                     </div>
                     <div>
                       <span class="grey text-small">22/06/2018</span>
@@ -108,7 +108,7 @@
                   </div>
                   <div class="card-body px-0">
                     <div class="blog-title  mb-2">
-                      <span>Sports fashion retailer Dilok has opened a new store at Chola Soi7 Sports fashion retailer Dilok has opened a new store at Chola Soi7</span>
+                      <span>Sports fashion retailer Dilok has opened a new store at Chula Soi7 Sports fashion retailer Dilok has opened a new store at Chula Soi7</span>
                     </div>
                     <div>
                       <span class="grey text-small">22/06/2018</span>
@@ -126,7 +126,7 @@
                   </div>
                   <div class="card-body px-0">
                     <div class="blog-title  mb-2">
-                      <span>Sports fashion retailer Dilok has opened a new store at Chola Soi7 Sports fashion retailer Dilok has opened a new store at Chola Soi7</span>
+                      <span>Sports fashion retailer Dilok has opened a new store at Chula Soi7 Sports fashion retailer Dilok has opened a new store at Chula Soi7</span>
                     </div>
                     <div>
                       <span class="grey text-small">22/06/2018</span>

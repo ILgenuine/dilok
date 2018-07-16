@@ -137,7 +137,7 @@
                   </div>
                 </div>
                 <div class="pt-3">
-                    <div class="pay-font6">มารับเองที่ร้าน</div>
+                    <div class="pay-font6">EMS</div>
                 </div>
             </div>
           </div>
@@ -157,7 +157,7 @@
                       <div class="row pt-3 pay-padding">
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
                               <div class="overlay-img2">
-                                <img class="image-full" src="assets/images/product/2/Perfect-Nike-Air-Max-2017-Mens-New-Fangbian2144-30180596.jpg">
+                                <img class="image-full" src="assets/images/product/2/adidas/014.jpg">
                               </div>
                           </div>
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
@@ -171,7 +171,7 @@
                       <div class="row pt-3 pay-m-t4 pay-padding">
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
                               <div class="overlay-img2">
-                                <img class="image-full" src="/dilok/assets/images/productfill/1.png">
+                                <img class="image-full" src="assets/images/product/2/adidas/018.jpg">
                               </div>
                           </div>
                           <div class="col-xl-6 col-lg-6 col-md-6 pay-m-l-r">
@@ -219,13 +219,13 @@
                     <hr>
                       <a href="#">
                           <div class="promotion-button">
-                             <span class="pull-left">นโยบายการคือสินค้า</span>
+                             <span class="pull-left">Return Policy</span>
                           </div>
                       </a>
                     <hr class="mt-0">
                       <a href="#">
                           <div class="promotion-button">
-                             <span class="pull-left">ช่องทางการชำระสินค้า</span>
+                             <span class="pull-left">Payment</span>
                           </div>
                       </a>
                     <hr class="mt-0">

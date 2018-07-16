@@ -35,7 +35,7 @@
               </div>
               <div class="col-xl-6 col-lg-8 col-md-9 col-12 mx-auto my-3">
                 <div class="sb-uppercase text-center">
-                  <h3 class="sb-h3-respon">Sports fashion retailer Dilok has opened a new store at Chola Soi7 </h3>
+                  <h3 class="sb-h3-respon">Sports fashion retailer Dilok has opened a new store at Chula Soi7 </h3>
                 </div>
               </div>
               <div class="col-12 my-3 sb-font-respon">

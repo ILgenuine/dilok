@@ -72,11 +72,6 @@
                                 <input type="checkbox"/>
                                 <span class="checkmark"></span>
                             </label>
-                            <label class="check">
-                                <div class="regist-m-l2 pt-1 fillter-font3">Unisex</div>
-                                <input type="checkbox"/>
-                                <span class="checkmark"></span>
-                            </label>
                                 <label class="check">
                                 <div class="regist-m-l2 pt-1 fillter-font3">Kids</div>
                                 <input type="checkbox"/>
@@ -278,32 +273,13 @@
                </div>
           </section>
           <div class="filtered-item filtered-item3 col-xl-10 col-lg-9 col-md-12 fadeIn animated">
-              <div class="row mx-0">
-                    <div class="col-xl-6 col-lg-5 col-12">
-                        <div class="filter-overlay-banner">
-                            <img src = "//d3ag7gmpyt0wvo.cloudfront.net/catalog/category/20180518_samba_slider.jpg" class="filter-image-banner">
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6 col-12 pr-3 pl-3">
-                        <div class="col-xl-2 col-lg-2 col-md-1 col-3">
-                            <div class="filter-overlay-banner2 filter-m-l2">
-                                <img src = "assets/images/logo/adidas.png" class="filter-image-banner2">
-                            </div>
-                        </div>
-                        <div class="fillter-font5 filter-overflow filter-p2 text-center text-lg-left text-md-left">
-                          simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                          standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                          it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic
-                        </div>
-                    </div>
-                </div>
                 <div class="row mt-5 mx-0">
                     <div class="col-md-3 col-12 d-md-block d-lg-none d-xl-none fillter-r-l filter-m-l">
                         <button class="btn btn-fillter filter-sidebar-btn pull-right" type="button">
                             <span class="black"> filter </span>
                         </button>
                     </div>
-                    <div class="col-xl-2 col-lg-3 fillter-d-n1 pl-4">
+                    <div class="col-xl-2 col-lg-3 fillter-d-n1   pl-4">
                         <button onclick="myFunction()" class="btn btn-hide" id="demo">hide filter</button>
                     </div>
                     <div class="col-xl-10 col-lg-9 col-md-9 col-12">
@@ -323,6 +299,12 @@
                     <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
+                          <div id="ribbon" class="green-ribbon">
+                          New
+                          </div>
+                          <div id="ribbon2" class="red-ribbon">
+                          -50%
+                          </div>
                             <div class="latest-product-frame filter-product-frame fillter-height1 fillter-height2 fillter-height3 fillter-height4">
                                 <a href="product-details1.php"> <img class="filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/01.jpg" alt="Card image cap"> </a>
                                 <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/02.jpg" alt="Card image cap"> </a>
@@ -414,8 +396,8 @@
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
                             <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
-                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/05.jpg" alt="Card image cap"> </a>
-                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/06.jpg" alt="Card image cap"> </a>
+                              <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/09.jpg" alt="Card image cap"> </a>
+                              <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/08.jpg" alt="Card image cap"> </a>
                             </div>
                             <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">
                               <div class="row px-0 mx-0">
@@ -458,6 +440,9 @@
                     <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                       <div class="item">
                         <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
+                          <div id="ribbon" class="green-ribbon">
+                          New
+                          </div>
                             <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
                               <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/08.jpg" alt="Card image cap"> </a>
                               <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/09.jpg" alt="Card image cap"> </a>
@@ -503,8 +488,9 @@
                     <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                         <div class="item">
                           <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
-                            <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
-                            <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
+                            <div id="ribbon" class="red-ribbon">
+                            -50%
+                            </div>
                               <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
                                 <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/010.jpg" alt="Card image cap"> </a>
                                 <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/011.jpg" alt="Card image cap"> </a>
@@ -685,10 +671,8 @@
                     <li class="col-xl-3 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                         <div class="item">
                           <div class="card p-1 fillter-m filter-position-r fillter-position1 fillter-position6 fillter-position8">
-                            <span class="red tooltips d-xl-block d-none">สินค้าร่วมรายการ <i class="fas fa-question-circle"></i></span>
-                            <span class="red tooltips d-xl-none d-block">สินค้าร่วมรายการ<i class="fas fa-question-circle"></i></span>
                               <div class="latest-product-frame filter-product-frame fillter-height fillter-height1 fillter-height2 fillter-height3 fillter-height4">
-                                <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/018.jpg" alt="Card image cap"> </a>
+                                <a href="product-details1.php"> <img class=" filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/019.jpg" alt="Card image cap"> </a>
                                 <a href="product-details2.php"> <img class="second-latest-product filter-image-full fillter-position3 fillter-position4 fillter-position7" src="assets/images/product/2/adidas/019.jpg" alt="Card image cap"> </a>
                               </div>
                               <div class="card-body p-1 filter-position-a fillter-position2 fillter-position5 fillter-position9">

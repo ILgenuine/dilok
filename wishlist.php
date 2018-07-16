@@ -96,6 +96,12 @@
                             <div class="item">
                               <div class="card p-1 fillter-m wish-position-r wish-position1">
                                   <div class="latest-product-frame wish-product-frame wish-height1 wish-height2">
+                                    <div id="ribbon" class="green-ribbon custom-ribbon">
+                                    New
+                                    </div>
+                                    <div id="ribbon2" class="red-ribbon custom-ribbon2">
+                                    -50%
+                                    </div>
                                     <a href="product-details1.php"><img class="wish-image-full" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>
                                     <a href="product-details2.php"><img class="second-latest-product wish-image-full" src="assets/images/product/2/adidas/4.jpg" alt="Card image cap"> </a>
                                   </div>
@@ -185,6 +191,9 @@
                         <li class="col-xl-2 col-lg-4 col-md-4 col-6 fadeIn animated filtered-item2 fillter-m-b filter-p">
                             <div class="item">
                               <div class="card p-1 fillter-m wish-position-r wish-position1">
+                                <div id="ribbon" class="red-ribbon custom-ribbon">
+                                    -60%
+                                </div>
                                   <div class="latest-product-frame wish-product-frame wish-height1 wish-height2">
                                     <a href="product-details1.php"> <img class="wish-image-full" src="assets/images/product/2/adidas/7.jpg" alt="Card image cap"> </a>
                                     <a href="product-details2.php"> <img class="second-latest-product wish-image-full" src="assets/images/product/2/adidas/2.jpg" alt="Card image cap"> </a>

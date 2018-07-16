@@ -268,7 +268,7 @@
         </div>
         <div class="col-12 text-center justify-content-center">
             <div class="checkout">
-              <button class="btn checkout-btn">CHECK OUT  ></button>
+              <a href="payment.php" class="btn checkout-btn">CHECK OUT  ></a>
             </div>
         </div>
         <div class="col-12 px-0 text-center">

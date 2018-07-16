@@ -40,12 +40,6 @@
                           <a class="nav-link" href="filter.php">Adidas</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="filter.php">Crock</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" href="filter.php">Onisuka</a>
-                        </li>
-                        <li class="nav-item">
                           <a class="nav-link" href="filter.php">Reebok</a>
                         </li>
                       </ul>
@@ -54,7 +48,7 @@
                     <div class="col-2">
                       <div class="row">
                         <div class="nav-col col-12">
-                          <a href="">
+                          <a href="adidas.php">
                             <div class="nav-double">
                               <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                             </div>
@@ -64,7 +58,7 @@
                           </a>
                         </div>
                         <div class="nav-col col-12">
-                          <a href="">
+                          <a href="adidas.php">
                             <div class="nav-double">
                               <img class="nav-product" src="assets/images/index/navbrand/7.jpg" alt="Card image cap">
                             </div>
@@ -79,7 +73,7 @@
                     <div class="col-2">
                         <div class="row">
                           <div class="nav-col col-12">
-                            <a href="">
+                            <a href="adidas.php">
                               <div class="nav-double">
                                 <img class="nav-product" src="assets/images/index/navbrand/7.jpg" alt="Card image cap">
                               </div>
@@ -89,7 +83,7 @@
                             </a>
                           </div>
                           <div class="nav-col col-12">
-                            <a href="">
+                            <a href="adidas.php">
                               <div class="nav-double">
                                 <img class="nav-product" src="assets/images/index/navbrand/8.jpg" alt="Card image cap">
                               </div>
@@ -123,136 +117,28 @@
                                   <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="adidas.php">Adidas</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="reebok.php">Reebok</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">BRANDS</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
+                                  <a class="nav-link" href="adidas.php">Adidas</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
+                                  <a class="nav-link" href="reebok.php">Reebok</a>
                                 </li>
                                 <li>
                                   <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="adidas.php">Adidas</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
+                                  <a class="nav-link" href="reebok.php">Reebok</a>
                                 </li>
                               </ul>
                             </div>
@@ -265,7 +151,7 @@
                         <div class="row">
                           <div class="nav-col col-12">
 
-                            <a href="filter.php">
+                            <a href="adidas.php">
                               <div class="nav-double">
                                 <img class="nav-product" src="assets/images/index/navbrand/9.jpg" alt="Card image cap">
                               </div>
@@ -276,7 +162,7 @@
                           </div>
                           <div class="nav-col col-12">
 
-                            <a href="filter.php">
+                            <a href="adidas.php">
                               <div class="nav-double">
                                 <img class="nav-product" src="assets/images/index/navbrand/10.jpg" alt="Card image cap">
                               </div>
@@ -511,136 +397,28 @@
                                   <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="adidas.php">Adidas</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
+                                  <a class="nav-link" href="reebok.php">Reebok</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
+                                  <a class="nav-link" href="filter.php">BRANDS</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
+                                  <a class="nav-link" href="adidas.php">Adidas</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
+                                  <a class="nav-link" href="reebok.php">Reebok</a>
                                 </li>
                                 <li>
                                   <a class="nav-link" href="filter.php">LATEST BRANDS</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
+                                  <a class="nav-link" href="adidas.php">Adidas</a>
                                 </li>
                                 <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">LATEST BRANDS</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Adidas</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Crock</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Onisuka</a>
-                                </li>
-                                <li>
-                                  <a class="nav-link" href="filter.php">Reebok</a>
+                                  <a class="nav-link" href="reebok.php">Reebok</a>
                                 </li>
                               </ul>
                             </div>
@@ -922,7 +700,7 @@
                     <div class="col-2">
                         <div class="row">
                           <div class="nav-col col-12">
-                            <a href="">
+                            <a href="adidas.php">
                               <div class="nav-double">
                                 <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
                               </div>
@@ -932,7 +710,7 @@
                             </a>
                           </div>
                           <div class="nav-col col-12">
-                            <a href="">
+                            <a href="adidas.php">
                               <div class="nav-double">
                                 <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                               </div>
@@ -1070,7 +848,7 @@
                     <div class="col-2">
                         <div class="row">
                           <div class="nav-col col-12">
-                            <a href="">
+                            <a href="adidas.php">
                               <div class="nav-double">
                                 <img class="nav-product" src="assets/images/index/navbrand/4.jpg" alt="Card image cap">
                               </div>
@@ -1080,7 +858,7 @@
                             </a>
                           </div>
                           <div class="nav-col col-12">
-                            <a href="">
+                            <a href="adidas.php">
                               <div class="nav-double">
                                 <img class="nav-product" src="assets/images/index/navbrand/6.jpg" alt="Card image cap">
                               </div>
@@ -1099,7 +877,7 @@
 
           <li class="nav-item">
 
-            <a class="nav-link" href="filter.php"><span style="font-weight : 400;">SALE</span></a>
+            <a class="nav-link" href="sale.php"><span style="font-weight : 400;">SALE</span></a>
             <div class="list">
                 <div class="list-container">
                   <div class="row">
@@ -1136,13 +914,7 @@
                           <a class="nav-link" href="filter.php">Adidas</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="filter.php">Crock</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" href="filter.php">Onisuka</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" href="filter.php">Reebok</a>
+                          <a class="nav-link" href="reebok.php">Reebok</a>
                         </li>
                       </ul>
                     </div>
@@ -1156,13 +928,7 @@
                           <a class="nav-link" href="filter.php">Adidas</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="filter.php">Crock</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" href="filter.php">Onisuka</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" href="filter.php">Reebok</a>
+                          <a class="nav-link" href="reebok.php">Reebok</a>
                         </li>
                       </ul>
                     </div>
@@ -1171,7 +937,7 @@
                         <div class="row">
                           <div class="nav-col col-12">
 
-                            <a href="filter.php">
+                            <a href="adidas.php">
                               <div class="nav-double">
                                 <img class="nav-product" src="assets/images/index/navbrand/15.jpg" alt="Card image cap">
                               </div>
@@ -1182,7 +948,7 @@
                           </div>
                           <div class="nav-col col-12">
 
-                            <a href="filter.php">
+                            <a href="adidas.php">
                               <div class="nav-double">
                                 <img class="nav-product" src="assets/images/index/navbrand/16.jpg" alt="Card image cap">
                               </div>
