@@ -25,7 +25,8 @@
         <div class="col-xl-3 col-lg-3 col-md-4 pt-5 d-lg-block d-none">
           <div class="row white mx-0 text-lg-left text-md-center">
              <div class="col-12 pr-lg-5 px-md-0 mb-lg-2 mb-md-1"><a href="#" class="footer-link">BRAND</a></div>
-             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Addidas</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Adidas</a></div>
+             <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Onisuka</a></div>
              <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Puma</a></div>
              <div class="col-12 mb-1 footer-submenu"><a href="filter.php" class="footer-link">Reebok</a></div>
           </div>

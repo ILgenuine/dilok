@@ -48,10 +48,10 @@
                   <a href="filter.php"><span>View All Brand</span></a>
                 </li>
                 <li class="nav-item">
-                  <a  href="filter.php"><span>Nike</span></a>
+                  <a  href="filter.php"><span>Adidas</span></a>
                 </li>
                 <li class="nav-item">
-                  <a  href="filter.php"><span>Adidas</span></a>
+                  <a  href="filter.php"><span>Onisuka</span></a>
                 </li>
                 <li class="nav-item">
                   <a  href="filter.php"><span>Reebok</span></a>

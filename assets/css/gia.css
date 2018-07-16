@@ -332,8 +332,18 @@ font-size: 24px;
 .launches_detail-color-font{
     color: #ff2f2f;
 }
-.launches_detail-text{
+.launches_detail-title{
     font-size: 30px;
+}
+.launches_detail-content{
+    font-weight: 300;
+    font-size: 14px
+}
+.launches_detail-excerpt{
+    font-size: small;
+    font-weight: 300;
+    color: #808080;
+    margin-bottom: 15px
 }
 .launches_detail-color-icon{
     color: #00000030;
@@ -349,6 +359,7 @@ font-size: 24px;
     padding: 30px 50px 30px 50px;
     background-color: #d0d0d04a;
 }
+
 /*-----------------------------
 ----------launches_detail end---
 -------------------------------*/

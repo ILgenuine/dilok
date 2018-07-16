@@ -234,7 +234,7 @@
                       <div class="row mx-0">
                         <div class="col-12 pr-lg-0">
                           <div class="sticky-product-title w-100">
-                              <h2>adidas Zoom Pegasus 35
+                              <h2>Adidas Zoom Pegasus 35
                                 <button type="button" class="btn top-btn heart-btn pull-right"><i name="like-button" class="fa-1x fa-heart liked fas liked-shaked"></i></button>
                                 <button type="button" class="btn top-btn pull-right"><i class="fa-1x fa-share-alt fas"></i></button>
                               </h2>
@@ -242,10 +242,7 @@
 
                           <div class="sticky-product-excerpt mb-2">
                               <span>
-                                ห้าวหาญ สะดุดตา ไม่ยอมใคร รองเท้า Prophere จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง จะพาคุณเดิน ท้องถนนคือสถานที่ที่จะบอกเล่าเรื่องราว
-                                นี่คือรองเท้าที่นำวัสดุผ้าและนำนหังบูนักมาตกแต่ง
+                                Reimaging a classic tennis style, this pair of Pharrell Williams Tennis HU sneakers are a fresh style from adidas. Dressed in white from heel to toe, this pair are built using flexible knit uppers – sure to hug your feet with every stride. Signed off with Williams’ signature branding, this pair are detailed with supportive outsole inserts within their rubber base.
                               </span>
                           </div>
 
@@ -329,7 +326,7 @@
                               </div>
                               <div class="col-7 px-0">
                                 <div class="sale-percent px-2">
-                                  <span>ลด 50%</span>
+                                  <span>Sale 50%</span>
                                 </div>
                                 <div class="pt-2 latest-product-price">
                                   <span class="before">1,825</span><span class="after">925</span><span class="currency">THB</span>
@@ -373,16 +370,16 @@
                 <div class="col-12">
                     <h3 class="mb-2">PRODUCT DETAIL</h3>
                 </div>
-                <div class="launches_detail-bg">
-                  <p>มีหลักฐานที่เป็นข้อเท็จจริงยืนยันมานานแล้ว ว่าเนื้อหาที่อ่านรู้เรื่องนั้นจะไปกวนสมาธิของคนอ่านให้เขวไปจากส่วนที้เป็น Layout เรานำ Lorem Ipsum มาใช้เพราะความที่มันมีการกระจายของตัวอักษรธรรมดาๆ แบบพอประมาณ ซึ่งเอามาใช้แทนการเขียนว่า ‘ตรงนี้เป็นเนื้อหา, ตรงนี้เป็นเนื้อหา' ได้ และยังทำให้มองดูเหมือนกับภาษาอังกฤษที่อ่านได้ปกติ ปัจจุบันมีแพ็กเกจของซอฟท์แวร์การทำสื่อสิ่งพิมพ์</p>
+                <div class="launches_detail-bg product-detail1-content">
+                  <p>Reimaging a classic tennis style, this pair of Pharrell Williams Tennis HU sneakers are a fresh style from adidas. Dressed in white from heel to toe, this pair are built using flexible knit uppers – sure to hug your feet with every stride. Signed off with Williams’ signature branding, this pair are detailed with supportive outsole inserts within their rubber base.</p>
                   <div class="launches_detail-lineheight mt-lg-4">
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่อที่นิยมกัน Lorem Ipsum ไม่ได้เป็นเพียงแค่ชุดตัว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>มีหลักฐานที่เป็นข้อเท็จจริงยืนยันมานานแล้ว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่อที่นิยมกัน Lorem Ipsum ไม่ได้เป็นเพียงแค่ชุดตัว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่อที่นิยมกัน Lorem Ipsum ไม่ได้เป็นเพียงแค่ชุดตัว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่อที่นิยมกัน Lorem Ipsum ไม่ได้เป็นเพียงแค่ชุดตัว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่อที่นิยมกัน Lorem Ipsum ไม่ได้เป็นเพียงแค่ชุดตัว</p>
-                    <p><i class="far fa-check-circle mr-3"></i>ตรงกันข้ามกับความเชื่</p>
+                    <p><i class="far fa-check-circle mr-3"></i>It is a long established fact that a reader will be distracted</p>
+                    <p><i class="far fa-check-circle mr-3"></i>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                    <p><i class="far fa-check-circle mr-3"></i>Contrary to popular belief, Lorem Ipsum is not simply random text. </p>
+                    <p><i class="far fa-check-circle mr-3"></i>Lorem Ipsum has been the industry's </p>
+                    <p><i class="far fa-check-circle mr-3"></i>There are many variations of passages of Lorem Ipsum</p>
+                    <p><i class="far fa-check-circle mr-3"></i>Lorem Ipsum has been the industry's standard dummy </p>
+                    <p><i class="far fa-check-circle mr-3"></i>It is a long established fact</p>
                   </div>
                 </div>
             </div>

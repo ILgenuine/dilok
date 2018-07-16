@@ -231,9 +231,8 @@ $Structure
     font-weight: 700 !important;
     background:unset !important;
   }
-
-
   .product-title{
+    margin-top: 6px;
    font-size: 16px;
    font-weight: 400;
   }
@@ -872,6 +871,8 @@ $Navbar
   	display: block;
   	line-height: 40px;
   	border-top: 1px solid #EEE;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   .languagepicker li:hover{
@@ -1400,6 +1401,7 @@ $Footer
   .footer-submenu{
     text-indent: 15px;
     font-weight: 300;
+    font-size: 14px;
   }
 
 
@@ -1652,6 +1654,9 @@ $PRODUCT DETAILS 2
 
   .sticky-product-excerpt{
     text-indent: 20px;
+    font-weight: 300;
+    font-size: 14px;
+    padding-bottom: 15px;
   }
 
   .sticky-product-excerpt .collapse{
@@ -2004,6 +2009,11 @@ $PRODUCT DETAILS 1
   .custom-control-next, .custom-control-prev {
     width: 6%!important;
     color: white !important;
+  }
+
+  .product-detail1-content{
+      font-weight: 300;
+      font-size: 14px;
   }
 
 
@@ -2839,7 +2849,7 @@ $END PRODUCT DETAILS 1
   /*------------------------------------*
   $Footer
   *------------------------------------*/
-
+    
 
     .contact-info [class^="col-"], [class*=" col-"]{
       padding-left: unset;

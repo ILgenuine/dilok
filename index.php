@@ -229,7 +229,7 @@
                                                <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
                                              </div>
                                              <div class="col-lg-12 text-right px-0">
-                                               <a href="launches.php" class="btn fast-buy p-2 ">
+                                               <a href="launches-detail.php" class="btn fast-buy p-2 ">
                                                   <label class="mb-0 d-flex px-2 white">
                                                       <span>Read More</span>
                                                       <i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
@@ -259,7 +259,7 @@
                                                <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
                                              </div>
                                              <div class="col-lg-12 text-right px-0">
-                                              <a href="launches.php" class="btn fast-buy p-2 ">
+                                              <a href="launches-detail.php" class="btn fast-buy p-2 ">
                                                   <label class="mb-0 d-flex px-2 white">
                                                       <span>Read More</span>
                                                       <i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
@@ -289,7 +289,7 @@
                                                <p class="font_14 line-h-20 fix_20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in</p>
                                              </div>
                                              <div class="col-lg-12 text-right px-0">
-                                               <a href="launches.php" class="btn fast-buy p-2 ">
+                                               <a href="launches-detail.php" class="btn fast-buy p-2 ">
                                                   <label class="mb-0 d-flex px-2 white">
                                                       <span>Read More</span>
                                                       <i class="icon-collpase fas fa-angle-right ml-2 pt-1" aria-hidden="true"></i>
@@ -309,7 +309,7 @@
                         <h3 class="mb-1 mt-2 pull-left">BLOG</h3>
                         <div class="latest-product-btn pull-right mb-2">
 
-                          <a href="#" class="btn view-all p-2 res-414-up">
+                          <a href="blog.php" class="btn view-all p-2 res-414-up">
                             <label class="mb-0 d-flex px-2">
                               <span>view all</span>
                               <i class="fas fa-plus ml-auto pl-3 pt-1" aria-hidden="true"></i>
@@ -322,7 +322,7 @@
                       <div class="col-lg-6 col-12 blog-img-col">
                         <div class="card_new mr-0 px-1">
                             <div class="blog-img-frame">
-                              <a href="blankpage.php">
+                              <a href="single-blog.php">
                                 <img class="blog-img" src='assets/images/index/blog1.jpg'/>
                               </a>
                             </div>
@@ -340,7 +340,7 @@
                       <div class="col-lg-6 col-12 blog-img-col">
                         <div class="card_new mr-0  px-1">
                             <div class="blog-img-frame">
-                              <a href="blankpage.php">
+                              <a href="single-blog.php">
                                 <img class="blog-img" src='https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-9/16939236_1004972542935763_1944494886694740495_n.jpg?_nc_cat=0&oh=f912c0654d66380fb7ac48705cec09f0&oe=5B9F6832'/>
                               </a>
                             </div>
@@ -357,7 +357,7 @@
 
 
                       <div class="col-12 res-414-down">
-                        <a href="add-blank.php">
+                        <a href="blog.php">
                           <label>view all <span> > </span></label>
                         </a>
                       </div>

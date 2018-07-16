@@ -28,16 +28,16 @@
                    <div class="row pt-3">
                        <div class="col-xl-2 col-lg-2 col-md-3 col-12">
                           <div class="overlay-img">
-                            <img class="image-full" src="assets/images/product/2/Perfect-Nike-Air-Max-2017-Mens-New-Fangbian2144-30180596.jpg">
+                            <img class="image-full" src="assets/images/product/2/adidas/014.jpg">
                           </div>
                        </div>
                        <div class="col-xl-3 col-lg-4 col-md-6 col-12 cart-p-l">
-                           <div class="pay-font8 cart-m-t2">Pureboost DPR Shoes</div>
+                           <div class="cart-m-t2">Adidas Futurepacer</div>
                            <div class="pay-font9">Men running</div>
                            <div class="pay-font9 mt-2">Color: White-Blue</div>
                            <div class="pay-font9">Size: [UK] 7.5</div>
                            <div class="sale-percent mt-2 cart-m-l5">
-                              <span class="">ลด 50%</span>
+                              <span class="">Sale 50%</span>
                            </div>
                        </div>
                        <div class="col-xl-6 col-lg-6 cart-bg latest-product-price">
@@ -86,7 +86,7 @@
                                  <div class="col-xl-6 col-lg-6 col-md-6 col-12 text-center text-lg-left text-md-left">
                                      <span class="cart-m-l2">
                                        <a href="#" class="cart-font4">
-                                         <i class="fas fa-truck"></i> จัดส่งสินค้าระหว่าง 07/25/2561 - 15/06/2561
+                                         <i class="fas fa-truck"></i> Shipping 07/25/2018 - 15/06/2018
                                        </a>
                                      </span>
                                  </div>
@@ -97,16 +97,16 @@
                      <div class="row pt-3 cart-m-t7">
                          <div class="col-xl-2 col-lg-2 col-md-3 col-12">
                              <div class="overlay-img">
-                               <img class="image-full" src="/dilok/assets/images/productfill/1.png">
+                               <img class="image-full" src="assets/images/product/2/adidas/018.jpg">
                              </div>
                          </div>
                          <div class="col-xl-3 col-lg-4 col-md-6 col-12 cart-p-l">
-                             <div class="pay-font8 cart-m-t2">Pureboost DPR Shoes</div>
+                             <div class="cart-m-t2">Adidas Deerupt Runner</div>
                              <div class="pay-font9">Men running</div>
                              <div class="pay-font9 mt-2">Color: White-Blue</div>
                              <div class="pay-font9">Size: [UK] 7.5</div>
                              <div class="sale-percent mt-2 cart-m-l5">
-                                <span class="">ลด 50%</span>
+                                <span class="">Sale 50%</span>
                              </div>
                          </div>
                          <div class="col-xl-6 col-lg-6 cart-bg latest-product-price">
@@ -155,7 +155,7 @@
                                    <div class="col-xl-6 col-lg-6 col-md-6 col-12 text-center text-lg-left text-md-left">
                                        <span class="cart-m-l2">
                                          <a href="#" class="cart-font4">
-                                           <i class="fas fa-truck"></i> จัดส่งสินค้าระหว่าง 07/25/2561 - 15/06/2561
+                                           <i class="fas fa-truck"></i> Shipping 07/25/2018 - 15/06/2018
                                          </a>
                                        </span>
                                    </div>
@@ -221,13 +221,15 @@
                          <hr>
                            <a href="#">
                                <div class="promotion-button2">
-                                  <span class="pull-left2">นโยบายการคือสินค้า</span>
+                                  <span class="pull-left2">Return Policy</span>
+                                  <!-- <span class="pull-left2">นโยบายการคือสินค้า</span> -->
                                </div>
                            </a>
                          <hr class="mt-0">
                            <a href="#">
                                <div class="promotion-button2">
-                                  <span class="pull-left2">ช่องทางการชำระสินค้า</span>
+                                  <span class="pull-left2">Payment</span>
+                                  <!-- <span class="pull-left2">ช่องทางการชำระสินค้า</span> -->
                                </div>
                            </a>
                          <hr class="mt-0">

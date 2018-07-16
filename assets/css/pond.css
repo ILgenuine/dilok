@@ -728,7 +728,7 @@
     padding-left: 10px;
 }
 .sale-percent{
-    width: 70px !important;
+    max-width: 90px!important;
 }
 .cart-bg{
     background-color:#F8F9F9;
@@ -771,7 +771,7 @@
 .promotion-button2{
   font-size: 16px !important;
   line-height: 1px !important;
-  color:#e5e5e5 !important;
+  color:#999 !important;
   height:20px !important;
 }
 .promotion-button2:hover{

@@ -39,7 +39,7 @@
                   <h3>NEWCASTLE</h3>
                 </div>
                 <div class="text-center mt-3">
-                  <button type="button" class="btn add_Branch-btn-secondary">STORE INFORMATION</button>
+                  <a href="add-sub-branch.php" class="btn add_Branch-btn-secondary">STORE INFORMATION</a>
                 </div>
               </div>
             </div>
@@ -53,7 +53,7 @@
                   <h3>GLASGOW</h3>
                 </div>
                 <div class="text-center mt-3">
-                  <button type="button" class="btn add_Branch-btn-secondary">STORE INFORMATION</button>
+                  <a href="add-sub-branch.php" class="btn add_Branch-btn-secondary">STORE INFORMATION</a>
                 </div>
               </div>
             </div>

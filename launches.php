@@ -33,7 +33,8 @@
 	    		<div class="col-lg-6 col-md-6 col-12 text-lg-left text-md-left text-center">
 	    	         <p style="padding-top: 14px;">LAUNCHES</p>
 	            </div>
-	            <div class="col-lg-6 col-md-6 col-12 text-lg-right text-md-right text-center">
+	            <!-- botton top-right -->
+<!-- 	            <div class="col-lg-6 col-md-6 col-12 text-lg-right text-md-right text-center">
 	            	<button type="button" class="btn fast-buy p-2">
                         <label class="mb-0 d-flex px-2">
                             <span>COMING SOON</span>
@@ -44,7 +45,7 @@
                             <span>NOW</span>
                         </label>
                      </button>
-	            </div>
+	            </div> -->
 		    </div>
 	    </div>
 
