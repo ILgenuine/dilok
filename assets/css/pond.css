@@ -415,14 +415,7 @@
    left: 50%;
    transform: translate(-50%, -50%);
 }
-.filter-position-a{
-   position: absolute;
-   margin-top: 221px !important;
-}
-.filter-position-r{
-   position: relative;
-   height: 395px !important;
-}
+
 .filter-image-full2{
      position: absolute;
      display: block;
@@ -432,14 +425,7 @@
      left: 50%;
      transform: translate(-50%, -50%);
 }
-.filter-position-a2{
-   position: absolute;
-   margin-top: 292px !important;
-}
-.filter-position-r2{
-   height: 466px !important;
-   width: 100% !important;
-}
+
 .color-down{
   color: white;
   padding-top: 2px;
@@ -453,14 +439,7 @@
    left: 50%;
    transform: translate(-50%, -50%);
 }
-.filter-position-a3{
-   position: absolute;
-   margin-top: 365px !important;
-}
-.filter-position-r3{
-   height: 539px !important;
-   width: 100% !important;
-}
+
 .filter-image-full4{
    position: absolute;
    display: block;
@@ -470,14 +449,7 @@
    left: 50%;
    transform: translate(-50%, -50%);
 }
-.filter-position-a4{
-   position: absolute;
-   margin-top: 272px !important;
-}
-.filter-position-r4{
-   height: 447px !important;
-   width: 100% !important;
-}
+
 .filter-overlay-banner{
      position: relative;
      height: 300px;
@@ -516,7 +488,11 @@
       height: 360px !important;
 }
 .filter-product-frame4{
-      height: 262px !important;
+      height: 310px !important;
+}
+
+.filter-product-frame6 {
+    height: 350px !important;
 }
 /*-------------------------------------
 ------------- END FILLTER ---------------
@@ -868,6 +844,11 @@
 
 
 @media(max-width: 1366px){
+
+  #ribbon2 {
+      margin-top: 20%;
+  }
+
   /*-------------------------------------
   ------------ REGIST 1366 ---------------
   ---------------------------------------*/
@@ -913,14 +894,8 @@
      transform: translate(-50%, -50%);
      margin-top: -15px;
   }
-  .filter-position-a{
-     position: absolute;
-     margin-top: 150px !important;
-  }
-  .filter-position-r{
-     position: relative;
-     height: 404px !important;
-  }
+
+
   .filter-image-full2{
      position: absolute;
      display: block;
@@ -931,13 +906,7 @@
      transform: translate(-50%, -50%);
      margin-top: -3px;
   }
-  .filter-position-a2{
-     position: absolute;
-     margin-top: 220px !important;
-  }
-  .filter-position-r2{
-     height: 451px !important;
-  }
+
   .filter-p{
     padding: 10px;
   }
@@ -951,14 +920,7 @@
      transform: translate(-50%, -50%);
      margin-top: -4px;
   }
-  .filter-position-a3{
-     position: absolute;
-     margin-top: 268px !important;
-  }
-  .filter-position-r3{
-     height: 499px !important;
-     width: 100% !important;
-  }
+
   .filter-image-full4{
      position: absolute;
      display: block;
@@ -969,14 +931,8 @@
      transform: translate(-50%, -50%);
      margin-top: -18px;
   }
-  .filter-position-a4{
-     position: absolute;
-     margin-top: 197px !important;
-  }
-  .filter-position-r4{
-     height: 453px !important;
-     width: 100% !important;
-  }
+
+
   .filter-overlay-banner {
       position: relative;
       height: 261px;
@@ -1089,6 +1045,11 @@
   /*-------------------------------------
   ----------- END WISH 1366 -------------
   ---------------------------------------*/
+
+  .filter-product-frame6 {
+      height: 260px !important;
+  }
+
 }
 
 @media(max-width: 1024px){
@@ -1223,14 +1184,7 @@
      transform: translate(-50%, -50%);
      margin-top: -14px;
   }
-  .filter-position-a{
-     position: absolute;
-     margin-top: 150px !important;
-  }
-  .filter-position-r{
-     position: relative;
-     height: 387px !important;
-  }
+
   .filter-image-full2{
      position: absolute;
      display: block;
@@ -1241,13 +1195,7 @@
      transform: translate(-50%, -50%);
      margin-top: -15px;
   }
-  .filter-position-a2{
-     position: absolute;
-     margin-top: 237px !important;
-  }
-  .filter-position-r2{
-     height: 474px !important;
-  }
+
   .filter-image-full3{
      position: absolute;
      display: block;
@@ -1258,14 +1206,7 @@
      transform: translate(-50%, -50%);
      margin-top:0px;
   }
-  .filter-position-a3{
-     position: absolute;
-     margin-top: 308px !important;
-  }
-  .filter-position-r3{
-     height: 543px !important;
-     width: 100% !important;
-  }
+
   .filter-image-full4{
      position: absolute;
      display: block;
@@ -1276,14 +1217,7 @@
      transform: translate(-50%, -50%);
      margin-top: -31px;
   }
-  .filter-position-a4{
-     position: absolute;
-     margin-top: 205px !important;
-  }
-  .filter-position-r4{
-     height: 440px !important;
-     width: 100% !important;
-  }
+
   .filter-overlay-banner{
      position: relative;
      height: 163px;
@@ -1339,6 +1273,16 @@
   /*-------------------------------------
   ----------- END FILTER 1024 -------------
   ---------------------------------------*/
+
+  .filter-product-frame {
+      height: 150px !important;
+  }
+
+  .filter-product-frame img{
+    height: 100% !important;
+    width:auto !important;
+}
+
 }
 
 @media(max-width: 768px){
@@ -1426,14 +1370,7 @@
      left: 50%;
      transform: translate(-50%, -50%);
   }
-  .filter-position-a{
-     position: absolute;
-     margin-top: 139px !important;
-  }
-  .filter-position-r{
-     position: relative;
-     height: 241px !important;
-  }
+
   .filter-image-full2{
      position: absolute;
      display: block;
@@ -1443,14 +1380,7 @@
      left: 50%;
      transform: translate(-50%, -50%);
   }
-  .filter-position-a2{
-     position: absolute;
-     width: 100%;
-     margin-top: 236px !important;
-  }
-  .filter-position-r2{
-     height: 334px !important;
-  }
+
   .filter-m-l{
       padding-left: 35px;
   }
@@ -1698,32 +1628,7 @@
        left: 50%;
        transform: translate(-50%, -50%);
     }
-    .filter-position-a{
-       position: absolute;
-       margin-top: 123px !important;
-       width: 100%;
-    }
-    .filter-position-a5{
-        position: absolute;
-        margin-top: 262px !important;
-        width: 100%;
-    }
-    .filter-position-a6{
-        position: absolute;
-        margin-top: 123px !important;
-    }
-    .filter-position-r{
-       position: relative;
-       height: 220px !important;
-    }
-    .filter-position-r5{
-       position: relative;
-       height: 368px !important;
-    }
-    .filter-position-r6{
-       position: relative;
-       height: 220px !important;
-    }
+
     .filter-m-l{
         margin-left: 0px;
     }
@@ -1796,6 +1701,10 @@
     }
     .filter-product-frame6 {
         height: 146px !important;
+    }
+
+    #ribbon2 {
+    margin-top: 25%;
     }
   /*-------------------------------------
   ------------END FILLTER 414 --------------
@@ -2012,31 +1921,7 @@
      left: 50%;
      transform: translate(-50%, -50%);
   }
-  .filter-position-a{
-     position: absolute;
-     margin-top: 106px !important
-  }
-  .filter-position-r{
-     position: relative;
-     height: 226px !important;
-  }
-  .filter-position-a5{
-      position: absolute;
-      margin-top: 229px !important;
-      width: 100%;
-  }
-  .filter-position-a6{
-      position: absolute;
-      margin-top: 106px !important;
-  }
-  .filter-position-r5{
-     position: relative;
-     height: 331px !important;
-  }
-  .filter-position-r6{
-     position: relative;
-     height: 226px !important;
-  }
+
   .filter-product-frame {
       height: 136px !important;
   }
@@ -2144,31 +2029,7 @@
      left: 50%;
      transform: translate(-50%, -50%);
   }
-  .filter-position-a{
-     position: absolute;
-     margin-top: 88px !important
-  }
-  .filter-position-r{
-     position: relative;
-     height: 198px !important;
-  }
-  .filter-position-a5{
-      position: absolute;
-      margin-top: 195px !important;
-      width: 100%;
-  }
-  .filter-position-a6{
-      position: absolute;
-      margin-top: 88px !important;
-  }
-  .filter-position-r5{
-     position: relative;
-     height: 290px !important;
-  }
-  .filter-position-r6{
-     position: relative;
-     height: 198px !important;
-  }
+
   .filter-product-frame {
       height: 120px !important;
   }
@@ -2273,3 +2134,105 @@
   --------------------------------------*/
 
 }
+
+
+
+
+/*------------------------------------*
+$Mac Responsive
+*------------------------------------*/
+
+
+@media (max-width: 1680px) and (min-width: 1680px) and (max-height: 1050px) and (min-height: 1050px){
+
+  .filter-image-full{
+    position: absolute;
+        display: block;
+        width: auto !important;
+        height: 100%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+  }
+
+  .wish-image-full {
+    width: auto !important;
+    height: 100%;
+  }
+
+  #ribbon2 {
+    margin-top: 18%;
+  }
+
+  .filter-product-frame2 {
+      height: 290px  !important;
+  }
+
+  .product-title {
+      font-size: 18px;
+  }
+
+  .filter-product-frame-3 {
+    height: 300px !important;
+  }
+
+  .filter-product-frame4 {
+      height: 300px !important;
+  }
+
+  .filter-product-frame5 {
+      height: 250px !important;
+  }
+
+  .filter-product-frame6 {
+      height: 350px !important;
+  }
+
+  .latest-product-btn-pond{
+     -webkit-box-flex: 0 !important;
+     -ms-flex: 0 0 100% !important;
+     flex: 0 0 100% !important;
+     max-width: 100% !important;
+   }
+
+}
+
+@media (max-width: 1440px) and (min-width: 1440px) and (max-height: 900px) and (min-height: 900px){
+
+  .filter-product-frame {
+    height: 160px !important;
+  }
+
+  .latest-product-btn{
+    -webkit-box-flex: 0 !important;
+    -ms-flex: 0 0 100% !important;
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+
+  #ribbon2 {
+    margin-top: 20%;
+  }
+
+  .fillter-d-n2{
+    padding-left: 0px;
+  }
+
+  .filter-product-frame2 {
+    height: 220px !important;
+  }
+
+  .filter-product-frame4 {
+    height: 270px !important;
+  }
+
+  .filter-product-frame6 {
+    height: 265px !important;
+  }
+
+
+}
+
+/*------------------------------------*
+$END Mac Responsive
+*------------------------------------*/
