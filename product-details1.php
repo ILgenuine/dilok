@@ -339,7 +339,7 @@
 
                           <div class="row my-3 mx-0">
                             <div class="col-xl-4 col-lg-6"></div>
-                            <div class="col-xl-4 col-lg-3 col-md-6 col-12 px-xl-1 px-lg-1 px-md-2 px-1 latest-product-btn mb-2">
+                            <div class="col-xl-4 col-lg-3 col-md-6 col-12 px-xl-1 px-lg-1 px-md-2 px-1 latest-product-btn latest-product-btn-detail1 mb-2">
                               <button type="button" class="btn add-to-cart p-2">
                                 <label class="mb-0 d-flex px-2">
                                   <span>ADD TO CART</span>
@@ -347,7 +347,7 @@
                                 </label>
                               </button>
                             </div>
-                            <div class="col-xl-4 col-lg-3 col-md-6 col-12 px-xl-1 px-lg-1 px-md-2 px-1 latest-product-btn">
+                            <div class="col-xl-4 col-lg-3 col-md-6 col-12 px-xl-1 px-lg-1 px-md-2 px-1 latest-product-btn latest-product-btn-detail1">
                               <button type="button" class="btn fast-buy p-2">
                                 <label class="mb-0 d-flex px-2">
                                   <span>BUY NOW</span>
